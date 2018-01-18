@@ -32,7 +32,9 @@ import com.coderslab.model.Student;
 @RestController
 @RequestMapping("/createxml")
 public class XMLGenerateController {
-
+	
+	private static final String XML_DIR = "src//main//resources//static//xml//";
+	
 	// utility method to create text node
 	private Node getStudentElements(Document doc, String name, String value) {
 		Element node = doc.createElement(name);
@@ -42,7 +44,6 @@ public class XMLGenerateController {
 
 	private Node getStudent(Document doc, Student student) {
 		Element st = doc.createElement("student");
-
 		// create id element
 		st.appendChild(getStudentElements(doc, "id", String.valueOf(student.getId())));
 		// create name element
@@ -68,7 +69,7 @@ public class XMLGenerateController {
 		Document doc = documentBuilder.newDocument();
 
 		// add elements to Document
-		Element rootElement = doc.createElementNS("http://www.coderslab.org", "students");
+		Element rootElement = doc.createElement("students");
 		doc.appendChild(rootElement);
 
 		for (Student student : students) {
@@ -82,11 +83,11 @@ public class XMLGenerateController {
 		transformer.setOutputProperty(OutputKeys.INDENT, "yes");
 		DOMSource source = new DOMSource(doc);
 		// write to file
-		StreamResult file = new StreamResult(new File("E:\\student.xml"));
+		StreamResult file = new StreamResult(new File(XML_DIR + "//student.xml"));
 		// write data
 		transformer.transform(source, file);
 
 		return doc;
 	}
-
+	
 }
