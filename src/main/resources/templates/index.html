@@ -1,10 +1,11 @@
 <!DOCTYPE html>
-<html>
-<head>
-<meta charset="ISO-8859-1"/>
-<title>Insert title here</title>
-</head>
-<body>
-success
-</body>
+<html xmlns:th="http://www.thymeleaf.org">
+	<head>
+		<meta charset="ISO-8859-1"/>
+		<title>Insert title here</title>
+	</head>
+	<body>
+		<a th:href="@{/createpdf}">Create Pdf</a>
+		<span th:if="${sm}" th:text="${sm}"></span>
+	</body>
 </html>

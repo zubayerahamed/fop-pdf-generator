@@ -1,4 +1,5 @@
 package com.coderslab.controller;
+
 import java.io.File;
 import java.io.IOException;
 import java.io.OutputStream;
@@ -16,6 +17,7 @@ import org.apache.fop.apps.Fop;
 import org.apache.fop.apps.FopFactory;
 import org.apache.fop.apps.MimeConstants;
 import org.springframework.stereotype.Controller;
+import org.springframework.ui.Model;
 import org.springframework.web.bind.annotation.RequestMapping;
 
 /**
@@ -25,44 +27,46 @@ import org.springframework.web.bind.annotation.RequestMapping;
 @Controller
 @RequestMapping("/createpdf")
 public class PDFGeneratorController {
-	
+
 	private static final String XML_DIR = "src//main//resources//static//xml//";
 	private static final String XSL_DIR = "src//main//resources//static//xsl//";
 	private static final String OUTPUT_DIR = "src//main//resources//static//pdf//";
-	
+
 	@RequestMapping
-	public String generatePdf() throws FOPException, TransformerException, IOException {
-		
+	public String generatePdf(Model model) throws FOPException, TransformerException, IOException {
+
 		// the XSL FO file
-        File xsltFile = new File(XSL_DIR + "//student-template.xsl");
-        // the XML file which provides the input
-        StreamSource xmlSource = new StreamSource(new File(XML_DIR + "//student.xml"));
-        // create an instance of fop factory
-        FopFactory fopFactory = FopFactory.newInstance(new File(".").toURI());
-        // a user agent is needed for transformation
-        FOUserAgent foUserAgent = fopFactory.newFOUserAgent();
-        // Setup output
-        OutputStream out;
-        out = new java.io.FileOutputStream(OUTPUT_DIR + "//student.pdf");
-        try {
-            // Construct fop with desired output format
-            Fop fop = fopFactory.newFop(MimeConstants.MIME_PDF, foUserAgent, out);
+		File xsltFile = new File(XSL_DIR + "//standard_thirteen_week_trade_report.xsl");
+		// the XML file which provides the input
+		StreamSource xmlSource = new StreamSource(new File(XML_DIR + "//thirteen_week_trade_report.xml"));
+		// create an instance of fop factory
+		FopFactory fopFactory = FopFactory.newInstance(new File(".").toURI());
+		// a user agent is needed for transformation
+		FOUserAgent foUserAgent = fopFactory.newFOUserAgent();
+		// Setup output
+		OutputStream out;
+		out = new java.io.FileOutputStream(OUTPUT_DIR + "//thirteen_week_trade_report.pdf");
+		try {
+			// Construct fop with desired output format
+			Fop fop = fopFactory.newFop(MimeConstants.MIME_PDF, foUserAgent, out);
 
-            // Setup XSLT
-            TransformerFactory factory = TransformerFactory.newInstance();
-            Transformer transformer = factory.newTransformer(new StreamSource(xsltFile));
+			// Setup XSLT
+			TransformerFactory factory = TransformerFactory.newInstance();
+			Transformer transformer = factory.newTransformer(new StreamSource(xsltFile));
 
-            // Resulting SAX events (the generated FO) must be piped through to
-            // FOP
-            Result res = new SAXResult(fop.getDefaultHandler());
+			// Resulting SAX events (the generated FO) must be piped through to
+			// FOP
+			Result res = new SAXResult(fop.getDefaultHandler());
 
-            // Start XSLT transformation and FOP processing
-            // That's where the XML is first transformed to XSL-FO and then
-            // PDF is created
-            transformer.transform(xmlSource, res);
-        } finally {
-            out.close();
-        }
+			// Start XSLT transformation and FOP processing
+			// That's where the XML is first transformed to XSL-FO and then
+			// PDF is created
+			transformer.transform(xmlSource, res);
+		} finally {
+			out.close();
+		}
+
+		model.addAttribute("sm", "success");
 		return "index";
 	}
 }
