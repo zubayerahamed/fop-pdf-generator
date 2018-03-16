@@ -9,56 +9,69 @@
 		<total>Total</total>
 		<weeks>
 			<week>
+				<description>00-01</description>
 				<prevDate>2018/03/06</prevDate>
-				<nextDate>2018/03/12</nextDate>
+				<endDate>2018/03/12</endDate>
 			</week>
 			<week>
+				<description>01-02</description>
 				<prevDate>2018/03/06</prevDate>
-				<nextDate>2018/03/12</nextDate>
+				<endDate>2018/03/12</endDate>
 			</week>
 			<week>
+				<description>02-03</description>
 				<prevDate>2018/03/06</prevDate>
-				<nextDate>2018/03/12</nextDate>
+				<endDate>2018/03/12</endDate>
 			</week>
 			<week>
+				<description>03-04</description>
 				<prevDate>2018/03/06</prevDate>
-				<nextDate>2018/03/12</nextDate>
+				<endDate>2018/03/12</endDate>
 			</week>
 			<week>
+				<description>04-05</description>
 				<prevDate>2018/03/06</prevDate>
-				<nextDate>2018/03/12</nextDate>
+				<endDate>2018/03/12</endDate>
 			</week>
 			<week>
+				<description>05-06</description>
 				<prevDate>2018/03/06</prevDate>
-				<nextDate>2018/03/12</nextDate>
+				<endDate>2018/03/12</endDate>
 			</week>
 			<week>
+				<description>06-07</description>
 				<prevDate>2018/03/06</prevDate>
-				<nextDate>2018/03/12</nextDate>
+				<endDate>2018/03/12</endDate>
 			</week>
 			<week>
+				<description>07-08</description>
 				<prevDate>2018/03/06</prevDate>
-				<nextDate>2018/03/12</nextDate>
+				<endDate>2018/03/12</endDate>
 			</week>
 			<week>
+				<description>08-09</description>
 				<prevDate>2018/03/06</prevDate>
-				<nextDate>2018/03/12</nextDate>
+				<endDate>2018/03/12</endDate>
 			</week>
 			<week>
+				<description>09-10</description>
 				<prevDate>2018/03/06</prevDate>
-				<nextDate>2018/03/12</nextDate>
+				<endDate>2018/03/12</endDate>
 			</week>
 			<week>
+				<description>10-11</description>
 				<prevDate>2018/03/06</prevDate>
-				<nextDate>2018/03/12</nextDate>
+				<endDate>2018/03/12</endDate>
 			</week>
 			<week>
+				<description>11-12</description>
 				<prevDate>2018/03/06</prevDate>
-				<nextDate>2018/03/12</nextDate>
+				<endDate>2018/03/12</endDate>
 			</week>
 			<week>
+				<description>12-13</description>
 				<prevDate>2018/03/06</prevDate>
-				<nextDate>2018/03/12</nextDate>
+				<endDate>2018/03/12</endDate>
 			</week>
 		</weeks>
 	</tableHeader>
