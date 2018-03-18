@@ -1,0 +1,544 @@
+<dealer>
+	<siteLogo>src//main//resources//static//img//site_logo.png</siteLogo>
+	<dealerName>Dealer A</dealerName>
+	<dealerPhoto>src//main//resources//static//img//dummy_photo.png</dealerPhoto>
+	<mobile>01515634889</mobile>
+	<email>dealera@gmail.com</email>
+	<address>dhaka</address>
+	<status>Active</status>
+	<registerDate>3/17/2018</registerDate>
+	<totalSellOfSoftware>50</totalSellOfSoftware>
+	<activeClients>30</activeClients>
+	<inactiveClients>20</inactiveClients>
+	<serviceRenewOnThisMonth>20</serviceRenewOnThisMonth>
+	<clients>
+		<client>
+			<no>1</no>
+			<clientName>Client A</clientName>
+			<mobile>01515634889</mobile>
+			<status>Active</status>
+			<registerDate>3/17/2018</registerDate>
+			<expireDate>3/17/2018</expireDate>
+		</client>
+		<client>
+			<no>2</no>
+			<clientName>Client B</clientName>
+			<mobile>01515634889</mobile>
+			<status>Active</status>
+			<registerDate>3/17/2018</registerDate>
+			<expireDate>3/17/2018</expireDate>
+		</client>
+		<client>
+			<no>3</no>
+			<clientName>Client C</clientName>
+			<mobile>01515634889</mobile>
+			<status>Active</status>
+			<registerDate>3/17/2018</registerDate>
+			<expireDate>3/17/2018</expireDate>
+		</client>
+		<client>
+			<no>4</no>
+			<clientName>Client D</clientName>
+			<mobile>01515634889</mobile>
+			<status>Active</status>
+			<registerDate>3/17/2018</registerDate>
+			<expireDate>3/17/2018</expireDate>
+		</client>
+		<client>
+			<no>5</no>
+			<clientName>Client E</clientName>
+			<mobile>01515634889</mobile>
+			<status>Active</status>
+			<registerDate>3/17/2018</registerDate>
+			<expireDate>3/17/2018</expireDate>
+		</client>
+		<client>
+			<no>6</no>
+			<clientName>Client F</clientName>
+			<mobile>01515634889</mobile>
+			<status>Active</status>
+			<registerDate>3/17/2018</registerDate>
+			<expireDate>3/17/2018</expireDate>
+		</client>
+		<client>
+			<no>1</no>
+			<clientName>Client A</clientName>
+			<mobile>01515634889</mobile>
+			<status>Active</status>
+			<registerDate>3/17/2018</registerDate>
+			<expireDate>3/17/2018</expireDate>
+		</client>
+		<client>
+			<no>2</no>
+			<clientName>Client B</clientName>
+			<mobile>01515634889</mobile>
+			<status>Active</status>
+			<registerDate>3/17/2018</registerDate>
+			<expireDate>3/17/2018</expireDate>
+		</client>
+		<client>
+			<no>3</no>
+			<clientName>Client C</clientName>
+			<mobile>01515634889</mobile>
+			<status>Active</status>
+			<registerDate>3/17/2018</registerDate>
+			<expireDate>3/17/2018</expireDate>
+		</client>
+		<client>
+			<no>4</no>
+			<clientName>Client D</clientName>
+			<mobile>01515634889</mobile>
+			<status>Active</status>
+			<registerDate>3/17/2018</registerDate>
+			<expireDate>3/17/2018</expireDate>
+		</client>
+		<client>
+			<no>5</no>
+			<clientName>Client E</clientName>
+			<mobile>01515634889</mobile>
+			<status>Active</status>
+			<registerDate>3/17/2018</registerDate>
+			<expireDate>3/17/2018</expireDate>
+		</client>
+		<client>
+			<no>6</no>
+			<clientName>Client F</clientName>
+			<mobile>01515634889</mobile>
+			<status>Active</status>
+			<registerDate>3/17/2018</registerDate>
+			<expireDate>3/17/2018</expireDate>
+		</client>
+		<client>
+			<no>1</no>
+			<clientName>Client A</clientName>
+			<mobile>01515634889</mobile>
+			<status>Active</status>
+			<registerDate>3/17/2018</registerDate>
+			<expireDate>3/17/2018</expireDate>
+		</client>
+		<client>
+			<no>2</no>
+			<clientName>Client B</clientName>
+			<mobile>01515634889</mobile>
+			<status>Active</status>
+			<registerDate>3/17/2018</registerDate>
+			<expireDate>3/17/2018</expireDate>
+		</client>
+		<client>
+			<no>3</no>
+			<clientName>Client C</clientName>
+			<mobile>01515634889</mobile>
+			<status>Active</status>
+			<registerDate>3/17/2018</registerDate>
+			<expireDate>3/17/2018</expireDate>
+		</client>
+		<client>
+			<no>4</no>
+			<clientName>Client D</clientName>
+			<mobile>01515634889</mobile>
+			<status>Active</status>
+			<registerDate>3/17/2018</registerDate>
+			<expireDate>3/17/2018</expireDate>
+		</client>
+		<client>
+			<no>5</no>
+			<clientName>Client E</clientName>
+			<mobile>01515634889</mobile>
+			<status>Active</status>
+			<registerDate>3/17/2018</registerDate>
+			<expireDate>3/17/2018</expireDate>
+		</client>
+		<client>
+			<no>6</no>
+			<clientName>Client F</clientName>
+			<mobile>01515634889</mobile>
+			<status>Active</status>
+			<registerDate>3/17/2018</registerDate>
+			<expireDate>3/17/2018</expireDate>
+		</client>
+		<client>
+			<no>1</no>
+			<clientName>Client A</clientName>
+			<mobile>01515634889</mobile>
+			<status>Active</status>
+			<registerDate>3/17/2018</registerDate>
+			<expireDate>3/17/2018</expireDate>
+		</client>
+		<client>
+			<no>2</no>
+			<clientName>Client B</clientName>
+			<mobile>01515634889</mobile>
+			<status>Active</status>
+			<registerDate>3/17/2018</registerDate>
+			<expireDate>3/17/2018</expireDate>
+		</client>
+		<client>
+			<no>3</no>
+			<clientName>Client C</clientName>
+			<mobile>01515634889</mobile>
+			<status>Active</status>
+			<registerDate>3/17/2018</registerDate>
+			<expireDate>3/17/2018</expireDate>
+		</client>
+		<client>
+			<no>4</no>
+			<clientName>Client D</clientName>
+			<mobile>01515634889</mobile>
+			<status>Active</status>
+			<registerDate>3/17/2018</registerDate>
+			<expireDate>3/17/2018</expireDate>
+		</client>
+		<client>
+			<no>5</no>
+			<clientName>Client E</clientName>
+			<mobile>01515634889</mobile>
+			<status>Active</status>
+			<registerDate>3/17/2018</registerDate>
+			<expireDate>3/17/2018</expireDate>
+		</client>
+		<client>
+			<no>6</no>
+			<clientName>Client F</clientName>
+			<mobile>01515634889</mobile>
+			<status>Active</status>
+			<registerDate>3/17/2018</registerDate>
+			<expireDate>3/17/2018</expireDate>
+		</client>
+		<client>
+			<no>1</no>
+			<clientName>Client A</clientName>
+			<mobile>01515634889</mobile>
+			<status>Active</status>
+			<registerDate>3/17/2018</registerDate>
+			<expireDate>3/17/2018</expireDate>
+		</client>
+		<client>
+			<no>2</no>
+			<clientName>Client B</clientName>
+			<mobile>01515634889</mobile>
+			<status>Active</status>
+			<registerDate>3/17/2018</registerDate>
+			<expireDate>3/17/2018</expireDate>
+		</client>
+		<client>
+			<no>3</no>
+			<clientName>Client C</clientName>
+			<mobile>01515634889</mobile>
+			<status>Active</status>
+			<registerDate>3/17/2018</registerDate>
+			<expireDate>3/17/2018</expireDate>
+		</client>
+		<client>
+			<no>4</no>
+			<clientName>Client D</clientName>
+			<mobile>01515634889</mobile>
+			<status>Active</status>
+			<registerDate>3/17/2018</registerDate>
+			<expireDate>3/17/2018</expireDate>
+		</client>
+		<client>
+			<no>5</no>
+			<clientName>Client E</clientName>
+			<mobile>01515634889</mobile>
+			<status>Active</status>
+			<registerDate>3/17/2018</registerDate>
+			<expireDate>3/17/2018</expireDate>
+		</client>
+		<client>
+			<no>6</no>
+			<clientName>Client F</clientName>
+			<mobile>01515634889</mobile>
+			<status>Active</status>
+			<registerDate>3/17/2018</registerDate>
+			<expireDate>3/17/2018</expireDate>
+		</client>
+		<client>
+			<no>1</no>
+			<clientName>Client A</clientName>
+			<mobile>01515634889</mobile>
+			<status>Active</status>
+			<registerDate>3/17/2018</registerDate>
+			<expireDate>3/17/2018</expireDate>
+		</client>
+		<client>
+			<no>2</no>
+			<clientName>Client B</clientName>
+			<mobile>01515634889</mobile>
+			<status>Active</status>
+			<registerDate>3/17/2018</registerDate>
+			<expireDate>3/17/2018</expireDate>
+		</client>
+		<client>
+			<no>3</no>
+			<clientName>Client C</clientName>
+			<mobile>01515634889</mobile>
+			<status>Active</status>
+			<registerDate>3/17/2018</registerDate>
+			<expireDate>3/17/2018</expireDate>
+		</client>
+		<client>
+			<no>4</no>
+			<clientName>Client D</clientName>
+			<mobile>01515634889</mobile>
+			<status>Active</status>
+			<registerDate>3/17/2018</registerDate>
+			<expireDate>3/17/2018</expireDate>
+		</client>
+		<client>
+			<no>5</no>
+			<clientName>Client E</clientName>
+			<mobile>01515634889</mobile>
+			<status>Active</status>
+			<registerDate>3/17/2018</registerDate>
+			<expireDate>3/17/2018</expireDate>
+		</client>
+		<client>
+			<no>6</no>
+			<clientName>Client F</clientName>
+			<mobile>01515634889</mobile>
+			<status>Active</status>
+			<registerDate>3/17/2018</registerDate>
+			<expireDate>3/17/2018</expireDate>
+		</client>
+		<client>
+			<no>1</no>
+			<clientName>Client A</clientName>
+			<mobile>01515634889</mobile>
+			<status>Active</status>
+			<registerDate>3/17/2018</registerDate>
+			<expireDate>3/17/2018</expireDate>
+		</client>
+		<client>
+			<no>2</no>
+			<clientName>Client B</clientName>
+			<mobile>01515634889</mobile>
+			<status>Active</status>
+			<registerDate>3/17/2018</registerDate>
+			<expireDate>3/17/2018</expireDate>
+		</client>
+		<client>
+			<no>3</no>
+			<clientName>Client C</clientName>
+			<mobile>01515634889</mobile>
+			<status>Active</status>
+			<registerDate>3/17/2018</registerDate>
+			<expireDate>3/17/2018</expireDate>
+		</client>
+		<client>
+			<no>4</no>
+			<clientName>Client D</clientName>
+			<mobile>01515634889</mobile>
+			<status>Active</status>
+			<registerDate>3/17/2018</registerDate>
+			<expireDate>3/17/2018</expireDate>
+		</client>
+		<client>
+			<no>5</no>
+			<clientName>Client E</clientName>
+			<mobile>01515634889</mobile>
+			<status>Active</status>
+			<registerDate>3/17/2018</registerDate>
+			<expireDate>3/17/2018</expireDate>
+		</client>
+		<client>
+			<no>6</no>
+			<clientName>Client F</clientName>
+			<mobile>01515634889</mobile>
+			<status>Active</status>
+			<registerDate>3/17/2018</registerDate>
+			<expireDate>3/17/2018</expireDate>
+		</client>
+		<client>
+			<no>1</no>
+			<clientName>Client A</clientName>
+			<mobile>01515634889</mobile>
+			<status>Active</status>
+			<registerDate>3/17/2018</registerDate>
+			<expireDate>3/17/2018</expireDate>
+		</client>
+		<client>
+			<no>2</no>
+			<clientName>Client B</clientName>
+			<mobile>01515634889</mobile>
+			<status>Active</status>
+			<registerDate>3/17/2018</registerDate>
+			<expireDate>3/17/2018</expireDate>
+		</client>
+		<client>
+			<no>3</no>
+			<clientName>Client C</clientName>
+			<mobile>01515634889</mobile>
+			<status>Active</status>
+			<registerDate>3/17/2018</registerDate>
+			<expireDate>3/17/2018</expireDate>
+		</client>
+		<client>
+			<no>4</no>
+			<clientName>Client D</clientName>
+			<mobile>01515634889</mobile>
+			<status>Active</status>
+			<registerDate>3/17/2018</registerDate>
+			<expireDate>3/17/2018</expireDate>
+		</client>
+		<client>
+			<no>5</no>
+			<clientName>Client E</clientName>
+			<mobile>01515634889</mobile>
+			<status>Active</status>
+			<registerDate>3/17/2018</registerDate>
+			<expireDate>3/17/2018</expireDate>
+		</client>
+		<client>
+			<no>6</no>
+			<clientName>Client F</clientName>
+			<mobile>01515634889</mobile>
+			<status>Active</status>
+			<registerDate>3/17/2018</registerDate>
+			<expireDate>3/17/2018</expireDate>
+		</client>
+		<client>
+			<no>1</no>
+			<clientName>Client A</clientName>
+			<mobile>01515634889</mobile>
+			<status>Active</status>
+			<registerDate>3/17/2018</registerDate>
+			<expireDate>3/17/2018</expireDate>
+		</client>
+		<client>
+			<no>2</no>
+			<clientName>Client B</clientName>
+			<mobile>01515634889</mobile>
+			<status>Active</status>
+			<registerDate>3/17/2018</registerDate>
+			<expireDate>3/17/2018</expireDate>
+		</client>
+		<client>
+			<no>3</no>
+			<clientName>Client C</clientName>
+			<mobile>01515634889</mobile>
+			<status>Active</status>
+			<registerDate>3/17/2018</registerDate>
+			<expireDate>3/17/2018</expireDate>
+		</client>
+		<client>
+			<no>4</no>
+			<clientName>Client D</clientName>
+			<mobile>01515634889</mobile>
+			<status>Active</status>
+			<registerDate>3/17/2018</registerDate>
+			<expireDate>3/17/2018</expireDate>
+		</client>
+		<client>
+			<no>5</no>
+			<clientName>Client E</clientName>
+			<mobile>01515634889</mobile>
+			<status>Active</status>
+			<registerDate>3/17/2018</registerDate>
+			<expireDate>3/17/2018</expireDate>
+		</client>
+		<client>
+			<no>6</no>
+			<clientName>Client F</clientName>
+			<mobile>01515634889</mobile>
+			<status>Active</status>
+			<registerDate>3/17/2018</registerDate>
+			<expireDate>3/17/2018</expireDate>
+		</client>
+		<client>
+			<no>1</no>
+			<clientName>Client A</clientName>
+			<mobile>01515634889</mobile>
+			<status>Active</status>
+			<registerDate>3/17/2018</registerDate>
+			<expireDate>3/17/2018</expireDate>
+		</client>
+		<client>
+			<no>2</no>
+			<clientName>Client B</clientName>
+			<mobile>01515634889</mobile>
+			<status>Active</status>
+			<registerDate>3/17/2018</registerDate>
+			<expireDate>3/17/2018</expireDate>
+		</client>
+		<client>
+			<no>3</no>
+			<clientName>Client C</clientName>
+			<mobile>01515634889</mobile>
+			<status>Active</status>
+			<registerDate>3/17/2018</registerDate>
+			<expireDate>3/17/2018</expireDate>
+		</client>
+		<client>
+			<no>4</no>
+			<clientName>Client D</clientName>
+			<mobile>01515634889</mobile>
+			<status>Active</status>
+			<registerDate>3/17/2018</registerDate>
+			<expireDate>3/17/2018</expireDate>
+		</client>
+		<client>
+			<no>5</no>
+			<clientName>Client E</clientName>
+			<mobile>01515634889</mobile>
+			<status>Active</status>
+			<registerDate>3/17/2018</registerDate>
+			<expireDate>3/17/2018</expireDate>
+		</client>
+		<client>
+			<no>6</no>
+			<clientName>Client F</clientName>
+			<mobile>01515634889</mobile>
+			<status>Active</status>
+			<registerDate>3/17/2018</registerDate>
+			<expireDate>3/17/2018</expireDate>
+		</client>
+		<client>
+			<no>1</no>
+			<clientName>Client A</clientName>
+			<mobile>01515634889</mobile>
+			<status>Active</status>
+			<registerDate>3/17/2018</registerDate>
+			<expireDate>3/17/2018</expireDate>
+		</client>
+		<client>
+			<no>2</no>
+			<clientName>Client B</clientName>
+			<mobile>01515634889</mobile>
+			<status>Active</status>
+			<registerDate>3/17/2018</registerDate>
+			<expireDate>3/17/2018</expireDate>
+		</client>
+		<client>
+			<no>3</no>
+			<clientName>Client C</clientName>
+			<mobile>01515634889</mobile>
+			<status>Active</status>
+			<registerDate>3/17/2018</registerDate>
+			<expireDate>3/17/2018</expireDate>
+		</client>
+		<client>
+			<no>4</no>
+			<clientName>Client D</clientName>
+			<mobile>01515634889</mobile>
+			<status>Active</status>
+			<registerDate>3/17/2018</registerDate>
+			<expireDate>3/17/2018</expireDate>
+		</client>
+		<client>
+			<no>5</no>
+			<clientName>Client E</clientName>
+			<mobile>01515634889</mobile>
+			<status>Active</status>
+			<registerDate>3/17/2018</registerDate>
+			<expireDate>3/17/2018</expireDate>
+		</client>
+		<client>
+			<no>6</no>
+			<clientName>Client F</clientName>
+			<mobile>01515634889</mobile>
+			<status>Active</status>
+			<registerDate>3/17/2018</registerDate>
+			<expireDate>3/17/2018</expireDate>
+		</client>
+	</clients>
+</dealer>

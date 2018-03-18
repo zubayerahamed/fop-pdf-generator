@@ -36,16 +36,16 @@ public class PDFGeneratorController {
 	public String generatePdf(Model model) throws FOPException, TransformerException, IOException {
 
 		// the XSL FO file
-		File xsltFile = new File(XSL_DIR + "//standard_thirteen_week_trade_report.xsl");
+		File xsltFile = new File(XSL_DIR + "//dealer_profile_template.xsl");
 		// the XML file which provides the input
-		StreamSource xmlSource = new StreamSource(new File(XML_DIR + "//thirteen_week_trade_report.xml"));
+		StreamSource xmlSource = new StreamSource(new File(XML_DIR + "//dealer_profile.xml"));
 		// create an instance of fop factory
 		FopFactory fopFactory = FopFactory.newInstance(new File(".").toURI());
 		// a user agent is needed for transformation
 		FOUserAgent foUserAgent = fopFactory.newFOUserAgent();
 		// Setup output
 		OutputStream out;
-		out = new java.io.FileOutputStream(OUTPUT_DIR + "//thirteen_week_trade_report.pdf");
+		out = new java.io.FileOutputStream(OUTPUT_DIR + "//dealer_profile.pdf");
 		try {
 			// Construct fop with desired output format
 			Fop fop = fopFactory.newFop(MimeConstants.MIME_PDF, foUserAgent, out);
