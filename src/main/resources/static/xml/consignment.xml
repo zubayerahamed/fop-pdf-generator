@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<netc>
+	<hawb>
+		<image_path>/nchome/images/</image_path>
+		<export_license>N</export_license>
+		<cr_logo>cyclogo2.gif</cr_logo>
+		<cr_vatn>212121</cr_vatn>
+		<cr_desc>SBS world</cr_desc>
+		<cr_wunt>KG</cr_wunt>
+		<cr_uhwd>CM</cr_uhwd>
+		<cr_cucd>GBP</cr_cucd>
+		<proformaCurrency>GBP</proformaCurrency>
+		<cr_adr1>Unit 4, Orbital 25 Business</cr_adr1>
+		<cr_adr2>Dwight Road2</cr_adr2>
+		<cr_adr3>Watford, Hertfordshire</cr_adr3>
+		<cr_adr4>NY</cr_adr4>
+		<cr_phon>0870 9222159</cr_phon>
+		<cr_mobl />
+		<cr_faxn>0870 4204362</cr_faxn>
+		<cr_cnam>Metafour UK</cr_cnam>
+		<cr_ctnm>Mark Rogers</cr_ctnm>
+		<cr_zpcd>W14 0HN</cr_zpcd>
+		<cr_emal>sohel@metafour-asia.com</cr_emal>
+		<cr_adcd>018:XXX</cr_adcd>
+		<cr_lati>51.6398656</cr_lati>
+		<cr_long>-0.4313287</cr_long>
+		<cr_decd>London</cr_decd>
+		<cr_cocd>GB</cr_cocd>
+		<cr_co_desc>United kingdom</cr_co_desc>
+		<sl_desc>Manual</sl_desc>
+		<depot />
+		<cs_circ>00015986</cs_circ>
+		<cs_awbn>EX1000025105</cs_awbn>
+		<cs_stat>Live</cs_stat>
+		<cs_f_hawb>EX1 000 025 105</cs_f_hawb>
+		<cs_cref>ji1625</cs_cref>
+		<cs_crf2>2nd ref</cs_crf2>
+		<cs_crf3>Client 3rd ref</cs_crf3>
+		<cs_crf4>Client 4th ref</cs_crf4>
+		<cs_dday />
+		<cs_dtim />
+		<cs_tref />
+		<cs_qref />
+		<cs_bkdt>23-Aug-2016</cs_bkdt>
+		<cs_twgt>10</cs_twgt>
+		<cs_vwgt />
+		<cs_cwgt>10</cs_cwgt>
+		<cs_inbn />
+		<cs_drdt />
+		<cs_drtm />
+		<cs_dstn />
+		<cs_ppst>N</cs_ppst>
+		<cs_rday />
+		<cs_rtim />
+		<cs_ctim />
+		<cs_ud01 />
+		<cs_ud02 />
+		<cs_ud03 />
+		<cs_ud04 />
+		<cs_ud05 />
+		<cs_ud06 />
+		<cs_ud07 />
+		<cs_csvl>12</cs_csvl>
+		<cs_csvt />
+		<cs_csv3>12</cs_csv3>
+		<csv3_cucd>GBP</csv3_cucd>
+		<cs_insv />
+		<cs_pkz />
+		<cs_vlwe>0</cs_vlwe>
+		<total_cost>0</total_cost>
+		<contentsType>DOCUMENTS</contentsType>
+		<pd_desc>Express</pd_desc>
+		<dst_unit>KM</dst_unit>
+		<cr_wunt>KG</cr_wunt>
+		<cs_cval>12</cs_cval>
+		<cs_cval_text />
+		<cs_csv2>12</cs_csv2>
+		<cs_valueCurrency>GBP</cs_valueCurrency>
+		<cs_ivac>GBP</cs_ivac>
+		<cs_iva2 />
+		<cs_note>Notes</cs_note>
+		<cs_indt />
+		<cs_mfad />
+		<cs_rexp />
+		<cs_orgn />
+		<payor />
+		<cs_nopg>1</cs_nopg>
+		<nop>1</nop>
+		<cs_cnte />
+		<cs_vtyp />
+		<create_date>25-Aug-2016</create_date>
+		<create_time>15:30</create_time>
+		<create_time>15:30</create_time>
+		<delivery_agent />
+		<collection_agent />
+		<transport_agent />
+		<rt_desc>DHLGB</rt_desc>
+		<us_desc>Metafour System Admin</us_desc>
+		<us_uscd>ADMIN</us_uscd>
+		<ca_adr1>House 10</ca_adr1>
+		<ca_adr2>add 2</ca_adr2>
+		<ca_adr3>add 3</ca_adr3>
+		<ca_adr4>add 4</ca_adr4>
+		<ca_phon>16598612</ca_phon>
+		<ca_mobl />
+		<ca_faxn />
+		<ca_cnam>Hi goes Ltd</ca_cnam>
+		<ca_ctnm>duke</ca_ctnm>
+		<ca_zpcd>w14 0hn</ca_zpcd>
+		<ca_emal>sender@demo.com</ca_emal>
+		<ca_adcd />
+		<ca_lati />
+		<ca_long />
+		<ca_decd>W14</ca_decd>
+		<ca_cocd>GB</ca_cocd>
+		<ca_co_desc>United kingdom</ca_co_desc>
+		<da_adr1>House 5</da_adr1>
+		<da_adr2>add 2</da_adr2>
+		<da_adr3>add 3</da_adr3>
+		<da_adr4>London</da_adr4>
+		<da_phon>774545342</da_phon>
+		<da_mobl />
+		<da_faxn />
+		<da_cnam>Hello Ltd</da_cnam>
+		<da_ctnm>sanjoy</da_ctnm>
+		<da_zpcd>w14 0hn</da_zpcd>
+		<da_emal>receiver@demo.com</da_emal>
+		<da_adcd />
+		<da_lati />
+		<da_long />
+		<da_decd>London</da_decd>
+		<da_cocd>GB</da_cocd>
+		<da_co_desc>United kingdom</da_co_desc>
+		<da_zone>UKZONEW</da_zone>
+		<sentBy />
+		<sentTo />
+		<sntoFullName />
+		<totalProforma2ndCur />
+		<SecondCurrencyexRate />
+		<totalProforma />
+		<exportReason />
+		<orign />
+		<manufacturer />
+		<proformaNote />
+		<recp_posn />
+		<recp_phone />
+		<recp_email />
+		<send_name />
+		<send_phone />
+		<send_mobile />
+		<send_email />
+		<netPrice>0</netPrice>
+		<grossAmount>0</grossAmount>
+		<vatAmount>0</vatAmount>
+		<bookby />
+		<job_details>
+			<we_dept />
+			<we_desc />
+			<we_high />
+			<we_item>1</we_item>
+			<we_ival />
+			<we_seqn>0001</we_seqn>
+			<we_tval />
+			<we_didt />
+			<we_wecd />
+			<we_twgt>10</we_twgt>
+			<we_tpcd />
+			<item>0</item>
+		</job_details>
+		<packages>
+			<package>
+				<we_dept />
+				<we_desc />
+				<we_high />
+				<we_item>1</we_item>
+				<we_ival />
+				<we_seqn>0001</we_seqn>
+				<we_tval />
+				<we_didt />
+				<we_wecd />
+				<we_twgt>10</we_twgt>
+				<we_tpcd />
+				<item>0</item>
+			</package>
+		</packages>
+	</hawb>
+</netc>

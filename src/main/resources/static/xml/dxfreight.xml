@@ -1,0 +1,28 @@
+<dxfreight>
+	<itemCount>1</itemCount>
+	<serviceCode>ON</serviceCode>
+	<serviceDescription>Overnight</serviceDescription>
+	<consignmentNumber>L2857433</consignmentNumber>
+	<manifestDate>09/03/2018</manifestDate>
+	<trackingNumber>L28574330001</trackingNumber>
+
+	<deliveryName>Mazhar</deliveryName>
+	<deliveryAddress1>Metafour UK Ltd.</deliveryAddress1>
+	<deliveryAddress2>2 Berghem Mews</deliveryAddress2>
+	<deliveryAddress3>Blythe Road</deliveryAddress3>
+	<deliveryTown>London</deliveryTown> <!-- not found -->
+	<deliveryCountry>I don't know</deliveryCountry> <!-- not found -->
+	<deliveryPostCode>W14 0HN</deliveryPostCode> <!-- delivery post code -->
+	<deliveryServiceCentre>79</deliveryServiceCentre> <!-- delivery depot no -->
+
+	<origServiceCentre>99</origServiceCentre> <!-- orig service center -->
+
+	<hubCode>B</hubCode>
+
+	<contentItem>1 of 3</contentItem>
+	<contentTotalWeight>1</contentTotalWeight>
+	<consignmentReference1>EX999</consignmentReference1>
+	<contentDescription>KG</contentDescription>
+	<deliveryContact>Mazhar</deliveryContact>
+
+</dxfreight>
