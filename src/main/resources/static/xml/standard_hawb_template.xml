@@ -1,0 +1,256 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<netc>
+    <hawb>
+        <image_path>/home/metafour/Desktop/template/</image_path>
+        <export_license></export_license>
+        <cr_logo>mflogo.gif</cr_logo>
+        <cr_vatn>971734595</cr_vatn>
+        <cr_desc>eCourier UK NetCourier site</cr_desc>
+        <cr_wunt>KG</cr_wunt>
+        <cr_adr1>Address Line 1</cr_adr1>
+        <cr_adr2>Address Line 2</cr_adr2>
+        <cr_adr3>Address Line 3</cr_adr3>
+        <cr_adr4>London</cr_adr4>
+        <cr_decd>London</cr_decd>
+        <cr_cocd>GB</cr_cocd>
+        <cr_co_desc>United Kingdom</cr_co_desc>
+        <cr_phon>123456</cr_phon>
+        <cr_mobl>0777777</cr_mobl>
+        <cr_faxn>1212121</cr_faxn>
+        <cr_cnam>COMPANY NAME (Please change)</cr_cnam>
+        <cr_ctnm>Courier Contact person</cr_ctnm>
+        <cr_zpcd>W14 8EZ</cr_zpcd>
+        <cr_emal>please@change</cr_emal>
+        <cr_cucd>GBP</cr_cucd>
+        <sl_desc>Next day</sl_desc>
+        <service_code>NEXTDAY</service_code>
+        <cs_circ>00000298</cs_circ>
+        <cs_awbn>test111217</cs_awbn>
+        <cs_stat>Deleted</cs_stat>
+        <cs_f_hawb>test111217</cs_f_hawb>
+        <checkDigit>01</checkDigit>
+        <cs_cref>ref 1</cs_cref>
+        <cs_crf2>1234</cs_crf2>
+        <cs_bkdt>11-Dec-2017</cs_bkdt>
+        <cs_twgt>1.00</cs_twgt>
+        <cs_cwgt>1.00</cs_cwgt>
+        <cs_dstn>0.00</cs_dstn>
+        <cs_rtim>09:45</cs_rtim>
+        <cs_csvl>0.00</cs_csvl>
+        <cs_csv3>0.00</cs_csv3>
+        <csv3_cucd>GBP</csv3_cucd>
+        <cr_uhwd>CM</cr_uhwd>
+        <SMSTimeSlot></SMSTimeSlot>
+        <SMSTimeSlotShortDesc></SMSTimeSlotShortDesc>
+        <SMSDeliveryMethod></SMSDeliveryMethod>
+        <SMSDepotName></SMSDepotName>
+        <cs_vlwe>0</cs_vlwe>
+        <total_cost>0.00</total_cost>
+        <cs_nopg>1</cs_nopg>
+        <cs_cont>Documents</cs_cont>
+        <contentsType>Documents</contentsType>
+        <cl_desc>ACME LTD</cl_desc>
+        <cl_adr1>Unit 2</cl_adr1>
+        <cl_adr2>Berghem Mews</cl_adr2>
+        <cl_adr4>London</cl_adr4>
+        <cl_decd>W14</cl_decd>
+        <cl_cocd>GB</cl_cocd>
+        <cl_co_desc>United Kingdom</cl_co_desc>
+        <cl_phon>02079122001</cl_phon>
+        <cl_cnam>ACME Ltd</cl_cnam>
+        <cl_ctnm>Asif Adam</cl_ctnm>
+        <cl_zpcd>W14 0HN</cl_zpcd>
+        <cl_emal>asif.adam@metafour.com</cl_emal>
+        <clc_adr1>Unit 2</clc_adr1>
+        <clc_adr2>Berghem Mews</clc_adr2>
+        <clc_adr4>London</clc_adr4>
+        <clc_decd>W14</clc_decd>
+        <clc_cocd>GB</clc_cocd>
+        <clc_co_desc>United Kingdom</clc_co_desc>
+        <clc_phon>02079122001</clc_phon>
+        <clc_cnam>ACME Ltd</clc_cnam>
+        <clc_ctnm>Asif Adam</clc_ctnm>
+        <clc_zpcd>W14 0HN</clc_zpcd>
+        <clc_emal>asif.adam@metafour.com</clc_emal>
+        <ac_number>ACME</ac_number>
+        <mf_mfdt>04-Aug-2016</mf_mfdt>
+        <pd_desc>Express</pd_desc>
+        <dst_unit>KM</dst_unit>
+        <cr_wunt>KG</cr_wunt>
+        <cs_cval>0.00</cs_cval>
+        <cs_ival>0.00</cs_ival>
+        <cs_note>Test</cs_note>
+        <create_date>11-Dec-2017</create_date>
+        <create_time>09:46</create_time>
+        <rt_desc>Special/Manual</rt_desc>
+        <us_desc>Admin user</us_desc>
+        <us_uscd>ADMIN</us_uscd>
+        <nop>1</nop>
+        <ca_adr1>Unit 2</ca_adr1>
+        <ca_adr2>Berghem Mews</ca_adr2>
+        <ca_adr4>London</ca_adr4>
+        <ca_decd>W14</ca_decd>
+        <ca_cocd>GB</ca_cocd>
+        <ca_co_desc>United Kingdom</ca_co_desc>
+        <ca_phon>02079122001</ca_phon>
+        <ca_cnam>ACME Ltd</ca_cnam>
+        <ca_ctnm>Asif Adam</ca_ctnm>
+        <ca_zpcd>W14 0HN</ca_zpcd>
+        <ca_emal>asif.adam@metafour.com</ca_emal>
+        <da_adr1>add 1</da_adr1>
+        <da_adr2>add 2</da_adr2>
+        <da_decd>London</da_decd>
+        <da_cocd>GB</da_cocd>
+        <da_co_desc>United Kingdom</da_co_desc>
+        <da_phon>0123456789</da_phon>
+        <da_cnam>Test DHK BO1112</da_cnam>
+        <da_ctnm>Hasan</da_ctnm>
+        <da_zpcd>SW17 0RN</da_zpcd>
+        <da_zone>GB-LON</da_zone>
+        <netPrice>1.00</netPrice>
+        <totalPrice>1.20</totalPrice>
+        <vatAmount>0.20</vatAmount>
+        <sentBy>Asif Adam</sentBy>
+        <sentTo>Hasan</sentTo>
+        <sntoFullName> Hasan</sntoFullName>
+        <bookby>
+            <contact>Hasan</contact>
+            <email>habib.hasan@metafour.com</email>
+            <methods>
+            </methods>
+        </bookby>
+        <test>1.00 * 1</test>
+        <job_details>
+            <we_item>1</we_item>
+            <we_seqn>0001</we_seqn>
+            <we_twgt>1.00</we_twgt>
+            <item>1</item>
+            <desc></desc>
+        </job_details>
+        <packages>
+            <package>
+                <we_item>1</we_item>
+                <we_seqn>0001</we_seqn>
+                <we_twgt>1.00</we_twgt>
+                <item>1</item>
+                <desc></desc>
+            </package>
+        </packages>
+        <total>0.00</total>
+        <nopc>1</nopc>
+        <price_lines>
+            <line>
+                <desc>UK Mail Price</desc>
+                <measuring_unit>pCWeight</measuring_unit>
+                <qty>1.000</qty>
+                <bassis>UNT</bassis>
+                <unit_price>1.000</unit_price>
+                <unit_price2>1.000</unit_price2>
+                <net_amount>1.000</net_amount>
+                <tax_code>1</tax_code>
+                <tax_rate>20.000</tax_rate>
+                <type>P</type>
+                <tax_amount>0.200</tax_amount>
+                <gross_amount>1.200</gross_amount>
+                <weight>0.000</weight>
+            </line>
+            <line>
+                <desc>Discount:</desc>
+                <measuring_unit></measuring_unit>
+                <qty>0.000</qty>
+                <bassis>PCV</bassis>
+                <unit_price>1.000</unit_price>
+                <unit_price2>1.000</unit_price2>
+                <net_amount>0.000</net_amount>
+                <tax_code>1</tax_code>
+                <tax_rate>20.000</tax_rate>
+                <type>D</type>
+                <tax_amount>0.000</tax_amount>
+                <gross_amount>0.000</gross_amount>
+                <weight>0.000</weight>
+            </line>
+            <line>
+                <desc>Re-Delivery Charge</desc>
+                <measuring_unit></measuring_unit>
+                <qty>0.000</qty>
+                <bassis>CFIXEDVALUE</bassis>
+                <unit_price>5.000</unit_price>
+                <unit_price2>5.000</unit_price2>
+                <net_amount>0.000</net_amount>
+                <tax_code>1</tax_code>
+                <tax_rate>20.000</tax_rate>
+                <type>E</type>
+                <tax_amount>0.000</tax_amount>
+                <gross_amount>0.000</gross_amount>
+                <weight>0.000</weight>
+                <per_text>Fixed value</per_text>
+            </line>
+        </price_lines>
+        <proforma_lines>
+        </proforma_lines>
+        <proformaCurrency>GBP</proformaCurrency>
+        <totalProforma2ndCur>0.00</totalProforma2ndCur>
+        <SecondCurrencyexRate></SecondCurrencyexRate>
+        <total_unty>0</total_unty>
+        <totalProforma>0.00</totalProforma>
+        <exportReason></exportReason>
+        <orign></orign>
+        <manufacturer></manufacturer>
+        <proformaNote></proformaNote>
+        <route_lines>
+        </route_lines>
+        <cost_lines>
+        </cost_lines>
+        <tracking_lines>
+            <line>
+                <date>11-Dec-17 09:46</date>
+                <user>ADMIN</user>
+                <milestone>Quoted</milestone>
+                <clr_mlstn></clr_mlstn>
+                <desc>Quote (Job entered)</desc>
+                <note></note>
+            </line>
+            <line>
+                <date>11-Dec-17 09:46</date>
+                <user>ADMIN</user>
+                <milestone>Booked</milestone>
+                <clr_mlstn></clr_mlstn>
+                <desc>Job booked</desc>
+                <note></note>
+            </line>
+            <line>
+                <date>11-Dec-17 09:46</date>
+                <user>ADMIN</user>
+                <milestone>Sales price entered</milestone>
+                <clr_mlstn>Sales price checked</clr_mlstn>
+                <desc>Sales price entered or changed. Total sales price is 1.000 </desc>
+                <note></note>
+            </line>
+            <line>
+                <date>11-Dec-17 09:53</date>
+                <user>ADMIN</user>
+                <milestone></milestone>
+                <clr_mlstn></clr_mlstn>
+                <desc>Job deleted.</desc>
+                <note>Job is deleted by Admin user on 11-Dec-2017 at 09:53</note>
+            </line>
+        </tracking_lines>
+        <task_lines>
+        </task_lines>
+        <note_lines>
+        </note_lines>
+        <legs>
+            <collection>
+                <leg_no>0</leg_no>
+            </collection>
+            <transport>
+                <leg_no>0</leg_no>
+            </transport>
+            <delivary>
+                <leg_no>0</leg_no>
+            </delivary>
+        </legs>
+        <stockitem>
+        </stockitem>
+    </hawb>
+</netc>

@@ -40,15 +40,15 @@
 									message="{$code}">
 									<barcode:code39>
 										<barcode:height>
-											15mm
+											21mm
 										</barcode:height>
-										<barcode:module-width>0.30mm</barcode:module-width>
+										<barcode:module-width>0.49mm</barcode:module-width>
 										
 										<barcode:human-readable>
 											<barcode:display-start-stop>
 												false
 											</barcode:display-start-stop>
-											<font-size>18pt</font-size>
+											<font-size>8pt</font-size>
 										</barcode:human-readable>
 									</barcode:code39>
 								</barcode:barcode>
