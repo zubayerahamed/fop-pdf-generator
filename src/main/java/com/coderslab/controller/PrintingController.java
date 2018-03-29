@@ -2,6 +2,7 @@ package com.coderslab.controller;
 
 import java.io.ByteArrayOutputStream;
 import java.io.File;
+import java.net.MalformedURLException;
 import java.net.URISyntaxException;
 
 import javax.servlet.http.HttpServletRequest;
@@ -36,7 +37,7 @@ public class PrintingController {
 	@Autowired private PrintingService printingService;
 
 	@GetMapping("/{xmlFileName}/{xslTemplateName}/")
-	public ResponseEntity<byte[]> printDxFreight(@PathVariable("xmlFileName") String xmlFileName, @PathVariable("xslTemplateName") String xslTemplateName, HttpServletRequest request) throws TransformerFactoryConfigurationError, TransformerException, FOPException{
+	public ResponseEntity<byte[]> printDxFreight(@PathVariable("xmlFileName") String xmlFileName, @PathVariable("xslTemplateName") String xslTemplateName, HttpServletRequest request) throws TransformerFactoryConfigurationError, TransformerException, FOPException, MalformedURLException{
 		String message;
 		HttpHeaders headers = new HttpHeaders();
 		headers.setContentType(new MediaType("text", "html"));

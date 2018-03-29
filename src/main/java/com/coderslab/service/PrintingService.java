@@ -1,6 +1,7 @@
 package com.coderslab.service;
 
 import java.io.ByteArrayOutputStream;
+import java.net.MalformedURLException;
 
 import javax.servlet.http.HttpServletRequest;
 import javax.xml.transform.TransformerException;
@@ -25,7 +26,8 @@ public interface PrintingService {
 	 * @throws TransformerFactoryConfigurationError
 	 * @throws TransformerException
 	 * @throws FOPException
+	 * @throws MalformedURLException 
 	 */
 	public ByteArrayOutputStream transfromToPDFBytes(String xmlFile, String template, HttpServletRequest request)
-			throws TransformerFactoryConfigurationError, TransformerException, FOPException;
+			throws TransformerFactoryConfigurationError, TransformerException, FOPException, MalformedURLException;
 }

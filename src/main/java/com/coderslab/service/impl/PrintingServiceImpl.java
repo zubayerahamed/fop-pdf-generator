@@ -5,6 +5,7 @@ package com.coderslab.service.impl;
 
 import java.io.ByteArrayOutputStream;
 import java.io.File;
+import java.net.MalformedURLException;
 
 import javax.servlet.http.HttpServletRequest;
 import javax.xml.transform.Result;
@@ -34,7 +35,7 @@ public class PrintingServiceImpl implements PrintingService{
 
 	@Override
 	public ByteArrayOutputStream transfromToPDFBytes(String xmlFile, String template, HttpServletRequest request)
-			throws TransformerFactoryConfigurationError, TransformerException, FOPException {
+			throws TransformerFactoryConfigurationError, TransformerException, FOPException, MalformedURLException {
 		ByteArrayOutputStream out = new ByteArrayOutputStream();
 		File file = new File(template);
 		Source xslSrc = new StreamSource(file);
@@ -46,10 +47,13 @@ public class PrintingServiceImpl implements PrintingService{
 		//for image path setting
 		String serverPath = request.getSession().getServletContext().getRealPath("/");
 
-		FopFactory fopFactory = FopFactory.newInstance(new File(serverPath).toURI());
+		FopFactory fopFactory = FopFactory.newInstance();
+		fopFactory.setBaseURL(serverPath);
 		FOUserAgent foUserAgent = fopFactory.newFOUserAgent();
-		Fop fop = fopFactory.newFop(MimeConstants.MIME_PDF, foUserAgent, out);
+		Fop fop = FopFactory.newInstance().newFop(MimeConstants.MIME_PDF, foUserAgent, out);
+		// Make sure the XSL transformation's result is piped through to FOP
 		Result res = new SAXResult(fop.getDefaultHandler());
+		// Start the transformation and rendering process
 		transformer.transform(xmlSource, res);
 		return out;
 	}
