@@ -3,7 +3,7 @@
 	<head>
 		<meta charset="UTF-8" />
 		<meta name="viewport" content="width=device-width, initial-scale=1.0"/>
-		<title>Fop PDF</title>
+		<title>Image Cropper</title>
 		<link rel="stylesheet" type="text/css" th:href="@{/css/bootstrap.css}" href="/css/bootstrap.css"/>
 		<link rel="stylesheet" type="text/css" th:href="@{/css/font-awesome.css}" href="/css/font-awesome.css"/>
 		<style type="text/css">
@@ -35,39 +35,10 @@
 		
 		<div class="container">
 			<div class="col-md-12">
-				<h1 align="center">FOP Pdf Generator</h1>
+				<h1 align="center">Image Cropper</h1>
 				<hr/>
 				<div class="row">
-					<div class="col-md-4">
-						<div class="btn-group">
-							<button class="btn btn-primary btn-sm">Upload XML</button>
-							<button class="btn btn-primary btn-sm">Upload XSL</button>
-						</div>
-					</div>
-					<div class="col-md-4" style="text-align:center;">
-						<div class="btn-group">
-							<button class="btn btn-primary btn-sm">Create XML</button>
-							<button class="btn btn-primary btn-sm">Create XSL</button>
-						</div>
-					</div>
-					<div class="col-md-4" style="text-align:right;">
-						<div class="btn-group">
-							<button class="btn btn-primary btn-sm">Assign XML/XSL</button>
-							<button class="btn btn-primary btn-sm">Delete XML/XSL</button>
-						</div>
-					</div>
-				</div>
-				<hr/>
-				<div class="input-group col-md-12">
-					<span class="input-group-addon" id="basic-addon1">XML Files</span>
-					<select id="xmlFile" name="xmlFile" class="form-control" aria-describedby="basic-addon1">
-						<option th:each="item, no : ${xmlFiles}" th:value="${item.fileName}" th:text="${no.count} + ' - ' +${item.code}"></option>
-					</select>
-					<span class="input-group-addon" id="basic-addon1">XSL Files</span>
-					<select id="xslFile" name="xslFile" class="form-control">
-						<option th:each="item, no : ${xslFiles}" th:value="${item.fileName}" th:text="${no.count} + ' - ' +${item.code}"></option>
-					</select>
-					<a th:href="@{/print}" target="_blank" class="print input-group-addon btn-success" id="basic-addon1"><i class="fa fa-print"></i> Print</a>
+					
 				</div>
 			</div>
 		</div>
