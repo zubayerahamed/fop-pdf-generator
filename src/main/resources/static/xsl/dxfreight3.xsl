@@ -26,37 +26,37 @@
 					<xsl:choose>
 						<xsl:when test="$sd != 'Three day'">
 							<fo:block-container xsl:use-attribute-sets="text.center" left="89.5mm" width="65mm" height="10mm" reference-orientation="270" position="absolute">
-								<fo:block font-size="30pt">
-									<xsl:value-of select="serviceDescription" />
+								<fo:block font-size="30pt" font-weight="bold">
+									<xsl:value-of select="serviceCode" />
 								</fo:block>
 							</fo:block-container>
 
 							<!-- 2nd block -->
 							<fo:block-container xsl:use-attribute-sets="border.left border.right" left="0mm" width="89mm" height="65mm" position="absolute">
-								<xsl:call-template name="header"></xsl:call-template>
-								<xsl:call-template name="barcode"></xsl:call-template>
+								<xsl:call-template name="header" />
+								<xsl:call-template name="barcode" />
 							</fo:block-container>
 
 							<!-- 3rd block -->
 							<fo:block-container xsl:use-attribute-sets="border.top" top="19mm" left="0mm" width="89mm" position="absolute">
-								<xsl:call-template name="address"></xsl:call-template>
-								<xsl:call-template name="hubcodeArea"></xsl:call-template>
-								<xsl:call-template name="barcode_verticle"></xsl:call-template>
-								<xsl:call-template name="depot_postcode_section"></xsl:call-template>
-								<xsl:call-template name="customer_name"></xsl:call-template>
+								<xsl:call-template name="address" />
+								<xsl:call-template name="hubcodeArea" />
+								<xsl:call-template name="barcode_verticle"/>
+								<xsl:call-template name="depot_postcode_section" />
+								<xsl:call-template name="customer_name" />
 							</fo:block-container>
 						</xsl:when>
 						<xsl:otherwise>
 							<fo:block-container xsl:use-attribute-sets="text.center" left="0mm" width="65mm" height="10mm" reference-orientation="270" position="absolute">
-								<fo:block font-size="30pt">
-									<xsl:value-of select="serviceDescription" />
+								<fo:block font-size="30pt" font-weight="bold">
+									<xsl:value-of select="serviceCode" />
 								</fo:block>
 							</fo:block-container>
 
 							<!-- 2nd block -->
 							<fo:block-container xsl:use-attribute-sets="border.left border.right" left="10mm" width="89mm" height="65mm" position="absolute">
-								<xsl:call-template name="header"></xsl:call-template>
-								<xsl:call-template name="barcode"></xsl:call-template>
+								<xsl:call-template name="header" />
+								<xsl:call-template name="barcode" />
 							</fo:block-container>
 
 							<!-- 3rd block -->
@@ -80,10 +80,10 @@
 	<!-- header -->
 	<xsl:template name="header">
 		<fo:block-container width="100%" xsl:use-attribute-sets="" position="relative">
-			<fo:block margin-left="2px" font-size="18pt" font-weight="bold">
+			<fo:block margin-top="-3px" margin-left="2px" font-size="19pt" font-weight="bold">
 				<xsl:value-of select="serviceDescription" />
 			</fo:block>
-			<fo:block margin-left="2px" margin-top="2mm">
+			<fo:block margin-left="2px" margin-top="2px">
 				CON NUM: <xsl:value-of select="consignmentNumber" />
 			</fo:block>
 			<fo:block margin-left="2px">
@@ -145,15 +145,13 @@
 				<xsl:value-of select="totalItem"></xsl:value-of>
 			</fo:block>
 			<fo:block font-weight="bold" margin-left="2px">
-				WEIGHT:
-				<xsl:value-of select="contentTotalWeight"></xsl:value-of>
+				WEIGHT: <xsl:value-of select="contentTotalWeight" /> Kg
 			</fo:block>
 			<fo:block font-weight="bold" margin-left="2px">
-				REF:
-				<xsl:value-of select="consignmentReference1"></xsl:value-of>
+				REF: <xsl:value-of select="consignmentReference1" />
 			</fo:block>
 			<fo:block font-weight="bold" margin-left="2px">
-				<xsl:value-of select="contentDescription"></xsl:value-of>
+				<xsl:value-of select="contentDescription" />
 			</fo:block>
 		</fo:block-container>
 	</xsl:template>
@@ -232,7 +230,7 @@
 				<xsl:value-of select="customerName"></xsl:value-of>
 			</fo:block>
 		</fo:block-container>
-		<fo:block-container left="45mm" width="30mm" position="absolute" xsl:use-attribute-sets="text.center" top="42.5mm">
+		<fo:block-container left="45mm" width="30mm" position="absolute" xsl:use-attribute-sets="" top="42.5mm">
 			<fo:block margin-left="2px" font-size="7pt">
 				<xsl:value-of select="consignmentReference1"></xsl:value-of>
 			</fo:block>
