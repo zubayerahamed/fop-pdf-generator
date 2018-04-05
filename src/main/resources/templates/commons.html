@@ -1,0 +1,55 @@
+<div xmlns:th="http://www.thymeleaf.org" xmlns:sec="http://www.thymeleaf.org/extras/spring-security">
+	<!-- Top Menus -->
+	<span th:remove="tag" th:fragment="side-nav" xmlns:th="http://www.thymeleaf.org">
+		<div class="side-nav">
+			<ul>
+				<li><a th:href="@{/print}" data-toggle="tooltip" title="Print"><i class="fa fa-print"></i></a></li>
+				<li><a th:href="@{/image}" data-toggle="tooltip" title="Image Cropper"><i class="fa fa-picture-o"></i></a></li>
+				<li><a href=""><i class="fa fa-envelope-o"></i></a></li>
+				<li><a href=""><i class="fa fa-table"></i></a></li>
+				<li><a href=""><i class="fa fa-comments"></i></a></li>
+				<li><a th:href="@{/map}" data-toggle="tooltip" title="Google Map"><i class="fa fa-map-marker"></i></a></li>
+			</ul>
+		</div>
+	</span>
+
+
+	<!-- css -->
+	<span th:remove="tag" th:fragment="common-css" xmlns:th="http://www.thymeleaf.org">
+		<link rel="stylesheet" type="text/css" th:href="@{/css/bootstrap.css}" href="/css/bootstrap.css"/>
+		<link rel="stylesheet" type="text/css" th:href="@{/css/font-awesome.css}" />
+		<link rel="stylesheet" type="text/css" th:href="@{/css/style.css}" />
+	</span>
+
+	<!-- JS -->
+	<span th:remove="tag" th:fragment="common-js" xmlns:th="http://www.thymeleaf.org"> 
+		<script type="text/javascript" th:src="@{/js/jquery.min.js}"></script> 
+		<script type="text/javascript" th:src="@{/js/bootstrap.js}"></script>
+		<script type="text/javascript" th:src="@{/js/tooltip.js}"></script>
+		<script type="text/javascript">
+			$(document).ready(function() {
+				var navFunction = function(){
+					var winHeight = $(window).height();
+					var winWidth = $(window).width();
+					var navHeight = $('.side-nav').height();
+					var copyRightWidth = $('#copy-right').width();
+					$('.side-nav').css({
+						'top' : winHeight/2 - navHeight/2
+					});
+					$('#copy-right').css({
+						'left' : winWidth/2 - copyRightWidth/2
+					});
+				}
+				navFunction();
+				$(window).resize(function(e) {
+					navFunction();
+				});
+			});
+		</script>
+	</span>
+
+	<!-- CopyRights -->
+	<span th:remove="tag" th:fragment="common-copyright" xmlns:th="http://www.thymeleaf.org">
+		<p id="copy-right" style="text-align: center; position: absolute; bottom: 0;">&copy; <a href="https://www.facebook.com/zubayerahamed" target="_blank">Zubayer Ahmaed</a> | <a href="https://www.youtube.com/channel/UC4vVj7lKO7H4FohB3lv9dzA?view_as=subscriber" target="_blank">coderslab.bd.com</a></p>
+	</span>
+</div>

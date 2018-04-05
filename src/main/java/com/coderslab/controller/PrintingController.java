@@ -36,6 +36,11 @@ public class PrintingController {
 
 	@Autowired private PrintingService printingService;
 
+	@GetMapping
+	public String loadfirstpage() {
+		return "redirect:/";
+	}
+
 	@GetMapping("/{xmlFileName}/{xslTemplateName}/")
 	public ResponseEntity<byte[]> printDxFreight(@PathVariable("xmlFileName") String xmlFileName, @PathVariable("xslTemplateName") String xslTemplateName, HttpServletRequest request) throws TransformerFactoryConfigurationError, TransformerException, FOPException, MalformedURLException{
 		String message;
