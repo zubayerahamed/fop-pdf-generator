@@ -24,21 +24,21 @@
 					
 					<!-- 1st block -->
 					<xsl:choose>
-						<xsl:when test="$sd != 'Three day'">
-							<fo:block-container xsl:use-attribute-sets="text.center" left="89.5mm" width="65mm" height="10mm" reference-orientation="270" position="absolute">
+						<xsl:when test="$sd != 'THREE DAY'">
+							<fo:block-container xsl:use-attribute-sets="text.center" left="89.5mm" width="62mm" height="10mm" reference-orientation="270" position="absolute">
 								<fo:block font-size="30pt" font-weight="bold">
 									<xsl:value-of select="serviceCode" />
 								</fo:block>
 							</fo:block-container>
 
 							<!-- 2nd block -->
-							<fo:block-container xsl:use-attribute-sets="border.left border.right" left="0mm" width="89mm" height="65mm" position="absolute">
+							<fo:block-container xsl:use-attribute-sets="border.left border.right" left="0mm" width="89mm" height="62mm" position="absolute">
 								<xsl:call-template name="header" />
 								<xsl:call-template name="barcode" />
 							</fo:block-container>
 
 							<!-- 3rd block -->
-							<fo:block-container xsl:use-attribute-sets="border.top" top="19mm" left="0mm" width="89mm" position="absolute">
+							<fo:block-container xsl:use-attribute-sets="border.top" top="16mm" left="0mm" width="89mm" position="absolute">
 								<xsl:call-template name="address" />
 								<xsl:call-template name="hubcodeArea" />
 								<xsl:call-template name="barcode_verticle"/>
@@ -54,7 +54,7 @@
 							</fo:block-container>
 
 							<!-- 2nd block -->
-							<fo:block-container xsl:use-attribute-sets="border.left border.right" left="10mm" width="89mm" height="65mm" position="absolute">
+							<fo:block-container xsl:use-attribute-sets="border.left border.right" left="10mm" width="89mm" height="62mm" position="absolute">
 								<xsl:call-template name="header" />
 								<xsl:call-template name="barcode" />
 							</fo:block-container>
@@ -80,10 +80,10 @@
 	<!-- header -->
 	<xsl:template name="header">
 		<fo:block-container width="100%" xsl:use-attribute-sets="" position="relative">
-			<fo:block margin-top="-3px" margin-left="2px" font-size="19pt" font-weight="bold">
+			<fo:block margin-top="-1.5px" margin-left="2px" font-size="19pt" font-weight="bold">
 				<xsl:value-of select="serviceDescription" />
 			</fo:block>
-			<fo:block margin-left="2px" margin-top="2px">
+			<fo:block margin-top="-2px" margin-left="2px">
 				CON NUM: <xsl:value-of select="consignmentNumber" />
 			</fo:block>
 			<fo:block margin-left="2px">
@@ -164,7 +164,7 @@
 
 		<xsl:variable name="sd" select="serviceDescription" />
 		<xsl:choose>
-			<xsl:when test="$sd != 'Three day'">
+			<xsl:when test="$sd != 'THREE DAY'">
 				<fo:block-container background-color="#000000" top="10mm" height="16mm" width="12mm" xsl:use-attribute-sets="border.right border.bottom text.center" position="absolute" left="40mm">
 					<fo:block></fo:block>
 				</fo:block-container>
@@ -177,7 +177,7 @@
 		</xsl:choose>
 
 		<fo:block-container top="26mm" height="16mm" width="12mm" xsl:use-attribute-sets="border.right border.bottom text.center" position="absolute" left="40mm">
-			<fo:block font-size="38pt" font-weight="bold">
+			<fo:block font-size="40pt" font-weight="bold">
 				<xsl:value-of select="hubCode"></xsl:value-of>
 			</fo:block>
 		</fo:block-container>
@@ -230,9 +230,9 @@
 				<xsl:value-of select="customerName"></xsl:value-of>
 			</fo:block>
 		</fo:block-container>
-		<fo:block-container left="45mm" width="30mm" position="absolute" xsl:use-attribute-sets="" top="42.5mm">
+		<fo:block-container left="38mm" width="30mm" position="absolute" xsl:use-attribute-sets="text.center" top="42.5mm">
 			<fo:block margin-left="2px" font-size="7pt">
-				<xsl:value-of select="consignmentReference1"></xsl:value-of>
+				<xsl:value-of select="clientReference"></xsl:value-of>
 			</fo:block>
 		</fo:block-container>
 	</xsl:template>
