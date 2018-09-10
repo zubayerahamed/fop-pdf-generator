@@ -51,4 +51,14 @@ public interface PrintingService {
 	 * @throws MalformedURLException
 	 */
 	public ByteArrayOutputStream transfromToThermalBytes(Document document, String template) throws TransformerException;
+
+	/**
+	 * Transform XML file and XSL file to Byte Array output Stream for print
+	 * @param xmlFile
+	 * @param template
+	 * @param request
+	 * @return ByteArrayOutputStream
+	 * @throws TransformerException
+	 */
+	public ByteArrayOutputStream transfromToThermalBytes(String xmlFile, String template, HttpServletRequest request) throws TransformerFactoryConfigurationError, TransformerException, FOPException, MalformedURLException;
 }

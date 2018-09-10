@@ -6,7 +6,7 @@
 	<xsl:template match="dxfreight">
 		<fo:root xmlns:fo="http://www.w3.org/1999/XSL/Format">
 			<fo:layout-master-set>
-				<fo:simple-page-master master-name="DXFREIGHTLABEL" page-width="102mm" page-height="102mm" margin-top="1mm" margin-bottom="1mm" margin-left="1mm" margin-right="1mm">
+				<fo:simple-page-master master-name="DXFREIGHTLABEL" page-width="152.4mm" page-height="101.6mm" margin-top="1mm" margin-bottom="1mm" margin-left="1mm" margin-right="1mm">
 					<fo:region-body margin-top="0.25mm" margin-left="0.25mm" margin-right="0.25mm" margin-bottom="0.25mm" />
 				</fo:simple-page-master>
 
@@ -60,7 +60,7 @@
 							</fo:block-container>
 
 							<!-- 3rd block -->
-							<fo:block-container xsl:use-attribute-sets="border.top" top="19mm" left="10mm" width="89mm" position="absolute">
+							<fo:block-container xsl:use-attribute-sets="border.top" top="16mm" left="10mm" width="89mm" position="absolute">
 								<xsl:call-template name="address"></xsl:call-template>
 								<xsl:call-template name="hubcodeArea"></xsl:call-template>
 								<xsl:call-template name="barcode_verticle"></xsl:call-template>
@@ -212,10 +212,10 @@
 	<xsl:template name="depot_postcode_section">
 		<fo:block-container left="59mm" height="42mm" xsl:use-attribute-sets="border.bottom text.center" position="absolute">
 			<fo:block>
-				EX : <xsl:value-of select="deliveryServiceCentre"></xsl:value-of>
+				EX : <xsl:value-of select="origServiceCentre"></xsl:value-of>
 			</fo:block>
 			<fo:block margin-top="4mm" font-family="sans-serif" font-weight="bold" font-size="70pt">
-				<xsl:value-of select="origServiceCentre"></xsl:value-of>
+				<xsl:value-of select="deliveryServiceCentre"></xsl:value-of>
 			</fo:block>
 			<fo:block>
 				<xsl:value-of select="deliveryPostCode"></xsl:value-of>

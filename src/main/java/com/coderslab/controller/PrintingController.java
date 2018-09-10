@@ -77,6 +77,7 @@ public class PrintingController {
 		byte[] byt = null;
 		ByteArrayOutputStream out = null;
 		out = printingService.transfromToPDFBytes(xmlFile.toString(), template.toString(), request);
+		//out = printingService.transfromToThermalBytes(xmlFile.toString(), template.toString(), request);
 
 		if (out == null) {
 			message = "Can't generate PDF to print";

@@ -1,0 +1,54 @@
+{
+	"Pieces": [
+		{
+			"Weight": 10.0,
+			"NumberOfPieces": 1
+		}
+	],
+	"ReadyByDate": "2018-07-31T14:52:00.000Z",
+	"Hawb": "EX1000042196",
+	"Description": "DOCUMENTS",
+	"Value": 10.0,
+	"Currency": "GBP",
+	"NonDox": false,
+	"Requestor": {
+		"Name": "Sayeed",
+		"PhoneNumber": "+44  845301370"
+	},
+	"Consignee": {
+		"ContactName": "Zuubayer",
+		"Company": "Eat Ltd",
+		"Address1": "Riverside House 2a",
+		"Address2": "Southwark Bridge Road",
+		"Address3": "Oxford University",
+		"City": "Oxford University",
+		"Email": "zubayer@gmail.com",
+		"PhoneNumber": "01515634889",
+		"Zipcode": "OX1 1AD",
+		"MobileNumber": "01515634889",
+		"CountryCode": "GB"
+	},
+	"Collection": {
+		"PackageLocation": "sfas",
+		"CloseTime": "12:00",
+		"ContactName": "Sayeed",
+		"Company": "Metafour UK",
+		"Address1": "House test",
+		"Address2": "Street",
+		"Address3": "London",
+		"City": "London",
+		"Email": "sayeedul.islam@metafour.com",
+		"PhoneNumber": "+44  845301370",
+		"Fax": "01111111",
+		"Zipcode": "NW2 7JP",
+		"MobileNumber": "8801717702177",
+		"CountryCode": "GB"
+	},
+	"Service": {
+		"Code": "CEX"
+	},
+	"Picking": {
+		"Instructions": "ci test"
+	},
+	"LabelFormat": "Pdf"
+}

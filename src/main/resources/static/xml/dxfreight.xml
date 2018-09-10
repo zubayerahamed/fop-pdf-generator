@@ -2,9 +2,9 @@
 <dxfreight>
 	<totalItem>6</totalItem>
 	<itemCount>1</itemCount>
-	<serviceCode>ON</serviceCode>
-	 <serviceDescription>OVERNIGHT</serviceDescription> 
-	<!-- <serviceDescription>Three day</serviceDescription>  -->
+	<serviceCode>THREE DAY</serviceCode>
+	<serviceDescription>THREE DAY</serviceDescription> 
+	<!-- <serviceDescription>overnight</serviceDescription> -->
 	<consignmentNumber>L2857433</consignmentNumber>
 	<trackingNumber>L28574330015</trackingNumber>
 	<manifestDate>09/03/2018 12:26:47</manifestDate>
@@ -22,4 +22,5 @@
 	<consignmentReference1>CL REF 1</consignmentReference1>
 	<contentDescription>Carton KG</contentDescription>
 	<customerName>Mazhar</customerName>
+	<clientReference>Client Reference</clientReference>
 </dxfreight>

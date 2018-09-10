@@ -23,15 +23,9 @@
 		<span th:substituteby="commons :: common-copyright"></span>
 
 		<span th:substituteby="commons :: common-js"></span>
-		<script type="text/javascript">
-			var map;
-			function initMap() {
-				map = new google.maps.Map(document.getElementById('map'), {
-					center: {lat: -34.397, lng: 150.644},
-					zoom: 8
-				});
-			}
-		</script>
-		<script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCkUOdZ5y7hMm0yrcCQoCvLwzdM6M8s5qk&callback=initMap"></script>
+		<script type="text/javascript" th:src="@{/js/map/mapcluster.js}"></script>
+		<script type="text/javascript" th:src="@{/js/map/map.js}"></script>
+		<script th:src="${'//maps.googleapis.com/maps/api/js?key=AIzaSyDjoSHgDlrlj0ARkwjWe55FlkRtVUsQ-Rc'}" async="async" defer="defer"></script>
+		<div id="map"></div>
 	</body>
 </html>

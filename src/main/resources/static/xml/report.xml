@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<DriverInvoice>
+	<SystemAddress>
+		<Company>Metafour UK</Company>
+		<AddressLine1>Unit 2, Berghem Mws</AddressLine1>
+		<AddressLine2>Address2</AddressLine2>
+		<AddressLine3>Address3</AddressLine3>
+		<AddressLine4>Address4</AddressLine4>
+		<Postcode>W14 0HN</Postcode>
+		<Phone>02097627817</Phone>
+		<Mobile>mobile</Mobile>
+		<Contact>contact</Contact>
+		<Email>email@gmail.com</Email>
+		<County>county</County>
+		<Country>London</Country>
+	</SystemAddress>
+	<SupplierInfo>
+		<Address>
+			<Company>Company</Company>
+			<AddressLine1>Flat 12, Kelfield Court</AddressLine1>
+			<AddressLine2>address line 2</AddressLine2>
+			<AddressLine3>address line 3</AddressLine3>
+			<AddressLine4>address line 4</AddressLine4>
+			<Postcode>W10 6NS</Postcode>
+			<Phone>07468595738</Phone>
+			<Mobile>mobile</Mobile>
+			<Contact>Lloyd Gregory</Contact>
+			<Email>email@gmail.com</Email>
+			<County>country</County>
+			<Country>London</Country>
+		</Address>
+		<OtherInfo>
+			<DriverName>Driver A</DriverName>
+			<InvoiceDate>03-07-2018</InvoiceDate>
+			<InvoiceNumber>1622</InvoiceNumber>
+		</OtherInfo>
+	</SupplierInfo>
+	<Jobs>
+		
+		<Job>
+			<BookingDateTime>03-07-2018</BookingDateTime>
+			<ServiceLevel>Overnight</ServiceLevel>
+			<HAWB>EX10000120</HAWB>
+			<PickupDate>26-07-2018</PickupDate>
+			<TariffCode>Fridge Van</TariffCode>
+			<FromPostcode>W14 0HN</FromPostcode>
+			<ToPostcode>W10 6NS</ToPostcode>
+			<TariffCharge>25.06</TariffCharge>
+		</Job>
+		<Job>
+			<BookingDateTime>03-07-2018</BookingDateTime>
+			<ServiceLevel>Overnight</ServiceLevel>
+			<HAWB>EX10000120</HAWB>
+			<PickupDate>26-07-2018</PickupDate>
+			<TariffCode>Fridge Van</TariffCode>
+			<FromPostcode>W14 0HN</FromPostcode>
+			<ToPostcode>W10 6NS</ToPostcode>
+			<TariffCharge>25.06</TariffCharge>
+		</Job>
+		<Job>
+			<BookingDateTime>03-07-2018</BookingDateTime>
+			<ServiceLevel>Overnight</ServiceLevel>
+			<HAWB>EX10000120</HAWB>
+			<PickupDate>26-07-2018</PickupDate>
+			<TariffCode>Fridge Van</TariffCode>
+			<FromPostcode>W14 0HN</FromPostcode>
+			<ToPostcode>W10 6NS</ToPostcode>
+			<TariffCharge>25.06</TariffCharge>
+		</Job>
+		<Job>
+			<BookingDateTime>03-07-2018</BookingDateTime>
+			<ServiceLevel>Overnight</ServiceLevel>
+			<HAWB>EX10000120</HAWB>
+			<PickupDate>26-07-2018</PickupDate>
+			<TariffCode>Fridge Van</TariffCode>
+			<FromPostcode>W14 0HN</FromPostcode>
+			<ToPostcode>W10 6NS</ToPostcode>
+			<TariffCharge>25.06</TariffCharge>
+		</Job>
+		<Job>
+			<BookingDateTime>03-07-2018</BookingDateTime>
+			<ServiceLevel>Overnight</ServiceLevel>
+			<HAWB>EX10000120</HAWB>
+			<PickupDate>26-07-2018</PickupDate>
+			<TariffCode>Fridge Van</TariffCode>
+			<FromPostcode>W14 0HN</FromPostcode>
+			<ToPostcode>W10 6NS</ToPostcode>
+			<TariffCharge>25.06</TariffCharge>
+		</Job>
+		<Job>
+			<BookingDateTime>03-07-2018</BookingDateTime>
+			<ServiceLevel>Overnight</ServiceLevel>
+			<HAWB>EX10000120</HAWB>
+			<PickupDate>26-07-2018</PickupDate>
+			<TariffCode>Fridge Van</TariffCode>
+			<FromPostcode>W14 0HN</FromPostcode>
+			<ToPostcode>W10 6NS</ToPostcode>
+			<TariffCharge>25.06</TariffCharge>
+		</Job>
+		<Job>
+			<BookingDateTime>03-07-2018</BookingDateTime>
+			<ServiceLevel>Overnight</ServiceLevel>
+			<HAWB>EX10000120</HAWB>
+			<PickupDate>26-07-2018</PickupDate>
+			<TariffCode>Fridge Van</TariffCode>
+			<FromPostcode>W14 0HN</FromPostcode>
+			<ToPostcode>W10 6NS</ToPostcode>
+			<TariffCharge>25.06</TariffCharge>
+		</Job>
+		<Job>
+			<BookingDateTime>03-07-2018</BookingDateTime>
+			<ServiceLevel>Overnight</ServiceLevel>
+			<HAWB>EX10000120</HAWB>
+			<PickupDate>26-07-2018</PickupDate>
+			<TariffCode>Fridge Van</TariffCode>
+			<FromPostcode>W14 0HN</FromPostcode>
+			<ToPostcode>W10 6NS</ToPostcode>
+			<TariffCharge>25.06</TariffCharge>
+		</Job>
+		<Job>
+			<BookingDateTime>03-07-2018</BookingDateTime>
+			<ServiceLevel>Overnight</ServiceLevel>
+			<HAWB>EX10000120</HAWB>
+			<PickupDate>26-07-2018</PickupDate>
+			<TariffCode>Fridge Van</TariffCode>
+			<FromPostcode>W14 0HN</FromPostcode>
+			<ToPostcode>W10 6NS</ToPostcode>
+			<TariffCharge>25.06</TariffCharge>
+		</Job>
+		
+		<Summary>
+			<TotalJob>150</TotalJob>
+			<TotalTariff>50.00</TotalTariff>
+		</Summary>
+	</Jobs>
+	<AdditionalCharges>
+		
+		<Charge>
+			<Unit>2</Unit>
+			<Description>Waiting Charge</Description>
+			<UnitPrice>48.55</UnitPrice>
+			<TotalPrice></TotalPrice>
+			<VAT>10.10</VAT>
+		</Charge>
+		<Charge>
+			<Unit>2</Unit>
+			<Description>MIA</Description>
+			<UnitPrice>48.55</UnitPrice>
+			<TotalPrice></TotalPrice>
+			<VAT>10.10</VAT>
+		</Charge>
+
+
+		<Summary>
+			<Total>121.87</Total>
+			<TotalVAT>0.00</TotalVAT>
+		</Summary>
+	</AdditionalCharges>
+	<PaymentDetails>
+		<Total>171.87</Total>
+	</PaymentDetails>
+</DriverInvoice>

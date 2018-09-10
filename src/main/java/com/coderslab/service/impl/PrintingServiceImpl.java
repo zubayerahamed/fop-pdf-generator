@@ -93,4 +93,29 @@ public class PrintingServiceImpl implements PrintingService{
 		return out;
 	}
 
+	@Override
+	public ByteArrayOutputStream transfromToThermalBytes(String xmlFile, String template, HttpServletRequest request) throws TransformerException, MalformedURLException, FOPException {
+		ByteArrayOutputStream out = new ByteArrayOutputStream();
+		File file = new File(template);
+		Source xslSrc = new StreamSource(file);
+		StreamSource xmlSource = new StreamSource(new File(xmlFile));
+		Transformer transformer = TransformerFactory.newInstance().newTransformer(xslSrc);
+		if (transformer == null) {
+			throw new TransformerException("File not found: " + template);
+		}
+
+		//for image path setting
+		String serverPath = request.getSession().getServletContext().getRealPath("/");
+		FopFactory fopFactory = FopFactory.newInstance();
+		fopFactory.setBaseURL(serverPath);
+		FOUserAgent foUserAgent = fopFactory.newFOUserAgent();
+		Fop fop = FopFactory.newInstance().newFop(MimeConstants.MIME_PDF, foUserAgent, out);
+		// Make sure the XSL transformation's result is piped through to FOP
+		Result res = new SAXResult(fop.getDefaultHandler());
+		// Start the transformation and rendering process
+
+		transformer.transform(xmlSource, new StreamResult(out));
+		return out;
+	}
+
 }
