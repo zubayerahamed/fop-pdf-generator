@@ -3,15 +3,15 @@
 	<totalItem>6</totalItem>
 	<itemCount>1</itemCount>
 	<serviceCode>THREE DAY</serviceCode>
-	<serviceDescription>THREE DAY</serviceDescription> 
-	<!-- <serviceDescription>overnight</serviceDescription> -->
+	<!-- <serviceDescription>THREE DAY</serviceDescription>  -->
+	<serviceDescription>overnight</serviceDescription>
 	<consignmentNumber>L2857433</consignmentNumber>
 	<trackingNumber>L28574330015</trackingNumber>
 	<manifestDate>09/03/2018 12:26:47</manifestDate>
 	<deliveryName>Mazhar</deliveryName>
-	<deliveryAddress1>Metafour UK Ltd.</deliveryAddress1>
-	<deliveryAddress2>2 Berghem Mews</deliveryAddress2>
-	<deliveryAddress3>Blythe Road</deliveryAddress3>
+	<deliveryAddress1>Metafour UK Ltd address line 1</deliveryAddress1>
+	<deliveryAddress2>2 Berghem Mews  address line 2</deliveryAddress2>
+	<deliveryAddress3>Blythe Road  address line 3</deliveryAddress3>
 	<deliveryTown>London</deliveryTown>
 	<deliveryCounty>GB</deliveryCounty>
 	<deliveryPostCode>W14 0HN</deliveryPostCode>

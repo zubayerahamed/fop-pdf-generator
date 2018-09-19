@@ -1,14 +1,4 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!--!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!-->
-<!--!                                                       !-->
-<!--!    File Name    : dx-freight-pdf.xsl                  !-->
-<!--!    Description  : DX Freight Template                 !-->
-<!--!    Author       : Zubayer Ahamed                      !-->
-<!--!    Date         : 12-Jul-2018                         !-->
-<!--!    Copyright    : Copyright (c) M.F. Systems, 2018    !-->
-<!--!                                                       !-->
-<!--!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!-->
-
 <xsl:stylesheet version="1.1" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:fo="http://www.w3.org/1999/XSL/Format" exclude-result-prefixes="fo" xmlns:java="org.m4.fop.utility.Helper" extension-element-prefixes="java">
 	<xsl:output method="xml" version="1.0" omit-xml-declaration="no" indent="yes" />
 
@@ -219,43 +209,43 @@
 
 	<!-- ADDRESS SECTION 3D -->
 	<xsl:template name="ADDRESS-SECTION-3D">
-		<fo:block-container right="24mm" top="14mm" position="absolute" xsl:use-attribute-sets="font.courier" reference-orientation="270">
-			<fo:block margin-top="0.5mm"> <xsl:value-of select="deliveryName"></xsl:value-of> </fo:block>
-			<fo:block margin-top="0.5mm"> <xsl:value-of select="deliveryAddress1"></xsl:value-of> </fo:block>
-			<fo:block margin-top="0.5mm"> <xsl:value-of select="deliveryAddress2"></xsl:value-of> </fo:block>
-			<fo:block margin-top="0.5mm"> <xsl:value-of select="deliveryAddress3"></xsl:value-of> </fo:block>
-			<fo:block margin-top="0.5mm"> <xsl:value-of select="deliveryTown"></xsl:value-of> </fo:block>
-			<fo:block margin-top="0.5mm"> <xsl:value-of select="deliveryCounty"></xsl:value-of> </fo:block>
-			<fo:block margin-top="0.5mm" xsl:use-attribute-sets="text.bold">
+		<fo:block-container left="7mm" top="14mm" width="58.5mm" height="61.5mm" position="absolute" xsl:use-attribute-sets="font.courier.address" reference-orientation="270">
+			<fo:block margin-top="0.20mm"> <xsl:value-of select="deliveryName"></xsl:value-of> </fo:block>
+			<fo:block margin-top="0.20mm"> <xsl:value-of select="deliveryAddress1"></xsl:value-of> </fo:block>
+			<fo:block margin-top="0.20mm"> <xsl:value-of select="deliveryAddress2"></xsl:value-of> </fo:block>
+			<fo:block margin-top="0.20mm"> <xsl:value-of select="deliveryAddress3"></xsl:value-of> </fo:block>
+			<fo:block margin-top="0.20mm"> <xsl:value-of select="deliveryTown"></xsl:value-of> </fo:block>
+			<fo:block margin-top="0.20mm"> <xsl:value-of select="deliveryCounty"></xsl:value-of> </fo:block>
+			<fo:block margin-top="0.20mm" xsl:use-attribute-sets="text.bold">
 				ITEM:
 				<xsl:value-of select="itemCount"></xsl:value-of>
 				of
 				<xsl:value-of select="totalItem"></xsl:value-of>
 			</fo:block>
-			<fo:block margin-top="0.5mm" xsl:use-attribute-sets="text.bold"> WEIGHT: <xsl:value-of select="contentTotalWeight" /> Kg </fo:block>
-			<fo:block margin-top="0.5mm" xsl:use-attribute-sets="text.bold"> REF: <xsl:value-of select="consignmentReference1" /> </fo:block>
-			<fo:block margin-top="0.5mm" xsl:use-attribute-sets="text.bold"> <xsl:value-of select="contentDescription" /> </fo:block>
+			<fo:block margin-top="0.20mm" xsl:use-attribute-sets="text.bold"> WEIGHT: <xsl:value-of select="contentTotalWeight" /> Kg </fo:block>
+			<fo:block margin-top="0.20mm" xsl:use-attribute-sets="text.bold"> REF: <xsl:value-of select="consignmentReference1" /> </fo:block>
+			<fo:block margin-top="0.20mm" xsl:use-attribute-sets="text.bold"> <xsl:value-of select="contentDescription" /> </fo:block>
 		</fo:block-container>
 	</xsl:template>
 
 	<!-- ADDRESS SECTION -->
 	<xsl:template name="ADDRESS-SECTION">
-		<fo:block-container right="24mm" top="1mm" position="absolute" xsl:use-attribute-sets="font.courier" reference-orientation="270">
-			<fo:block margin-top="0.5mm"> <xsl:value-of select="deliveryName"></xsl:value-of> </fo:block>
-			<fo:block margin-top="0.5mm"> <xsl:value-of select="deliveryAddress1"></xsl:value-of> </fo:block>
-			<fo:block margin-top="0.5mm"> <xsl:value-of select="deliveryAddress2"></xsl:value-of> </fo:block>
-			<fo:block margin-top="0.5mm"> <xsl:value-of select="deliveryAddress3"></xsl:value-of> </fo:block>
-			<fo:block margin-top="0.5mm"> <xsl:value-of select="deliveryTown"></xsl:value-of> </fo:block>
-			<fo:block margin-top="0.5mm"> <xsl:value-of select="deliveryCounty"></xsl:value-of> </fo:block>
-			<fo:block margin-top="0.5mm" xsl:use-attribute-sets="text.bold">
+		<fo:block-container left="7mm" top="1mm" width="58.5mm" height="61.5mm" position="absolute" xsl:use-attribute-sets="font.courier.address" reference-orientation="270">
+			<fo:block margin-top="0.20mm"> <xsl:value-of select="deliveryName"></xsl:value-of> </fo:block>
+			<fo:block margin-top="0.20mm"> <xsl:value-of select="deliveryAddress1"></xsl:value-of> </fo:block>
+			<fo:block margin-top="0.20mm"> <xsl:value-of select="deliveryAddress2"></xsl:value-of> </fo:block>
+			<fo:block margin-top="0.20mm"> <xsl:value-of select="deliveryAddress3"></xsl:value-of> </fo:block>
+			<fo:block margin-top="0.20mm"> <xsl:value-of select="deliveryTown"></xsl:value-of> </fo:block>
+			<fo:block margin-top="0.20mm"> <xsl:value-of select="deliveryCounty"></xsl:value-of> </fo:block>
+			<fo:block margin-top="0.20mm" xsl:use-attribute-sets="text.bold">
 				ITEM:
 				<xsl:value-of select="itemCount"></xsl:value-of>
 				of
 				<xsl:value-of select="totalItem"></xsl:value-of>
 			</fo:block>
-			<fo:block margin-top="0.5mm" xsl:use-attribute-sets="text.bold"> WEIGHT: <xsl:value-of select="contentTotalWeight" /> Kg </fo:block>
-			<fo:block margin-top="0.5mm" xsl:use-attribute-sets="text.bold"> REF: <xsl:value-of select="consignmentReference1" /> </fo:block>
-			<fo:block margin-top="0.5mm" xsl:use-attribute-sets="text.bold"> <xsl:value-of select="contentDescription" /> </fo:block>
+			<fo:block margin-top="0.20mm" xsl:use-attribute-sets="text.bold"> WEIGHT: <xsl:value-of select="contentTotalWeight" /> Kg </fo:block>
+			<fo:block margin-top="0.20mm" xsl:use-attribute-sets="text.bold"> REF: <xsl:value-of select="consignmentReference1" /> </fo:block>
+			<fo:block margin-top="0.20mm" xsl:use-attribute-sets="text.bold"> <xsl:value-of select="contentDescription" /> </fo:block>
 		</fo:block-container>
 	</xsl:template>
 
@@ -279,14 +269,14 @@
 
 	<!-- VERTICLE SERVICE TEXT 3D -->
 	<xsl:template name="VERTICLE-SERVICE-TEXT-3D">
-		<fo:block-container top="-129mm" font-size="49pt" text-align="center" position="absolute" xsl:use-attribute-sets="font.courier text.bold" reference-orientation="180">
+		<fo:block-container top="-129mm" font-size="47pt" text-align="center" position="absolute" xsl:use-attribute-sets="font.courier text.bold" reference-orientation="180">
 			<fo:block > <xsl:value-of select="serviceCode" /> </fo:block>
 		</fo:block-container>
 	</xsl:template>
 
 	<!-- VERTICLE SERVICE TEXT -->
 	<xsl:template name="VERTICLE-SERVICE-TEXT">
-		<fo:block-container top="4mm" font-size="49pt" text-align="center" position="absolute" xsl:use-attribute-sets="font.courier text.bold" reference-orientation="180">
+		<fo:block-container top="4mm" font-size="47pt" text-align="center" position="absolute" xsl:use-attribute-sets="font.courier text.bold" reference-orientation="180">
 			<fo:block > <xsl:value-of select="serviceCode" /> </fo:block>
 		</fo:block-container>
 	</xsl:template>
@@ -365,6 +355,11 @@
 	<xsl:attribute-set name="font.courier">
 		<xsl:attribute name="font-family">Courier</xsl:attribute>
 		<xsl:attribute name="font-size">13pt</xsl:attribute>
+		<xsl:attribute name="text-transform">uppercase</xsl:attribute>
+	</xsl:attribute-set>
+	<xsl:attribute-set name="font.courier.address">
+		<xsl:attribute name="font-family">Courier</xsl:attribute>
+		<xsl:attribute name="font-size">11pt</xsl:attribute>
 		<xsl:attribute name="text-transform">uppercase</xsl:attribute>
 	</xsl:attribute-set>
 	<xsl:attribute-set name="text.bold">

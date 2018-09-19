@@ -34,28 +34,8 @@
 <xsl:if test="$DXSERVICECODE != 'THREE DAY'">
 //Starting...
 ^XA
-^CFA,110 , 68
-^FWI
-<xsl:choose>
-<xsl:when test="$DXSERVICECODE = 'OVERNIGHT'">
-^FO35,1085^FD<xsl:value-of select="$DXSERVICECODE"/>^FS	
-</xsl:when>
-<xsl:when test="$DXSERVICECODE = 'SAT 9:30'">
-^FO75,1085^FD<xsl:value-of select="$DXSERVICECODE"/>^FS	
-</xsl:when>
-<xsl:when test="$DXSERVICECODE = '9:30'">
-^FO230,1085^FD<xsl:value-of select="$DXSERVICECODE"/>^FS	
-</xsl:when>
-<xsl:when test="$DXSERVICECODE = 'AM'">
-^FO330,1085^FD<xsl:value-of select="$DXSERVICECODE"/>^FS	
-</xsl:when>
-<xsl:when test="$DXSERVICECODE = 'SAT'">
-^FO280,1085^FD<xsl:value-of select="$DXSERVICECODE"/>^FS	
-</xsl:when>
-<xsl:otherwise>
-^FO35,1085^FD<xsl:value-of select="$DXSERVICECODE"/>^FS
-</xsl:otherwise>
-</xsl:choose>
+^FO0,1085^A1I,110,68^FB760,1,0,C^FD<xsl:value-of select="$DXSERVICECODE"/>^FS	
+
 //Top section
 ^CFA,90,25
 ^FWR
@@ -65,23 +45,23 @@
 ^FO605,40^FDDATE: <xsl:value-of select="$manifestDate"/> ^FS
 
 //Barcode
-^FO710,420^BY5^BCR,70
+^FO700,400^BY4^BCR,80
 ^FD<xsl:value-of select="$trackingNumber"/>^FS
-^BY3,5,85^FT160,785^BCN,,N,N
+^BY2,5,85^FT180,785^BCN,,N,N
 ^FD>:<xsl:value-of select="$trackingNumber"/>^FS
 
 //Address section
-^CFA,48,16
-^FO540,40^FD<xsl:value-of select="$deliveryName"/> ^FS
-^FO490,40^FD<xsl:value-of select="$address1"/>^FS
-^FO440,40^FD<xsl:value-of select="$address2"/>^FS
-^FO390,40^FD<xsl:value-of select="$address3"/>^FS
-^FO340,40^FD<xsl:value-of select="$town"/>^FS
-^FO290,40^FD<xsl:value-of select="$county"/>^FS
-^FO240,40^FDITEM : <xsl:value-of select="$itemNo"/> OF <xsl:value-of select="$totalItem"/>^FS
-^FO190,40^FDWEIGHT : <xsl:value-of select="$weight"/> Kg^FS
-^FO140,40^FDREF : <xsl:value-of select="$hawb"/>^FS
-^FO90,40^FD<xsl:value-of select="$content"/>^FS
+^CFA,40,16
+^FO550,40^FB510^FD<xsl:value-of select="$deliveryName"/> ^FS
+^FO510,40^FB510^FD<xsl:value-of select="$address1"/>^FS
+^FO430,40^FB510,2^FD<xsl:value-of select="$address2"/>^FS
+^FO350,40^FB510,2^FD<xsl:value-of select="$address3"/>^FS
+^FO270,40^FB510,2^FD<xsl:value-of select="$town"/>^FS
+^FO235,40^FB510^FD<xsl:value-of select="$county"/>^FS
+^FO195,40^FB510^FDITEM : <xsl:value-of select="$itemNo"/> OF <xsl:value-of select="$totalItem"/>^FS
+^FO158,40^FB510^FDWEIGHT : <xsl:value-of select="$weight"/> Kg^FS
+^FO120,40^FB510^FDREF : <xsl:value-of select="$hawb"/>^FS
+^FO85,40^FB510^FD<xsl:value-of select="$content"/>^FS
 ^FO90,875^FD<xsl:value-of select="$postcode"/>^FS
 
 //Graphics table
@@ -99,10 +79,10 @@
 //Right section
 ^CFA,48,16
 ^FO540,875^FDEX : <xsl:value-of select="$depot"/>^FS
-^FT200,820^A0I,500,235^FH\^FWR^FD<xsl:value-of select="$serviceCentre"/>^FS
+^FT200,820^A0I,400,235^FH\^FWR^FD<xsl:value-of select="$serviceCentre"/>^FS
 
 //Hub code section
-^FT110,585^A0I,180,165^FH\^FWR^FD<xsl:value-of select="$hub"/>^FS
+^FT110,585^A0I,150,145^FH\^FWR^FD<xsl:value-of select="$hub"/>^FS
 
 //Lower section
 ^CFA,48,16
@@ -118,37 +98,35 @@
 <xsl:if test="$DXSERVICECODE = 'THREE DAY'">
 //Starting...
 ^XA
-^CFA,110 , 68
-^FWI
-^FO32,05^FDTHREE DAY^FS
+^FO0,05^A1I,110,68^FB760,1,0,C^FD<xsl:value-of select="$DXSERVICECODE"/>^FS 
 
 //Top section
 ^CFA,90,25
 ^FWR
-^FO692,140^FDTHREE DAY^FS
+^FO692,140^FD<xsl:value-of select="$DXSERVICENAME"/>^FS
 
 ^CFA,48,16
 ^FO650,140^FDCON NUM: <xsl:value-of select="$consignmentNumber"/>^FS
 ^FO605,140^FDDATE: <xsl:value-of select="$manifestDate"/>^FS
 
 //Barcode
-^FO710,520^BY5^BCR,70
+^FO700,500^BY4^BCR,80
 ^FD<xsl:value-of select="$trackingNumber"/>^FS
-^BY3,5,85^FT160,885^BCN,,N,N
+^BY2,5,85^FT180,885^BCN,,N,N
 ^FD>:<xsl:value-of select="$trackingNumber"/>^FS
 
 //Address section
-^CFA,48,16
-^FO540,140^FD<xsl:value-of select="$deliveryName"/>^FS
-^FO490,140^FD<xsl:value-of select="$address1"/>^FS
-^FO440,140^FD<xsl:value-of select="$address2"/>^FS
-^FO390,140^FD<xsl:value-of select="$address3"/>^FS
-^FO340,140^FD<xsl:value-of select="$town"/>^FS
-^FO290,140^FD<xsl:value-of select="$county"/>^FS
-^FO240,140^FDITEM : <xsl:value-of select="$itemNo"/> OF <xsl:value-of select="$totalItem"/>^FS
-^FO190,140^FDWEIGHT :  <xsl:value-of select="$weight"/> Kg^FS
-^FO140,140^FDREF : <xsl:value-of select="$hawb"/>^FS
-^FO90,140^FD<xsl:value-of select="$content"/>^FS
+^CFA,40,16
+^FO550,140^FB510^FD<xsl:value-of select="$deliveryName"/> ^FS
+^FO510,140^FB510^FD<xsl:value-of select="$address1"/>^FS
+^FO430,140^FB510,2^FD<xsl:value-of select="$address2"/>^FS
+^FO350,140^FB510,2^FD<xsl:value-of select="$address3"/>^FS
+^FO270,140^FB510,2^FD<xsl:value-of select="$town"/>^FS
+^FO235,140^FB510^FD<xsl:value-of select="$county"/>^FS
+^FO195,140^FB510^FDITEM : <xsl:value-of select="$itemNo"/> OF <xsl:value-of select="$totalItem"/>^FS
+^FO158,140^FB510^FDWEIGHT : <xsl:value-of select="$weight"/> Kg^FS
+^FO120,140^FB510^FDREF : <xsl:value-of select="$hawb"/>^FS
+^FO85,140^FB510^FD<xsl:value-of select="$content"/>^FS
 ^FO90,975^FD<xsl:value-of select="$postcode"/>^FS
 
 //Graphics table
@@ -167,10 +145,10 @@
 //Right section
 ^CFA,48,16
 ^FO540,975^FDEX : <xsl:value-of select="$depot"/>^FS
-^FT200,920^A0I,500,235^FH\^FWR^FD<xsl:value-of select="$serviceCentre"/>^FS
+^FT200,920^A0I,400,235^FH\^FWR^FD<xsl:value-of select="$serviceCentre"/>^FS
 
 //Hub code section
-^FT110,685^A0I,180,165^FH\^FWR^FD<xsl:value-of select="$hub"/>^FS
+^FT110,685^A0I,150,145^FH\^FWR^FD<xsl:value-of select="$hub"/>^FS
 
 //Lower section
 ^CFA,48,16
