@@ -1,0 +1,311 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<netc>
+	<hawb>
+		<image_path>/home/mf/Downloads/Templete_design/DLS/</image_path>
+		<export_license></export_license>
+		<cr_logo>mflogo.gif</cr_logo>
+		<cr_vatn>971734595</cr_vatn>
+		<cr_desc>Direct Luggage Services Netcourier system</cr_desc>
+		<cr_wunt>KG</cr_wunt>
+		<cr_adr1>2 Berghem Mews</cr_adr1>
+		<cr_adr2>Blythe Road</cr_adr2>
+		<cr_adr4>London</cr_adr4>
+		<cr_decd>W14</cr_decd>
+		<cr_cocd>GB</cr_cocd>
+		<cr_co_desc>United Kingdom</cr_co_desc>
+		<cr_phon>123456</cr_phon>
+		<cr_mobl>0777777</cr_mobl>
+		<cr_faxn>1212121</cr_faxn>
+		<cr_cnam>Metafour (UK) Ltd</cr_cnam>
+		<cr_ctnm>Courier Contact person</cr_ctnm>
+		<cr_zpcd>W14 8EZ</cr_zpcd>
+		<cr_emal>please@change.com</cr_emal>
+		<cr_lati>51.49888910</cr_lati>
+		<cr_long>-0.21900860</cr_long>
+		<cr_cucd>GBP</cr_cucd>
+		<sl_desc>Premium</sl_desc>
+		<service_code>48 Hour Service</service_code>
+		<cs_circ>00000379</cs_circ>
+		<cs_awbn>Test171018</cs_awbn>
+		<cs_stat>Live</cs_stat>
+		<cs_f_hawb>Test171018</cs_f_hawb>
+		<checkDigit>01</checkDigit>
+		<cs_dday>19-Oct-2018</cs_dday>
+		<cs_dtim>18:00</cs_dtim>
+		<cs_qref>00000379</cs_qref>
+		<cs_bkdt>17-Oct-2018</cs_bkdt>
+		<cs_twgt>1.00</cs_twgt>
+		<cs_vwgt>0.00</cs_vwgt>
+		<cs_cwgt>1.00</cs_cwgt>
+		<cs_drdt>31-Oct-2018</cs_drdt>
+		<cs_dday>19-Oct-2018</cs_dday>
+		<cs_dtim>18:00</cs_dtim>
+		<cs_dstn>1.00</cs_dstn>
+		<cs_rtim>10:29</cs_rtim>
+		<cs_csvl>0.00</cs_csvl>
+		<cs_csv3>0.00</cs_csv3>
+		<csv3_cucd>GBP</csv3_cucd>
+		<cr_uhwd>CM</cr_uhwd>
+		<SMSTimeSlot></SMSTimeSlot>
+		<SMSTimeSlotShortDesc></SMSTimeSlotShortDesc>
+		<SMSDeliveryMethod></SMSDeliveryMethod>
+		<SMSDepotName></SMSDepotName>
+		<cs_vlwe>0.00</cs_vlwe>
+		<total_cost>3.29</total_cost>
+		<cs_nopg>5</cs_nopg>
+		<cs_cont>Personal Effects</cs_cont>
+		<contentsType>Non documents</contentsType>
+		<cl_desc>ACME LTD</cl_desc>
+		<cl_adr1>Unit 2</cl_adr1>
+		<cl_adr2>Berghem Mews</cl_adr2>
+		<cl_adr3>Blythe Road</cl_adr3>
+		<cl_adr4>London</cl_adr4>
+		<cl_decd>AOD</cl_decd>
+		<cl_cocd>GB</cl_cocd>
+		<cl_co_desc>United Kingdom</cl_co_desc>
+		<cl_phon>02079122001</cl_phon>
+		<cl_cnam>ACME Ltd</cl_cnam>
+		<cl_ctnm>Asif Adam</cl_ctnm>
+		<cl_zpcd>W14 0HN</cl_zpcd>
+		<cl_emal>asif.adam@metafour.com</cl_emal>
+		<cl_lati>51.49888910</cl_lati>
+		<cl_long>-0.21900860</cl_long>
+		<clc_adr1>Unit 2</clc_adr1>
+		<clc_adr2>Berghem Mews</clc_adr2>
+		<clc_adr3>Blythe Road</clc_adr3>
+		<clc_adr4>London</clc_adr4>
+		<clc_decd>AOD</clc_decd>
+		<clc_cocd>GB</clc_cocd>
+		<clc_co_desc>United Kingdom</clc_co_desc>
+		<clc_phon>02079122001</clc_phon>
+		<clc_cnam>ACME Ltd</clc_cnam>
+		<clc_ctnm>Asif Adam</clc_ctnm>
+		<clc_zpcd>W14 0HN</clc_zpcd>
+		<clc_emal>asif.adam@metafour.com</clc_emal>
+		<clc_lati>51.49888910</clc_lati>
+		<clc_long>-0.21900860</clc_long>
+		<ac_number>ACME</ac_number>
+		<mf_mfdt>04-Aug-2016</mf_mfdt>
+		<pd_desc>Outbound</pd_desc>
+		<dst_unit>KM</dst_unit>
+		<cr_wunt>KG</cr_wunt>
+		<cs_cval>0.00</cs_cval>
+		<cs_ival>0.00</cs_ival>
+		<cs_note>test job. please ignore. asif. adam@ metafour. com United
+			Kingdom Berghem Mews Personal Effects Direct Luggage Services
+			Netcourier system</cs_note>
+		<payor>SENDER</payor>
+		<create_date>17-Oct-2018</create_date>
+		<create_time>11:36</create_time>
+		<delivery_agent>UKMAIL</delivery_agent>
+		<rt_desc>UK Mail Route</rt_desc>
+		<us_desc>Admin user</us_desc>
+		<us_uscd>ADMIN</us_uscd>
+		<nop>1</nop>
+		<ca_adr1>Unit 2</ca_adr1>
+		<ca_adr2>Berghem Mews</ca_adr2>
+		<ca_adr3>Blythe Road</ca_adr3>
+		<ca_adr4>London</ca_adr4>
+		<ca_decd>AOD</ca_decd>
+		<ca_cocd>GB</ca_cocd>
+		<ca_co_desc>United Kingdom</ca_co_desc>
+		<ca_phon>02079122001</ca_phon>
+		<ca_cnam>ACME Ltd</ca_cnam>
+		<ca_ctnm>Asif Adam</ca_ctnm>
+		<ca_zpcd>W14 0HN</ca_zpcd>
+		<ca_emal>asif.adam@metafour.com</ca_emal>
+		<ca_lati>51.49888910</ca_lati>
+		<ca_long>-0.21900860</ca_long>
+		<da_adr1>unit 2</da_adr1>
+		<da_adr2>Berghem mews</da_adr2>
+		<da_adr3>Add3</da_adr3>
+		<da_adr4>London</da_adr4>
+		<da_decd>EC2</da_decd>
+		<da_cocd>GB</da_cocd>
+		<da_co_desc>United Kingdom</da_co_desc>
+		<da_phon>123456</da_phon>
+		<da_mobl>123456</da_mobl>
+		<da_faxn>789456</da_faxn>
+		<da_cnam>Metafour Uk Ltd</da_cnam>
+		<da_ctnm>Test</da_ctnm>
+		<da_zpcd>W14 0HN</da_zpcd>
+		<da_emal>seratun.nahar@metafour.com</da_emal>
+		<da_lati>51.49888910</da_lati>
+		<da_long>-0.21900860</da_long>
+		<da_zone>UK Mail Zone A</da_zone>
+		<netPrice>0.00</netPrice>
+		<totalPrice>0.00</totalPrice>
+		<vatAmount>0.00</vatAmount>
+		<sentBy>Asif Adam</sentBy>
+		<sentTo>Test</sentTo>
+		<sntoFullName>Test</sntoFullName>
+		<bookby>
+			<contact>seratun</contact>
+			<email>seratun.nahar@metafour.com</email>
+			<methods>
+			</methods>
+		</bookby>
+		<job_details>
+			<we_dept>1.00</we_dept>
+			<we_high>1.00</we_high>
+			<we_item>1</we_item>
+			<we_seqn>0001</we_seqn>
+			<we_didt>1.00</we_didt>
+			<we_twgt>1.00</we_twgt>
+			<item>1</item>
+			<desc></desc>
+		</job_details>
+		<job_details>
+			<we_dept>1.00</we_dept>
+			<we_high>2.00</we_high>
+			<we_item>1</we_item>
+			<we_seqn>0001</we_seqn>
+			<we_didt>1.00</we_didt>
+			<we_twgt>1.00</we_twgt>
+			<item>2</item>
+			<desc></desc>
+		</job_details>
+		<job_details>
+			<we_dept>1.00</we_dept>
+			<we_high>3.00</we_high>
+			<we_item>1</we_item>
+			<we_seqn>0001</we_seqn>
+			<we_didt>1.00</we_didt>
+			<we_twgt>1.00</we_twgt>
+			<item>3</item>
+			<desc></desc>
+		</job_details>
+		<job_details>
+			<we_dept>1.00</we_dept>
+			<we_high>4.00</we_high>
+			<we_item>1</we_item>
+			<we_seqn>0001</we_seqn>
+			<we_didt>1.00</we_didt>
+			<we_twgt>1.00</we_twgt>
+			<item>4</item>
+			<desc></desc>
+		</job_details>
+		<job_details>
+			<we_dept>1.00</we_dept>
+			<we_high>5.00</we_high>
+			<we_item>1</we_item>
+			<we_seqn>0001</we_seqn>
+			<we_didt>1.00</we_didt>
+			<we_twgt>1.00</we_twgt>
+			<item>5</item>
+			<desc></desc>
+		</job_details>
+		<packages>
+			<package>
+				<we_dept>1.00</we_dept>
+				<we_high>1.00</we_high>
+				<we_item>1</we_item>
+				<we_seqn>0001</we_seqn>
+				<we_didt>1.00</we_didt>
+				<we_twgt>1.00</we_twgt>
+				<item>1</item>
+				<desc></desc>
+			</package>
+		</packages>
+		<total>0.00</total>
+		<nopc>1</nopc>
+		<price_lines>
+			<line>
+				<desc>Sales Rate</desc>
+				<measuring_unit>pCWeight</measuring_unit>
+				<qty>1.000</qty>
+				<bassis>UNT</bassis>
+				<unit_price>0.000</unit_price>
+				<unit_price2>0.000</unit_price2>
+				<net_amount>0.000</net_amount>
+				<tax_code>1</tax_code>
+				<tax_rate>20.000</tax_rate>
+				<type>P</type>
+				<tax_amount>0.000</tax_amount>
+				<gross_amount>0.000</gross_amount>
+				<weight>0.000</weight>
+			</line>
+			<line>
+				<desc>Discount:</desc>
+				<measuring_unit></measuring_unit>
+				<qty>0.000</qty>
+				<bassis>PCV</bassis>
+				<unit_price>0.000</unit_price>
+				<unit_price2>0.000</unit_price2>
+				<net_amount>0.000</net_amount>
+				<tax_code>1</tax_code>
+				<tax_rate>20.000</tax_rate>
+				<type>D</type>
+				<tax_amount>0.000</tax_amount>
+				<gross_amount>0.000</gross_amount>
+				<weight>0.000</weight>
+			</line>
+		</price_lines>
+		<proforma_lines>
+		</proforma_lines>
+		<proformaCurrency>GBP</proformaCurrency>
+		<totalProforma2ndCur>0.00</totalProforma2ndCur>
+		<SecondCurrencyexRate></SecondCurrencyexRate>
+		<total_unty>0</total_unty>
+		<totalProforma>0.00</totalProforma>
+		<exportReason></exportReason>
+		<orign></orign>
+		<manufacturer></manufacturer>
+		<proformaNote></proformaNote>
+		<route_lines>
+			<line>
+				<leg_code>UK Mail Zone A</leg_code>
+				<from>London, Heathrow</from>
+				<to></to>
+				<tracking>No</tracking>
+				<bag_no></bag_no>
+				<mawb></mawb>
+			</line>
+		</route_lines>
+		<cost_lines>
+			<line>
+				<lg_code>UK Mail Zone A</lg_code>
+				<from>London, Heathrow</from>
+				<to></to>
+				<cost_type>Cost tariff UKMailA</cost_type>
+				<no_unit>1.000</no_unit>
+				<unit_cost>3.000</unit_cost>
+				<price>3.000</price>
+				<weight>0.000</weight>
+			</line>
+			<line>
+				<lg_code>UK Mail Zone A</lg_code>
+				<from>London, Heathrow</from>
+				<to></to>
+				<cost_type>Cost extra UK Mail FSC</cost_type>
+				<no_unit>9.750</no_unit>
+				<unit_cost>3.000</unit_cost>
+				<price>0.290</price>
+				<weight>0.000</weight>
+				<per_text>% of price chart value</per_text>
+			</line>
+		</cost_lines>
+		<task_lines>
+		</task_lines>
+		<note_lines>
+		</note_lines>
+		<legs>
+			<collection>
+				<leg_no>0</leg_no>
+			</collection>
+			<transport>
+				<leg_no>0</leg_no>
+			</transport>
+			<delivary>
+				<leg_no>0</leg_no>
+				<from>London, Heathrow</from>
+			</delivary>
+		</legs>
+		<stockitem>
+		</stockitem>
+		<jobleg_details>
+			<su_act1>S051604</su_act1>
+			<su_sid1>keith@directluggageservices.com</su_sid1>
+		</jobleg_details>
+	</hawb>
+</netc>
