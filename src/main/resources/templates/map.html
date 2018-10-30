@@ -5,6 +5,7 @@
 		<meta name="viewport" content="width=device-width, initial-scale=1.0"/>
 		<title>Fop PDF</title>
 		<meta th:substituteby="commons :: common-css"></meta>
+		<link rel="stylesheet" type="text/css" th:href="@{/css/map/map.css}"/>
 	</head>
 	<body>
 		<!-- side nav -->
@@ -22,10 +23,11 @@
 
 		<span th:substituteby="commons :: common-copyright"></span>
 
+		<!-- JS -->
 		<span th:substituteby="commons :: common-js"></span>
+		<script th:src="${'//maps.googleapis.com/maps/api/js?key=AIzaSyDwYA41PYl-jicwidzutPclA_QdpC8wNyE'}"></script>
 		<script type="text/javascript" th:src="@{/js/map/mapcluster.js}"></script>
+		<script src="http://cdn.sobekrepository.org/includes/gmaps-markerwithlabel/1.9.1/gmaps-markerwithlabel-1.9.1.js"></script>
 		<script type="text/javascript" th:src="@{/js/map/map.js}"></script>
-		<script th:src="${'//maps.googleapis.com/maps/api/js?key=AIzaSyDjoSHgDlrlj0ARkwjWe55FlkRtVUsQ-Rc'}" async="async" defer="defer"></script>
-		<div id="map"></div>
 	</body>
 </html>

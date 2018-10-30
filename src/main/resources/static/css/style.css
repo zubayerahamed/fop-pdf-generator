@@ -21,7 +21,3 @@ a.print{text-decoration: none;}
 	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#9dd53a', endColorstr='#7cbc0a',GradientType=0 ); /* IE6-9 */
 }
 .active a{color: #fff;}
-
-
-
-#map {height: 100%;}
