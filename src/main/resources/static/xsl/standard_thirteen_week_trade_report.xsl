@@ -32,7 +32,11 @@
 				<!-- page header -->
 				<fo:static-content flow-name="header-first">
 					<fo:block-container width="99%" left="0.5%" top="1mm" position="absolute">
-						<xsl:call-template name="title" />
+						<xsl:call-template name="title">
+							<xsl:with-param name="pid">
+								<xsl:value-of select="$pageid"></xsl:value-of>
+							</xsl:with-param>
+						</xsl:call-template>
 					</fo:block-container>
 				</fo:static-content>
 				<!-- page body -->
@@ -107,6 +111,12 @@
 
 	<!-- Report Header -->
 	<xsl:template name="title">
+		<xsl:param name="pid"/>
+		<fo:block-container position="absolute" top="10px">
+			<fo:block text-align="center" font-weight="bold">
+				<xsl:value-of select="companyName" />
+			</fo:block>
+		</fo:block-container>
 		<fo:block font-size="8pt" font-weight="bold" xsl:use-attribute-sets="header.border" margin-top="5px">
 			<fo:block font-size="12pt" font-weight="bold" margin-bottom="5px">
 				<xsl:value-of select="reportName" />
@@ -129,7 +139,8 @@
 						</fo:table-cell>	
 						<fo:table-cell>
 							<fo:block space-before="3pt" xsl:use-attribute-sets="text.align.right">
-								Page : &#160;&#160; <fo:page-number></fo:page-number>
+								<!-- Page : &#160;&#160; <fo:page-number></fo:page-number> -->
+								Page <fo:page-number/> of <fo:page-number-citation ref-id="{$pid}"/> 
 							</fo:block>
 						</fo:table-cell>
 					</fo:table-row>
