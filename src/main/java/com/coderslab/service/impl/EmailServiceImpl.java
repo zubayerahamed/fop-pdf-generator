@@ -7,7 +7,7 @@ import java.util.Map;
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;
 
-import org.assertj.core.util.Strings;
+
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 import org.springframework.stereotype.Service;
@@ -32,7 +32,7 @@ public class EmailServiceImpl implements EmailService{
 
 	@Override
 	public boolean sendEmail(Email email, String templateContent) {
-		if(Strings.isNullOrEmpty(templateContent)) return sendEmail(email);
+		//if(Strings.isNullOrEmpty(templateContent)) return sendEmail(email);
 		
 		return false;
 	}
@@ -61,12 +61,12 @@ public class EmailServiceImpl implements EmailService{
 
 	@Override
 	public boolean validate(String emails) {
-		if(Strings.isNullOrEmpty(emails)) return false;
+		//if(Strings.isNullOrEmpty(emails)) return false;
 		emails = emails.indexOf(';') != -1 ? emails.replace(';', ',') : emails;
 		Pattern pattern = Pattern.compile(EMAIL_REGEX);
 		String[] emailsArray = emails.split(",");
 		for(String email : emailsArray) {
-			if(Strings.isNullOrEmpty(email)) continue;
+		//	if(Strings.isNullOrEmpty(email)) continue;
 			Matcher matcher = pattern.matcher(email);
 			if(!matcher.matches()) return false;
 		}

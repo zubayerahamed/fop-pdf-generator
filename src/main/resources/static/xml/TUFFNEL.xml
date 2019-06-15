@@ -2,33 +2,33 @@
 <tfn>
     <labelType xsi:nil="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"/>
     <serviceCode>P1</serviceCode>
-    <accountNo>R021</accountNo>
+    <accountNo>1111109</accountNo>
     <depot>SHF</depot>
     <consignmentReference>14</consignmentReference>
     <clientReference xsi:nil="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"/>
     <despatchDate>31/05/19</despatchDate>
-    <barcode>01020045698701210002001</barcode>
-    <deliveryDepotNumber>42</deliveryDepotNumber>
+    <barcode>01028111110908250042001</barcode>
+    <deliveryDepotNumber>28</deliveryDepotNumber>
     <deliveryRound>R021</deliveryRound>
     <weight>5.50</weight>
-    <totalItem>002</totalItem>
+    <totalItem>004</totalItem>
     <itemNo>001</itemNo>
-    <collectionCompany>Linpac logistics</collectionCompany>
-    <collectionAddress1>Address 1</collectionAddress1>
-    <collectionAddress2 xsi:nil="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"/>
-    <collectionAddress3>Address 3</collectionAddress3>
-    <collectionAddress4>Address 4</collectionAddress4>
-    <collectionPostcode>W14 0HN</collectionPostcode>
+    <collectionCompany>Jamestest</collectionCompany>
+    <collectionAddress1>Shepcote house</collectionAddress1>
+    <collectionAddress2 xsi:nil="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">Shepcote lane</collectionAddress2>
+    <collectionAddress3>sheffield</collectionAddress3>
+    <collectionAddress4>South yorkshire</collectionAddress4>
+    <collectionPostcode>S9 1UW</collectionPostcode>
     <collectionCounty xsi:nil="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"/>
     <collectionCountry>GB</collectionCountry>
-    <deliveryCompany>ABC company</deliveryCompany>
-    <deliveryAddress1>Del address 1</deliveryAddress1>
-    <deliveryAddress2>Del address 2</deliveryAddress2>
-    <deliveryAddress3>Del address 3</deliveryAddress3>
-    <deliveryAddress4>Del address 4</deliveryAddress4>
-    <deliveryPostcode>W14 8EZ</deliveryPostcode>
+    <deliveryCompany>Tuffnells parcels express ltd</deliveryCompany>
+    <deliveryAddress1>James test</deliveryAddress1>
+    <deliveryAddress2>Shepocte house</deliveryAddress2>
+    <deliveryAddress3>Shepocte lane</deliveryAddress3>
+    <deliveryAddress4>sheffield south yorkshire</deliveryAddress4>
+    <deliveryPostcode>s9 1uw</deliveryPostcode>
     <deliveryCounty xsi:nil="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"/>
     <deliveryCountry>GB</deliveryCountry>
-    <deliveryTelephone>1324678998</deliveryTelephone>
+    <deliveryTelephone>01142564880</deliveryTelephone>
     <specialInstruction xsi:nil="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"/>
 </tfn>
