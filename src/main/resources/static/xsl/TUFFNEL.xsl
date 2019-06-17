@@ -1,4 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<!--!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!-->
+<!--!                                                              !-->
+<!--!    File Name    : tuffnell.xsl                               !-->
+<!--!    Description  : TUFFNELL PDF TEMPLATE                      !-->
+<!--!    Author       : Zubayer Ahamed                             !-->
+<!--!    Date         : 17-Jun-2019                                !-->
+<!--!    Copyright    : Copyright (c) M.F. Systems, 2019           !-->
+<!--!                                                              !-->
+<!--!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!-->
+
 <xsl:stylesheet version="1.1" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:fo="http://www.w3.org/1999/XSL/Format" exclude-result-prefixes="fo" xmlns:java="org.m4.fop.utility.Helper" extension-element-prefixes="java">
 	<xsl:output method="xml" version="1.0" omit-xml-declaration="no" indent="yes" />
 
@@ -32,78 +42,63 @@
 					<xsl:call-template name="DELIVERY-ADDRESS-SECTION" />
 					<xsl:call-template name="BOTTOM-BARCODE" />
 					<xsl:call-template name="RIGHT-BARCODE" />
+					<xsl:call-template name="SPECIAL-INS-SECTION" />
+					<xsl:call-template name="BLACK-BOX-SECTION" />
 
 				</fo:flow>
 			</fo:page-sequence>
 		</fo:root>
 	</xsl:template>
 
-	<!-- TOP BARCODE -->
-	<xsl:template name="BOTTOM-BARCODE">
-		<fo:block-container left="-0.5mm" right="0mm" top="100mm" position="absolute" xsl:use-attribute-sets="font.courier">
-			<fo:block font-size="30pt" xsl:use-attribute-sets="text.bold">
-				<xsl:variable name="barcode" select="barcode"></xsl:variable>
-				<fo:instream-foreign-object>
-					<barcode:barcode xmlns:barcode="http://barcode4j.krysalis.org/ns" message="{$barcode}">
-						<barcode:code128>
-							<barcode:height>22mm</barcode:height>
-							<barcode:module-width>0.53mm</barcode:module-width>
-							<barcode:human-readable>
-								<barcode:display-start-stop>
-									false
-								</barcode:display-start-stop>
-								<barcode:font-size>
-									9pt
-								</barcode:font-size>
-							</barcode:human-readable>
-						</barcode:code128>
-					</barcode:barcode>
-				</fo:instream-foreign-object>
-			</fo:block>
-		</fo:block-container>
-	</xsl:template>
+	<!-- GRAPHIC TABLE -->
+	<xsl:template name="GRAPHIC-TABLE">
+		<!-- TABLE BORDER HORIZONTAL 1ST -->
+		<fo:block-container width="92mm" height="0mm" top="12mm" position="absolute" xsl:use-attribute-sets="border.top"><fo:block></fo:block></fo:block-container>
 
-	<!-- RIGHT BARCODE -->
-	<xsl:template name="RIGHT-BARCODE">
-		<fo:block-container width="61.5mm" right="-1mm" top="28.25mm" position="absolute" text-align="center" xsl:use-attribute-sets="font.courier" reference-orientation="270">
-			<fo:block xsl:use-attribute-sets="text.bold">
-				<xsl:variable name="barcode" select="barcode"></xsl:variable>
-				<fo:instream-foreign-object>
-					<barcode:barcode xmlns:barcode="http://barcode4j.krysalis.org/ns" message="{$barcode}">
-						<barcode:code128>
-							<barcode:height>7mm</barcode:height>
-							<barcode:module-width>0.43mm</barcode:module-width>
-							<barcode:human-readable>
-								<barcode:display-start-stop>
-									false
-								</barcode:display-start-stop>
-								<barcode:font-size>
-									0pt
-								</barcode:font-size>
-							</barcode:human-readable>
-						</barcode:code128>
-					</barcode:barcode>
-				</fo:instream-foreign-object>
-			</fo:block>
-		</fo:block-container>
+		<!-- TABLE BORDER HORIZONTAL 2ND -->
+		<fo:block-container width="92mm" height="0mm" top="24mm" position="absolute" xsl:use-attribute-sets="border.top"><fo:block></fo:block></fo:block-container>
+
+		<!-- TABLE BORDER HORIZONTAL 3RD -->
+		<fo:block-container width="27mm" height="0mm" top="64mm" position="absolute" xsl:use-attribute-sets="border.top"><fo:block></fo:block></fo:block-container>
+
+		<!-- TABLE BORDER HORIZONTAL 4TH -->
+		<fo:block-container width="92mm" height="0mm" top="84mm" position="absolute" xsl:use-attribute-sets="border.top"><fo:block></fo:block></fo:block-container>
+
+		<!-- TABLE BORDER HORIZONTAL 5TH -->
+		<fo:block-container width="92mm" height="0mm" top="96mm" position="absolute" xsl:use-attribute-sets="border.top"><fo:block></fo:block></fo:block-container>
+
+		<!-- TABLE BORDER VERTICLE FIRST -->
+		<fo:block-container width="0mm" height="84.36mm" top="12mm" left="0mm" position="absolute" xsl:use-attribute-sets="border.left"><fo:block></fo:block></fo:block-container>
+
+		<!-- TABLE BORDER VERTICLE LAST -->
+		<fo:block-container width="0mm" height="84.36mm" top="12mm" left="92mm" position="absolute" xsl:use-attribute-sets="border.right"><fo:block></fo:block></fo:block-container>
+
+		<!-- TABLE BORDER VERTICLE MIDDLE 1 -->
+		<fo:block-container width="0mm" height="12mm" top="12mm" left="50mm" position="absolute" xsl:use-attribute-sets="border.right"><fo:block></fo:block></fo:block-container>
+
+		<!-- TABLE BORDER VERTICLE MIDDLE 2 -->
+		<fo:block-container width="0mm" height="60mm" top="24mm" left="27mm" position="absolute" xsl:use-attribute-sets="border.right"><fo:block></fo:block></fo:block-container>
+
+		<!-- TABLE BORDER VERTICLE MIDDLE 3 -->
+		<fo:block-container width="0mm" height="38mm" top="46mm" left="83mm" position="absolute" xsl:use-attribute-sets="border.right"><fo:block></fo:block></fo:block-container>
 	</xsl:template>
 
 	<!-- HEADER SECTION -->
 	<xsl:template name="HEADER-SECTION">
-		<fo:block-container right="0mm" top="-3.5mm" position="absolute" xsl:use-attribute-sets="font.courier">
-			<fo:block font-size="40pt" xsl:use-attribute-sets="text.bold"> <xsl:value-of select="serviceCode" /> </fo:block>
+		<fo:block-container width="50mm" height="15mm" right="0mm" top="-3.8mm" position="absolute" xsl:use-attribute-sets="font.courier">
+			<fo:block font-size="42pt" xsl:use-attribute-sets="text.bold"> <xsl:value-of select="serviceCode" /> </fo:block>
 		</fo:block-container>
-		<fo:block-container left="65mm" top="-3.5mm" position="absolute" xsl:use-attribute-sets="font.courier">
-			<fo:block font-size="40pt" xsl:use-attribute-sets="text.bold"> <xsl:value-of select="depot" /> </fo:block>
+		<fo:block-container width="30mm" height="15mm" left="62mm" top="-3.8mm" position="absolute" xsl:use-attribute-sets="font.courier">
+			<fo:block font-size="42pt" xsl:use-attribute-sets="text.bold"> <xsl:value-of select="depot" /> </fo:block>
 		</fo:block-container>
-		<fo:block-container left="75mm" top="8mm" position="absolute" xsl:use-attribute-sets="font.courier">
+		<fo:block-container left="75mm" top="9mm" position="absolute" xsl:use-attribute-sets="font.courier">
 			<fo:block font-size="10pt" xsl:use-attribute-sets="text.bold"> <xsl:value-of select="deliveryRound" /> </fo:block>
 		</fo:block-container>
 	</xsl:template>
 
 	<!-- CONSIGNMENT-REF SECTION -->
 	<xsl:template name="CONSIGNMENT-REF-SECTION">
-		<fo:block-container left="1.5mm" top="11.5mm" position="absolute" xsl:use-attribute-sets="font.courier2">
+		<fo:block-container width="48.5mm" left="1.5mm" top="12.5mm" position="absolute" xsl:use-attribute-sets="font.courier2">
 			<fo:block font-size="7pt"> Consignment Ref. </fo:block>
 			<fo:block font-size="22pt" xsl:use-attribute-sets="text.bold"> <xsl:value-of select="consignmentReference"></xsl:value-of> </fo:block>
 		</fo:block-container>
@@ -111,50 +106,37 @@
 
 	<!-- COLLECTION ADDRESS SECTION -->
 	<xsl:template name="COLLECTION-ADDRESS-SECTION">
-		<fo:block-container left="52mm" top="11.5mm" position="absolute" xsl:use-attribute-sets="font.courier">
+		<fo:block-container left="52mm" top="12.2mm" position="absolute" xsl:use-attribute-sets="font.courier">
 			<fo:block font-size="7pt" margin-top="0mm"> <xsl:value-of select="collectionCompany"></xsl:value-of> </fo:block>
-			<fo:block font-size="7pt" margin-top="-0.5mm"> <xsl:value-of select="collectionAddress1"></xsl:value-of> </fo:block>
-			<fo:block font-size="7pt" margin-top="-0.5mm"> <xsl:value-of select="collectionAddress2"></xsl:value-of> </fo:block>
-			<fo:block font-size="7pt" margin-top="-0.5mm"> <xsl:value-of select="collectionAddress3"></xsl:value-of> </fo:block>
-			<fo:block font-size="7pt" margin-top="-0.5mm"> <xsl:value-of select="collectionAddress4"> </xsl:value-of> <xsl:value-of select="collectionPostcode"></xsl:value-of> </fo:block>
+			<fo:block font-size="7pt" margin-top="-0.7mm"> <xsl:value-of select="collectionAddress1"></xsl:value-of> </fo:block>
+			<fo:block font-size="7pt" margin-top="-0.7mm"> <xsl:value-of select="collectionAddress2"></xsl:value-of> </fo:block>
+			<fo:block font-size="7pt" margin-top="-0.7mm"> <xsl:value-of select="collectionAddress3"></xsl:value-of> </fo:block>
+			<fo:block font-size="7pt" margin-top="-0.7mm"> <xsl:value-of select="collectionAddress4"/>, <xsl:value-of select="collectionPostcode"/></fo:block>
 		</fo:block-container>
 	</xsl:template>
 
 	<!-- ITEM-WEIGHT-DDATE SECTION -->
 	<xsl:template name="ITEM-WEIGHT-DDATE-SECTION">
-		<fo:block-container left="0.5mm" top="24.5mm" position="absolute" xsl:use-attribute-sets="font.courier2">
+		<fo:block-container width="26mm" height="44mm" left="0.5mm" top="24.5mm" position="absolute" xsl:use-attribute-sets="font.courier2">
 			<fo:block font-size="7pt"> Item </fo:block>
-		</fo:block-container>
-		<fo:block-container left="2.5mm" top="27.5mm" position="absolute" xsl:use-attribute-sets="font.courier2">
-			<fo:block font-size="21pt" xsl:use-attribute-sets="text.bold"> <xsl:value-of select="itemNo"></xsl:value-of> </fo:block>
-		</fo:block-container>
-		<fo:block-container left="0.5mm" top="36.5mm" position="absolute" xsl:use-attribute-sets="font.courier2">
+			<fo:block font-size="19pt" margin-left="2mm" xsl:use-attribute-sets="text.bold"> <xsl:value-of select="itemNo"></xsl:value-of> </fo:block>
 			<fo:block font-size="7pt"> of </fo:block>
-		</fo:block-container>
-		<fo:block-container left="2.5mm" top="40.5mm" position="absolute" xsl:use-attribute-sets="font.courier2">
-			<fo:block font-size="21pt" xsl:use-attribute-sets="text.bold"> <xsl:value-of select="totalItem"></xsl:value-of> </fo:block>
-		</fo:block-container>
-		<fo:block-container left="0.5mm" top="47.5mm" position="absolute" xsl:use-attribute-sets="font.courier2">
-			<fo:block font-size="7pt"> Total Weight Kg </fo:block>
-		</fo:block-container>
-		<fo:block-container left="0.5mm" top="52.5mm" position="absolute" xsl:use-attribute-sets="font.courier2">
-			<fo:block font-size="23pt" xsl:use-attribute-sets="text.bold"> <xsl:value-of select="weight"></xsl:value-of> </fo:block>
-		</fo:block-container>
-		<fo:block-container left="0.5mm" top="60.5mm" position="absolute" xsl:use-attribute-sets="font.courier2">
-			<fo:block font-size="7pt"> Despatched </fo:block>
+			<fo:block font-size="19pt" margin-left="6mm" xsl:use-attribute-sets="text.bold"> <xsl:value-of select="totalItem"></xsl:value-of> </fo:block>
+			<fo:block font-size="7pt" margin-top="-1.5mm"> Total Weight Kg </fo:block>
+			<fo:block font-size="19pt" margin-top="1mm" xsl:use-attribute-sets="text.bold"> <xsl:value-of select="weight"></xsl:value-of> </fo:block>
+			<fo:block font-size="7pt" margin-top="-1.5mm"> Despatched </fo:block>
 			<fo:block margin-top="1.5mm" font-size="10pt" font-weight="bold"> <xsl:value-of select="despatchDate"></xsl:value-of> </fo:block>
 		</fo:block-container>
 	</xsl:template>
 
 	<!-- COMPANY SECTION -->
 	<xsl:template name="COMPANY-SECTION">
-		<fo:block-container width="26mm" height="20mm" left="0.5mm" top="69mm" text-align="center" position="absolute" xsl:use-attribute-sets="font.courier2">
+		<fo:block-container width="26mm" height="20mm" left="0.5mm" top="64mm" text-align="center" position="absolute" xsl:use-attribute-sets="font.courier2">
 			<fo:block margin-top="0.5mm" font-size="10pt" font-weight="bold"> Tuffnells </fo:block>
 			<fo:block margin-top="-0.5mm" font-size="8pt"> Parcels Express </fo:block>
 			<fo:block margin-top="-0.5mm" font-size="9pt"> <xsl:value-of select="deliveryTelephone"></xsl:value-of> </fo:block>
 			<fo:block margin-top="1mm" font-size="8pt"> <xsl:value-of select="accountNo"></xsl:value-of> </fo:block>
 			<fo:block margin-top="-0.5mm" font-size="8pt" font-weight="bold"> <xsl:value-of select="deliveryDepotNumber"></xsl:value-of>/<xsl:value-of select="deliveryRound"></xsl:value-of> </fo:block>
-			<fo:block margin-left="11mm" margin-top="-0.5mm" font-size="8pt"> Ez.W </fo:block>
 		</fo:block-container>
 	</xsl:template>
 
@@ -177,47 +159,76 @@
 		</fo:block-container>
 	</xsl:template>
 
+	<!-- SPECIAL-INS SECTION -->
+	<xsl:template name="SPECIAL-INS-SECTION">
+		<fo:block-container width="91mm" height="11.5mm" left="0.5mm" top="84mm" position="absolute" xsl:use-attribute-sets="font.courier">
+			<fo:block margin-top="0.5mm" font-size="8pt"> <xsl:value-of select="specialInstruction"></xsl:value-of> </fo:block>
+		</fo:block-container>
+	</xsl:template>
 
-	<!-- GRAPHIC TABLE -->
-	<xsl:template name="GRAPHIC-TABLE">
-		<!-- TABLE BORDER HORIZONTAL FIRST -->
-		<fo:block-container width="92mm" height="0mm" top="11mm" border-top="1px solid #000000" position="absolute"><fo:block></fo:block></fo:block-container>
+	<!-- BLACK-BOX SECTION -->
+	<xsl:template name="BLACK-BOX-SECTION">
+		<fo:block-container width="9mm" height="5.0mm" top="42mm" left="83mm" background-color="#000" text-align="center" position="absolute">
+			<fo:block margin-top="0.5mm" color="#fff" font-weight="bold" font-size="10pt"> T/L </fo:block>
+			<fo:block margin-top="2.5mm" font-weight="bold" font-size="10pt"> - </fo:block>
+		</fo:block-container>
+		<fo:block-container width="9mm" height="5.0mm" top="56mm" left="83mm" background-color="#000" text-align="center" position="absolute">
+			<fo:block margin-top="0.5mm" color="#fff" font-weight="bold" font-size="10pt"> ALT </fo:block>
+			<fo:block margin-top="2.5mm" font-weight="bold" font-size="10pt"> - </fo:block>
+		</fo:block-container>
+		<fo:block-container width="9mm" height="5.0mm" top="70mm" left="83mm" background-color="#000" text-align="center" position="absolute">
+			<fo:block margin-top="0.5mm" color="#fff" font-weight="bold" font-size="10pt"> RPO </fo:block>
+		</fo:block-container>
+	</xsl:template>
 
-		<!-- TABLE BORDER HORIZONTAL 2ND -->
-		<fo:block-container width="92mm" height="0mm" top="24mm" border-top="1px solid #000000" position="absolute"><fo:block></fo:block></fo:block-container>
+	<!-- BOTTOM BARCODE -->
+	<xsl:template name="BOTTOM-BARCODE">
+		<fo:block-container left="-0.5mm" right="0mm" top="97mm" position="absolute" xsl:use-attribute-sets="font.courier">
+			<fo:block font-size="30pt" xsl:use-attribute-sets="text.bold">
+				<xsl:variable name="barcode" select="barcode"></xsl:variable>
+				<fo:instream-foreign-object>
+					<barcode:barcode xmlns:barcode="http://barcode4j.krysalis.org/ns" message="{$barcode}">
+						<barcode:code128>
+							<barcode:height>25mm</barcode:height>
+							<barcode:module-width>0.53mm</barcode:module-width>
+							<barcode:human-readable>
+								<barcode:display-start-stop>
+									false
+								</barcode:display-start-stop>
+								<barcode:font-size>
+									9pt
+								</barcode:font-size>
+							</barcode:human-readable>
+						</barcode:code128>
+					</barcode:barcode>
+				</fo:instream-foreign-object>
+			</fo:block>
+		</fo:block-container>
+	</xsl:template>
 
-		<!-- TABLE BORDER HORIZONTAL 3RD -->
-		<fo:block-container width="27mm" height="0mm" top="69mm" border-top="1px solid #000000" position="absolute"><fo:block></fo:block></fo:block-container>
-
-		<!-- TABLE BORDER HORIZONTAL 4TH -->
-		<fo:block-container width="92mm" height="0mm" top="90mm" border-top="1px solid #000000" position="absolute"><fo:block></fo:block></fo:block-container>
-
-		<!-- TABLE BORDER HORIZONTAL 5TH -->
-		<fo:block-container width="92mm" height="0mm" top="100mm" border-top="1px solid #000000" position="absolute"><fo:block></fo:block></fo:block-container>
-
-		<!-- TABLE BORDER VERTICLE FIRST -->
-		<fo:block-container width="0mm" height="89mm" top="11mm" left="0mm" border-left="1px solid #000000" position="absolute"><fo:block></fo:block></fo:block-container>
-
-		<!-- TABLE BORDER VERTICLE LAST -->
-		<fo:block-container width="0mm" height="89mm" top="11mm" left="92mm" border-right="1px solid #000000" position="absolute"><fo:block></fo:block></fo:block-container>
-
-		<!-- TABLE BORDER VERTICLE MIDDLE 1 -->
-		<fo:block-container width="0mm" height="13mm" top="11mm" left="50mm" border-right="1px solid #000000" position="absolute"><fo:block></fo:block></fo:block-container>
-
-		<!-- TABLE BORDER VERTICLE MIDDLE 2 -->
-		<fo:block-container width="0mm" height="66mm" top="24mm" left="27mm" border-right="1px solid #000000" position="absolute"><fo:block></fo:block></fo:block-container>
-
-		<!-- TABLE BORDER VERTICLE MIDDLE 3 -->
-		<fo:block-container width="0mm" height="47mm" top="46mm" left="80mm" border-right="1px solid #000000" position="absolute"><fo:block></fo:block></fo:block-container>
-
-		<!-- MIDDLE BLACK BOX 1 -->
-		<fo:block-container width="10mm" height="6mm" top="46mm" left="80mm" background-color="#000000"  position="absolute"><fo:block></fo:block></fo:block-container>
-
-		<!-- MIDDLE BLACK BOX 2 -->
-		<fo:block-container width="10mm" height="6mm" top="61mm" left="80mm" background-color="#000000"  position="absolute"><fo:block></fo:block></fo:block-container>
-
-		<!-- MIDDLE BLACK BOX 3 -->
-		<fo:block-container width="10mm" height="6mm" top="75mm" left="80mm" background-color="#000000"  position="absolute"><fo:block></fo:block></fo:block-container>
+	<!-- RIGHT BARCODE -->
+	<xsl:template name="RIGHT-BARCODE">
+		<fo:block-container width="61.5mm" right="-1mm" top="24.25mm" position="absolute" text-align="center" xsl:use-attribute-sets="font.courier" reference-orientation="270">
+			<fo:block xsl:use-attribute-sets="text.bold">
+				<xsl:variable name="barcode" select="barcode"></xsl:variable>
+				<fo:instream-foreign-object>
+					<barcode:barcode xmlns:barcode="http://barcode4j.krysalis.org/ns" message="{$barcode}">
+						<barcode:code128>
+							<barcode:height>7mm</barcode:height>
+							<barcode:module-width>0.41mm</barcode:module-width>
+							<barcode:human-readable>
+								<barcode:display-start-stop>
+									false
+								</barcode:display-start-stop>
+								<barcode:font-size>
+									0pt
+								</barcode:font-size>
+							</barcode:human-readable>
+						</barcode:code128>
+					</barcode:barcode>
+				</fo:instream-foreign-object>
+			</fo:block>
+		</fo:block-container>
 	</xsl:template>
 
 	<!-- STYLE SHEETS -->
@@ -244,11 +255,6 @@
 	<xsl:attribute-set name="font.courier2">
 		<xsl:attribute name="font-family">Courier</xsl:attribute>
 		<xsl:attribute name="font-size">13pt</xsl:attribute>
-	</xsl:attribute-set>
-	<xsl:attribute-set name="font.courier.address">
-		<xsl:attribute name="font-family">Courier</xsl:attribute>
-		<xsl:attribute name="font-size">11pt</xsl:attribute>
-		<xsl:attribute name="text-transform">uppercase</xsl:attribute>
 	</xsl:attribute-set>
 	<xsl:attribute-set name="text.bold">
 		<xsl:attribute name="font-weight">bold</xsl:attribute>

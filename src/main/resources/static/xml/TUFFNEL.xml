@@ -30,5 +30,5 @@
     <deliveryCounty xsi:nil="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"/>
     <deliveryCountry>GB</deliveryCountry>
     <deliveryTelephone>01142564880</deliveryTelephone>
-    <specialInstruction xsi:nil="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"/>
+    <specialInstruction xsi:nil="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">These are special instruction</specialInstruction>
 </tfn>
