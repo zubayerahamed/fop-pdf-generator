@@ -1,0 +1,542 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<earningReport>
+	<companyName>DEV Courier Ltd.</companyName>
+	<reportName>Nimm</reportName>
+	<fromDate>2019-10-01</fromDate>
+	<toDate>2019-10-07</toDate>
+	<printDate>2019-10-03</printDate>
+	<tableHeader>
+		<head>Driver name</head>
+		<head>3rd most recent invoice</head>
+		<head>2nd most recent invoice</head>
+		<head>Most recent invoice</head>
+		<head>Tue (01/10/19)</head>
+		<head>Wed (02/10/19)</head>
+		<head>Thu (03/10/19)</head>
+		<head>Fri (04/10/19)</head>
+		<head>Sat (05/10/19)</head>
+		<head>Sun (06/10/19)</head>
+		<head>Mon (07/10/19)</head>
+		<head>Mon (08/10/19)</head>
+		<head>Total earned / Minimum earnings</head>
+	</tableHeader>
+	<tableData>
+		<data>alex</data>
+		<data>0.00</data>
+		<data>0.00</data>
+		<data>1082.61</data>
+		<data>0.00</data>
+		<data>0.00</data>
+		<data>1085.00</data>
+		<data>0.00</data>
+		<data>0.00</data>
+		<data>0.00</data>
+		<data>0.00</data>
+			<data>99.00</data>
+		<data>1085.00 / 1000.00</data>
+	</tableData>
+	<!-- <tableData>
+		<data>carolyn leigh</data>
+		<data>0.00</data>
+		<data>0.00</data>
+		<data>0.00</data>
+		<data>0.00</data>
+		<data>0.00</data>
+		<data>0.00</data>
+		<data>0.00</data>
+		<data>0.00</data>
+		<data>0.00</data>
+		<data>0.00</data>
+		<data>0.00 / 1000.00</data>
+	</tableData>
+	<tableData>
+		<data>Copy of dd</data>
+		<data>0.00</data>
+		<data>0.00</data>
+		<data>0.00</data>
+		<data>0.00</data>
+		<data>0.00</data>
+		<data>0.00</data>
+		<data>0.00</data>
+		<data>0.00</data>
+		<data>0.00</data>
+		<data>0.00</data>
+		<data>0.00 / 1000.00</data>
+	</tableData>
+	<tableData>
+		<data>Copy of Metafour System Admin</data>
+		<data>0.00</data>
+		<data>0.00</data>
+		<data>0.00</data>
+		<data>0.00</data>
+		<data>0.00</data>
+		<data>0.00</data>
+		<data>0.00</data>
+		<data>0.00</data>
+		<data>0.00</data>
+		<data>0.00</data>
+		<data>0.00 / 1000.00</data>
+	</tableData>
+	<tableData>
+		<data>DRIVER 02 - DUNCAN</data>
+		<data>0.00</data>
+		<data>0.00</data>
+		<data>0.00</data>
+		<data>0.00</data>
+		<data>0.00</data>
+		<data>0.00</data>
+		<data>0.00</data>
+		<data>0.00</data>
+		<data>0.00</data>
+		<data>0.00</data>
+		<data>0.00 / 1000.00</data>
+	</tableData>
+	<tableData>
+		<data>Driver A</data>
+		<data>0.00</data>
+		<data>404.20</data>
+		<data>211.24</data>
+		<data>0.00</data>
+		<data>0.00</data>
+		<data>0.00</data>
+		<data>0.00</data>
+		<data>0.00</data>
+		<data>0.00</data>
+		<data>0.00</data>
+		<data>0.00 / 1125.00</data>
+	</tableData>
+	<tableData>
+		<data>Driver B</data>
+		<data>0.00</data>
+		<data>0.00</data>
+		<data>0.00</data>
+		<data>0.00</data>
+		<data>0.00</data>
+		<data>0.00</data>
+		<data>0.00</data>
+		<data>0.00</data>
+		<data>0.00</data>
+		<data>0.00</data>
+		<data>0.00 / 1000.00</data>
+	</tableData>
+	<tableData>
+		<data>Driver C</data>
+		<data>0.00</data>
+		<data>0.00</data>
+		<data>0.00</data>
+		<data>0.00</data>
+		<data>0.00</data>
+		<data>0.00</data>
+		<data>0.00</data>
+		<data>0.00</data>
+		<data>0.00</data>
+		<data>0.00</data>
+		<data>0.00 / 1000.00</data>
+	</tableData>
+	<tableData>
+		<data>Driver D</data>
+		<data>0.00</data>
+		<data>0.00</data>
+		<data>0.00</data>
+		<data>0.00</data>
+		<data>0.00</data>
+		<data>0.00</data>
+		<data>0.00</data>
+		<data>0.00</data>
+		<data>0.00</data>
+		<data>0.00</data>
+		<data>0.00 / 1000.00</data>
+	</tableData>
+	<tableData>
+		<data>Driver E</data>
+		<data>0.00</data>
+		<data>0.00</data>
+		<data>0.00</data>
+		<data>0.00</data>
+		<data>0.00</data>
+		<data>0.00</data>
+		<data>0.00</data>
+		<data>0.00</data>
+		<data>0.00</data>
+		<data>0.00</data>
+		<data>0.00 / 1000.00</data>
+	</tableData>
+	<tableData>
+		<data>Driver J</data>
+		<data>0.00</data>
+		<data>0.00</data>
+		<data>0.00</data>
+		<data>0.00</data>
+		<data>0.00</data>
+		<data>0.00</data>
+		<data>0.00</data>
+		<data>0.00</data>
+		<data>0.00</data>
+		<data>0.00</data>
+		<data>0.00 / 1125.00</data>
+	</tableData>
+	<tableData>
+		<data>Driver M</data>
+		<data>0.00</data>
+		<data>0.00</data>
+		<data>0.00</data>
+		<data>0.00</data>
+		<data>0.00</data>
+		<data>0.00</data>
+		<data>0.00</data>
+		<data>0.00</data>
+		<data>0.00</data>
+		<data>0.00</data>
+		<data>0.00 / 1125.00</data>
+	</tableData>
+	<tableData>
+		<data>Driver N</data>
+		<data>0.00</data>
+		<data>0.00</data>
+		<data>0.00</data>
+		<data>0.00</data>
+		<data>0.00</data>
+		<data>0.00</data>
+		<data>0.00</data>
+		<data>0.00</data>
+		<data>0.00</data>
+		<data>0.00</data>
+		<data>0.00 / 1125.00</data>
+	</tableData>
+	<tableData>
+		<data>Driver O</data>
+		<data>0.00</data>
+		<data>0.00</data>
+		<data>0.00</data>
+		<data>0.00</data>
+		<data>0.00</data>
+		<data>0.00</data>
+		<data>0.00</data>
+		<data>0.00</data>
+		<data>0.00</data>
+		<data>0.00</data>
+		<data>0.00 / 1125.00</data>
+	</tableData>
+	<tableData>
+		<data>Driver P</data>
+		<data>0.00</data>
+		<data>0.00</data>
+		<data>0.00</data>
+		<data>0.00</data>
+		<data>0.00</data>
+		<data>0.00</data>
+		<data>0.00</data>
+		<data>0.00</data>
+		<data>0.00</data>
+		<data>0.00</data>
+		<data>0.00 / 1125.00</data>
+	</tableData>
+	<tableData>
+		<data>Driver Q</data>
+		<data>0.00</data>
+		<data>0.00</data>
+		<data>0.00</data>
+		<data>0.00</data>
+		<data>0.00</data>
+		<data>0.00</data>
+		<data>0.00</data>
+		<data>0.00</data>
+		<data>0.00</data>
+		<data>0.00</data>
+		<data>0.00 / 1125.00</data>
+	</tableData>
+	<tableData>
+		<data>Driver R</data>
+		<data>0.00</data>
+		<data>0.00</data>
+		<data>0.00</data>
+		<data>0.00</data>
+		<data>0.00</data>
+		<data>0.00</data>
+		<data>0.00</data>
+		<data>0.00</data>
+		<data>0.00</data>
+		<data>0.00</data>
+		<data>0.00 / 1125.00</data>
+	</tableData>
+	<tableData>
+		<data>Duke</data>
+		<data>0.00</data>
+		<data>0.00</data>
+		<data>0.00</data>
+		<data>0.00</data>
+		<data>0.00</data>
+		<data>0.00</data>
+		<data>0.00</data>
+		<data>0.00</data>
+		<data>0.00</data>
+		<data>0.00</data>
+		<data>0.00 / 1000.00</data>
+	</tableData>
+	<tableData>
+		<data>Duncan Morris</data>
+		<data>0.00</data>
+		<data>0.00</data>
+		<data>0.00</data>
+		<data>0.00</data>
+		<data>0.00</data>
+		<data>0.00</data>
+		<data>0.00</data>
+		<data>0.00</data>
+		<data>0.00</data>
+		<data>0.00</data>
+		<data>0.00 / 1000.00</data>
+	</tableData>
+	<tableData>
+		<data>hand mobile</data>
+		<data>0.00</data>
+		<data>0.00</data>
+		<data>0.00</data>
+		<data>0.00</data>
+		<data>0.00</data>
+		<data>0.00</data>
+		<data>0.00</data>
+		<data>0.00</data>
+		<data>0.00</data>
+		<data>0.00</data>
+		<data>0.00 / 1000.00</data>
+	</tableData>
+	<tableData>
+		<data>m9</data>
+		<data>0.00</data>
+		<data>0.00</data>
+		<data>0.00</data>
+		<data>0.00</data>
+		<data>0.00</data>
+		<data>0.00</data>
+		<data>0.00</data>
+		<data>0.00</data>
+		<data>0.00</data>
+		<data>0.00</data>
+		<data>0.00 / 1000.00</data>
+	</tableData>
+	<tableData>
+		<data>Md Abu Naim Murad</data>
+		<data>551.56</data>
+		<data>563.42</data>
+		<data>874.65</data>
+		<data>0.00</data>
+		<data>0.00</data>
+		<data>0.00</data>
+		<data>0.00</data>
+		<data>0.00</data>
+		<data>0.00</data>
+		<data>0.00</data>
+		<data>0.00 / 1000.00</data>
+	</tableData>
+	<tableData>
+		<data>Metafour System Admin</data>
+		<data>0.00</data>
+		<data>0.00</data>
+		<data>0.00</data>
+		<data>0.00</data>
+		<data>0.00</data>
+		<data>0.00</data>
+		<data>0.00</data>
+		<data>0.00</data>
+		<data>0.00</data>
+		<data>0.00</data>
+		<data>0.00 / 1000.00</data>
+	</tableData>
+	<tableData>
+		<data>mithun</data>
+		<data>0.00</data>
+		<data>0.00</data>
+		<data>0.00</data>
+		<data>0.00</data>
+		<data>0.00</data>
+		<data>0.00</data>
+		<data>0.00</data>
+		<data>0.00</data>
+		<data>0.00</data>
+		<data>0.00</data>
+		<data>0.00 / 1000.00</data>
+	</tableData>
+	<tableData>
+		<data>MMM55</data>
+		<data>0.00</data>
+		<data>0.00</data>
+		<data>0.00</data>
+		<data>0.00</data>
+		<data>0.00</data>
+		<data>0.00</data>
+		<data>0.00</data>
+		<data>0.00</data>
+		<data>0.00</data>
+		<data>0.00</data>
+		<data>0.00 / 1000.00</data>
+	</tableData>
+	<tableData>
+		<data>Mushfiqur Rahman</data>
+		<data>0.00</data>
+		<data>0.00</data>
+		<data>0.00</data>
+		<data>0.00</data>
+		<data>0.00</data>
+		<data>0.00</data>
+		<data>0.00</data>
+		<data>0.00</data>
+		<data>0.00</data>
+		<data>0.00</data>
+		<data>0.00 / 1000.00</data>
+	</tableData>
+	<tableData>
+		<data>Nadim</data>
+		<data>0.00</data>
+		<data>0.00</data>
+		<data>0.00</data>
+		<data>0.00</data>
+		<data>0.00</data>
+		<data>0.00</data>
+		<data>0.00</data>
+		<data>0.00</data>
+		<data>0.00</data>
+		<data>0.00</data>
+		<data>0.00 / 1000.00</data>
+	</tableData>
+	<tableData>
+		<data>Naiiim</data>
+		<data>0.00</data>
+		<data>0.00</data>
+		<data>0.00</data>
+		<data>0.00</data>
+		<data>0.00</data>
+		<data>0.00</data>
+		<data>0.00</data>
+		<data>0.00</data>
+		<data>0.00</data>
+		<data>0.00</data>
+		<data>0.00 / 1000.00</data>
+	</tableData>
+	<tableData>
+		<data>Nobel</data>
+		<data>0.00</data>
+		<data>0.00</data>
+		<data>0.00</data>
+		<data>0.00</data>
+		<data>0.00</data>
+		<data>0.00</data>
+		<data>0.00</data>
+		<data>0.00</data>
+		<data>0.00</data>
+		<data>0.00</data>
+		<data>0.00 / 1000.00</data>
+	</tableData>
+	<tableData>
+		<data>Sayeedul Islam</data>
+		<data>0.00</data>
+		<data>0.00</data>
+		<data>0.00</data>
+		<data>0.00</data>
+		<data>0.00</data>
+		<data>0.00</data>
+		<data>0.00</data>
+		<data>0.00</data>
+		<data>0.00</data>
+		<data>0.00</data>
+		<data>0.00 / 1000.00</data>
+	</tableData>
+	<tableData>
+		<data>Sohel</data>
+		<data>0.00</data>
+		<data>0.00</data>
+		<data>0.00</data>
+		<data>0.00</data>
+		<data>0.00</data>
+		<data>0.00</data>
+		<data>0.00</data>
+		<data>0.00</data>
+		<data>0.00</data>
+		<data>0.00</data>
+		<data>0.00 / 1000.00</data>
+	</tableData>
+	<tableData>
+		<data>solid snake</data>
+		<data>0.00</data>
+		<data>0.00</data>
+		<data>0.00</data>
+		<data>0.00</data>
+		<data>0.00</data>
+		<data>0.00</data>
+		<data>0.00</data>
+		<data>0.00</data>
+		<data>0.00</data>
+		<data>0.00</data>
+		<data>0.00 / 1000.00</data>
+	</tableData>
+	<tableData>
+		<data>Test driver</data>
+		<data>0.00</data>
+		<data>0.00</data>
+		<data>0.00</data>
+		<data>0.00</data>
+		<data>0.00</data>
+		<data>0.00</data>
+		<data>0.00</data>
+		<data>0.00</data>
+		<data>0.00</data>
+		<data>0.00</data>
+		<data>0.00 / 1000.00</data>
+	</tableData>
+	<tableData>
+		<data>This is tetsts tst sts tts sm4 test user</data>
+		<data>579.71</data>
+		<data>298.20</data>
+		<data>0.00</data>
+		<data>0.00</data>
+		<data>0.00</data>
+		<data>0.00</data>
+		<data>0.00</data>
+		<data>0.00</data>
+		<data>0.00</data>
+		<data>0.00</data>
+		<data>0.00 / 1000.00</data>
+	</tableData>
+	<tableData>
+		<data>zahid</data>
+		<data>0.00</data>
+		<data>0.00</data>
+		<data>0.00</data>
+		<data>0.00</data>
+		<data>0.00</data>
+		<data>0.00</data>
+		<data>0.00</data>
+		<data>0.00</data>
+		<data>0.00</data>
+		<data>0.00</data>
+		<data>0.00 / 1000.00</data>
+	</tableData>
+	<tableData>
+		<data>Zubayer Both</data>
+		<data>347.57</data>
+		<data>488.89</data>
+		<data>910.61</data>
+		<data>0.00</data>
+		<data>0.00</data>
+		<data>783.60</data>
+		<data>0.00</data>
+		<data>0.00</data>
+		<data>0.00</data>
+		<data>0.00</data>
+		<data>783.60 / 2150.00</data>
+	</tableData>
+	<tableData>
+		<data>Zubayer Handheld</data>
+		<data>0.00</data>
+		<data>0.00</data>
+		<data>0.00</data>
+		<data>0.00</data>
+		<data>0.00</data>
+		<data>0.00</data>
+		<data>0.00</data>
+		<data>0.00</data>
+		<data>0.00</data>
+		<data>0.00</data>
+		<data>0.00 / 1000.00</data>
+	</tableData> -->
+</earningReport>
