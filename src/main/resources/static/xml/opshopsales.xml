@@ -1,0 +1,80 @@
+<outletSalesSummary>
+	<outletName>Flavors On Fire</outletName>
+	<outletAddress>Road No: 1, Shornali Abashon, Shwadesh Properties, 300
+		feet road. Khilkhet,Dhaka-1212,Bangladesh</outletAddress>
+	<reportName>Tenant's Sales Summary</reportName>
+	<shopName>All Shop</shopName>
+	<fromDate>21-Jan-2021</fromDate>
+	<toDate>21-Jan-2021</toDate>
+	<noOfSelectedDays>(1) day</noOfSelectedDays>
+	<shops>
+		<shop>
+			<sl>1</sl>
+			<shopName>Gelatofix</shopName>
+			<netTotal>37329.61</netTotal>
+			<cc>50.0</cc>
+			<avb>746.59</avb>
+		</shop>
+		<shop>
+			<sl>2</sl>
+			<shopName>Toast Me Up</shopName>
+			<netTotal>18735.94</netTotal>
+			<cc>52.0</cc>
+			<avb>360.31</avb>
+		</shop>
+		<shop>
+			<sl>3</sl>
+			<shopName>Halvetica</shopName>
+			<netTotal>35047.47</netTotal>
+			<cc>63.0</cc>
+			<avb>556.31</avb>
+		</shop>
+		<shop>
+			<sl>4</sl>
+			<shopName>Afghan Grill</shopName>
+			<netTotal>65584.62</netTotal>
+			<cc>45.0</cc>
+			<avb>1457.44</avb>
+		</shop>
+		<shop>
+			<sl>5</sl>
+			<shopName>Aladdin's</shopName>
+			<netTotal>28006.81</netTotal>
+			<cc>40.0</cc>
+			<avb>700.17</avb>
+		</shop>
+		<shop>
+			<sl>6</sl>
+			<shopName>FIKA</shopName>
+			<netTotal>2782.50</netTotal>
+			<cc>10.0</cc>
+			<avb>278.25</avb>
+		</shop>
+		<shop>
+			<sl>7</sl>
+			<shopName>Punjab Kitchen</shopName>
+			<netTotal>45656.24</netTotal>
+			<cc>66.0</cc>
+			<avb>691.76</avb>
+		</shop>
+		<shop>
+			<sl>8</sl>
+			<shopName>Green Bean</shopName>
+			<netTotal>27426.75</netTotal>
+			<cc>51.0</cc>
+			<avb>537.78</avb>
+		</shop>
+		<shop>
+			<sl>9</sl>
+			<shopName>Tour de Cyclist</shopName>
+			<netTotal>13976.75</netTotal>
+			<cc>5.0</cc>
+			<avb>2795.35</avb>
+		</shop>
+	</shops>
+	<grandNetTotal>274546.69</grandNetTotal>
+	<grandCC>382.0</grandCC>
+	<grandAVB>718.71</grandAVB>
+	<printDate>17-Feb-2021</printDate>
+	<logo>src//main//resources//static//img//flavorsOnFire.png</logo>
+</outletSalesSummary>

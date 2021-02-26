@@ -1,0 +1,319 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<iwssreport>
+	<shopName>Afghan grill</shopName>
+	<shopAddress>Flavors On Fire, Plot: #6, Road: #1, Shornali Abashon,
+		Shwadesh Properties, Khilkhat, 300 Feet Road</shopAddress>
+	<reportName>Item Sales Report</reportName>
+	<fromDate>01-February-2021</fromDate>
+	<toDate>01-February-2021</toDate>
+	<outlet>All</outlet>
+	<iteamgroups>
+		<iteamgroup>
+			<sl>1</sl>
+			<groupName>AFGHAN CURRYS</groupName>
+			<items>
+				<item>
+					<itemCode>00701073</itemCode>
+					<itemName>KANDAHARI CHICKEN</itemName>
+					<itemRate>634.25</itemRate>
+					<itemQqty>1.00</itemQqty>
+					<netAmt>634.25</netAmt>
+				</item>
+				<item>
+					<itemCode>00701079</itemCode>
+					<itemName>AFGHANI DAL</itemName>
+					<itemRate>317.13</itemRate>
+					<itemQqty>1.00</itemQqty>
+					<netAmt>317.13</netAmt>
+				</item>
+			</items>
+			<totalQty>2.00</totalQty>
+			<totalAmt>951.38</totalAmt>
+		</iteamgroup>
+		<iteamgroup>
+			<sl>3</sl>
+			<groupName>AFGHANI SULTANI (1:4)</groupName>
+			<items>
+				<item>
+					<itemCode>00701094</itemCode>
+					<itemName>AFGHANI SULTANI (1:4)</itemName>
+					<itemRate>2902.50</itemRate>
+					<itemQqty>1.00</itemQqty>
+					<netAmt>2902.50</netAmt>
+				</item>
+			</items>
+			<totalQty>1.00</totalQty>
+			<totalAmt>2902.50</totalAmt>
+		</iteamgroup>
+		<iteamgroup>
+			<sl>4</sl>
+			<groupName>FISH GRILL</groupName>
+			<items>
+				<item>
+					<itemCode>00701034</itemCode>
+					<itemName>GRILL POMFRET (1:1)</itemName>
+					<itemRate>408.50</itemRate>
+					<itemQqty>2.00</itemQqty>
+					<netAmt>817.00</netAmt>
+				</item>
+				<item>
+					<itemCode>00701035</itemCode>
+					<itemName>GRILL FISH (1:3)</itemName>
+					<itemRate>1290.00</itemRate>
+					<itemQqty>2.00</itemQqty>
+					<netAmt>2580.00</netAmt>
+				</item>
+			</items>
+			<totalQty>4.00</totalQty>
+			<totalAmt>3397.00</totalAmt>
+		</iteamgroup>
+		<iteamgroup>
+			<sl>6</sl>
+			<groupName>SET MENU (1:1)</groupName>
+			<items>
+				<item>
+					<itemCode>00701014</itemCode>
+					<itemName>CHICKEN TIKKA</itemName>
+					<itemRate>532.13</itemRate>
+					<itemQqty>1.00</itemQqty>
+					<netAmt>532.13</netAmt>
+				</item>
+				<item>
+					<itemCode>00701026</itemCode>
+					<itemName>ISKANDAR KABAB</itemName>
+					<itemRate>639.63</itemRate>
+					<itemQqty>4.00</itemQqty>
+					<netAmt>2558.51</netAmt>
+				</item>
+				<item>
+					<itemCode>00701027</itemCode>
+					<itemName>BEEF TIKKA KABAB</itemName>
+					<itemRate>639.63</itemRate>
+					<itemQqty>1.00</itemQqty>
+					<netAmt>639.63</netAmt>
+				</item>
+				<item>
+					<itemCode>00701028</itemCode>
+					<itemName>TENDER GRILL KABAB</itemName>
+					<itemRate>639.63</itemRate>
+					<itemQqty>1.00</itemQqty>
+					<netAmt>639.63</netAmt>
+				</item>
+				<item>
+					<itemCode>00701036</itemCode>
+					<itemName>MUTTON CHOP</itemName>
+					<itemRate>1107.25</itemRate>
+					<itemQqty>1.00</itemQqty>
+					<netAmt>1107.25</netAmt>
+				</item>
+				<item>
+					<itemCode>00701040</itemCode>
+					<itemName>1/4 AFGHANI CKICKEN BREAST</itemName>
+					<itemRate>473.00</itemRate>
+					<itemQqty>3.00</itemQqty>
+					<netAmt>1419.00</netAmt>
+				</item>
+				<item>
+					<itemCode>00701042</itemCode>
+					<itemName>1/4 AFGHANI CHICKEN LEG</itemName>
+					<itemRate>473.00</itemRate>
+					<itemQqty>4.00</itemQqty>
+					<netAmt>1892.00</netAmt>
+				</item>
+			</items>
+			<totalQty>15.00</totalQty>
+			<totalAmt>8788.15</totalAmt>
+		</iteamgroup>
+		<iteamgroup>
+			<sl>13</sl>
+			<groupName>SET MENU (1:1) WITH CURRY</groupName>
+			<items>
+				<item>
+					<itemCode>00701023</itemCode>
+					<itemName>KABAB ISTANBUL WITH CURRY</itemName>
+					<itemRate>714.88</itemRate>
+					<itemQqty>2.00</itemQqty>
+					<netAmt>1429.76</netAmt>
+				</item>
+				<item>
+					<itemCode>00701031</itemCode>
+					<itemName>BEEF TIKKA KABAB WITH CURRY</itemName>
+					<itemRate>822.38</itemRate>
+					<itemQqty>1.00</itemQqty>
+					<netAmt>822.38</netAmt>
+				</item>
+				<item>
+					<itemCode>00701032</itemCode>
+					<itemName>TENDER GRILL KABAB WITH CURRY</itemName>
+					<itemRate>822.38</itemRate>
+					<itemQqty>2.00</itemQqty>
+					<netAmt>1644.76</netAmt>
+				</item>
+				<item>
+					<itemCode>00701038</itemCode>
+					<itemName>MUTTON CHOP WITH CURRY</itemName>
+					<itemRate>1290.00</itemRate>
+					<itemQqty>1.00</itemQqty>
+					<netAmt>1290.00</netAmt>
+				</item>
+				<item>
+					<itemCode>00701041</itemCode>
+					<itemName>1/4 AFGHANI CKICKEN BREAST WITH CURRY</itemName>
+					<itemRate>655.75</itemRate>
+					<itemQqty>1.00</itemQqty>
+					<netAmt>655.75</netAmt>
+				</item>
+				<item>
+					<itemCode>00701043</itemCode>
+					<itemName>1/4 AFGHANI CHICKEN LEG WITH CURRY</itemName>
+					<itemRate>655.75</itemRate>
+					<itemQqty>8.00</itemQqty>
+					<netAmt>5246.00</netAmt>
+				</item>
+			</items>
+			<totalQty>15.00</totalQty>
+			<totalAmt>11088.65</totalAmt>
+		</iteamgroup>
+		<iteamgroup>
+			<sl>19</sl>
+			<groupName>SET MENU (1:2)</groupName>
+			<items>
+				<item>
+					<itemCode>00701048</itemCode>
+					<itemName>AFGHANI KABAB (1:2)</itemName>
+					<itemRate>1150.25</itemRate>
+					<itemQqty>3.00</itemQqty>
+					<netAmt>3450.75</netAmt>
+				</item>
+				<item>
+					<itemCode>00701049</itemCode>
+					<itemName>AFGHANI KABAB (1:2) WITH CURRY</itemName>
+					<itemRate>1515.75</itemRate>
+					<itemQqty>4.00</itemQqty>
+					<netAmt>6063.00</netAmt>
+				</item>
+				<item>
+					<itemCode>00701053</itemCode>
+					<itemName>PASHTO KABAB (1:2) WITH CURRY</itemName>
+					<itemRate>1623.25</itemRate>
+					<itemQqty>1.00</itemQqty>
+					<netAmt>1623.25</netAmt>
+				</item>
+				<item>
+					<itemCode>00701054</itemCode>
+					<itemName>SARDARI KABAB (1:2)</itemName>
+					<itemRate>1607.13</itemRate>
+					<itemQqty>1.00</itemQqty>
+					<netAmt>1607.13</netAmt>
+				</item>
+			</items>
+			<totalQty>9.00</totalQty>
+			<totalAmt>12744.13</totalAmt>
+		</iteamgroup>
+		<iteamgroup>
+			<sl>23</sl>
+			<groupName>SHAHI AFGHANI (1:6)</groupName>
+			<items>
+				<item>
+					<itemCode>00701095</itemCode>
+					<itemName>SHAHI AFGHANI (1:6)</itemName>
+					<itemRate>4085.00</itemRate>
+					<itemQqty>1.00</itemQqty>
+					<netAmt>4085.00</netAmt>
+				</item>
+			</items>
+			<totalQty>1.00</totalQty>
+			<totalAmt>4085.00</totalAmt>
+		</iteamgroup>
+		<iteamgroup>
+			<sl>24</sl>
+			<groupName>SIDES</groupName>
+			<items>
+				<item>
+					<itemCode>00701086</itemCode>
+					<itemName>BUTTER NAN</itemName>
+					<itemRate>75.25</itemRate>
+					<itemQqty>3.00</itemQqty>
+					<netAmt>225.75</netAmt>
+				</item>
+				<item>
+					<itemCode>00701088</itemCode>
+					<itemName>AFGHANI NAN</itemName>
+					<itemRate>96.75</itemRate>
+					<itemQqty>5.00</itemQqty>
+					<netAmt>483.75</netAmt>
+				</item>
+			</items>
+			<totalQty>8.00</totalQty>
+			<totalAmt>709.50</totalAmt>
+		</iteamgroup>
+		<iteamgroup>
+			<sl>26</sl>
+			<groupName>SINGLE KABAB</groupName>
+			<items>
+				<item>
+					<itemCode>00701058</itemCode>
+					<itemName>BEEF TIKKA KABAB (S)</itemName>
+					<itemRate>446.13</itemRate>
+					<itemQqty>3.00</itemQqty>
+					<netAmt>1338.38</netAmt>
+				</item>
+				<item>
+					<itemCode>00701061</itemCode>
+					<itemName>JOOJEH KABAB (S)</itemName>
+					<itemRate>317.13</itemRate>
+					<itemQqty>1.00</itemQqty>
+					<netAmt>317.13</netAmt>
+				</item>
+				<item>
+					<itemCode>00701064</itemCode>
+					<itemName>CHICKEN MARDIN (S)</itemName>
+					<itemRate>317.13</itemRate>
+					<itemQqty>1.00</itemQqty>
+					<netAmt>317.13</netAmt>
+				</item>
+				<item>
+					<itemCode>00701065</itemCode>
+					<itemName>CHICKEN TIKKA (S)</itemName>
+					<itemRate>317.13</itemRate>
+					<itemQqty>1.00</itemQqty>
+					<netAmt>317.13</netAmt>
+				</item>
+				<item>
+					<itemCode>00701066</itemCode>
+					<itemName>KABAB ISTANBUL (S)</itemName>
+					<itemRate>317.13</itemRate>
+					<itemQqty>1.00</itemQqty>
+					<netAmt>317.13</netAmt>
+				</item>
+				<item>
+					<itemCode>00701070</itemCode>
+					<itemName>MUTTON CHOP (S)</itemName>
+					<itemRate>886.88</itemRate>
+					<itemQqty>3.00</itemQqty>
+					<netAmt>2660.64</netAmt>
+				</item>
+			</items>
+			<totalQty>10.00</totalQty>
+			<totalAmt>5267.54</totalAmt>
+		</iteamgroup>
+		<iteamgroup>
+			<sl>32</sl>
+			<groupName>STEAK</groupName>
+			<items>
+				<item>
+					<itemCode>00701084</itemCode>
+					<itemName>BEEF STEAK</itemName>
+					<itemRate>752.50</itemRate>
+					<itemQqty>1.00</itemQqty>
+					<netAmt>752.50</netAmt>
+				</item>
+			</items>
+			<totalQty>1.00</totalQty>
+			<totalAmt>752.50</totalAmt>
+		</iteamgroup>
+	</iteamgroups>
+	<totalQty>20</totalQty>
+	<totalAmt>30</totalAmt>
+	<printDate>22-February-2021</printDate>
+</iwssreport>

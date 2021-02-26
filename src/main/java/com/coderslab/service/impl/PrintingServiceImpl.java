@@ -49,10 +49,10 @@ public class PrintingServiceImpl implements PrintingService{
 		//for image path setting
 		String serverPath = request.getSession().getServletContext().getRealPath("/");
 
-		FopFactory fopFactory = FopFactory.newInstance();
-		fopFactory.setBaseURL(serverPath);
+		FopFactory fopFactory = FopFactory.newInstance(new File(".").toURI());
+		//fopFactory.setBaseURL(serverPath);
 		FOUserAgent foUserAgent = fopFactory.newFOUserAgent();
-		Fop fop = FopFactory.newInstance().newFop(MimeConstants.MIME_PDF, foUserAgent, out);
+		Fop fop = fopFactory.newFop(MimeConstants.MIME_PDF, foUserAgent, out);
 		// Make sure the XSL transformation's result is piped through to FOP
 		Result res = new SAXResult(fop.getDefaultHandler());
 		// Start the transformation and rendering process
@@ -60,27 +60,27 @@ public class PrintingServiceImpl implements PrintingService{
 		return out;
 	}
 
-	@Override
-	public ByteArrayOutputStream transfromToPDFBytes(Document document, String template, HttpServletRequest request) throws TransformerException, MalformedURLException, FOPException {
-		ByteArrayOutputStream out = new ByteArrayOutputStream();
-		File file = new File(template);
-		Source xslSrc = new StreamSource(file);
-
-		Transformer transformer = TransformerFactory.newInstance().newTransformer(xslSrc);
-
-		String serverPath = request.getSession().getServletContext().getRealPath("/");
-		FopFactory fopFactory = FopFactory.newInstance();
-		fopFactory.setBaseURL(serverPath);
-		FOUserAgent foUserAgent = fopFactory.newFOUserAgent();
-
-		Fop fop = FopFactory.newInstance().newFop(MimeConstants.MIME_PDF, foUserAgent, out);
-
-		// Make sure the XSL transformation's result is piped through to FOP
-		Result res = new SAXResult(fop.getDefaultHandler());
-		// Start the transformation and rendering process
-		transformer.transform(new DOMSource(document), res);
-		return out;
-	}
+//	@Override
+//	public ByteArrayOutputStream transfromToPDFBytes(Document document, String template, HttpServletRequest request) throws TransformerException, MalformedURLException, FOPException {
+//		ByteArrayOutputStream out = new ByteArrayOutputStream();
+//		File file = new File(template);
+//		Source xslSrc = new StreamSource(file);
+//
+//		Transformer transformer = TransformerFactory.newInstance().newTransformer(xslSrc);
+//
+//		String serverPath = request.getSession().getServletContext().getRealPath("/");
+//		FopFactory fopFactory = FopFactory.newInstance(new File(".").toURI());
+//		//fopFactory.setBaseURL(serverPath);
+//		FOUserAgent foUserAgent = fopFactory.newFOUserAgent();
+//
+//		Fop fop = fopFactory.newFop(MimeConstants.MIME_PDF, foUserAgent, out);
+//
+//		// Make sure the XSL transformation's result is piped through to FOP
+//		Result res = new SAXResult(fop.getDefaultHandler());
+//		// Start the transformation and rendering process
+//		transformer.transform(new DOMSource(document), res);
+//		return out;
+//	}
 
 	@Override
 	public ByteArrayOutputStream transfromToThermalBytes(Document document, String template) throws TransformerException {
@@ -106,10 +106,10 @@ public class PrintingServiceImpl implements PrintingService{
 
 		//for image path setting
 		String serverPath = request.getSession().getServletContext().getRealPath("/");
-		FopFactory fopFactory = FopFactory.newInstance();
-		fopFactory.setBaseURL(serverPath);
+		FopFactory fopFactory = FopFactory.newInstance(new File(".").toURI());
+//		fopFactory.setBaseURL(serverPath);
 		FOUserAgent foUserAgent = fopFactory.newFOUserAgent();
-		Fop fop = FopFactory.newInstance().newFop(MimeConstants.MIME_PDF, foUserAgent, out);
+		Fop fop = fopFactory.newFop(MimeConstants.MIME_PDF, foUserAgent, out);
 		// Make sure the XSL transformation's result is piped through to FOP
 		Result res = new SAXResult(fop.getDefaultHandler());
 		// Start the transformation and rendering process

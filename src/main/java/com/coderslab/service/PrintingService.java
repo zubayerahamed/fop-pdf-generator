@@ -40,7 +40,7 @@ public interface PrintingService {
 	 * @throws TransformerException
 	 * @throws MalformedURLException
 	 */
-	public ByteArrayOutputStream transfromToPDFBytes(Document document, String template, HttpServletRequest request) throws TransformerException, MalformedURLException, FOPException;
+//	public ByteArrayOutputStream transfromToPDFBytes(Document document, String template, HttpServletRequest request) throws TransformerException, MalformedURLException, FOPException;
 
 	/**
 	 * Transform Document Object and XSL file to ByteArrayOutputStream for print

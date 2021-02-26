@@ -40,7 +40,7 @@ public class PDFGeneratorController {
 		// the XML file which provides the input
 		StreamSource xmlSource = new StreamSource(new File(XML_DIR + "//dxfreight.xml"));
 		// create an instance of fop factory
-		FopFactory fopFactory = FopFactory.newInstance();
+		FopFactory fopFactory = FopFactory.newInstance(new File(".").toURI());
 		// a user agent is needed for transformation
 		FOUserAgent foUserAgent = fopFactory.newFOUserAgent();
 		// Setup output
