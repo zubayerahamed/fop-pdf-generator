@@ -107,10 +107,12 @@
 											<fo:block>SL.</fo:block>
 										</fo:table-cell>
 										<fo:table-cell xsl:use-attribute-sets="client.table.th">
-											<fo:block>Item Name</fo:block>
+											<fo:block>Item Group</fo:block>
 										</fo:table-cell>
 									</fo:table-row>
 								</fo:table-header>
+
+								<!-- Table body -->
 								<fo:table-body>
 									<xsl:apply-templates select="iteamgroups/iteamgroup"/>
 								</fo:table-body>

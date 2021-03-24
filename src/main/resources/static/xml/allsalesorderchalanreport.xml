@@ -1,0 +1,135 @@
+<allsalesorderchalanreport>
+	<businessName>Khanas</businessName>
+	<businessAddress>Badda, Kaligonj - 1234</businessAddress>
+	<reportName>Sales Order Chalan</reportName>
+	<fromDate>2021-03-22</fromDate>
+	<toDate>2021-03-22</toDate>
+	<printDate>2021-03-22</printDate>
+	<copyrightText>Copyright text</copyrightText>
+	<chalans>
+		<chalan>
+			<chalanName>CH-000020</chalanName>
+			<chalanDate>2021-03-22</chalanDate>
+			<status>Confirmed</status>
+			<items>
+				<item>
+					<itemCode>IC-000003</itemCode>
+					<itemName>Smoked Chicken</itemName>
+					<itemQty>11</itemQty>
+					<itemUnit>PAC</itemUnit>
+					<itemCategory>Chicken</itemCategory>
+					<itemGroup>Finished Good</itemGroup>
+				</item>
+				<item>
+					<itemCode>IC-000004</itemCode>
+					<itemName>Smoked Chicken</itemName>
+					<itemQty>11</itemQty>
+					<itemUnit>PAC</itemUnit>
+					<itemCategory>Chicken</itemCategory>
+					<itemGroup>Finished Good</itemGroup>
+				</item>
+				<item>
+					<itemCode>IC-000005</itemCode>
+					<itemName>Smoked Chicken</itemName>
+					<itemQty>11</itemQty>
+					<itemUnit>PAC</itemUnit>
+					<itemCategory>Chicken</itemCategory>
+					<itemGroup>Finished Good</itemGroup>
+				</item>
+			</items>
+		</chalan>
+		<chalan>
+			<chalanName>CH-000020</chalanName>
+			<chalanDate>2021-03-22</chalanDate>
+			<status>Confirmed</status>
+			<items>
+				<item>
+					<itemCode>IC-000003</itemCode>
+					<itemName>Smoked Chicken</itemName>
+					<itemQty>11</itemQty>
+					<itemUnit>PAC</itemUnit>
+					<itemCategory>Chicken</itemCategory>
+					<itemGroup>Finished Good</itemGroup>
+				</item>
+				<item>
+					<itemCode>IC-000004</itemCode>
+					<itemName>Smoked Chicken</itemName>
+					<itemQty>11</itemQty>
+					<itemUnit>PAC</itemUnit>
+					<itemCategory>Chicken</itemCategory>
+					<itemGroup>Finished Good</itemGroup>
+				</item>
+				<item>
+					<itemCode>IC-000005</itemCode>
+					<itemName>Smoked Chicken</itemName>
+					<itemQty>11</itemQty>
+					<itemUnit>PAC</itemUnit>
+					<itemCategory>Chicken</itemCategory>
+					<itemGroup>Finished Good</itemGroup>
+				</item>
+			</items>
+		</chalan>
+		<chalan>
+			<chalanName>CH-000020</chalanName>
+			<chalanDate>2021-03-22</chalanDate>
+			<status>Confirmed</status>
+			<items>
+				<item>
+					<itemCode>IC-000003</itemCode>
+					<itemName>Smoked Chicken</itemName>
+					<itemQty>11</itemQty>
+					<itemUnit>PAC</itemUnit>
+					<itemCategory>Chicken</itemCategory>
+					<itemGroup>Finished Good</itemGroup>
+				</item>
+				<item>
+					<itemCode>IC-000004</itemCode>
+					<itemName>Smoked Chicken</itemName>
+					<itemQty>11</itemQty>
+					<itemUnit>PAC</itemUnit>
+					<itemCategory>Chicken</itemCategory>
+					<itemGroup>Finished Good</itemGroup>
+				</item>
+				<item>
+					<itemCode>IC-000005</itemCode>
+					<itemName>Smoked Chicken</itemName>
+					<itemQty>11</itemQty>
+					<itemUnit>PAC</itemUnit>
+					<itemCategory>Chicken</itemCategory>
+					<itemGroup>Finished Good</itemGroup>
+				</item>
+			</items>
+		</chalan>
+		<chalan>
+			<chalanName>CH-000020</chalanName>
+			<chalanDate>2021-03-22</chalanDate>
+			<status>Confirmed</status>
+			<items>
+				<item>
+					<itemCode>IC-000003</itemCode>
+					<itemName>Smoked Chicken</itemName>
+					<itemQty>11</itemQty>
+					<itemUnit>PAC</itemUnit>
+					<itemCategory>Chicken</itemCategory>
+					<itemGroup>Finished Good</itemGroup>
+				</item>
+				<item>
+					<itemCode>IC-000004</itemCode>
+					<itemName>Smoked Chicken</itemName>
+					<itemQty>11</itemQty>
+					<itemUnit>PAC</itemUnit>
+					<itemCategory>Chicken</itemCategory>
+					<itemGroup>Finished Good</itemGroup>
+				</item>
+				<item>
+					<itemCode>IC-000005</itemCode>
+					<itemName>Smoked Chicken</itemName>
+					<itemQty>11</itemQty>
+					<itemUnit>PAC</itemUnit>
+					<itemCategory>Chicken</itemCategory>
+					<itemGroup>Finished Good</itemGroup>
+				</item>
+			</items>
+		</chalan>
+	</chalans>
+</allsalesorderchalanreport>

@@ -78,6 +78,7 @@
 					</fo:block-container>
 					<fo:block-container position="absolute" left="40%" width="20%">
 						<fo:block text-align="center" font-size="8px">
+							<xsl:value-of select="copyright"/>
 						</fo:block>
 					</fo:block-container>
 					<fo:block-container position="absolute" left="60%" width="40%">
@@ -112,7 +113,9 @@
 	<xsl:template match="categories/category">
 		<fo:table-row>
 			<fo:table-cell xsl:use-attribute-sets="category.table.td">
-				<fo:block font-weight="bold" font-size="14px" padding-top="10px" padding-bottom="10px" text-align="center"><xsl:value-of select="categoryName"/></fo:block>
+				<fo:block font-weight="bold" font-size="14px" padding-top="10px" padding-bottom="10px" text-align="center">
+					<xsl:value-of select="categoryName"/>
+				</fo:block>
 
 				<!-- Item table -->
 				<fo:block>

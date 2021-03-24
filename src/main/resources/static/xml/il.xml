@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <ilreport>
 	<shopName>Afghan grill</shopName>
-	<shopAddress>Flavors On Fire, Plot: #6, Road: #1, Shornali Abashon,
-		Shwadesh Properties, Khilkhat, 300 Feet Road</shopAddress>
+	<shopAddress>Flavors On Fire, Plot: #6, Road: #1, Shornali Abashon, Shwadesh Properties, Khilkhat, 300 Feet Road</shopAddress>
 	<reportName>Item List</reportName>
+	<copyright>copyright @ ...</copyright>
 	<categories>
 		<category>
 			<categoryName>AFGHAN CURRYS</categoryName>
