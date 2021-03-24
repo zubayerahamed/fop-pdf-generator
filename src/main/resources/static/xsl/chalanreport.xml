@@ -1,0 +1,180 @@
+<chalanreport>
+	<businessName>Business name</businessName>
+	<businessAddress>Business address</businessAddress>
+	<reportName>Report name</reportName>
+	<fromDate>from date</fromDate>
+	<toDate>to date</toDate>
+	<printDate>Print date</printDate>
+	<copyrightText>Copy right</copyrightText>
+	<chalanNumber>Chalan number</chalanNumber>
+	<chalanDate>Chalan date</chalanDate>
+	<chalanStatus>status</chalanStatus>
+	<chalanStatus></chalanStatus>
+	<salesorders>
+		<salesorder>
+			<orderNumber>Order num</orderNumber>
+			<reqNumber>Req number</reqNumber>
+			<reqBranch>Branch</reqBranch>
+			<date>date</date>
+			<status>stat</status>
+			<items>
+				<item>
+					<itemCode>item code</itemCode>
+					<itemName>item name</itemName>
+					<itemQty>qty</itemQty>
+					<itemUnit>unit</itemUnit>
+					<itemCategory>cat</itemCategory>
+					<itemGroup>group</itemGroup>
+				</item>
+				<item>
+					<itemCode>item code</itemCode>
+					<itemName>item name</itemName>
+					<itemQty>qty</itemQty>
+					<itemUnit>unit</itemUnit>
+					<itemCategory>cat</itemCategory>
+					<itemGroup>group</itemGroup>
+				</item>
+				<item>
+					<itemCode>item code</itemCode>
+					<itemName>item name</itemName>
+					<itemQty>qty</itemQty>
+					<itemUnit>unit</itemUnit>
+					<itemCategory>cat</itemCategory>
+					<itemGroup>group</itemGroup>
+				</item>
+				<item>
+					<itemCode>item code</itemCode>
+					<itemName>item name</itemName>
+					<itemQty>qty</itemQty>
+					<itemUnit>unit</itemUnit>
+					<itemCategory>cat</itemCategory>
+					<itemGroup>group</itemGroup>
+				</item>
+			</items>
+		</salesorder>
+		<salesorder>
+			<orderNumber>Order num</orderNumber>
+			<reqNumber>Req number</reqNumber>
+			<reqBranch>Branch</reqBranch>
+			<date>date</date>
+			<status>stat</status>
+			<items>
+				<item>
+					<itemCode>item code</itemCode>
+					<itemName>item name</itemName>
+					<itemQty>qty</itemQty>
+					<itemUnit>unit</itemUnit>
+					<itemCategory>cat</itemCategory>
+					<itemGroup>group</itemGroup>
+				</item>
+				<item>
+					<itemCode>item code</itemCode>
+					<itemName>item name</itemName>
+					<itemQty>qty</itemQty>
+					<itemUnit>unit</itemUnit>
+					<itemCategory>cat</itemCategory>
+					<itemGroup>group</itemGroup>
+				</item>
+				<item>
+					<itemCode>item code</itemCode>
+					<itemName>item name</itemName>
+					<itemQty>qty</itemQty>
+					<itemUnit>unit</itemUnit>
+					<itemCategory>cat</itemCategory>
+					<itemGroup>group</itemGroup>
+				</item>
+				<item>
+					<itemCode>item code</itemCode>
+					<itemName>item name</itemName>
+					<itemQty>qty</itemQty>
+					<itemUnit>unit</itemUnit>
+					<itemCategory>cat</itemCategory>
+					<itemGroup>group</itemGroup>
+				</item>
+			</items>
+		</salesorder>
+		<salesorder>
+			<orderNumber>Order num</orderNumber>
+			<reqNumber>Req number</reqNumber>
+			<reqBranch>Branch</reqBranch>
+			<date>date</date>
+			<status>stat</status>
+			<items>
+				<item>
+					<itemCode>item code</itemCode>
+					<itemName>item name</itemName>
+					<itemQty>qty</itemQty>
+					<itemUnit>unit</itemUnit>
+					<itemCategory>cat</itemCategory>
+					<itemGroup>group</itemGroup>
+				</item>
+				<item>
+					<itemCode>item code</itemCode>
+					<itemName>item name</itemName>
+					<itemQty>qty</itemQty>
+					<itemUnit>unit</itemUnit>
+					<itemCategory>cat</itemCategory>
+					<itemGroup>group</itemGroup>
+				</item>
+				<item>
+					<itemCode>item code</itemCode>
+					<itemName>item name</itemName>
+					<itemQty>qty</itemQty>
+					<itemUnit>unit</itemUnit>
+					<itemCategory>cat</itemCategory>
+					<itemGroup>group</itemGroup>
+				</item>
+				<item>
+					<itemCode>item code</itemCode>
+					<itemName>item name</itemName>
+					<itemQty>qty</itemQty>
+					<itemUnit>unit</itemUnit>
+					<itemCategory>cat</itemCategory>
+					<itemGroup>group</itemGroup>
+				</item>
+			</items>
+		</salesorder>
+		<salesorder>
+			<orderNumber>Order num</orderNumber>
+			<reqNumber>Req number</reqNumber>
+			<reqBranch>Branch</reqBranch>
+			<date>date</date>
+			<status>stat</status>
+			<items>
+				<item>
+					<itemCode>item code</itemCode>
+					<itemName>item name</itemName>
+					<itemQty>qty</itemQty>
+					<itemUnit>unit</itemUnit>
+					<itemCategory>cat</itemCategory>
+					<itemGroup>group</itemGroup>
+				</item>
+				<item>
+					<itemCode>item code</itemCode>
+					<itemName>item name</itemName>
+					<itemQty>qty</itemQty>
+					<itemUnit>unit</itemUnit>
+					<itemCategory>cat</itemCategory>
+					<itemGroup>group</itemGroup>
+				</item>
+				<item>
+					<itemCode>item code</itemCode>
+					<itemName>item name</itemName>
+					<itemQty>qty</itemQty>
+					<itemUnit>unit</itemUnit>
+					<itemCategory>cat</itemCategory>
+					<itemGroup>group</itemGroup>
+				</item>
+				<item>
+					<itemCode>item code</itemCode>
+					<itemName>item name</itemName>
+					<itemQty>qty</itemQty>
+					<itemUnit>unit</itemUnit>
+					<itemCategory>cat</itemCategory>
+					<itemGroup>group</itemGroup>
+				</item>
+			</items>
+		</salesorder>
+	</salesorders>
+
+</chalanreport>
