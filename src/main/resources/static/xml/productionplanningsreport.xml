@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <productionplanningsreport>
 	<businessName>Business name</businessName>
 	<businessAddress>Business address</businessAddress>
@@ -12,6 +13,30 @@
 			<chalanDate>Chalan date</chalanDate>
 			<status>Status</status>
 			<suggestions>
+				<suggestion>
+					<productionItem>PI</productionItem>
+					<productionItemQty>145</productionItemQty>
+					<productionItemUnit>KG</productionItemUnit>
+					<rawMaterial>RM</rawMaterial>
+					<rawMaterialQty>500</rawMaterialQty>
+					<rawMaterialUnit>gm</rawMaterialUnit>
+				</suggestion>
+				<suggestion>
+					<productionItem>PI</productionItem>
+					<productionItemQty>145</productionItemQty>
+					<productionItemUnit>KG</productionItemUnit>
+					<rawMaterial>RM</rawMaterial>
+					<rawMaterialQty>500</rawMaterialQty>
+					<rawMaterialUnit>gm</rawMaterialUnit>
+				</suggestion>
+				<suggestion>
+					<productionItem>PI</productionItem>
+					<productionItemQty>145</productionItemQty>
+					<productionItemUnit>KG</productionItemUnit>
+					<rawMaterial>RM</rawMaterial>
+					<rawMaterialQty>500</rawMaterialQty>
+					<rawMaterialUnit>gm</rawMaterialUnit>
+				</suggestion>
 				<suggestion>
 					<productionItem>PI</productionItem>
 					<productionItemQty>145</productionItemQty>
