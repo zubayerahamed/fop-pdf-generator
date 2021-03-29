@@ -113,6 +113,12 @@
 				<fo:block font-weight="bold" font-size="8px" padding-top="30px" padding-bottom="5px" text-align="left">
 					Sales Order: <xsl:value-of select="orderNumber"/>
 				</fo:block>
+				<fo:block font-weight="bold" font-size="8px" padding-bottom="5px" text-align="left">
+					Customer: <xsl:value-of select="customer"/>
+				</fo:block>
+				<fo:block font-weight="bold" font-size="8px" padding-bottom="5px" text-align="left">
+					Address: <xsl:value-of select="customerAddress"/>
+				</fo:block>
 				
 				<!-- Item table -->
 				<fo:block>
@@ -162,13 +168,13 @@
 						</fo:table-body>
 					</fo:table>
 				</fo:block>
-				<fo:block-container width="30%" margin-top="10px">
-						<fo:block font-weight="bold" padding-top="8px" font-size="14px" text-align="center" border-bottom="1px solid black" margin-right="20px">Grand Total</fo:block>
+				<fo:block-container width="100%" margin-top="10px" margin-left="0px">
+						<fo:block font-weight="bold" padding-top="8px" font-size="10px" text-align="right" margin-right="110px">Grand Total</fo:block>
 						<fo:block padding-top="8px">
 							<fo:table table-layout="fixed" width="100%" border-collapse="collapse" xsl:use-attribute-sets="table.font.size">
-								<fo:table-column column-width="60%" />
-								<fo:table-column column-width="20%" />
-								<fo:table-column column-width="20%" />
+								<fo:table-column column-width="80%" />
+								<fo:table-column column-width="5%" />
+								<fo:table-column column-width="10%" />
 
 								<fo:table-body>
 									<fo:table-row>
