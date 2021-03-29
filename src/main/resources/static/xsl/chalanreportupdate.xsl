@@ -174,7 +174,7 @@
 							<fo:table table-layout="fixed" width="100%" border-collapse="collapse" xsl:use-attribute-sets="table.font.size">
 								<fo:table-column column-width="80%" />
 								<fo:table-column column-width="5%" />
-								<fo:table-column column-width="10%" />
+								<fo:table-column column-width="15%" />
 
 								<fo:table-body>
 									<fo:table-row>
