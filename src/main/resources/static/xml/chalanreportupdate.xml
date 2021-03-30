@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<chalanreportupdate>
+    <businessName>Khana's Central</businessName>
+    <businessAddress>618, Dhonia A.K. High School Road, Jatrabari, Dhaka - 1236</businessAddress>
+    <reportName>Sales Invoice</reportName>
+    <fromDate>2021-03-25</fromDate>
+    <toDate>2021-03-25</toDate>
+    <printDate>2021-03-27</printDate>
+    <copyrightText>ASL</copyrightText>
+    <chalanNumber>CH-000029</chalanNumber>
+    <chalanDate>2021-03-25</chalanDate>
+    <salesorders>
+        <salesorder>
+            <orderNumber>DO--000012</orderNumber>
+            <reqBranch>CUS-000021</reqBranch>
+            <customer>Sajjad</customer>
+            <customerAddress>Mirpur-12</customerAddress>
+            <date>2021-03-25</date>
+            <totalAmount>5640</totalAmount>
+            <vatAmount>0</vatAmount>
+            <discountAmount>0</discountAmount>
+            <grandTotalAmount>0</grandTotalAmount>
+            <items>
+                <item>
+                    <itemCode>IC-000003</itemCode>
+                    <itemName>Smoked Chicken</itemName>
+                    <itemQty>94</itemQty>
+                    <itemUnit>PAC</itemUnit>
+                    <itemCategory>Chicken</itemCategory>
+                    <itemGroup>Finished Good</itemGroup>
+                    <itemRate>60</itemRate>
+                    <itemTotalAmount>5640</itemTotalAmount>
+                </item>
+            </items>
+        </salesorder>
+    </salesorders>
+</chalanreportupdate>
