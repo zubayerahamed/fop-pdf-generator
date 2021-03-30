@@ -186,7 +186,16 @@
 
 					<!-- table body -->
 						<fo:table-body>
-							<xsl:apply-templates select="batchdetails/batchdetail"/>
+							<xsl:if test="batchdetails/batchdetail">
+								<xsl:apply-templates select="batchdetails/batchdetail"/>
+							</xsl:if>
+							<xsl:if test="not(batchdetails/batchdetail)">
+								<fo:table-row>
+									<fo:table-cell number-columns-spanned="5" xsl:use-attribute-sets="client.table.td">
+										<fo:block>No Items found</fo:block>
+									</fo:table-cell>
+								</fo:table-row>
+							</xsl:if>
 						</fo:table-body>
 					</fo:table>
 				</fo:block>
