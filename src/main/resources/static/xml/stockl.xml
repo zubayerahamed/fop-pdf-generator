@@ -1,0 +1,545 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<stockl>
+	<businessName>Khana's Central</businessName>
+	<businessAddress>618, Dhonia A.K. High School Road, Jatrabari, Dhaka -
+		1236</businessAddress>
+	<reportName>Stock List Report</reportName>
+	<printDate>Wed, 31-Mar-2021</printDate>
+	<stocks>
+		<stock>
+			<zactive>true</zactive>
+			<ztime>2021-03-31T23:48:36.150+06:00</ztime>
+			<zutime>2021-03-31T23:48:36.150+06:00</zutime>
+			<zid>900000</zid>
+			<xitem>IC-000001</xitem>
+			<xwh>Central Store</xwh>
+			<xdesc>Chicken patty</xdesc>
+			<xrate>50</xrate>
+			<xgitem>Finished Good</xgitem>
+			<xcatitem>Chicken</xcatitem>
+			<xopalc>0</xopalc>
+			<xqtyit>0</xqtyit>
+			<xqtyrt>0</xqtyrt>
+			<xinhand>100</xinhand>
+			<xavail>100</xavail>
+			<zorg>Khana's Central</zorg>
+			<xmadd>618, Dhonia A.K. High School Road, Jatrabari, Dhaka - 1236</xmadd>
+		</stock>
+		<stock>
+			<zactive>true</zactive>
+			<ztime>2021-03-31T23:48:36.150+06:00</ztime>
+			<zutime>2021-03-31T23:48:36.150+06:00</zutime>
+			<zid>900000</zid>
+			<xitem>IC-000002</xitem>
+			<xwh>Central Store</xwh>
+			<xdesc>Premium patty</xdesc>
+			<xrate>20</xrate>
+			<xgitem>Finished Good</xgitem>
+			<xcatitem>Chicken</xcatitem>
+			<xopalc>0</xopalc>
+			<xqtyit>0</xqtyit>
+			<xqtyrt>0</xqtyrt>
+			<xinhand>0</xinhand>
+			<xavail>0</xavail>
+			<zorg>Khana's Central</zorg>
+			<xmadd>618, Dhonia A.K. High School Road, Jatrabari, Dhaka - 1236</xmadd>
+		</stock>
+		<stock>
+			<zactive>true</zactive>
+			<ztime>2021-03-31T23:48:36.151+06:00</ztime>
+			<zutime>2021-03-31T23:48:36.151+06:00</zutime>
+			<zid>900000</zid>
+			<xitem>IC-000003</xitem>
+			<xwh>Central Store</xwh>
+			<xdesc>Smoked Chicken</xdesc>
+			<xrate>60</xrate>
+			<xgitem>Finished Good</xgitem>
+			<xcatitem>Chicken</xcatitem>
+			<xopalc>0</xopalc>
+			<xqtyit>0</xqtyit>
+			<xqtyrt>0</xqtyrt>
+			<xinhand>720</xinhand>
+			<xavail>720</xavail>
+			<zorg>Khana's Central</zorg>
+			<xmadd>618, Dhonia A.K. High School Road, Jatrabari, Dhaka - 1236</xmadd>
+		</stock>
+		<stock>
+			<zactive>true</zactive>
+			<ztime>2021-03-31T23:48:36.151+06:00</ztime>
+			<zutime>2021-03-31T23:48:36.151+06:00</zutime>
+			<zid>900000</zid>
+			<xitem>IC-000004</xitem>
+			<xwh>Central Store</xwh>
+			<xdesc>Chicken</xdesc>
+			<xrate>50</xrate>
+			<xgitem>Raw Materials</xgitem>
+			<xcatitem>Chicken</xcatitem>
+			<xopalc>0</xopalc>
+			<xqtyit>0</xqtyit>
+			<xqtyrt>0</xqtyrt>
+			<xinhand>923</xinhand>
+			<xavail>923</xavail>
+			<zorg>Khana's Central</zorg>
+			<xmadd>618, Dhonia A.K. High School Road, Jatrabari, Dhaka - 1236</xmadd>
+		</stock>
+		<stock>
+			<zactive>true</zactive>
+			<ztime>2021-03-31T23:48:36.151+06:00</ztime>
+			<zutime>2021-03-31T23:48:36.151+06:00</zutime>
+			<zid>900000</zid>
+			<xitem>IC-000005</xitem>
+			<xwh>Central Store</xwh>
+			<xdesc>Chicken Cutlet</xdesc>
+			<xrate>100</xrate>
+			<xgitem>Finished Good</xgitem>
+			<xcatitem>Chicken</xcatitem>
+			<xopalc>0</xopalc>
+			<xqtyit>0</xqtyit>
+			<xqtyrt>34</xqtyrt>
+			<xinhand>257</xinhand>
+			<xavail>257</xavail>
+			<zorg>Khana's Central</zorg>
+			<xmadd>618, Dhonia A.K. High School Road, Jatrabari, Dhaka - 1236</xmadd>
+		</stock>
+		<stock>
+			<zactive>true</zactive>
+			<ztime>2021-03-31T23:48:36.151+06:00</ztime>
+			<zutime>2021-03-31T23:48:36.151+06:00</zutime>
+			<zid>900000</zid>
+			<xitem>IC-000006</xitem>
+			<xwh>Central Store</xwh>
+			<xdesc>MOMO</xdesc>
+			<xrate>40</xrate>
+			<xgitem>Finished Good</xgitem>
+			<xcatitem>Chicken</xcatitem>
+			<xopalc>0</xopalc>
+			<xqtyit>0</xqtyit>
+			<xqtyrt>0</xqtyrt>
+			<xinhand>0</xinhand>
+			<xavail>0</xavail>
+			<zorg>Khana's Central</zorg>
+			<xmadd>618, Dhonia A.K. High School Road, Jatrabari, Dhaka - 1236</xmadd>
+		</stock>
+		<stock>
+			<zactive>true</zactive>
+			<ztime>2021-03-31T23:48:36.152+06:00</ztime>
+			<zutime>2021-03-31T23:48:36.152+06:00</zutime>
+			<zid>900000</zid>
+			<xitem>IC-000007</xitem>
+			<xwh>Central Store</xwh>
+			<xdesc>Bologna</xdesc>
+			<xrate>10</xrate>
+			<xgitem>Finished Good</xgitem>
+			<xcatitem>Chicken</xcatitem>
+			<xopalc>0</xopalc>
+			<xqtyit>0</xqtyit>
+			<xqtyrt>0</xqtyrt>
+			<xinhand>0</xinhand>
+			<xavail>0</xavail>
+			<zorg>Khana's Central</zorg>
+			<xmadd>618, Dhonia A.K. High School Road, Jatrabari, Dhaka - 1236</xmadd>
+		</stock>
+		<stock>
+			<zactive>true</zactive>
+			<ztime>2021-03-31T23:48:36.152+06:00</ztime>
+			<zutime>2021-03-31T23:48:36.152+06:00</zutime>
+			<zid>900000</zid>
+			<xitem>IC-000008</xitem>
+			<xwh>Central Store</xwh>
+			<xdesc>Beef patty</xdesc>
+			<xrate>40</xrate>
+			<xgitem>Finished Good</xgitem>
+			<xcatitem>Beef</xcatitem>
+			<xopalc>0</xopalc>
+			<xqtyit>0</xqtyit>
+			<xqtyrt>0</xqtyrt>
+			<xinhand>0</xinhand>
+			<xavail>0</xavail>
+			<zorg>Khana's Central</zorg>
+			<xmadd>618, Dhonia A.K. High School Road, Jatrabari, Dhaka - 1236</xmadd>
+		</stock>
+		<stock>
+			<zactive>true</zactive>
+			<ztime>2021-03-31T23:48:36.152+06:00</ztime>
+			<zutime>2021-03-31T23:48:36.152+06:00</zutime>
+			<zid>900000</zid>
+			<xitem>IC-000009</xitem>
+			<xwh>Central Store</xwh>
+			<xdesc>Burst patty</xdesc>
+			<xrate>100</xrate>
+			<xgitem>Finished Good</xgitem>
+			<xcatitem>Beef</xcatitem>
+			<xopalc>0</xopalc>
+			<xqtyit>0</xqtyit>
+			<xqtyrt>0</xqtyrt>
+			<xinhand>0</xinhand>
+			<xavail>0</xavail>
+			<zorg>Khana's Central</zorg>
+			<xmadd>618, Dhonia A.K. High School Road, Jatrabari, Dhaka - 1236</xmadd>
+		</stock>
+		<stock>
+			<zactive>true</zactive>
+			<ztime>2021-03-31T23:48:36.152+06:00</ztime>
+			<zutime>2021-03-31T23:48:36.152+06:00</zutime>
+			<zid>900000</zid>
+			<xitem>IC-000010</xitem>
+			<xwh>Central Store</xwh>
+			<xdesc>Hunter Beef</xdesc>
+			<xrate>190</xrate>
+			<xgitem>Finished Good</xgitem>
+			<xcatitem>Beef</xcatitem>
+			<xopalc>0</xopalc>
+			<xqtyit>0</xqtyit>
+			<xqtyrt>0</xqtyrt>
+			<xinhand>0</xinhand>
+			<xavail>0</xavail>
+			<zorg>Khana's Central</zorg>
+			<xmadd>618, Dhonia A.K. High School Road, Jatrabari, Dhaka - 1236</xmadd>
+		</stock>
+		<stock>
+			<zactive>true</zactive>
+			<ztime>2021-03-31T23:48:36.156+06:00</ztime>
+			<zutime>2021-03-31T23:48:36.156+06:00</zutime>
+			<zid>900000</zid>
+			<xitem>IC-000011</xitem>
+			<xwh>Central Store</xwh>
+			<xdesc>Chicken Wings</xdesc>
+			<xrate>0</xrate>
+			<xgitem>Finished Good</xgitem>
+			<xcatitem>Chicken</xcatitem>
+			<xopalc>0</xopalc>
+			<xqtyit>0</xqtyit>
+			<xqtyrt>0</xqtyrt>
+			<xinhand>232</xinhand>
+			<xavail>232</xavail>
+			<zorg>Khana's Central</zorg>
+			<xmadd>618, Dhonia A.K. High School Road, Jatrabari, Dhaka - 1236</xmadd>
+		</stock>
+		<stock>
+			<zactive>true</zactive>
+			<ztime>2021-03-31T23:48:36.156+06:00</ztime>
+			<zutime>2021-03-31T23:48:36.156+06:00</zutime>
+			<zid>900000</zid>
+			<xitem>IC-000012</xitem>
+			<xwh>Central Store</xwh>
+			<xdesc>Wedges</xdesc>
+			<xrate>0</xrate>
+			<xgitem>Finished Good</xgitem>
+			<xcatitem>Wedges</xcatitem>
+			<xopalc>0</xopalc>
+			<xqtyit>0</xqtyit>
+			<xqtyrt>0</xqtyrt>
+			<xinhand>0</xinhand>
+			<xavail>0</xavail>
+			<zorg>Khana's Central</zorg>
+			<xmadd>618, Dhonia A.K. High School Road, Jatrabari, Dhaka - 1236</xmadd>
+		</stock>
+		<stock>
+			<zactive>true</zactive>
+			<ztime>2021-03-31T23:48:36.157+06:00</ztime>
+			<zutime>2021-03-31T23:48:36.157+06:00</zutime>
+			<zid>900000</zid>
+			<xitem>IC-000013</xitem>
+			<xwh>Central Store</xwh>
+			<xdesc>Fries</xdesc>
+			<xrate>0</xrate>
+			<xgitem>Finished Good</xgitem>
+			<xcatitem>Fries</xcatitem>
+			<xopalc>0</xopalc>
+			<xqtyit>0</xqtyit>
+			<xqtyrt>0</xqtyrt>
+			<xinhand>0</xinhand>
+			<xavail>0</xavail>
+			<zorg>Khana's Central</zorg>
+			<xmadd>618, Dhonia A.K. High School Road, Jatrabari, Dhaka - 1236</xmadd>
+		</stock>
+		<stock>
+			<zactive>true</zactive>
+			<ztime>2021-03-31T23:48:36.157+06:00</ztime>
+			<zutime>2021-03-31T23:48:36.157+06:00</zutime>
+			<zid>900000</zid>
+			<xitem>IC-000014</xitem>
+			<xwh>Central Store</xwh>
+			<xdesc>Mayo Gavy</xdesc>
+			<xrate>0</xrate>
+			<xgitem>Finished Good</xgitem>
+			<xcatitem>Mayo Gravy</xcatitem>
+			<xopalc>0</xopalc>
+			<xqtyit>0</xqtyit>
+			<xqtyrt>0</xqtyrt>
+			<xinhand>0</xinhand>
+			<xavail>0</xavail>
+			<zorg>Khana's Central</zorg>
+			<xmadd>618, Dhonia A.K. High School Road, Jatrabari, Dhaka - 1236</xmadd>
+		</stock>
+		<stock>
+			<zactive>true</zactive>
+			<ztime>2021-03-31T23:48:36.157+06:00</ztime>
+			<zutime>2021-03-31T23:48:36.157+06:00</zutime>
+			<zid>900000</zid>
+			<xitem>IC-000015</xitem>
+			<xwh>Central Store</xwh>
+			<xdesc>Coffee Gravy</xdesc>
+			<xrate>0</xrate>
+			<xgitem>Raw Materials</xgitem>
+			<xcatitem>Shakes</xcatitem>
+			<xopalc>0</xopalc>
+			<xqtyit>0</xqtyit>
+			<xqtyrt>0</xqtyrt>
+			<xinhand>0</xinhand>
+			<xavail>0</xavail>
+			<zorg>Khana's Central</zorg>
+			<xmadd>618, Dhonia A.K. High School Road, Jatrabari, Dhaka - 1236</xmadd>
+		</stock>
+		<stock>
+			<zactive>true</zactive>
+			<ztime>2021-03-31T23:48:36.157+06:00</ztime>
+			<zutime>2021-03-31T23:48:36.157+06:00</zutime>
+			<zid>900000</zid>
+			<xitem>IC-000016</xitem>
+			<xwh>Central Store</xwh>
+			<xdesc>Strawberry Gravy</xdesc>
+			<xrate>0</xrate>
+			<xgitem>Raw Materials</xgitem>
+			<xcatitem>Shakes</xcatitem>
+			<xopalc>0</xopalc>
+			<xqtyit>0</xqtyit>
+			<xqtyrt>0</xqtyrt>
+			<xinhand>0</xinhand>
+			<xavail>0</xavail>
+			<zorg>Khana's Central</zorg>
+			<xmadd>618, Dhonia A.K. High School Road, Jatrabari, Dhaka - 1236</xmadd>
+		</stock>
+		<stock>
+			<zactive>true</zactive>
+			<ztime>2021-03-31T23:48:36.157+06:00</ztime>
+			<zutime>2021-03-31T23:48:36.157+06:00</zutime>
+			<zid>900000</zid>
+			<xitem>IC-000017</xitem>
+			<xwh>Central Store</xwh>
+			<xdesc>SODA</xdesc>
+			<xrate>0</xrate>
+			<xgitem>Raw Materials</xgitem>
+			<xcatitem>Shakes</xcatitem>
+			<xopalc>0</xopalc>
+			<xqtyit>0</xqtyit>
+			<xqtyrt>0</xqtyrt>
+			<xinhand>0</xinhand>
+			<xavail>0</xavail>
+			<zorg>Khana's Central</zorg>
+			<xmadd>618, Dhonia A.K. High School Road, Jatrabari, Dhaka - 1236</xmadd>
+		</stock>
+		<stock>
+			<zactive>true</zactive>
+			<ztime>2021-03-31T23:48:36.157+06:00</ztime>
+			<zutime>2021-03-31T23:48:36.157+06:00</zutime>
+			<zid>900000</zid>
+			<xitem>IC-000018</xitem>
+			<xwh>Central Store</xwh>
+			<xdesc>Raw Chicken (Broiler)</xdesc>
+			<xrate>60</xrate>
+			<xdealerp>60</xdealerp>
+			<xgitem>Raw Materials</xgitem>
+			<xcatitem>Raw Chicken</xcatitem>
+			<xopalc>0</xopalc>
+			<xqtyit>0</xqtyit>
+			<xqtyrt>0</xqtyrt>
+			<xinhand>150</xinhand>
+			<xavail>150</xavail>
+			<zorg>Khana's Central</zorg>
+			<xmadd>618, Dhonia A.K. High School Road, Jatrabari, Dhaka - 1236</xmadd>
+		</stock>
+		<stock>
+			<zactive>true</zactive>
+			<ztime>2021-03-31T23:48:36.158+06:00</ztime>
+			<zutime>2021-03-31T23:48:36.158+06:00</zutime>
+			<zid>900000</zid>
+			<xitem>IC-000019</xitem>
+			<xwh>Central Store</xwh>
+			<xdesc>Chicken Fillet</xdesc>
+			<xrate>500</xrate>
+			<xgitem>Raw Materials</xgitem>
+			<xcatitem>Chicken</xcatitem>
+			<xopalc>0</xopalc>
+			<xqtyit>0</xqtyit>
+			<xqtyrt>0</xqtyrt>
+			<xinhand>94</xinhand>
+			<xavail>94</xavail>
+			<zorg>Khana's Central</zorg>
+			<xmadd>618, Dhonia A.K. High School Road, Jatrabari, Dhaka - 1236</xmadd>
+		</stock>
+		<stock>
+			<zactive>true</zactive>
+			<ztime>2021-03-31T23:48:36.158+06:00</ztime>
+			<zutime>2021-03-31T23:48:36.158+06:00</zutime>
+			<zid>900000</zid>
+			<xitem>IC-000020</xitem>
+			<xwh>Central Store</xwh>
+			<xdesc>Chicken Keema</xdesc>
+			<xrate>500</xrate>
+			<xgitem>Raw Materials</xgitem>
+			<xcatitem>Chicken</xcatitem>
+			<xopalc>0</xopalc>
+			<xqtyit>0</xqtyit>
+			<xqtyrt>0</xqtyrt>
+			<xinhand>704</xinhand>
+			<xavail>704</xavail>
+			<zorg>Khana's Central</zorg>
+			<xmadd>618, Dhonia A.K. High School Road, Jatrabari, Dhaka - 1236</xmadd>
+		</stock>
+		<stock>
+			<zactive>true</zactive>
+			<ztime>2021-03-31T23:48:36.162+06:00</ztime>
+			<zutime>2021-03-31T23:48:36.162+06:00</zutime>
+			<zid>900000</zid>
+			<xitem>IC-000021</xitem>
+			<xwh>Central Store</xwh>
+			<xdesc>Beef Keema</xdesc>
+			<xrate>700</xrate>
+			<xgitem>Raw Materials</xgitem>
+			<xcatitem>Beef</xcatitem>
+			<xopalc>0</xopalc>
+			<xqtyit>0</xqtyit>
+			<xqtyrt>0</xqtyrt>
+			<xinhand>122</xinhand>
+			<xavail>122</xavail>
+			<zorg>Khana's Central</zorg>
+			<xmadd>618, Dhonia A.K. High School Road, Jatrabari, Dhaka - 1236</xmadd>
+		</stock>
+		<stock>
+			<zactive>true</zactive>
+			<ztime>2021-03-31T23:48:36.162+06:00</ztime>
+			<zutime>2021-03-31T23:48:36.162+06:00</zutime>
+			<zid>900000</zid>
+			<xitem>IC-000022</xitem>
+			<xwh>Central Store</xwh>
+			<xdesc>Boneless Beef</xdesc>
+			<xrate>900</xrate>
+			<xgitem>Raw Materials</xgitem>
+			<xcatitem>Beef</xcatitem>
+			<xopalc>0</xopalc>
+			<xqtyit>0</xqtyit>
+			<xqtyrt>0</xqtyrt>
+			<xinhand>-5</xinhand>
+			<xavail>-5</xavail>
+			<zorg>Khana's Central</zorg>
+			<xmadd>618, Dhonia A.K. High School Road, Jatrabari, Dhaka - 1236</xmadd>
+		</stock>
+		<stock>
+			<zactive>true</zactive>
+			<ztime>2021-03-31T23:48:36.162+06:00</ztime>
+			<zutime>2021-03-31T23:48:36.162+06:00</zutime>
+			<zid>900000</zid>
+			<xitem>IC-000023</xitem>
+			<xwh>Central Store</xwh>
+			<xdesc>Fat</xdesc>
+			<xrate>50</xrate>
+			<xgitem>Finished Good</xgitem>
+			<xcatitem>Beef</xcatitem>
+			<xopalc>0</xopalc>
+			<xqtyit>0</xqtyit>
+			<xqtyrt>0</xqtyrt>
+			<xinhand>0</xinhand>
+			<xavail>0</xavail>
+			<zorg>Khana's Central</zorg>
+			<xmadd>618, Dhonia A.K. High School Road, Jatrabari, Dhaka - 1236</xmadd>
+		</stock>
+		<stock>
+			<zactive>true</zactive>
+			<ztime>2021-03-31T23:48:36.162+06:00</ztime>
+			<zutime>2021-03-31T23:48:36.162+06:00</zutime>
+			<zid>900000</zid>
+			<xitem>IC-000024</xitem>
+			<xwh>Central Store</xwh>
+			<xdesc>Chips</xdesc>
+			<xrate>10</xrate>
+			<xgitem>Finished Good</xgitem>
+			<xcatitem>Chips</xcatitem>
+			<xopalc>0</xopalc>
+			<xqtyit>0</xqtyit>
+			<xqtyrt>0</xqtyrt>
+			<xinhand>0</xinhand>
+			<xavail>0</xavail>
+			<zorg>Khana's Central</zorg>
+			<xmadd>618, Dhonia A.K. High School Road, Jatrabari, Dhaka - 1236</xmadd>
+		</stock>
+		<stock>
+			<zactive>true</zactive>
+			<ztime>2021-03-31T23:48:36.163+06:00</ztime>
+			<zutime>2021-03-31T23:48:36.163+06:00</zutime>
+			<zid>900000</zid>
+			<xitem>IC-000025</xitem>
+			<xwh>Central Store</xwh>
+			<xdesc>Pran Sauce</xdesc>
+			<xrate>20</xrate>
+			<xmrp>22</xmrp>
+			<xdealerp>15</xdealerp>
+			<xgitem>Finished Good</xgitem>
+			<xcatitem>Sauce</xcatitem>
+			<xopalc>0</xopalc>
+			<xqtyit>0</xqtyit>
+			<xqtyrt>0</xqtyrt>
+			<xinhand>59</xinhand>
+			<xavail>59</xavail>
+			<zorg>Khana's Central</zorg>
+			<xmadd>618, Dhonia A.K. High School Road, Jatrabari, Dhaka - 1236</xmadd>
+		</stock>
+		<stock>
+			<zactive>true</zactive>
+			<ztime>2021-03-31T23:48:36.163+06:00</ztime>
+			<zutime>2021-03-31T23:48:36.163+06:00</zutime>
+			<zid>900000</zid>
+			<xitem>IC-000026</xitem>
+			<xwh>Central Store</xwh>
+			<xdesc>Beef</xdesc>
+			<xrate>540</xrate>
+			<xgitem>Raw Materials</xgitem>
+			<xcatitem>Beef</xcatitem>
+			<xopalc>0</xopalc>
+			<xqtyit>0</xqtyit>
+			<xqtyrt>0</xqtyrt>
+			<xinhand>0</xinhand>
+			<xavail>0</xavail>
+			<zorg>Khana's Central</zorg>
+			<xmadd>618, Dhonia A.K. High School Road, Jatrabari, Dhaka - 1236</xmadd>
+		</stock>
+		<stock>
+			<zactive>true</zactive>
+			<ztime>2021-03-31T23:48:36.163+06:00</ztime>
+			<zutime>2021-03-31T23:48:36.163+06:00</zutime>
+			<zid>900000</zid>
+			<xitem>IC-000027</xitem>
+			<xwh>Central Store</xwh>
+			<xdesc>Chicken</xdesc>
+			<xrate>500</xrate>
+			<xgitem>Raw Materials</xgitem>
+			<xcatitem>Chicken</xcatitem>
+			<xopalc>0</xopalc>
+			<xqtyit>0</xqtyit>
+			<xqtyrt>0</xqtyrt>
+			<xinhand>0</xinhand>
+			<xavail>0</xavail>
+			<zorg>Khana's Central</zorg>
+			<xmadd>618, Dhonia A.K. High School Road, Jatrabari, Dhaka - 1236</xmadd>
+		</stock>
+		<stock>
+			<zactive>true</zactive>
+			<ztime>2021-03-31T23:48:36.163+06:00</ztime>
+			<zutime>2021-03-31T23:48:36.163+06:00</zutime>
+			<zid>900000</zid>
+			<xitem>IC-000028</xitem>
+			<xwh>Central Store</xwh>
+			<xdesc>Takeway Box</xdesc>
+			<xrate>5</xrate>
+			<xgitem>Packaging Item</xgitem>
+			<xcatitem>Box</xcatitem>
+			<xopalc>0</xopalc>
+			<xqtyit>0</xqtyit>
+			<xqtyrt>0</xqtyrt>
+			<xinhand>0</xinhand>
+			<xavail>0</xavail>
+			<zorg>Khana's Central</zorg>
+			<xmadd>618, Dhonia A.K. High School Road, Jatrabari, Dhaka - 1236</xmadd>
+		</stock>
+	</stocks>
+</stockl>
