@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<productionplanningsreport>
+	<businessName>Khana's Central</businessName>
+	<businessAddress>618, Dhonia A.K. High School Road, Jatrabari, Dhaka -
+		1236</businessAddress>
+	<reportName>Production Planning of Chalan : CH-000051</reportName>
+	<fromDate>Wed, 31-Mar-2021</fromDate>
+	<toDate>Wed, 31-Mar-2021</toDate>
+	<printDate>Wed, 31-Mar-2021</printDate>
+	<chalans>
+		<chalan>
+			<chalanName>CH-000051</chalanName>
+			<chalanDate>Wed, 31-Mar-2021</chalanDate>
+			<status>Confirmed</status>
+			<items />
+			<suggestions>
+				<suggestion>
+					<productionItem>Premium patty</productionItem>
+					<productionItemQty>9</productionItemQty>
+					<productionItemUnit>PCS</productionItemUnit>
+					<rawMaterial>Chicken Fillet</rawMaterial>
+					<rawMaterialQty>1.125</rawMaterialQty>
+					<rawMaterialUnit>KG</rawMaterialUnit>
+				</suggestion>
+				<suggestion>
+					<productionItem>Chicken Cutlet</productionItem>
+					<productionItemQty>9</productionItemQty>
+					<productionItemUnit>SET</productionItemUnit>
+					<rawMaterial>Chicken</rawMaterial>
+					<rawMaterialQty>0.45</rawMaterialQty>
+					<rawMaterialUnit>KG</rawMaterialUnit>
+				</suggestion>
+				<suggestion>
+					<productionItem>Chicken Wings</productionItem>
+					<productionItemQty>1</productionItemQty>
+					<productionItemUnit>SET</productionItemUnit>
+					<rawMaterial>Chicken Wings</rawMaterial>
+					<rawMaterialQty>0.22222</rawMaterialQty>
+					<rawMaterialUnit>KG</rawMaterialUnit>
+				</suggestion>
+			</suggestions>
+		</chalan>
+	</chalans>
+</productionplanningsreport>

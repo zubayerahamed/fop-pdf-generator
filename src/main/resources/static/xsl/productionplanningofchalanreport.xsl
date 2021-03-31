@@ -1,11 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
+
 <xsl:stylesheet 
 	version="1.1"
 	xmlns:xsl="http://www.w3.org/1999/XSL/Transform" 
 	xmlns:fo="http://www.w3.org/1999/XSL/Format"
 	exclude-result-prefixes="fo">
 
-	<xsl:template match="chalanreport">
+	<xsl:template match="productionplanningsreport">
 		<fo:root xmlns:fo="http://www.w3.org/1999/XSL/Format">
 			<xsl:variable name="pageid" select="generate-id()" />
 
@@ -51,7 +52,7 @@
 						<fo:block text-align="center" font-size="12px" font-weight="bold" margin-top="4px">
 							<xsl:value-of select="reportName"/>
 						</fo:block>
-						<fo:block text-align="left" font-size="7px" font-weight="bold"  margin-top="2px" padding-bottom="5px">
+						<fo:block text-align="left" font-size="7px"  margin-top="2px" padding-bottom="5px">
 							Date: <xsl:value-of select="fromDate"/> To <xsl:value-of select="toDate"/>
 						</fo:block>
 					</fo:block-container>
@@ -77,29 +78,19 @@
 				</fo:static-content>
 
 				<!-- BODY CONTENT -->
- 				<fo:flow flow-name="xsl-region-body">
-					<fo:block-container width="100%" margin-top="20px" right="0mm">
-					<fo:block-container width="50%" margin-top="20px" right="0mm" padding-top="2mm">
-						<fo:block font-weight="bold" font-size="10px" text-align="left">
-							Chalan: <xsl:value-of select="chalanNumber"/>
-						</fo:block>
-						<fo:block font-weight="bold" font-size="10px" text-align="left">
-							Chalan Date: <xsl:value-of select="chalanDate"/>
-						</fo:block>
-						<fo:block font-weight="bold" font-size="10px" text-align="left">
-							Status: <xsl:value-of select="chalanStatus"/>
-						</fo:block>
-					</fo:block-container>
+				<fo:flow flow-name="xsl-region-body">
+					<fo:block-container width="100%" margin-top="0px" right="0mm">
 						<fo:block>
 							<fo:table table-layout="fixed" width="100%" border-collapse="collapse">
 								<fo:table-column column-width="100%" />
-										
+
 								<fo:table-body>
-									<xsl:apply-templates select="salesorders/salesorder"/>
+									<xsl:apply-templates select="chalans/chalan"/>
 								</fo:table-body>
 							</fo:table>
 						</fo:block>
 					</fo:block-container>
+
 					<fo:block id="{$pageid}" />
 				</fo:flow>
 			</fo:page-sequence>
@@ -107,13 +98,32 @@
 	</xsl:template>
 
 	<!-- Category table template -->
-      <xsl:template match="salesorders/salesorder">
+	<xsl:template match="chalans/chalan">
 		<fo:table-row>
 			<fo:table-cell xsl:use-attribute-sets="category.table.td" margin-top="10px">
-				
-				<fo:block font-weight="bold" font-size="8px" padding-top="30px" padding-bottom="5px" text-align="left">
-					Sales Order: <xsl:value-of select="orderNumber"/>
+				<fo:block font-weight="bold" font-size="10px" padding-top="30px" padding-bottom="5px" text-align="center">
+					Chalan : <xsl:value-of select="chalanName"/>
 				</fo:block>
+
+				<fo:block margin-bottom="5px">
+					<fo:table table-layout="fixed" width="100%" border-collapse="collapse" >
+						<fo:table-column column-width="50%"/>
+						<fo:table-column column-width="50%" />
+
+						<fo:table-body>
+							<fo:table-row font-size="7px">
+								<fo:table-cell text-align="left">
+									<fo:block>Date: <xsl:value-of select="chalanDate"/></fo:block>
+								</fo:table-cell>
+								<fo:table-cell text-align="right">
+									<fo:block></fo:block>
+								</fo:table-cell>
+							</fo:table-row>
+						</fo:table-body>
+
+					</fo:table>
+				</fo:block>
+				
 				
 				<!-- Item table -->
 				<fo:block>
@@ -124,34 +134,42 @@
 						<fo:table-column column-width="15%" />
 						<fo:table-column column-width="20%" />
 						<fo:table-column column-width="20%"/>
-						
 						<!-- Table header -->
 						<fo:table-header xsl:use-attribute-sets="table.font.size">
 							<fo:table-row>
-								<fo:table-cell xsl:use-attribute-sets="client.table.th" text-align="center" background-color="gray">
-									<fo:block>item Code</fo:block>
-								</fo:table-cell> 
-								<fo:table-cell xsl:use-attribute-sets="client.table.th" text-align="center" background-color="gray">
-									<fo:block>Item Name</fo:block>
+								<fo:table-cell xsl:use-attribute-sets="client.table.th" text-align="center">
+									<fo:block>Production Item</fo:block>
 								</fo:table-cell>
-								<fo:table-cell xsl:use-attribute-sets="client.table.th" text-align="center" background-color="gray">
-									<fo:block>item Qty</fo:block>
+								<fo:table-cell xsl:use-attribute-sets="client.table.th" text-align="center">
+									<fo:block>Production Item Qty</fo:block>
 								</fo:table-cell>
-								<fo:table-cell xsl:use-attribute-sets="client.table.th" text-align="center" background-color="gray">
-									<fo:block>item Unit</fo:block>
+								<fo:table-cell xsl:use-attribute-sets="client.table.th" text-align="center">
+									<fo:block>Production Item Unit</fo:block>
 								</fo:table-cell>
-								<fo:table-cell xsl:use-attribute-sets="client.table.th" text-align="center" background-color="gray">
-									<fo:block>item Category</fo:block>
+								<fo:table-cell xsl:use-attribute-sets="client.table.th" text-align="center">
+									<fo:block>Raw Material</fo:block>
 								</fo:table-cell>
-								<fo:table-cell xsl:use-attribute-sets="client.table.th" text-align="center" background-color="gray">
-									<fo:block>item Group</fo:block>
+								<fo:table-cell xsl:use-attribute-sets="client.table.th" text-align="center">
+									<fo:block>Raw Material Qty</fo:block>
+								</fo:table-cell>
+								<fo:table-cell xsl:use-attribute-sets="client.table.th" text-align="center">
+									<fo:block>Raw Material Unit</fo:block>
 								</fo:table-cell>
 							</fo:table-row>
 						</fo:table-header>
 
-					<!-- table body -->
+						<!-- table body -->
 						<fo:table-body>
-							<xsl:apply-templates select="items/item"/>
+							<xsl:if test="suggestions/suggestion">
+								<xsl:apply-templates select="suggestions/suggestion"/>
+							</xsl:if>
+							<xsl:if test="not(suggestions/suggestion)">
+								<fo:table-row>
+									<fo:table-cell number-columns-spanned="6" xsl:use-attribute-sets="client.table.td">
+										<fo:block>No Items found</fo:block>
+									</fo:table-cell>
+								</fo:table-row>
+							</xsl:if>
 						</fo:table-body>
 					</fo:table>
 				</fo:block>
@@ -160,36 +178,36 @@
 	</xsl:template>
 
 	<!-- Item table template -->
-	<xsl:template match="items/item">
+	<xsl:template match="suggestions/suggestion">
 		<fo:table-row>
 			<fo:table-cell xsl:use-attribute-sets="client.table.td" text-align="center">
 				<fo:block>
-					<xsl:value-of select="itemCode"/>
+					<xsl:value-of select="productionItem"/>
 				</fo:block>
 			</fo:table-cell>
 			<fo:table-cell xsl:use-attribute-sets="client.table.td" text-align="center">
 				<fo:block>
-					<xsl:value-of select="itemName"/>
+					<xsl:value-of select="productionItemQty"/>
 				</fo:block>
 			</fo:table-cell>
 			<fo:table-cell xsl:use-attribute-sets="client.table.td" text-align="center">
 				<fo:block>
-					<xsl:value-of select="itemQty"/>
+					<xsl:value-of select="productionItemUnit"/>
 				</fo:block>
 			</fo:table-cell>
 			<fo:table-cell xsl:use-attribute-sets="client.table.td" text-align="center">
 				<fo:block>
-					<xsl:value-of select="itemUnit"/>
+					<xsl:value-of select="rawMaterial"/>
 				</fo:block>
 			</fo:table-cell>
 			<fo:table-cell xsl:use-attribute-sets="client.table.td" text-align="center">
 				<fo:block>
-					<xsl:value-of select="itemCategory"/>
+					<xsl:value-of select="rawMaterialQty"/>
 				</fo:block>
 			</fo:table-cell>
 			<fo:table-cell xsl:use-attribute-sets="client.table.td" text-align="center">
 				<fo:block>
-					<xsl:value-of select="itemGroup"/>
+					<xsl:value-of select="rawMaterialUnit"/>
 				</fo:block>
 			</fo:table-cell>
 		</fo:table-row>

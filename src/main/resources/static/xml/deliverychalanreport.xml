@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<chalanreport>
+	<businessName>Khana's Central</businessName>
+	<businessAddress>618, Dhonia A.K. High School Road, Jatrabari, Dhaka -
+		1236</businessAddress>
+	<reportName>Delivery Chalan : CH-000050</reportName>
+	<fromDate>Tue, 30-Mar-2021</fromDate>
+	<toDate>Tue, 30-Mar-2021</toDate>
+	<printDate>Wed, 31-Mar-2021</printDate>
+	<copyrightText>ASL</copyrightText>
+	<chalanNumber>CH-000050</chalanNumber>
+	<chalanDate>Tue, 30-Mar-2021</chalanDate>
+	<salesorders>
+		<salesorder>
+			<orderNumber>DO--000027</orderNumber>
+			<reqBranch>CUS-000021</reqBranch>
+			<date>Tue, 30-Mar-2021</date>
+			<customer>Dhanmondi</customer>
+			<items>
+				<item>
+					<itemCode>IC-000028</itemCode>
+					<itemName>Takeway Box</itemName>
+					<itemQty>15</itemQty>
+					<itemUnit>PCS</itemUnit>
+					<itemCategory>Box</itemCategory>
+					<itemGroup>Packaging Item</itemGroup>
+				</item>
+				<item>
+					<itemCode>IC-000003</itemCode>
+					<itemName>Smoked Chicken</itemName>
+					<itemQty>5</itemQty>
+					<itemUnit>PAC</itemUnit>
+					<itemCategory>Chicken</itemCategory>
+					<itemGroup>Finished Good</itemGroup>
+				</item>
+				<item>
+					<itemCode>IC-000025</itemCode>
+					<itemName>Pran Sauce</itemName>
+					<itemQty>15</itemQty>
+					<itemUnit>PCS</itemUnit>
+					<itemCategory>Sauce</itemCategory>
+					<itemGroup>Finished Good</itemGroup>
+				</item>
+				<item>
+					<itemCode>IC-000001</itemCode>
+					<itemName>Chicken patty</itemName>
+					<itemQty>10</itemQty>
+					<itemUnit>PCS</itemUnit>
+					<itemCategory>Chicken</itemCategory>
+					<itemGroup>Finished Good</itemGroup>
+				</item>
+			</items>
+		</salesorder>
+	</salesorders>
+</chalanreport>
