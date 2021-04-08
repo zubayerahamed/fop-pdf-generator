@@ -1,0 +1,227 @@
+<RM0301>
+	<businessAddress>618, Dhonia A.K. High School Road, Jatrabari, Dhaka -
+		1236</businessAddress>
+	<businessName>Khana's Central</businessName>
+	<copyrightText></copyrightText>
+	<fromDate>Thu, 01-Apr-2021</fromDate>
+	<printDate>Thu, 08-Apr-2021</printDate>
+	<reportName>Purchase Order</reportName>
+	<toDate>Sat, 10-Apr-2021</toDate>
+	<suppliers>
+		<supplier>
+			<supplierCode>SUP-000102</supplierCode>
+			<supplierName>ASL</supplierName>
+			<orders>
+				<order>
+					<orderNumber>PO-000056</orderNumber>
+					<orderDate>Thu, 01-Apr-2021</orderDate>
+					<status>Open</status>
+					<items>
+						<item>
+							<sl>1</sl>
+							<itemCode>IC-000019</itemCode>
+							<itemName>Chicken Fillet</itemName>
+							<qtyOrder>10</qtyOrder>
+							<qtyPurchased>0</qtyPurchased>
+							<rate>500</rate>
+							<unit>KG</unit>
+							<amount>5000</amount>
+						</item>
+					</items>
+					<totalQtyOrder>10</totalQtyOrder>
+					<totalQtyPurchased>0</totalQtyPurchased>
+					<totalAmount>5000</totalAmount>
+				</order>
+				<order>
+					<orderNumber>PO-000057</orderNumber>
+					<orderDate>Thu, 01-Apr-2021</orderDate>
+					<status>Confirmed</status>
+					<items>
+						<item>
+							<sl>1</sl>
+							<itemCode>IC-000019</itemCode>
+							<itemName>Chicken Fillet</itemName>
+							<qtyOrder>20</qtyOrder>
+							<qtyPurchased>0</qtyPurchased>
+							<rate>500</rate>
+							<unit>KG</unit>
+							<amount>10000</amount>
+						</item>
+					</items>
+					<totalQtyOrder>20</totalQtyOrder>
+					<totalQtyPurchased>0</totalQtyPurchased>
+					<totalAmount>10000</totalAmount>
+				</order>
+			</orders>
+			<totalQtyOrder>30</totalQtyOrder>
+			<totalQtyPurchased>0</totalQtyPurchased>
+			<totalAmount>15000</totalAmount>
+			<om>
+				<entry>
+					<key>PO-000056</key>
+					<value>
+						<orderNumber>PO-000056</orderNumber>
+						<orderDate>Thu, 01-Apr-2021</orderDate>
+						<status>Open</status>
+						<items>
+							<item>
+								<sl>1</sl>
+								<itemCode>IC-000019</itemCode>
+								<itemName>Chicken Fillet</itemName>
+								<qtyOrder>10</qtyOrder>
+								<qtyPurchased>0</qtyPurchased>
+								<rate>500</rate>
+								<unit>KG</unit>
+								<amount>5000</amount>
+							</item>
+						</items>
+						<totalQtyOrder>10</totalQtyOrder>
+						<totalQtyPurchased>0</totalQtyPurchased>
+						<totalAmount>5000</totalAmount>
+					</value>
+				</entry>
+				<entry>
+					<key>PO-000057</key>
+					<value>
+						<orderNumber>PO-000057</orderNumber>
+						<orderDate>Thu, 01-Apr-2021</orderDate>
+						<status>Confirmed</status>
+						<items>
+							<item>
+								<sl>1</sl>
+								<itemCode>IC-000019</itemCode>
+								<itemName>Chicken Fillet</itemName>
+								<qtyOrder>20</qtyOrder>
+								<qtyPurchased>0</qtyPurchased>
+								<rate>500</rate>
+								<unit>KG</unit>
+								<amount>10000</amount>
+							</item>
+						</items>
+						<totalQtyOrder>20</totalQtyOrder>
+						<totalQtyPurchased>0</totalQtyPurchased>
+						<totalAmount>10000</totalAmount>
+					</value>
+				</entry>
+			</om>
+		</supplier>
+		<supplier>
+			<supplierCode>SUP-000105</supplierCode>
+			<supplierName>Sadia agro</supplierName>
+			<supplierAddress>Dhonia, Dhaka - 1236</supplierAddress>
+			<orders>
+				<order>
+					<orderNumber>PO-000058</orderNumber>
+					<orderDate>Thu, 01-Apr-2021</orderDate>
+					<status>Confirmed</status>
+					<items>
+						<item>
+							<sl>1</sl>
+							<itemCode>IC-000011</itemCode>
+							<itemName>Chicken Wings</itemName>
+							<qtyOrder>100</qtyOrder>
+							<qtyPurchased>0</qtyPurchased>
+							<rate>165</rate>
+							<unit>SET</unit>
+							<amount>16500</amount>
+						</item>
+						<item>
+							<sl>2</sl>
+							<itemCode>IC-000019</itemCode>
+							<itemName>Chicken Fillet</itemName>
+							<qtyOrder>500</qtyOrder>
+							<qtyPurchased>0</qtyPurchased>
+							<rate>500</rate>
+							<unit>KG</unit>
+							<amount>250000</amount>
+						</item>
+						<item>
+							<sl>3</sl>
+							<itemCode>IC-000026</itemCode>
+							<itemName>Beef</itemName>
+							<qtyOrder>350</qtyOrder>
+							<qtyPurchased>0</qtyPurchased>
+							<rate>540</rate>
+							<unit>KG</unit>
+							<amount>189000</amount>
+						</item>
+						<item>
+							<sl>4</sl>
+							<itemCode>IC-000027</itemCode>
+							<itemName>Chicken</itemName>
+							<qtyOrder>80</qtyOrder>
+							<qtyPurchased>0</qtyPurchased>
+							<rate>500</rate>
+							<unit>KG</unit>
+							<amount>40000</amount>
+						</item>
+					</items>
+					<totalQtyOrder>1030</totalQtyOrder>
+					<totalQtyPurchased>0</totalQtyPurchased>
+					<totalAmount>495500</totalAmount>
+				</order>
+			</orders>
+			<totalQtyOrder>1030</totalQtyOrder>
+			<totalQtyPurchased>0</totalQtyPurchased>
+			<totalAmount>495500</totalAmount>
+			<om>
+				<entry>
+					<key>PO-000058</key>
+					<value>
+						<orderNumber>PO-000058</orderNumber>
+						<orderDate>Thu, 01-Apr-2021</orderDate>
+						<status>Confirmed</status>
+						<items>
+							<item>
+								<sl>1</sl>
+								<itemCode>IC-000011</itemCode>
+								<itemName>Chicken Wings</itemName>
+								<qtyOrder>100</qtyOrder>
+								<qtyPurchased>0</qtyPurchased>
+								<rate>165</rate>
+								<unit>SET</unit>
+								<amount>16500</amount>
+							</item>
+							<item>
+								<sl>2</sl>
+								<itemCode>IC-000019</itemCode>
+								<itemName>Chicken Fillet</itemName>
+								<qtyOrder>500</qtyOrder>
+								<qtyPurchased>0</qtyPurchased>
+								<rate>500</rate>
+								<unit>KG</unit>
+								<amount>250000</amount>
+							</item>
+							<item>
+								<sl>3</sl>
+								<itemCode>IC-000026</itemCode>
+								<itemName>Beef</itemName>
+								<qtyOrder>350</qtyOrder>
+								<qtyPurchased>0</qtyPurchased>
+								<rate>540</rate>
+								<unit>KG</unit>
+								<amount>189000</amount>
+							</item>
+							<item>
+								<sl>4</sl>
+								<itemCode>IC-000027</itemCode>
+								<itemName>Chicken</itemName>
+								<qtyOrder>80</qtyOrder>
+								<qtyPurchased>0</qtyPurchased>
+								<rate>500</rate>
+								<unit>KG</unit>
+								<amount>40000</amount>
+							</item>
+						</items>
+						<totalQtyOrder>1030</totalQtyOrder>
+						<totalQtyPurchased>0</totalQtyPurchased>
+						<totalAmount>495500</totalAmount>
+					</value>
+				</entry>
+			</om>
+		</supplier>
+	</suppliers>
+	<totalQtyOrder>1060</totalQtyOrder>
+	<totalQtyPurchased>0</totalQtyPurchased>
+	<totalAmount>510500</totalAmount>
+</RM0301>
