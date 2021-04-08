@@ -206,14 +206,14 @@
 
 	<!-- Orders table template -->
 	<xsl:template match="orders/order">
-		<fo:table-row>
-			<fo:table-cell xsl:use-attribute-sets="client.table.td">
+		<fo:table-row xsl:use-attribute-sets="table.tr.left-border">
+			<fo:table-cell xsl:use-attribute-sets="table.tr.left-border.td">
 				<fo:block font-weight="bold"><xsl:value-of select="orderNumber"/></fo:block>
 			</fo:table-cell>
-			<fo:table-cell xsl:use-attribute-sets="client.table.td">
+			<fo:table-cell xsl:use-attribute-sets="table.tr.left-border.td">
 				<fo:block font-weight="bold"><xsl:value-of select="orderDate"/></fo:block>
 			</fo:table-cell>
-			<fo:table-cell xsl:use-attribute-sets="client.table.td">
+			<fo:table-cell xsl:use-attribute-sets="table.tr.left-border.td">
 				<fo:block font-weight="bold"><xsl:value-of select="status"/></fo:block>
 			</fo:table-cell>
 			<fo:table-cell xsl:use-attribute-sets="client.table.th" number-columns-spanned="8">
@@ -237,18 +237,20 @@
 						<fo:table-column column-width="8%" />
 
 						<fo:table-header>
-							<fo:table-cell xsl:use-attribute-sets="client.table.td"><fo:block></fo:block></fo:table-cell>
-							<fo:table-cell xsl:use-attribute-sets="client.table.td"><fo:block></fo:block></fo:table-cell>
-							<fo:table-cell xsl:use-attribute-sets="client.table.td"><fo:block></fo:block></fo:table-cell>
-
-							<fo:table-cell xsl:use-attribute-sets="client.table.th"><fo:block text-align="center">SL</fo:block></fo:table-cell>
-							<fo:table-cell xsl:use-attribute-sets="client.table.th"><fo:block>Code</fo:block></fo:table-cell>
-							<fo:table-cell xsl:use-attribute-sets="client.table.th"><fo:block>Name</fo:block></fo:table-cell>
-							<fo:table-cell xsl:use-attribute-sets="client.table.th"><fo:block text-align="right">Ordered</fo:block></fo:table-cell>
-							<fo:table-cell xsl:use-attribute-sets="client.table.th"><fo:block text-align="right">Purchased</fo:block></fo:table-cell>
-							<fo:table-cell xsl:use-attribute-sets="client.table.th"><fo:block text-align="right">Rate</fo:block></fo:table-cell>
-							<fo:table-cell xsl:use-attribute-sets="client.table.th"><fo:block text-align="center">Unit</fo:block></fo:table-cell>
-							<fo:table-cell xsl:use-attribute-sets="client.table.th"><fo:block text-align="right">Amount</fo:block></fo:table-cell>
+							<fo:table-row xsl:use-attribute-sets="table.tr.left-border">
+								<fo:table-cell><fo:block></fo:block></fo:table-cell>
+								<fo:table-cell><fo:block></fo:block></fo:table-cell>
+								<fo:table-cell><fo:block></fo:block></fo:table-cell>
+	
+								<fo:table-cell xsl:use-attribute-sets="client.table.th"><fo:block text-align="center">SL</fo:block></fo:table-cell>
+								<fo:table-cell xsl:use-attribute-sets="client.table.th"><fo:block>Code</fo:block></fo:table-cell>
+								<fo:table-cell xsl:use-attribute-sets="client.table.th"><fo:block>Name</fo:block></fo:table-cell>
+								<fo:table-cell xsl:use-attribute-sets="client.table.th"><fo:block text-align="right">Ordered</fo:block></fo:table-cell>
+								<fo:table-cell xsl:use-attribute-sets="client.table.th"><fo:block text-align="right">Purchased</fo:block></fo:table-cell>
+								<fo:table-cell xsl:use-attribute-sets="client.table.th"><fo:block text-align="right">Rate</fo:block></fo:table-cell>
+								<fo:table-cell xsl:use-attribute-sets="client.table.th"><fo:block text-align="center">Unit</fo:block></fo:table-cell>
+								<fo:table-cell xsl:use-attribute-sets="client.table.th"><fo:block text-align="right">Amount</fo:block></fo:table-cell>
+							</fo:table-row>
 						</fo:table-header>
 	
 						<fo:table-body>
@@ -258,7 +260,7 @@
 				</fo:block>
 			</fo:table-cell>
 		</fo:table-row>
-		<fo:table-row>
+		<fo:table-row xsl:use-attribute-sets="supplier.group.td.tr.total">
 			<fo:table-cell xsl:use-attribute-sets="client.table.td" number-columns-spanned="6"><fo:block text-align="right" font-weight="bold">Order Total</fo:block></fo:table-cell>
 			<fo:table-cell xsl:use-attribute-sets="client.table.td"><fo:block text-align="right" font-weight="bold"><xsl:value-of select="totalQtyOrder"/></fo:block></fo:table-cell>
 			<fo:table-cell xsl:use-attribute-sets="client.table.td"><fo:block text-align="right" font-weight="bold"><xsl:value-of select="totalQtyPurchased"/></fo:block></fo:table-cell>
@@ -270,10 +272,10 @@
 
 	<!-- Items table -->
 	<xsl:template match="items/item">
-		<fo:table-row>
-			<fo:table-cell xsl:use-attribute-sets="client.table.td"><fo:block></fo:block></fo:table-cell>
-			<fo:table-cell xsl:use-attribute-sets="client.table.td"><fo:block></fo:block></fo:table-cell>
-			<fo:table-cell xsl:use-attribute-sets="client.table.td"><fo:block></fo:block></fo:table-cell>
+		<fo:table-row xsl:use-attribute-sets="table.tr.left-border">
+			<fo:table-cell><fo:block></fo:block></fo:table-cell>
+			<fo:table-cell><fo:block></fo:block></fo:table-cell>
+			<fo:table-cell><fo:block></fo:block></fo:table-cell>
 
 			<fo:table-cell xsl:use-attribute-sets="client.table.td"><fo:block text-align="center"><xsl:value-of select="sl"/></fo:block></fo:table-cell>
 			<fo:table-cell xsl:use-attribute-sets="client.table.td"><fo:block><xsl:value-of select="itemCode"/></fo:block></fo:table-cell>
@@ -345,5 +347,14 @@
 		<xsl:attribute name="background-color">#eee</xsl:attribute>
 	</xsl:attribute-set>
 	<xsl:attribute-set name="supplier.group.td.tr.tc">
+	</xsl:attribute-set>
+	<xsl:attribute-set name="table.tr.left-border">
+		<xsl:attribute name="border-left">1px solid #000</xsl:attribute>
+	</xsl:attribute-set>
+	<xsl:attribute-set name="table.tr.left-border.td">
+		<xsl:attribute name="font-size">8pt</xsl:attribute>
+		<xsl:attribute name="padding">2px</xsl:attribute>
+		<xsl:attribute name="padding-left">5px</xsl:attribute>
+		<xsl:attribute name="padding-right">5px</xsl:attribute>
 	</xsl:attribute-set>
 </xsl:stylesheet>
