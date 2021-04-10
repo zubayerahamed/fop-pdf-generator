@@ -1,1326 +1,1416 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <ilreport>
-	<shopName>Afghan grill</shopName>
-	<shopAddress>Flavors On Fire, Plot: #6, Road: #1, Shornali Abashon, Shwadesh Properties, Khilkhat, 300 Feet Road</shopAddress>
-	<reportName>Item List</reportName>
-	<copyright>copyright @ ...</copyright>
+	<copyright>Developed By KIT (karigorit.com) © Copyright 2021
+	</copyright>
+	<printDate>Sat, 10-Apr-2021</printDate>
+	<reportName>Item List Report</reportName>
+	<shopAddress>Flavors On Fire, Plot: #6, Road : #1, Shornali Abashon,
+		Shwadesh Properties, Khilkhet, 300 Feet Road, 1229 Dhaka</shopAddress>
+	<shopName>PUNJAB KITCHEN</shopName>
 	<categories>
 		<category>
-			<categoryName>AFGHAN CURRYS</categoryName>
+			<categoryName>Appetizer</categoryName>
 			<items>
 				<item>
 					<sl>1</sl>
-					<itemCode>00701072</itemCode>
-					<itemName>KABULI CHICKEN</itemName>
-					<itemAddTime>20-January-2021</itemAddTime>
-					<itemUpdateTime>20-January-2021</itemUpdateTime>
-					<costPrice>0.00</costPrice>
+					<itemCode>01001016</itemCode>
+					<itemName>Tandoori Wings</itemName>
+					<itemAddTime>Sun, 21-Mar-2021</itemAddTime>
+					<itemUpdateTime>Sun, 21-Mar-2021</itemUpdateTime>
+					<costPrice>0</costPrice>
 					<discount>0.00</discount>
-					<vat>43.50</vat>
-					<sellPrice>580.0000</sellPrice>
+					<vat>12.00</vat>
+					<sellPrice>160.00</sellPrice>
 					<sd>0.00</sd>
 					<status>Y</status>
 				</item>
 				<item>
 					<sl>2</sl>
-					<itemCode>00701073</itemCode>
-					<itemName>KANDAHARI CHICKEN</itemName>
-					<itemAddTime>20-January-2021</itemAddTime>
-					<itemUpdateTime>20-January-2021</itemUpdateTime>
-					<costPrice>0.00</costPrice>
+					<itemCode>01001017</itemCode>
+					<itemName>Chicken Shaslik</itemName>
+					<itemAddTime>Sun, 21-Mar-2021</itemAddTime>
+					<itemUpdateTime>Sun, 21-Mar-2021</itemUpdateTime>
+					<costPrice>0</costPrice>
 					<discount>0.00</discount>
-					<vat>44.25</vat>
-					<sellPrice>590.0000</sellPrice>
+					<vat>12.00</vat>
+					<sellPrice>160.00</sellPrice>
 					<sd>0.00</sd>
 					<status>Y</status>
 				</item>
 				<item>
 					<sl>3</sl>
-					<itemCode>00701074</itemCode>
-					<itemName>BUKHARA CHICKEN</itemName>
-					<itemAddTime>20-January-2021</itemAddTime>
-					<itemUpdateTime>20-January-2021</itemUpdateTime>
-					<costPrice>0.00</costPrice>
+					<itemCode>01001018</itemCode>
+					<itemName>Karahi Mushroom</itemName>
+					<itemAddTime>Sun, 21-Mar-2021</itemAddTime>
+					<itemUpdateTime>Sun, 21-Mar-2021</itemUpdateTime>
+					<costPrice>0</costPrice>
 					<discount>0.00</discount>
-					<vat>44.25</vat>
-					<sellPrice>590.0000</sellPrice>
+					<vat>10.50</vat>
+					<sellPrice>140.00</sellPrice>
 					<sd>0.00</sd>
 					<status>Y</status>
 				</item>
 				<item>
 					<sl>4</sl>
-					<itemCode>00701075</itemCode>
-					<itemName>BAMIYAN BEEF</itemName>
-					<itemAddTime>20-January-2021</itemAddTime>
-					<itemUpdateTime>20-January-2021</itemUpdateTime>
-					<costPrice>0.00</costPrice>
+					<itemCode>01001019</itemCode>
+					<itemName>Paneer Tikka</itemName>
+					<itemAddTime>Sun, 21-Mar-2021</itemAddTime>
+					<itemUpdateTime>Sun, 21-Mar-2021</itemUpdateTime>
+					<costPrice>0</costPrice>
 					<discount>0.00</discount>
-					<vat>48.75</vat>
-					<sellPrice>650.0000</sellPrice>
+					<vat>16.88</vat>
+					<sellPrice>225.00</sellPrice>
 					<sd>0.00</sd>
 					<status>Y</status>
 				</item>
 				<item>
 					<sl>5</sl>
-					<itemCode>00701076</itemCode>
-					<itemName>CHAN BEEF</itemName>
-					<itemAddTime>20-January-2021</itemAddTime>
-					<itemUpdateTime>20-January-2021</itemUpdateTime>
-					<costPrice>0.00</costPrice>
+					<itemCode>01001020</itemCode>
+					<itemName>Vegetable Mushroom Kebab</itemName>
+					<itemAddTime>Sun, 21-Mar-2021</itemAddTime>
+					<itemUpdateTime>Sun, 21-Mar-2021</itemUpdateTime>
+					<costPrice>0</costPrice>
 					<discount>0.00</discount>
-					<vat>48.75</vat>
-					<sellPrice>650.0000</sellPrice>
+					<vat>11.63</vat>
+					<sellPrice>155.00</sellPrice>
 					<sd>0.00</sd>
 					<status>Y</status>
 				</item>
 				<item>
 					<sl>6</sl>
-					<itemCode>00701077</itemCode>
-					<itemName>KUNDUZ MUTTON</itemName>
-					<itemAddTime>20-January-2021</itemAddTime>
-					<itemUpdateTime>20-January-2021</itemUpdateTime>
-					<costPrice>0.00</costPrice>
+					<itemCode>01001021</itemCode>
+					<itemName>Punjab Fries</itemName>
+					<itemAddTime>Sun, 21-Mar-2021</itemAddTime>
+					<itemUpdateTime>Sun, 21-Mar-2021</itemUpdateTime>
+					<costPrice>0</costPrice>
 					<discount>0.00</discount>
-					<vat>63.00</vat>
-					<sellPrice>840.0000</sellPrice>
+					<vat>9.38</vat>
+					<sellPrice>125.00</sellPrice>
 					<sd>0.00</sd>
 					<status>Y</status>
 				</item>
+			</items>
+		</category>
+		<category>
+			<categoryName>Beverage &amp; Dessert</categoryName>
+			<items>
 				<item>
 					<sl>7</sl>
-					<itemCode>00701078</itemCode>
-					<itemName>MUTTON AFGHANI</itemName>
-					<itemAddTime>20-January-2021</itemAddTime>
-					<itemUpdateTime>20-January-2021</itemUpdateTime>
-					<costPrice>0.00</costPrice>
+					<itemCode>01001079</itemCode>
+					<itemName>Zeera Pani</itemName>
+					<itemAddTime>Sun, 21-Mar-2021</itemAddTime>
+					<itemUpdateTime>Sun, 21-Mar-2021</itemUpdateTime>
+					<costPrice>0</costPrice>
 					<discount>0.00</discount>
-					<vat>66.38</vat>
-					<sellPrice>885.0000</sellPrice>
+					<vat>6.00</vat>
+					<sellPrice>80.00</sellPrice>
 					<sd>0.00</sd>
 					<status>Y</status>
 				</item>
 				<item>
 					<sl>8</sl>
-					<itemCode>00701079</itemCode>
-					<itemName>AFGHANI DAL</itemName>
-					<itemAddTime>20-January-2021</itemAddTime>
-					<itemUpdateTime>20-January-2021</itemUpdateTime>
-					<costPrice>0.00</costPrice>
+					<itemCode>01001080</itemCode>
+					<itemName>Sweet Lassi</itemName>
+					<itemAddTime>Sun, 21-Mar-2021</itemAddTime>
+					<itemUpdateTime>Sun, 21-Mar-2021</itemUpdateTime>
+					<costPrice>0</costPrice>
 					<discount>0.00</discount>
-					<vat>22.13</vat>
-					<sellPrice>295.0000</sellPrice>
+					<vat>9.75</vat>
+					<sellPrice>130.00</sellPrice>
 					<sd>0.00</sd>
 					<status>Y</status>
 				</item>
 				<item>
 					<sl>9</sl>
-					<itemCode>00701080</itemCode>
-					<itemName>SARDARI SABJI</itemName>
-					<itemAddTime>20-January-2021</itemAddTime>
-					<itemUpdateTime>20-January-2021</itemUpdateTime>
-					<costPrice>0.00</costPrice>
+					<itemCode>01001081</itemCode>
+					<itemName>Salted Lassi</itemName>
+					<itemAddTime>Sun, 21-Mar-2021</itemAddTime>
+					<itemUpdateTime>Sun, 21-Mar-2021</itemUpdateTime>
+					<costPrice>0</costPrice>
 					<discount>0.00</discount>
-					<vat>24.00</vat>
-					<sellPrice>320.0000</sellPrice>
+					<vat>9.75</vat>
+					<sellPrice>130.00</sellPrice>
 					<sd>0.00</sd>
 					<status>Y</status>
 				</item>
 				<item>
 					<sl>10</sl>
-					<itemCode>00701081</itemCode>
-					<itemName>MIXED PANEER</itemName>
-					<itemAddTime>20-January-2021</itemAddTime>
-					<itemUpdateTime>20-January-2021</itemUpdateTime>
-					<costPrice>0.00</costPrice>
+					<itemCode>01001082</itemCode>
+					<itemName>Mango Lassi</itemName>
+					<itemAddTime>Sun, 21-Mar-2021</itemAddTime>
+					<itemUpdateTime>Sun, 21-Mar-2021</itemUpdateTime>
+					<costPrice>0</costPrice>
 					<discount>0.00</discount>
-					<vat>36.00</vat>
-					<sellPrice>480.0000</sellPrice>
+					<vat>13.50</vat>
+					<sellPrice>180.00</sellPrice>
 					<sd>0.00</sd>
 					<status>Y</status>
 				</item>
 				<item>
 					<sl>11</sl>
-					<itemCode>00701082</itemCode>
-					<itemName>AFGHANI BANJAN SABJI</itemName>
-					<itemAddTime>20-January-2021</itemAddTime>
-					<itemUpdateTime>20-January-2021</itemUpdateTime>
-					<costPrice>0.00</costPrice>
+					<itemCode>01001083</itemCode>
+					<itemName>Lahori Kulfi Faluda</itemName>
+					<itemAddTime>Sun, 21-Mar-2021</itemAddTime>
+					<itemUpdateTime>Sun, 21-Mar-2021</itemUpdateTime>
+					<costPrice>0</costPrice>
 					<discount>0.00</discount>
-					<vat>36.00</vat>
-					<sellPrice>480.0000</sellPrice>
+					<vat>13.50</vat>
+					<sellPrice>180.00</sellPrice>
 					<sd>0.00</sd>
 					<status>Y</status>
 				</item>
-			</items>
-		</category>
-		<category>
-			<categoryName>AFGHANI SULTANI (1:4)</categoryName>
-			<items>
 				<item>
 					<sl>12</sl>
-					<itemCode>00701094</itemCode>
-					<itemName>AFGHANI SULTANI (1:4)</itemName>
-					<itemAddTime>20-January-2021</itemAddTime>
-					<itemUpdateTime>20-January-2021</itemUpdateTime>
-					<costPrice>0.00</costPrice>
+					<itemCode>01001084</itemCode>
+					<itemName>Zafrani Firni</itemName>
+					<itemAddTime>Sun, 21-Mar-2021</itemAddTime>
+					<itemUpdateTime>Sun, 21-Mar-2021</itemUpdateTime>
+					<costPrice>0</costPrice>
 					<discount>0.00</discount>
-					<vat>202.50</vat>
-					<sellPrice>2700.0000</sellPrice>
+					<vat>7.13</vat>
+					<sellPrice>95.00</sellPrice>
 					<sd>0.00</sd>
 					<status>Y</status>
 				</item>
-			</items>
-		</category>
-		<category>
-			<categoryName>APPETIZER</categoryName>
-			<items>
 				<item>
 					<sl>13</sl>
-					<itemCode>00701001</itemCode>
-					<itemName>BBQ CHICKEN WINGS (5PCS)</itemName>
-					<itemAddTime>20-January-2021</itemAddTime>
-					<itemUpdateTime>20-January-2021</itemUpdateTime>
-					<costPrice>0.00</costPrice>
+					<itemCode>01001095</itemCode>
+					<itemName>Jilapi - 1 kg</itemName>
+					<itemAddTime>Sun, 21-Mar-2021</itemAddTime>
+					<itemUpdateTime>Sun, 21-Mar-2021</itemUpdateTime>
+					<costPrice>0</costPrice>
 					<discount>0.00</discount>
-					<vat>20.63</vat>
-					<sellPrice>275.0000</sellPrice>
+					<vat>48.75</vat>
+					<sellPrice>650.00</sellPrice>
 					<sd>0.00</sd>
 					<status>Y</status>
 				</item>
 				<item>
 					<sl>14</sl>
-					<itemCode>00701002</itemCode>
-					<itemName>YALLA FRIES</itemName>
-					<itemAddTime>20-January-2021</itemAddTime>
-					<itemUpdateTime>20-January-2021</itemUpdateTime>
-					<costPrice>0.00</costPrice>
+					<itemCode>01001096</itemCode>
+					<itemName>Jilapi - 500 gm</itemName>
+					<itemAddTime>Sun, 21-Mar-2021</itemAddTime>
+					<itemUpdateTime>Sun, 21-Mar-2021</itemUpdateTime>
+					<costPrice>0</costPrice>
 					<discount>0.00</discount>
-					<vat>24.00</vat>
-					<sellPrice>320.0000</sellPrice>
+					<vat>24.38</vat>
+					<sellPrice>325.00</sellPrice>
 					<sd>0.00</sd>
 					<status>Y</status>
 				</item>
 				<item>
 					<sl>15</sl>
-					<itemCode>00701003</itemCode>
-					<itemName>FISH &amp; CHIPS</itemName>
-					<itemAddTime>20-January-2021</itemAddTime>
-					<itemUpdateTime>20-January-2021</itemUpdateTime>
-					<costPrice>0.00</costPrice>
+					<itemCode>01001097</itemCode>
+					<itemName>Jilapi - 250 gm</itemName>
+					<itemAddTime>Sun, 21-Mar-2021</itemAddTime>
+					<itemUpdateTime>Sun, 21-Mar-2021</itemUpdateTime>
+					<costPrice>0</costPrice>
 					<discount>0.00</discount>
-					<vat>31.50</vat>
-					<sellPrice>420.0000</sellPrice>
+					<vat>12.23</vat>
+					<sellPrice>163.00</sellPrice>
 					<sd>0.00</sd>
 					<status>Y</status>
 				</item>
-			</items>
-		</category>
-		<category>
-			<categoryName>FISH GRILL</categoryName>
-			<items>
 				<item>
 					<sl>16</sl>
-					<itemCode>00701033</itemCode>
-					<itemName>GRILL PRAWN</itemName>
-					<itemAddTime>20-January-2021</itemAddTime>
-					<itemUpdateTime>20-January-2021</itemUpdateTime>
-					<costPrice>0.00</costPrice>
+					<itemCode>01001098</itemCode>
+					<itemName>Masala tea</itemName>
+					<itemAddTime>Sun, 21-Mar-2021</itemAddTime>
+					<itemUpdateTime>Sun, 21-Mar-2021</itemUpdateTime>
+					<costPrice>0</costPrice>
 					<discount>0.00</discount>
-					<vat>61.88</vat>
-					<sellPrice>825.0000</sellPrice>
+					<vat>3.38</vat>
+					<sellPrice>45.00</sellPrice>
 					<sd>0.00</sd>
 					<status>Y</status>
 				</item>
 				<item>
 					<sl>17</sl>
-					<itemCode>00701034</itemCode>
-					<itemName>GRILL POMFRET (1:1)</itemName>
-					<itemAddTime>20-January-2021</itemAddTime>
-					<itemUpdateTime>20-January-2021</itemUpdateTime>
-					<costPrice>0.00</costPrice>
+					<itemCode>01001099</itemCode>
+					<itemName>kinley</itemName>
+					<itemAddTime>Sun, 21-Mar-2021</itemAddTime>
+					<itemUpdateTime>Sun, 21-Mar-2021</itemUpdateTime>
+					<costPrice>0</costPrice>
 					<discount>0.00</discount>
-					<vat>28.50</vat>
-					<sellPrice>380.0000</sellPrice>
+					<vat>0.00</vat>
+					<sellPrice>15.00</sellPrice>
 					<sd>0.00</sd>
 					<status>Y</status>
 				</item>
 				<item>
 					<sl>18</sl>
-					<itemCode>00701035</itemCode>
-					<itemName>GRILL FISH (1:3)</itemName>
-					<itemAddTime>20-January-2021</itemAddTime>
-					<itemUpdateTime>20-January-2021</itemUpdateTime>
-					<costPrice>0.00</costPrice>
+					<itemCode>01001100</itemCode>
+					<itemName>cocacola</itemName>
+					<itemAddTime>Sun, 21-Mar-2021</itemAddTime>
+					<itemUpdateTime>Sun, 21-Mar-2021</itemUpdateTime>
+					<costPrice>0</costPrice>
 					<discount>0.00</discount>
-					<vat>90.00</vat>
-					<sellPrice>1200.0000</sellPrice>
+					<vat>0.00</vat>
+					<sellPrice>40.00</sellPrice>
 					<sd>0.00</sd>
 					<status>Y</status>
 				</item>
-			</items>
-		</category>
-		<category>
-			<categoryName>SALAD (1:2)</categoryName>
-			<items>
 				<item>
 					<sl>19</sl>
-					<itemCode>00701006</itemCode>
-					<itemName>AFGHANI GREEN SALAD</itemName>
-					<itemAddTime>20-January-2021</itemAddTime>
-					<itemUpdateTime>20-January-2021</itemUpdateTime>
-					<costPrice>0.00</costPrice>
+					<itemCode>01001101</itemCode>
+					<itemName>sprite</itemName>
+					<itemAddTime>Sun, 21-Mar-2021</itemAddTime>
+					<itemUpdateTime>Sun, 21-Mar-2021</itemUpdateTime>
+					<costPrice>0</costPrice>
 					<discount>0.00</discount>
-					<vat>11.25</vat>
-					<sellPrice>150.0000</sellPrice>
+					<vat>0.00</vat>
+					<sellPrice>40.00</sellPrice>
 					<sd>0.00</sd>
 					<status>Y</status>
 				</item>
 				<item>
 					<sl>20</sl>
-					<itemCode>00701007</itemCode>
-					<itemName>AFGHANI GREEN SALAD WITH CHICKEN</itemName>
-					<itemAddTime>20-January-2021</itemAddTime>
-					<itemUpdateTime>20-January-2021</itemUpdateTime>
-					<costPrice>0.00</costPrice>
+					<itemCode>01001102</itemCode>
+					<itemName>Fanta</itemName>
+					<itemAddTime>Sun, 21-Mar-2021</itemAddTime>
+					<itemUpdateTime>Sun, 21-Mar-2021</itemUpdateTime>
+					<costPrice>0</costPrice>
 					<discount>0.00</discount>
-					<vat>26.25</vat>
-					<sellPrice>350.0000</sellPrice>
-					<sd>0.00</sd>
-					<status>Y</status>
-				</item>
-				<item>
-					<sl>21</sl>
-					<itemCode>00701008</itemCode>
-					<itemName>FRENCH FRIES</itemName>
-					<itemAddTime>20-January-2021</itemAddTime>
-					<itemUpdateTime>20-January-2021</itemUpdateTime>
-					<costPrice>0.00</costPrice>
-					<discount>0.00</discount>
-					<vat>9.00</vat>
-					<sellPrice>120.0000</sellPrice>
+					<vat>0.00</vat>
+					<sellPrice>40.00</sellPrice>
 					<sd>0.00</sd>
 					<status>Y</status>
 				</item>
 			</items>
 		</category>
 		<category>
-			<categoryName>SET MENU (1:1)</categoryName>
+			<categoryName>Biryani</categoryName>
 			<items>
 				<item>
-					<sl>22</sl>
-					<itemCode>00701009</itemCode>
-					<itemName>CHICKEN KAFTA KABAB</itemName>
-					<itemAddTime>20-January-2021</itemAddTime>
-					<itemUpdateTime>21-January-2021</itemUpdateTime>
-					<costPrice>0.00</costPrice>
+					<sl>21</sl>
+					<itemCode>01001055</itemCode>
+					<itemName>PK Special Chicken Biryani</itemName>
+					<itemAddTime>Sun, 21-Mar-2021</itemAddTime>
+					<itemUpdateTime>Sun, 21-Mar-2021</itemUpdateTime>
+					<costPrice>0</costPrice>
 					<discount>0.00</discount>
-					<vat>37.13</vat>
-					<sellPrice>495.0000</sellPrice>
+					<vat>22.13</vat>
+					<sellPrice>295.00</sellPrice>
 					<sd>0.00</sd>
 					<status>Y</status>
 				</item>
 				<item>
-					<sl>23</sl>
-					<itemCode>00701010</itemCode>
-					<itemName>JOOJEH KABAB</itemName>
-					<itemAddTime>20-January-2021</itemAddTime>
-					<itemUpdateTime>20-January-2021</itemUpdateTime>
-					<costPrice>0.00</costPrice>
+					<sl>22</sl>
+					<itemCode>01001056</itemCode>
+					<itemName>Mutton Dum Biryani</itemName>
+					<itemAddTime>Sun, 21-Mar-2021</itemAddTime>
+					<itemUpdateTime>Sun, 21-Mar-2021</itemUpdateTime>
+					<costPrice>0</costPrice>
 					<discount>0.00</discount>
-					<vat>37.13</vat>
-					<sellPrice>495.0000</sellPrice>
+					<vat>36.75</vat>
+					<sellPrice>490.00</sellPrice>
+					<sd>0.00</sd>
+					<status>Y</status>
+				</item>
+			</items>
+		</category>
+		<category>
+			<categoryName>Curry</categoryName>
+			<items>
+				<item>
+					<sl>23</sl>
+					<itemCode>01001036</itemCode>
+					<itemName>Chicken Tikka Masala</itemName>
+					<itemAddTime>Sun, 21-Mar-2021</itemAddTime>
+					<itemUpdateTime>Sun, 21-Mar-2021</itemUpdateTime>
+					<costPrice>0</costPrice>
+					<discount>0.00</discount>
+					<vat>28.13</vat>
+					<sellPrice>375.00</sellPrice>
 					<sd>0.00</sd>
 					<status>Y</status>
 				</item>
 				<item>
 					<sl>24</sl>
-					<itemCode>00701011</itemCode>
-					<itemName>TAVUK SIS</itemName>
-					<itemAddTime>20-January-2021</itemAddTime>
-					<itemUpdateTime>20-January-2021</itemUpdateTime>
-					<costPrice>0.00</costPrice>
+					<itemCode>01001037</itemCode>
+					<itemName>Chicken White Korma</itemName>
+					<itemAddTime>Sun, 21-Mar-2021</itemAddTime>
+					<itemUpdateTime>Sun, 21-Mar-2021</itemUpdateTime>
+					<costPrice>0</costPrice>
 					<discount>0.00</discount>
-					<vat>37.13</vat>
-					<sellPrice>495.0000</sellPrice>
+					<vat>18.00</vat>
+					<sellPrice>240.00</sellPrice>
 					<sd>0.00</sd>
 					<status>Y</status>
 				</item>
 				<item>
 					<sl>25</sl>
-					<itemCode>00701012</itemCode>
-					<itemName>SHISH tAOUK</itemName>
-					<itemAddTime>20-January-2021</itemAddTime>
-					<itemUpdateTime>20-January-2021</itemUpdateTime>
-					<costPrice>0.00</costPrice>
+					<itemCode>01001038</itemCode>
+					<itemName>Punjabi Chicken Rara</itemName>
+					<itemAddTime>Sun, 21-Mar-2021</itemAddTime>
+					<itemUpdateTime>Sun, 21-Mar-2021</itemUpdateTime>
+					<costPrice>0</costPrice>
 					<discount>0.00</discount>
-					<vat>37.13</vat>
-					<sellPrice>495.0000</sellPrice>
+					<vat>17.25</vat>
+					<sellPrice>230.00</sellPrice>
 					<sd>0.00</sd>
 					<status>Y</status>
 				</item>
 				<item>
 					<sl>26</sl>
-					<itemCode>00701013</itemCode>
-					<itemName>CHICKEN MARDIN</itemName>
-					<itemAddTime>20-January-2021</itemAddTime>
-					<itemUpdateTime>20-January-2021</itemUpdateTime>
-					<costPrice>0.00</costPrice>
+					<itemCode>01001039</itemCode>
+					<itemName>Butter Chicken</itemName>
+					<itemAddTime>Sun, 21-Mar-2021</itemAddTime>
+					<itemUpdateTime>Sun, 21-Mar-2021</itemUpdateTime>
+					<costPrice>0</costPrice>
 					<discount>0.00</discount>
-					<vat>37.13</vat>
-					<sellPrice>495.0000</sellPrice>
+					<vat>29.63</vat>
+					<sellPrice>395.00</sellPrice>
 					<sd>0.00</sd>
 					<status>Y</status>
 				</item>
 				<item>
 					<sl>27</sl>
-					<itemCode>00701014</itemCode>
-					<itemName>CHICKEN TIKKA</itemName>
-					<itemAddTime>20-January-2021</itemAddTime>
-					<itemUpdateTime>20-January-2021</itemUpdateTime>
-					<costPrice>0.00</costPrice>
+					<itemCode>01001040</itemCode>
+					<itemName>Murgh Karahi</itemName>
+					<itemAddTime>Sun, 21-Mar-2021</itemAddTime>
+					<itemUpdateTime>Sun, 21-Mar-2021</itemUpdateTime>
+					<costPrice>0</costPrice>
 					<discount>0.00</discount>
-					<vat>37.13</vat>
-					<sellPrice>495.0000</sellPrice>
+					<vat>16.88</vat>
+					<sellPrice>225.00</sellPrice>
 					<sd>0.00</sd>
 					<status>Y</status>
 				</item>
 				<item>
 					<sl>28</sl>
-					<itemCode>00701015</itemCode>
-					<itemName>KABAB ISTANBUL</itemName>
-					<itemAddTime>20-January-2021</itemAddTime>
-					<itemUpdateTime>20-January-2021</itemUpdateTime>
-					<costPrice>0.00</costPrice>
+					<itemCode>01001041</itemCode>
+					<itemName>Achari Murgh</itemName>
+					<itemAddTime>Sun, 21-Mar-2021</itemAddTime>
+					<itemUpdateTime>Sun, 21-Mar-2021</itemUpdateTime>
+					<costPrice>0</costPrice>
 					<discount>0.00</discount>
-					<vat>37.13</vat>
-					<sellPrice>495.0000</sellPrice>
+					<vat>16.50</vat>
+					<sellPrice>220.00</sellPrice>
 					<sd>0.00</sd>
 					<status>Y</status>
 				</item>
 				<item>
 					<sl>29</sl>
-					<itemCode>00701016</itemCode>
-					<itemName>SAFFRON CHICKEN</itemName>
-					<itemAddTime>20-January-2021</itemAddTime>
-					<itemUpdateTime>20-January-2021</itemUpdateTime>
-					<costPrice>0.00</costPrice>
+					<itemCode>01001042</itemCode>
+					<itemName>Punjabi Beef Kala Bhuna</itemName>
+					<itemAddTime>Sun, 21-Mar-2021</itemAddTime>
+					<itemUpdateTime>Sun, 21-Mar-2021</itemUpdateTime>
+					<costPrice>0</costPrice>
 					<discount>0.00</discount>
-					<vat>37.13</vat>
-					<sellPrice>495.0000</sellPrice>
+					<vat>26.25</vat>
+					<sellPrice>350.00</sellPrice>
 					<sd>0.00</sd>
 					<status>Y</status>
 				</item>
 				<item>
 					<sl>30</sl>
-					<itemCode>00701025</itemCode>
-					<itemName>BEEF KAFTA KABAB</itemName>
-					<itemAddTime>20-January-2021</itemAddTime>
-					<itemUpdateTime>21-January-2021</itemUpdateTime>
-					<costPrice>0.00</costPrice>
+					<itemCode>01001043</itemCode>
+					<itemName>Karahi Gosht</itemName>
+					<itemAddTime>Sun, 21-Mar-2021</itemAddTime>
+					<itemUpdateTime>Sun, 21-Mar-2021</itemUpdateTime>
+					<costPrice>0</costPrice>
 					<discount>0.00</discount>
-					<vat>40.88</vat>
-					<sellPrice>545.0000</sellPrice>
+					<vat>21.75</vat>
+					<sellPrice>290.00</sellPrice>
 					<sd>0.00</sd>
 					<status>Y</status>
 				</item>
 				<item>
 					<sl>31</sl>
-					<itemCode>00701026</itemCode>
-					<itemName>ISKANDAR KABAB</itemName>
-					<itemAddTime>20-January-2021</itemAddTime>
-					<itemUpdateTime>20-January-2021</itemUpdateTime>
-					<costPrice>0.00</costPrice>
+					<itemCode>01001044</itemCode>
+					<itemName>Achari Gosht</itemName>
+					<itemAddTime>Sun, 21-Mar-2021</itemAddTime>
+					<itemUpdateTime>Sun, 21-Mar-2021</itemUpdateTime>
+					<costPrice>0</costPrice>
 					<discount>0.00</discount>
-					<vat>44.63</vat>
-					<sellPrice>595.0000</sellPrice>
+					<vat>22.13</vat>
+					<sellPrice>295.00</sellPrice>
 					<sd>0.00</sd>
 					<status>Y</status>
 				</item>
 				<item>
 					<sl>32</sl>
-					<itemCode>00701027</itemCode>
-					<itemName>BEEF TIKKA KABAB</itemName>
-					<itemAddTime>20-January-2021</itemAddTime>
-					<itemUpdateTime>27-January-2021</itemUpdateTime>
-					<costPrice>0.00</costPrice>
+					<itemCode>01001045</itemCode>
+					<itemName>Mutton Karahi</itemName>
+					<itemAddTime>Sun, 21-Mar-2021</itemAddTime>
+					<itemUpdateTime>Sun, 21-Mar-2021</itemUpdateTime>
+					<costPrice>0</costPrice>
 					<discount>0.00</discount>
-					<vat>44.63</vat>
-					<sellPrice>595.0000</sellPrice>
+					<vat>26.63</vat>
+					<sellPrice>355.00</sellPrice>
 					<sd>0.00</sd>
 					<status>Y</status>
 				</item>
 				<item>
 					<sl>33</sl>
-					<itemCode>00701028</itemCode>
-					<itemName>TENDER GRILL KABAB</itemName>
-					<itemAddTime>20-January-2021</itemAddTime>
-					<itemUpdateTime>20-January-2021</itemUpdateTime>
-					<costPrice>0.00</costPrice>
+					<itemCode>01001046</itemCode>
+					<itemName>Mutton Brain Masala</itemName>
+					<itemAddTime>Sun, 21-Mar-2021</itemAddTime>
+					<itemUpdateTime>Sun, 21-Mar-2021</itemUpdateTime>
+					<costPrice>0</costPrice>
 					<discount>0.00</discount>
-					<vat>44.63</vat>
-					<sellPrice>595.0000</sellPrice>
+					<vat>31.88</vat>
+					<sellPrice>425.00</sellPrice>
 					<sd>0.00</sd>
 					<status>Y</status>
 				</item>
 				<item>
 					<sl>34</sl>
-					<itemCode>00701036</itemCode>
-					<itemName>MUTTON CHOP</itemName>
-					<itemAddTime>20-January-2021</itemAddTime>
-					<itemUpdateTime>20-January-2021</itemUpdateTime>
-					<costPrice>0.00</costPrice>
+					<itemCode>01001047</itemCode>
+					<itemName>Prawn Malai Curry</itemName>
+					<itemAddTime>Sun, 21-Mar-2021</itemAddTime>
+					<itemUpdateTime>Sun, 21-Mar-2021</itemUpdateTime>
+					<costPrice>0</costPrice>
 					<discount>0.00</discount>
-					<vat>77.25</vat>
-					<sellPrice>1030.0000</sellPrice>
+					<vat>31.13</vat>
+					<sellPrice>415.00</sellPrice>
 					<sd>0.00</sd>
 					<status>Y</status>
 				</item>
 				<item>
 					<sl>35</sl>
-					<itemCode>00701037</itemCode>
-					<itemName>MUTTON TIKKA</itemName>
-					<itemAddTime>20-January-2021</itemAddTime>
-					<itemUpdateTime>20-January-2021</itemUpdateTime>
-					<costPrice>0.00</costPrice>
+					<itemCode>01001048</itemCode>
+					<itemName>Paneer Butter Masala</itemName>
+					<itemAddTime>Sun, 21-Mar-2021</itemAddTime>
+					<itemUpdateTime>Sun, 21-Mar-2021</itemUpdateTime>
+					<costPrice>0</costPrice>
 					<discount>0.00</discount>
-					<vat>77.25</vat>
-					<sellPrice>1030.0000</sellPrice>
+					<vat>25.88</vat>
+					<sellPrice>345.00</sellPrice>
 					<sd>0.00</sd>
 					<status>Y</status>
 				</item>
 				<item>
 					<sl>36</sl>
-					<itemCode>00701040</itemCode>
-					<itemName>1/4 AFGHANI CKICKEN BREAST</itemName>
-					<itemAddTime>20-January-2021</itemAddTime>
-					<itemUpdateTime>20-January-2021</itemUpdateTime>
-					<costPrice>0.00</costPrice>
+					<itemCode>01001049</itemCode>
+					<itemName>Palak Paneer</itemName>
+					<itemAddTime>Sun, 21-Mar-2021</itemAddTime>
+					<itemUpdateTime>Sun, 21-Mar-2021</itemUpdateTime>
+					<costPrice>0</costPrice>
 					<discount>0.00</discount>
-					<vat>33.00</vat>
-					<sellPrice>440.0000</sellPrice>
+					<vat>17.63</vat>
+					<sellPrice>235.00</sellPrice>
 					<sd>0.00</sd>
 					<status>Y</status>
 				</item>
 				<item>
 					<sl>37</sl>
-					<itemCode>00701042</itemCode>
-					<itemName>1/4 AFGHANI CHICKEN LEG</itemName>
-					<itemAddTime>20-January-2021</itemAddTime>
-					<itemUpdateTime>20-January-2021</itemUpdateTime>
-					<costPrice>0.00</costPrice>
+					<itemCode>01001057</itemCode>
+					<itemName>Dhaba Vegetable</itemName>
+					<itemAddTime>Sun, 21-Mar-2021</itemAddTime>
+					<itemUpdateTime>Sun, 21-Mar-2021</itemUpdateTime>
+					<costPrice>0</costPrice>
 					<discount>0.00</discount>
-					<vat>33.00</vat>
-					<sellPrice>440.0000</sellPrice>
+					<vat>10.13</vat>
+					<sellPrice>135.00</sellPrice>
 					<sd>0.00</sd>
 					<status>Y</status>
 				</item>
 				<item>
 					<sl>38</sl>
-					<itemCode>00701044</itemCode>
-					<itemName>AFGHANI BANJAN</itemName>
-					<itemAddTime>20-January-2021</itemAddTime>
-					<itemUpdateTime>20-January-2021</itemUpdateTime>
-					<costPrice>0.00</costPrice>
+					<itemCode>01001058</itemCode>
+					<itemName>Mixed White Vegetable</itemName>
+					<itemAddTime>Sun, 21-Mar-2021</itemAddTime>
+					<itemUpdateTime>Sun, 21-Mar-2021</itemUpdateTime>
+					<costPrice>0</costPrice>
 					<discount>0.00</discount>
-					<vat>23.25</vat>
-					<sellPrice>310.0000</sellPrice>
+					<vat>10.88</vat>
+					<sellPrice>145.00</sellPrice>
 					<sd>0.00</sd>
 					<status>Y</status>
 				</item>
 				<item>
 					<sl>39</sl>
-					<itemCode>00701046</itemCode>
-					<itemName>ISKANDAR KABAB</itemName>
-					<itemAddTime>20-January-2021</itemAddTime>
-					<itemUpdateTime>20-January-2021</itemUpdateTime>
-					<costPrice>0.00</costPrice>
+					<itemCode>01001059</itemCode>
+					<itemName>Yellow Dal Butter Fry</itemName>
+					<itemAddTime>Sun, 21-Mar-2021</itemAddTime>
+					<itemUpdateTime>Sun, 21-Mar-2021</itemUpdateTime>
+					<costPrice>0</costPrice>
 					<discount>0.00</discount>
-					<vat>44.63</vat>
-					<sellPrice>595.0000</sellPrice>
+					<vat>10.13</vat>
+					<sellPrice>135.00</sellPrice>
+					<sd>0.00</sd>
+					<status>Y</status>
+				</item>
+				<item>
+					<sl>40</sl>
+					<itemCode>01001060</itemCode>
+					<itemName>Dal Makhni</itemName>
+					<itemAddTime>Sun, 21-Mar-2021</itemAddTime>
+					<itemUpdateTime>Sun, 21-Mar-2021</itemUpdateTime>
+					<costPrice>0</costPrice>
+					<discount>0.00</discount>
+					<vat>9.38</vat>
+					<sellPrice>125.00</sellPrice>
 					<sd>0.00</sd>
 					<status>Y</status>
 				</item>
 			</items>
 		</category>
 		<category>
-			<categoryName>SET MENU (1:1) WITH CURRY</categoryName>
+			<categoryName>Indian Chaat</categoryName>
 			<items>
 				<item>
-					<sl>40</sl>
-					<itemCode>00701017</itemCode>
-					<itemName>CHICKEN KAFTA KABAB WITH CURRY</itemName>
-					<itemAddTime>20-January-2021</itemAddTime>
-					<itemUpdateTime>23-January-2021</itemUpdateTime>
-					<costPrice>0.00</costPrice>
-					<discount>0.00</discount>
-					<vat>49.88</vat>
-					<sellPrice>665.0000</sellPrice>
-					<sd>0.00</sd>
-					<status>Y</status>
-				</item>
-				<item>
 					<sl>41</sl>
-					<itemCode>00701018</itemCode>
-					<itemName>JOOJEH KABAB WITH CURRY</itemName>
-					<itemAddTime>20-January-2021</itemAddTime>
-					<itemUpdateTime>23-January-2021</itemUpdateTime>
-					<costPrice>0.00</costPrice>
+					<itemCode>01001089</itemCode>
+					<itemName>Dahi Fuchka</itemName>
+					<itemAddTime>Sun, 21-Mar-2021</itemAddTime>
+					<itemUpdateTime>Sun, 21-Mar-2021</itemUpdateTime>
+					<costPrice>0</costPrice>
 					<discount>0.00</discount>
-					<vat>49.88</vat>
-					<sellPrice>665.0000</sellPrice>
+					<vat>7.13</vat>
+					<sellPrice>95.00</sellPrice>
 					<sd>0.00</sd>
 					<status>Y</status>
 				</item>
 				<item>
 					<sl>42</sl>
-					<itemCode>00701019</itemCode>
-					<itemName>TAVUK SIS WITH CURRY</itemName>
-					<itemAddTime>20-January-2021</itemAddTime>
-					<itemUpdateTime>23-January-2021</itemUpdateTime>
-					<costPrice>0.00</costPrice>
+					<itemCode>01001090</itemCode>
+					<itemName>Desi Fuchka</itemName>
+					<itemAddTime>Sun, 21-Mar-2021</itemAddTime>
+					<itemUpdateTime>Sun, 21-Mar-2021</itemUpdateTime>
+					<costPrice>0</costPrice>
 					<discount>0.00</discount>
-					<vat>49.88</vat>
-					<sellPrice>665.0000</sellPrice>
+					<vat>6.00</vat>
+					<sellPrice>80.00</sellPrice>
 					<sd>0.00</sd>
 					<status>Y</status>
 				</item>
 				<item>
 					<sl>43</sl>
-					<itemCode>00701020</itemCode>
-					<itemName>SHISH TAOUK WITH CURRY</itemName>
-					<itemAddTime>20-January-2021</itemAddTime>
-					<itemUpdateTime>23-January-2021</itemUpdateTime>
-					<costPrice>0.00</costPrice>
+					<itemCode>01001091</itemCode>
+					<itemName>Chole Bhature</itemName>
+					<itemAddTime>Sun, 21-Mar-2021</itemAddTime>
+					<itemUpdateTime>Sun, 21-Mar-2021</itemUpdateTime>
+					<costPrice>0</costPrice>
 					<discount>0.00</discount>
-					<vat>49.88</vat>
-					<sellPrice>665.0000</sellPrice>
+					<vat>10.88</vat>
+					<sellPrice>145.00</sellPrice>
 					<sd>0.00</sd>
 					<status>Y</status>
 				</item>
 				<item>
 					<sl>44</sl>
-					<itemCode>00701021</itemCode>
-					<itemName>CHICKEN MARDIN WITH CURRY</itemName>
-					<itemAddTime>20-January-2021</itemAddTime>
-					<itemUpdateTime>23-January-2021</itemUpdateTime>
-					<costPrice>0.00</costPrice>
+					<itemCode>01001092</itemCode>
+					<itemName>Pav Bhaji</itemName>
+					<itemAddTime>Sun, 21-Mar-2021</itemAddTime>
+					<itemUpdateTime>Sun, 21-Mar-2021</itemUpdateTime>
+					<costPrice>0</costPrice>
 					<discount>0.00</discount>
-					<vat>49.88</vat>
-					<sellPrice>665.0000</sellPrice>
+					<vat>10.88</vat>
+					<sellPrice>145.00</sellPrice>
 					<sd>0.00</sd>
 					<status>Y</status>
 				</item>
 				<item>
 					<sl>45</sl>
-					<itemCode>00701022</itemCode>
-					<itemName>CHICKEN TIKKA WITH CURRY</itemName>
-					<itemAddTime>20-January-2021</itemAddTime>
-					<itemUpdateTime>23-January-2021</itemUpdateTime>
-					<costPrice>0.00</costPrice>
+					<itemCode>01001093</itemCode>
+					<itemName>Raj Kachori</itemName>
+					<itemAddTime>Sun, 21-Mar-2021</itemAddTime>
+					<itemUpdateTime>Sun, 21-Mar-2021</itemUpdateTime>
+					<costPrice>0</costPrice>
 					<discount>0.00</discount>
-					<vat>49.88</vat>
-					<sellPrice>665.0000</sellPrice>
+					<vat>7.50</vat>
+					<sellPrice>100.00</sellPrice>
 					<sd>0.00</sd>
 					<status>Y</status>
 				</item>
 				<item>
 					<sl>46</sl>
-					<itemCode>00701023</itemCode>
-					<itemName>KABAB ISTANBUL WITH CURRY</itemName>
-					<itemAddTime>20-January-2021</itemAddTime>
-					<itemUpdateTime>23-January-2021</itemUpdateTime>
-					<costPrice>0.00</costPrice>
+					<itemCode>01001094</itemCode>
+					<itemName>Papri Chaat</itemName>
+					<itemAddTime>Sun, 21-Mar-2021</itemAddTime>
+					<itemUpdateTime>Sun, 21-Mar-2021</itemUpdateTime>
+					<costPrice>0</costPrice>
 					<discount>0.00</discount>
-					<vat>49.88</vat>
-					<sellPrice>665.0000</sellPrice>
+					<vat>8.25</vat>
+					<sellPrice>110.00</sellPrice>
 					<sd>0.00</sd>
 					<status>Y</status>
 				</item>
+			</items>
+		</category>
+		<category>
+			<categoryName>Kebab</categoryName>
+			<items>
 				<item>
 					<sl>47</sl>
-					<itemCode>00701024</itemCode>
-					<itemName>SAFFRON CHICKEN WITH CURRY</itemName>
-					<itemAddTime>20-January-2021</itemAddTime>
-					<itemUpdateTime>23-January-2021</itemUpdateTime>
-					<costPrice>0.00</costPrice>
+					<itemCode>01001022</itemCode>
+					<itemName>Chicken Tangdi Kebab</itemName>
+					<itemAddTime>Sun, 21-Mar-2021</itemAddTime>
+					<itemUpdateTime>Sun, 21-Mar-2021</itemUpdateTime>
+					<costPrice>0</costPrice>
 					<discount>0.00</discount>
-					<vat>49.88</vat>
-					<sellPrice>665.0000</sellPrice>
+					<vat>19.50</vat>
+					<sellPrice>260.00</sellPrice>
 					<sd>0.00</sd>
 					<status>Y</status>
 				</item>
 				<item>
 					<sl>48</sl>
-					<itemCode>00701029</itemCode>
-					<itemName>BEEF KAFTA KABAB WITH CURRY</itemName>
-					<itemAddTime>20-January-2021</itemAddTime>
-					<itemUpdateTime>23-January-2021</itemUpdateTime>
-					<costPrice>0.00</costPrice>
+					<itemCode>01001023</itemCode>
+					<itemName>Chicken Tandoori</itemName>
+					<itemAddTime>Sun, 21-Mar-2021</itemAddTime>
+					<itemUpdateTime>Sun, 21-Mar-2021</itemUpdateTime>
+					<costPrice>0</costPrice>
 					<discount>0.00</discount>
-					<vat>53.63</vat>
-					<sellPrice>715.0000</sellPrice>
+					<vat>16.88</vat>
+					<sellPrice>225.00</sellPrice>
 					<sd>0.00</sd>
 					<status>Y</status>
 				</item>
 				<item>
 					<sl>49</sl>
-					<itemCode>00701030</itemCode>
-					<itemName>ISKANDAR KABAB WITH CURRY</itemName>
-					<itemAddTime>20-January-2021</itemAddTime>
-					<itemUpdateTime>23-January-2021</itemUpdateTime>
-					<costPrice>0.00</costPrice>
+					<itemCode>01001024</itemCode>
+					<itemName>Chicken Bihari Tikka</itemName>
+					<itemAddTime>Sun, 21-Mar-2021</itemAddTime>
+					<itemUpdateTime>Sun, 21-Mar-2021</itemUpdateTime>
+					<costPrice>0</costPrice>
 					<discount>0.00</discount>
-					<vat>57.38</vat>
-					<sellPrice>765.0000</sellPrice>
+					<vat>19.13</vat>
+					<sellPrice>255.00</sellPrice>
 					<sd>0.00</sd>
 					<status>Y</status>
 				</item>
 				<item>
 					<sl>50</sl>
-					<itemCode>00701031</itemCode>
-					<itemName>BEEF TIKKA KABAB WITH CURRY</itemName>
-					<itemAddTime>20-January-2021</itemAddTime>
-					<itemUpdateTime>27-January-2021</itemUpdateTime>
-					<costPrice>0.00</costPrice>
+					<itemCode>01001025</itemCode>
+					<itemName>Chicken Boti</itemName>
+					<itemAddTime>Sun, 21-Mar-2021</itemAddTime>
+					<itemUpdateTime>Sun, 21-Mar-2021</itemUpdateTime>
+					<costPrice>0</costPrice>
 					<discount>0.00</discount>
-					<vat>57.38</vat>
-					<sellPrice>765.0000</sellPrice>
+					<vat>16.50</vat>
+					<sellPrice>220.00</sellPrice>
 					<sd>0.00</sd>
 					<status>Y</status>
 				</item>
 				<item>
 					<sl>51</sl>
-					<itemCode>00701032</itemCode>
-					<itemName>TENDER GRILL KABAB WITH CURRY</itemName>
-					<itemAddTime>20-January-2021</itemAddTime>
-					<itemUpdateTime>23-January-2021</itemUpdateTime>
-					<costPrice>0.00</costPrice>
+					<itemCode>01001026</itemCode>
+					<itemName>Chicken Hariyali</itemName>
+					<itemAddTime>Sun, 21-Mar-2021</itemAddTime>
+					<itemUpdateTime>Sun, 21-Mar-2021</itemUpdateTime>
+					<costPrice>0</costPrice>
 					<discount>0.00</discount>
-					<vat>57.38</vat>
-					<sellPrice>765.0000</sellPrice>
+					<vat>16.88</vat>
+					<sellPrice>225.00</sellPrice>
 					<sd>0.00</sd>
 					<status>Y</status>
 				</item>
 				<item>
 					<sl>52</sl>
-					<itemCode>00701038</itemCode>
-					<itemName>MUTTON CHOP WITH CURRY</itemName>
-					<itemAddTime>20-January-2021</itemAddTime>
-					<itemUpdateTime>23-January-2021</itemUpdateTime>
-					<costPrice>0.00</costPrice>
+					<itemCode>01001027</itemCode>
+					<itemName>Chicken Kasturi Kebab</itemName>
+					<itemAddTime>Sun, 21-Mar-2021</itemAddTime>
+					<itemUpdateTime>Sun, 21-Mar-2021</itemUpdateTime>
+					<costPrice>0</costPrice>
 					<discount>0.00</discount>
-					<vat>90.00</vat>
-					<sellPrice>1200.0000</sellPrice>
+					<vat>16.88</vat>
+					<sellPrice>225.00</sellPrice>
 					<sd>0.00</sd>
 					<status>Y</status>
 				</item>
 				<item>
 					<sl>53</sl>
-					<itemCode>00701039</itemCode>
-					<itemName>MUTTON TIKKA WITH CURRY</itemName>
-					<itemAddTime>20-January-2021</itemAddTime>
-					<itemUpdateTime>23-January-2021</itemUpdateTime>
-					<costPrice>0.00</costPrice>
+					<itemCode>01001028</itemCode>
+					<itemName>Murgh Malai Tikka</itemName>
+					<itemAddTime>Sun, 21-Mar-2021</itemAddTime>
+					<itemUpdateTime>Sun, 21-Mar-2021</itemUpdateTime>
+					<costPrice>0</costPrice>
 					<discount>0.00</discount>
-					<vat>90.00</vat>
-					<sellPrice>1200.0000</sellPrice>
+					<vat>16.88</vat>
+					<sellPrice>225.00</sellPrice>
 					<sd>0.00</sd>
 					<status>Y</status>
 				</item>
 				<item>
 					<sl>54</sl>
-					<itemCode>00701041</itemCode>
-					<itemName>1/4 AFGHANI CKICKEN BREAST WITH CURRY</itemName>
-					<itemAddTime>20-January-2021</itemAddTime>
-					<itemUpdateTime>23-January-2021</itemUpdateTime>
-					<costPrice>0.00</costPrice>
+					<itemCode>01001029</itemCode>
+					<itemName>Murgh Punjabi Kebab</itemName>
+					<itemAddTime>Sun, 21-Mar-2021</itemAddTime>
+					<itemUpdateTime>Sun, 21-Mar-2021</itemUpdateTime>
+					<costPrice>0</costPrice>
 					<discount>0.00</discount>
-					<vat>45.75</vat>
-					<sellPrice>610.0000</sellPrice>
+					<vat>16.88</vat>
+					<sellPrice>225.00</sellPrice>
 					<sd>0.00</sd>
 					<status>Y</status>
 				</item>
 				<item>
 					<sl>55</sl>
-					<itemCode>00701043</itemCode>
-					<itemName>1/4 AFGHANI CHICKEN LEG WITH CURRY</itemName>
-					<itemAddTime>20-January-2021</itemAddTime>
-					<itemUpdateTime>23-January-2021</itemUpdateTime>
-					<costPrice>0.00</costPrice>
+					<itemCode>01001030</itemCode>
+					<itemName>Murgh Reshmi</itemName>
+					<itemAddTime>Sun, 21-Mar-2021</itemAddTime>
+					<itemUpdateTime>Sun, 21-Mar-2021</itemUpdateTime>
+					<costPrice>0</costPrice>
 					<discount>0.00</discount>
-					<vat>45.75</vat>
-					<sellPrice>610.0000</sellPrice>
+					<vat>16.50</vat>
+					<sellPrice>220.00</sellPrice>
 					<sd>0.00</sd>
 					<status>Y</status>
 				</item>
 				<item>
 					<sl>56</sl>
-					<itemCode>00701045</itemCode>
-					<itemName>AFGHANI BANJAN WITH CURRY</itemName>
-					<itemAddTime>20-January-2021</itemAddTime>
-					<itemUpdateTime>23-January-2021</itemUpdateTime>
-					<costPrice>0.00</costPrice>
+					<itemCode>01001031</itemCode>
+					<itemName>Beef Kofta</itemName>
+					<itemAddTime>Sun, 21-Mar-2021</itemAddTime>
+					<itemUpdateTime>Sun, 21-Mar-2021</itemUpdateTime>
+					<costPrice>0</costPrice>
 					<discount>0.00</discount>
-					<vat>36.00</vat>
-					<sellPrice>480.0000</sellPrice>
+					<vat>20.25</vat>
+					<sellPrice>270.00</sellPrice>
 					<sd>0.00</sd>
 					<status>Y</status>
 				</item>
 				<item>
 					<sl>57</sl>
-					<itemCode>00701047</itemCode>
-					<itemName>ISKANDAR KABAB WITH CURRY</itemName>
-					<itemAddTime>20-January-2021</itemAddTime>
-					<itemUpdateTime>23-January-2021</itemUpdateTime>
-					<costPrice>0.00</costPrice>
+					<itemCode>01001032</itemCode>
+					<itemName>Beef Sheesh Kebab</itemName>
+					<itemAddTime>Sun, 21-Mar-2021</itemAddTime>
+					<itemUpdateTime>Sun, 21-Mar-2021</itemUpdateTime>
+					<costPrice>0</costPrice>
 					<discount>0.00</discount>
-					<vat>57.38</vat>
-					<sellPrice>765.0000</sellPrice>
+					<vat>22.13</vat>
+					<sellPrice>295.00</sellPrice>
 					<sd>0.00</sd>
 					<status>Y</status>
 				</item>
-			</items>
-		</category>
-		<category>
-			<categoryName>SET MENU (1:2)</categoryName>
-			<items>
 				<item>
 					<sl>58</sl>
-					<itemCode>00701048</itemCode>
-					<itemName>AFGHANI KABAB (1:2)</itemName>
-					<itemAddTime>20-January-2021</itemAddTime>
-					<itemUpdateTime>20-January-2021</itemUpdateTime>
-					<costPrice>0.00</costPrice>
+					<itemCode>01001033</itemCode>
+					<itemName>Beef Bihari</itemName>
+					<itemAddTime>Sun, 21-Mar-2021</itemAddTime>
+					<itemUpdateTime>Sun, 21-Mar-2021</itemUpdateTime>
+					<costPrice>0</costPrice>
 					<discount>0.00</discount>
-					<vat>80.25</vat>
-					<sellPrice>1070.0000</sellPrice>
+					<vat>19.50</vat>
+					<sellPrice>260.00</sellPrice>
 					<sd>0.00</sd>
 					<status>Y</status>
 				</item>
 				<item>
 					<sl>59</sl>
-					<itemCode>00701049</itemCode>
-					<itemName>AFGHANI KABAB (1:2) WITH CURRY</itemName>
-					<itemAddTime>20-January-2021</itemAddTime>
-					<itemUpdateTime>20-January-2021</itemUpdateTime>
-					<costPrice>0.00</costPrice>
+					<itemCode>01001034</itemCode>
+					<itemName>Punjabi Beef Boti</itemName>
+					<itemAddTime>Sun, 21-Mar-2021</itemAddTime>
+					<itemUpdateTime>Sun, 21-Mar-2021</itemUpdateTime>
+					<costPrice>0</costPrice>
 					<discount>0.00</discount>
-					<vat>105.75</vat>
-					<sellPrice>1410.0000</sellPrice>
+					<vat>19.50</vat>
+					<sellPrice>260.00</sellPrice>
 					<sd>0.00</sd>
 					<status>Y</status>
 				</item>
 				<item>
 					<sl>60</sl>
-					<itemCode>00701050</itemCode>
-					<itemName>SULTANI KABAB (1:2)</itemName>
-					<itemAddTime>20-January-2021</itemAddTime>
-					<itemUpdateTime>20-January-2021</itemUpdateTime>
-					<costPrice>0.00</costPrice>
+					<itemCode>01001035</itemCode>
+					<itemName>Punjabi Mutton Boti</itemName>
+					<itemAddTime>Sun, 21-Mar-2021</itemAddTime>
+					<itemUpdateTime>Sun, 21-Mar-2021</itemUpdateTime>
+					<costPrice>0</costPrice>
 					<discount>0.00</discount>
-					<vat>72.75</vat>
-					<sellPrice>970.0000</sellPrice>
+					<vat>24.38</vat>
+					<sellPrice>325.00</sellPrice>
 					<sd>0.00</sd>
 					<status>Y</status>
 				</item>
+			</items>
+		</category>
+		<category>
+			<categoryName>Kulfi</categoryName>
+			<items>
 				<item>
 					<sl>61</sl>
-					<itemCode>00701051</itemCode>
-					<itemName>SULTANI KABAB (1:2) WITH CURRY</itemName>
-					<itemAddTime>20-January-2021</itemAddTime>
-					<itemUpdateTime>20-January-2021</itemUpdateTime>
-					<costPrice>0.00</costPrice>
+					<itemCode>01001073</itemCode>
+					<itemName>Strawberry</itemName>
+					<itemAddTime>Sun, 21-Mar-2021</itemAddTime>
+					<itemUpdateTime>Sun, 21-Mar-2021</itemUpdateTime>
+					<costPrice>0</costPrice>
 					<discount>0.00</discount>
-					<vat>98.25</vat>
-					<sellPrice>1310.0000</sellPrice>
+					<vat>11.25</vat>
+					<sellPrice>150.00</sellPrice>
 					<sd>0.00</sd>
 					<status>Y</status>
 				</item>
 				<item>
 					<sl>62</sl>
-					<itemCode>00701052</itemCode>
-					<itemName>PASHTO KABAB (1:2)</itemName>
-					<itemAddTime>20-January-2021</itemAddTime>
-					<itemUpdateTime>20-January-2021</itemUpdateTime>
-					<costPrice>0.00</costPrice>
+					<itemCode>01001074</itemCode>
+					<itemName>Chocolate</itemName>
+					<itemAddTime>Sun, 21-Mar-2021</itemAddTime>
+					<itemUpdateTime>Sun, 21-Mar-2021</itemUpdateTime>
+					<costPrice>0</costPrice>
 					<discount>0.00</discount>
-					<vat>87.75</vat>
-					<sellPrice>1170.0000</sellPrice>
+					<vat>11.25</vat>
+					<sellPrice>150.00</sellPrice>
 					<sd>0.00</sd>
 					<status>Y</status>
 				</item>
 				<item>
 					<sl>63</sl>
-					<itemCode>00701053</itemCode>
-					<itemName>PASHTO KABAB (1:2) WITH CURRY</itemName>
-					<itemAddTime>20-January-2021</itemAddTime>
-					<itemUpdateTime>20-January-2021</itemUpdateTime>
-					<costPrice>0.00</costPrice>
+					<itemCode>01001075</itemCode>
+					<itemName>Mango</itemName>
+					<itemAddTime>Sun, 21-Mar-2021</itemAddTime>
+					<itemUpdateTime>Sun, 21-Mar-2021</itemUpdateTime>
+					<costPrice>0</costPrice>
 					<discount>0.00</discount>
-					<vat>113.25</vat>
-					<sellPrice>1510.0000</sellPrice>
+					<vat>11.25</vat>
+					<sellPrice>150.00</sellPrice>
 					<sd>0.00</sd>
 					<status>Y</status>
 				</item>
 				<item>
 					<sl>64</sl>
-					<itemCode>00701054</itemCode>
-					<itemName>SARDARI KABAB (1:2)</itemName>
-					<itemAddTime>20-January-2021</itemAddTime>
-					<itemUpdateTime>20-January-2021</itemUpdateTime>
-					<costPrice>0.00</costPrice>
+					<itemCode>01001076</itemCode>
+					<itemName>Pistachio</itemName>
+					<itemAddTime>Sun, 21-Mar-2021</itemAddTime>
+					<itemUpdateTime>Sun, 21-Mar-2021</itemUpdateTime>
+					<costPrice>0</costPrice>
 					<discount>0.00</discount>
-					<vat>112.13</vat>
-					<sellPrice>1495.0000</sellPrice>
+					<vat>11.25</vat>
+					<sellPrice>150.00</sellPrice>
 					<sd>0.00</sd>
 					<status>Y</status>
 				</item>
 				<item>
 					<sl>65</sl>
-					<itemCode>00701055</itemCode>
-					<itemName>SARDARI KABAB (1:2) WITH CURRY</itemName>
-					<itemAddTime>20-January-2021</itemAddTime>
-					<itemUpdateTime>20-January-2021</itemUpdateTime>
-					<costPrice>0.00</costPrice>
+					<itemCode>01001077</itemCode>
+					<itemName>Malai</itemName>
+					<itemAddTime>Sun, 21-Mar-2021</itemAddTime>
+					<itemUpdateTime>Sun, 21-Mar-2021</itemUpdateTime>
+					<costPrice>0</costPrice>
 					<discount>0.00</discount>
-					<vat>137.63</vat>
-					<sellPrice>1835.0000</sellPrice>
+					<vat>11.25</vat>
+					<sellPrice>150.00</sellPrice>
 					<sd>0.00</sd>
 					<status>Y</status>
 				</item>
-			</items>
-		</category>
-		<category>
-			<categoryName>SHAHI AFGHANI (1:6)</categoryName>
-			<items>
 				<item>
 					<sl>66</sl>
-					<itemCode>00701095</itemCode>
-					<itemName>SHAHI AFGHANI (1:6)</itemName>
-					<itemAddTime>20-January-2021</itemAddTime>
-					<itemUpdateTime>20-January-2021</itemUpdateTime>
-					<costPrice>0.00</costPrice>
+					<itemCode>01001078</itemCode>
+					<itemName>Kesar</itemName>
+					<itemAddTime>Sun, 21-Mar-2021</itemAddTime>
+					<itemUpdateTime>Sun, 21-Mar-2021</itemUpdateTime>
+					<costPrice>0</costPrice>
 					<discount>0.00</discount>
-					<vat>285.00</vat>
-					<sellPrice>3800.0000</sellPrice>
+					<vat>12.00</vat>
+					<sellPrice>160.00</sellPrice>
 					<sd>0.00</sd>
 					<status>Y</status>
 				</item>
 			</items>
 		</category>
 		<category>
-			<categoryName>SHAHI SULTANI (1:8)</categoryName>
+			<categoryName>Platters</categoryName>
 			<items>
 				<item>
 					<sl>67</sl>
-					<itemCode>00701096</itemCode>
-					<itemName>SHAHI SULTANI (1:8)</itemName>
-					<itemAddTime>20-January-2021</itemAddTime>
-					<itemUpdateTime>20-January-2021</itemUpdateTime>
-					<costPrice>0.00</costPrice>
+					<itemCode>01001006</itemCode>
+					<itemName>Double Platter (Serves Two)</itemName>
+					<itemAddTime>Sun, 21-Mar-2021</itemAddTime>
+					<itemUpdateTime>Sun, 21-Mar-2021</itemUpdateTime>
+					<costPrice>0</costPrice>
 					<discount>0.00</discount>
-					<vat>405.00</vat>
-					<sellPrice>5400.0000</sellPrice>
+					<vat>85.88</vat>
+					<sellPrice>1145.00</sellPrice>
 					<sd>0.00</sd>
 					<status>Y</status>
 				</item>
-			</items>
-		</category>
-		<category>
-			<categoryName>SIDES</categoryName>
-			<items>
 				<item>
 					<sl>68</sl>
-					<itemCode>00701085</itemCode>
-					<itemName>PLAIN NAN</itemName>
-					<itemAddTime>20-January-2021</itemAddTime>
-					<itemUpdateTime>20-January-2021</itemUpdateTime>
-					<costPrice>0.00</costPrice>
+					<itemCode>01001007</itemCode>
+					<itemName>BBQ Chicken Platter (Serves Two)</itemName>
+					<itemAddTime>Sun, 21-Mar-2021</itemAddTime>
+					<itemUpdateTime>Sun, 21-Mar-2021</itemUpdateTime>
+					<costPrice>0</costPrice>
 					<discount>0.00</discount>
-					<vat>4.50</vat>
-					<sellPrice>60.0000</sellPrice>
+					<vat>63.75</vat>
+					<sellPrice>850.00</sellPrice>
 					<sd>0.00</sd>
 					<status>Y</status>
 				</item>
 				<item>
 					<sl>69</sl>
-					<itemCode>00701086</itemCode>
-					<itemName>BUTTER NAN</itemName>
-					<itemAddTime>20-January-2021</itemAddTime>
-					<itemUpdateTime>20-January-2021</itemUpdateTime>
-					<costPrice>0.00</costPrice>
+					<itemCode>01001008</itemCode>
+					<itemName>Kebab Platter (Serves Two)</itemName>
+					<itemAddTime>Sun, 21-Mar-2021</itemAddTime>
+					<itemUpdateTime>Sun, 21-Mar-2021</itemUpdateTime>
+					<costPrice>0</costPrice>
 					<discount>0.00</discount>
-					<vat>5.25</vat>
-					<sellPrice>70.0000</sellPrice>
+					<vat>81.38</vat>
+					<sellPrice>1085.00</sellPrice>
 					<sd>0.00</sd>
 					<status>Y</status>
 				</item>
 				<item>
 					<sl>70</sl>
-					<itemCode>00701087</itemCode>
-					<itemName>GARLIC NAN</itemName>
-					<itemAddTime>20-January-2021</itemAddTime>
-					<itemUpdateTime>20-January-2021</itemUpdateTime>
-					<costPrice>0.00</costPrice>
+					<itemCode>01001009</itemCode>
+					<itemName>Superior Platter (Serves Three)</itemName>
+					<itemAddTime>Sun, 21-Mar-2021</itemAddTime>
+					<itemUpdateTime>Sun, 21-Mar-2021</itemUpdateTime>
+					<costPrice>0</costPrice>
 					<discount>0.00</discount>
-					<vat>6.00</vat>
-					<sellPrice>80.0000</sellPrice>
+					<vat>153.75</vat>
+					<sellPrice>2050.00</sellPrice>
 					<sd>0.00</sd>
 					<status>Y</status>
 				</item>
 				<item>
 					<sl>71</sl>
-					<itemCode>00701088</itemCode>
-					<itemName>AFGHANI NAN</itemName>
-					<itemAddTime>20-January-2021</itemAddTime>
-					<itemUpdateTime>20-January-2021</itemUpdateTime>
-					<costPrice>0.00</costPrice>
+					<itemCode>01001010</itemCode>
+					<itemName>Family Platter (Serves Four)</itemName>
+					<itemAddTime>Sun, 21-Mar-2021</itemAddTime>
+					<itemUpdateTime>Sun, 21-Mar-2021</itemUpdateTime>
+					<costPrice>0</costPrice>
 					<discount>0.00</discount>
-					<vat>6.75</vat>
-					<sellPrice>90.0000</sellPrice>
+					<vat>187.13</vat>
+					<sellPrice>2495.00</sellPrice>
 					<sd>0.00</sd>
 					<status>Y</status>
 				</item>
 				<item>
 					<sl>72</sl>
-					<itemCode>00701089</itemCode>
-					<itemName>AFGHANI RICE</itemName>
-					<itemAddTime>20-January-2021</itemAddTime>
-					<itemUpdateTime>20-January-2021</itemUpdateTime>
-					<costPrice>0.00</costPrice>
+					<itemCode>01001011</itemCode>
+					<itemName>Supreme Platter (Serves Six)</itemName>
+					<itemAddTime>Sun, 21-Mar-2021</itemAddTime>
+					<itemUpdateTime>Sun, 21-Mar-2021</itemUpdateTime>
+					<costPrice>0</costPrice>
 					<discount>0.00</discount>
-					<vat>9.00</vat>
-					<sellPrice>120.0000</sellPrice>
+					<vat>333.75</vat>
+					<sellPrice>4450.00</sellPrice>
 					<sd>0.00</sd>
 					<status>Y</status>
 				</item>
 				<item>
 					<sl>73</sl>
-					<itemCode>00701090</itemCode>
-					<itemName>AFGHANI DOUGH</itemName>
-					<itemAddTime>20-January-2021</itemAddTime>
-					<itemUpdateTime>20-January-2021</itemUpdateTime>
-					<costPrice>0.00</costPrice>
+					<itemCode>01001012</itemCode>
+					<itemName>Mega Platter (Serves Eight)</itemName>
+					<itemAddTime>Sun, 21-Mar-2021</itemAddTime>
+					<itemUpdateTime>Sun, 21-Mar-2021</itemUpdateTime>
+					<costPrice>0</costPrice>
 					<discount>0.00</discount>
-					<vat>7.50</vat>
-					<sellPrice>100.0000</sellPrice>
+					<vat>412.13</vat>
+					<sellPrice>5495.00</sellPrice>
 					<sd>0.00</sd>
 					<status>Y</status>
 				</item>
 				<item>
 					<sl>74</sl>
-					<itemCode>00701091</itemCode>
-					<itemName>Soft Drinks</itemName>
-					<itemAddTime>20-January-2021</itemAddTime>
-					<itemUpdateTime>20-January-2021</itemUpdateTime>
-					<costPrice>0.00</costPrice>
+					<itemCode>01001013</itemCode>
+					<itemName>Grilled Whole Coral Fish</itemName>
+					<itemAddTime>Sun, 21-Mar-2021</itemAddTime>
+					<itemUpdateTime>Sun, 21-Mar-2021</itemUpdateTime>
+					<costPrice>0</costPrice>
 					<discount>0.00</discount>
-					<vat>5.25</vat>
-					<sellPrice>70.0000</sellPrice>
+					<vat>84.38</vat>
+					<sellPrice>1125.00</sellPrice>
 					<sd>0.00</sd>
 					<status>Y</status>
 				</item>
 				<item>
 					<sl>75</sl>
-					<itemCode>00701092</itemCode>
-					<itemName>Water 500ml</itemName>
-					<itemAddTime>20-January-2021</itemAddTime>
-					<itemUpdateTime>20-January-2021</itemUpdateTime>
-					<costPrice>0.00</costPrice>
+					<itemCode>01001014</itemCode>
+					<itemName>Tiger Prawn</itemName>
+					<itemAddTime>Sun, 21-Mar-2021</itemAddTime>
+					<itemUpdateTime>Sun, 21-Mar-2021</itemUpdateTime>
+					<costPrice>0</costPrice>
 					<discount>0.00</discount>
-					<vat>1.13</vat>
-					<sellPrice>15.0000</sellPrice>
+					<vat>48.75</vat>
+					<sellPrice>650.00</sellPrice>
 					<sd>0.00</sd>
 					<status>Y</status>
 				</item>
 				<item>
 					<sl>76</sl>
-					<itemCode>00701093</itemCode>
-					<itemName>Water 2000ml</itemName>
-					<itemAddTime>20-January-2021</itemAddTime>
-					<itemUpdateTime>20-January-2021</itemUpdateTime>
-					<costPrice>0.00</costPrice>
+					<itemCode>01001015</itemCode>
+					<itemName>Grilled Lobster</itemName>
+					<itemAddTime>Sun, 21-Mar-2021</itemAddTime>
+					<itemUpdateTime>Sun, 21-Mar-2021</itemUpdateTime>
+					<costPrice>0</costPrice>
 					<discount>0.00</discount>
-					<vat>2.63</vat>
-					<sellPrice>35.0000</sellPrice>
+					<vat>89.63</vat>
+					<sellPrice>1195.00</sellPrice>
 					<sd>0.00</sd>
 					<status>Y</status>
 				</item>
 			</items>
 		</category>
 		<category>
-			<categoryName>SINGLE KABAB</categoryName>
+			<categoryName>Raita &amp; Salad</categoryName>
 			<items>
 				<item>
 					<sl>77</sl>
-					<itemCode>00701056</itemCode>
-					<itemName> BEEF KAFTA KABAB (S)</itemName>
-					<itemAddTime>20-January-2021</itemAddTime>
-					<itemUpdateTime>21-January-2021</itemUpdateTime>
-					<costPrice>0.00</costPrice>
+					<itemCode>01001050</itemCode>
+					<itemName>Raita</itemName>
+					<itemAddTime>Sun, 21-Mar-2021</itemAddTime>
+					<itemUpdateTime>Sun, 21-Mar-2021</itemUpdateTime>
+					<costPrice>0</costPrice>
 					<discount>0.00</discount>
-					<vat>28.50</vat>
-					<sellPrice>380.0000</sellPrice>
+					<vat>3.00</vat>
+					<sellPrice>40.00</sellPrice>
 					<sd>0.00</sd>
 					<status>Y</status>
 				</item>
 				<item>
 					<sl>78</sl>
-					<itemCode>00701057</itemCode>
-					<itemName>ISKANDAR KABAB (S)</itemName>
-					<itemAddTime>20-January-2021</itemAddTime>
-					<itemUpdateTime>21-January-2021</itemUpdateTime>
-					<costPrice>0.00</costPrice>
+					<itemCode>01001051</itemCode>
+					<itemName>Spicy Mixed Salad</itemName>
+					<itemAddTime>Sun, 21-Mar-2021</itemAddTime>
+					<itemUpdateTime>Sun, 21-Mar-2021</itemUpdateTime>
+					<costPrice>0</costPrice>
 					<discount>0.00</discount>
-					<vat>31.13</vat>
-					<sellPrice>415.0000</sellPrice>
+					<vat>3.75</vat>
+					<sellPrice>50.00</sellPrice>
 					<sd>0.00</sd>
 					<status>Y</status>
 				</item>
 				<item>
 					<sl>79</sl>
-					<itemCode>00701058</itemCode>
-					<itemName>BEEF TIKKA KABAB (S)</itemName>
-					<itemAddTime>20-January-2021</itemAddTime>
-					<itemUpdateTime>29-January-2021</itemUpdateTime>
+					<itemCode>01001052</itemCode>
+					<itemName>Coleslaw</itemName>
+					<itemAddTime>Sun, 21-Mar-2021</itemAddTime>
+					<itemUpdateTime>Sun, 21-Mar-2021</itemUpdateTime>
+					<costPrice>0</costPrice>
 					<discount>0.00</discount>
-					<vat>31.13</vat>
-					<sellPrice>415.0000</sellPrice>
+					<vat>2.63</vat>
+					<sellPrice>35.00</sellPrice>
 					<sd>0.00</sd>
 					<status>Y</status>
 				</item>
+			</items>
+		</category>
+		<category>
+			<categoryName>Rice</categoryName>
+			<items>
 				<item>
 					<sl>80</sl>
-					<itemCode>00701059</itemCode>
-					<itemName>TENDER GRILL KABAB (S)</itemName>
-					<itemAddTime>20-January-2021</itemAddTime>
-					<itemUpdateTime>21-January-2021</itemUpdateTime>
-					<costPrice>0.00</costPrice>
+					<itemCode>01001053</itemCode>
+					<itemName>Zeera Butter Rice</itemName>
+					<itemAddTime>Sun, 21-Mar-2021</itemAddTime>
+					<itemUpdateTime>Sun, 21-Mar-2021</itemUpdateTime>
+					<costPrice>0</costPrice>
 					<discount>0.00</discount>
-					<vat>31.13</vat>
-					<sellPrice>415.0000</sellPrice>
+					<vat>7.50</vat>
+					<sellPrice>100.00</sellPrice>
 					<sd>0.00</sd>
 					<status>Y</status>
 				</item>
 				<item>
 					<sl>81</sl>
-					<itemCode>00701060</itemCode>
-					<itemName> CHICKEN KAFTA KABAB (S)</itemName>
-					<itemAddTime>20-January-2021</itemAddTime>
-					<itemUpdateTime>21-January-2021</itemUpdateTime>
-					<costPrice>0.00</costPrice>
+					<itemCode>01001054</itemCode>
+					<itemName>Steamed Rice</itemName>
+					<itemAddTime>Sun, 21-Mar-2021</itemAddTime>
+					<itemUpdateTime>Sun, 21-Mar-2021</itemUpdateTime>
+					<costPrice>0</costPrice>
 					<discount>0.00</discount>
-					<vat>22.13</vat>
-					<sellPrice>295.0000</sellPrice>
+					<vat>4.88</vat>
+					<sellPrice>65.00</sellPrice>
 					<sd>0.00</sd>
 					<status>Y</status>
 				</item>
+			</items>
+		</category>
+		<category>
+			<categoryName>Roll</categoryName>
+			<items>
 				<item>
 					<sl>82</sl>
-					<itemCode>00701061</itemCode>
-					<itemName>JOOJEH KABAB (S)</itemName>
-					<itemAddTime>20-January-2021</itemAddTime>
-					<itemUpdateTime>21-January-2021</itemUpdateTime>
-					<costPrice>0.00</costPrice>
+					<itemCode>01001085</itemCode>
+					<itemName>Chicken Garlic Mayo</itemName>
+					<itemAddTime>Sun, 21-Mar-2021</itemAddTime>
+					<itemUpdateTime>Sun, 21-Mar-2021</itemUpdateTime>
+					<costPrice>0</costPrice>
 					<discount>0.00</discount>
-					<vat>22.13</vat>
-					<sellPrice>295.0000</sellPrice>
+					<vat>15.00</vat>
+					<sellPrice>200.00</sellPrice>
 					<sd>0.00</sd>
 					<status>Y</status>
 				</item>
 				<item>
 					<sl>83</sl>
-					<itemCode>00701062</itemCode>
-					<itemName>TAVUK SIS (S)</itemName>
-					<itemAddTime>20-January-2021</itemAddTime>
-					<itemUpdateTime>21-January-2021</itemUpdateTime>
-					<costPrice>0.00</costPrice>
+					<itemCode>01001086</itemCode>
+					<itemName>Punjabi Chicken Paneer</itemName>
+					<itemAddTime>Sun, 21-Mar-2021</itemAddTime>
+					<itemUpdateTime>Sun, 21-Mar-2021</itemUpdateTime>
+					<costPrice>0</costPrice>
 					<discount>0.00</discount>
-					<vat>22.13</vat>
-					<sellPrice>295.0000</sellPrice>
+					<vat>16.88</vat>
+					<sellPrice>225.00</sellPrice>
 					<sd>0.00</sd>
 					<status>Y</status>
 				</item>
 				<item>
 					<sl>84</sl>
-					<itemCode>00701063</itemCode>
-					<itemName>SHISH TAOUK (S)</itemName>
-					<itemAddTime>20-January-2021</itemAddTime>
-					<itemUpdateTime>21-January-2021</itemUpdateTime>
-					<costPrice>0.00</costPrice>
+					<itemCode>01001087</itemCode>
+					<itemName>Peshwari Chicken</itemName>
+					<itemAddTime>Sun, 21-Mar-2021</itemAddTime>
+					<itemUpdateTime>Sun, 21-Mar-2021</itemUpdateTime>
+					<costPrice>0</costPrice>
 					<discount>0.00</discount>
-					<vat>22.13</vat>
-					<sellPrice>295.0000</sellPrice>
+					<vat>16.13</vat>
+					<sellPrice>215.00</sellPrice>
 					<sd>0.00</sd>
 					<status>Y</status>
 				</item>
 				<item>
 					<sl>85</sl>
-					<itemCode>00701064</itemCode>
-					<itemName>CHICKEN MARDIN (S)</itemName>
-					<itemAddTime>20-January-2021</itemAddTime>
-					<itemUpdateTime>21-January-2021</itemUpdateTime>
-					<costPrice>0.00</costPrice>
+					<itemCode>01001088</itemCode>
+					<itemName>Beef Garlic Mayo</itemName>
+					<itemAddTime>Sun, 21-Mar-2021</itemAddTime>
+					<itemUpdateTime>Sun, 21-Mar-2021</itemUpdateTime>
+					<costPrice>0</costPrice>
 					<discount>0.00</discount>
-					<vat>22.13</vat>
-					<sellPrice>295.0000</sellPrice>
+					<vat>18.75</vat>
+					<sellPrice>250.00</sellPrice>
 					<sd>0.00</sd>
 					<status>Y</status>
 				</item>
+			</items>
+		</category>
+		<category>
+			<categoryName>Roti</categoryName>
+			<items>
 				<item>
 					<sl>86</sl>
-					<itemCode>00701065</itemCode>
-					<itemName>CHICKEN TIKKA (S)</itemName>
-					<itemAddTime>20-January-2021</itemAddTime>
-					<itemUpdateTime>21-January-2021</itemUpdateTime>
-					<costPrice>0.00</costPrice>
+					<itemCode>01001061</itemCode>
+					<itemName>Plain Naan</itemName>
+					<itemAddTime>Sun, 21-Mar-2021</itemAddTime>
+					<itemUpdateTime>Sun, 21-Mar-2021</itemUpdateTime>
+					<costPrice>0</costPrice>
 					<discount>0.00</discount>
-					<vat>22.13</vat>
-					<sellPrice>295.0000</sellPrice>
+					<vat>4.13</vat>
+					<sellPrice>55.00</sellPrice>
 					<sd>0.00</sd>
 					<status>Y</status>
 				</item>
 				<item>
 					<sl>87</sl>
-					<itemCode>00701066</itemCode>
-					<itemName>KABAB ISTANBUL (S)</itemName>
-					<itemAddTime>20-January-2021</itemAddTime>
-					<itemUpdateTime>29-January-2021</itemUpdateTime>
+					<itemCode>01001062</itemCode>
+					<itemName>Butter Naan</itemName>
+					<itemAddTime>Sun, 21-Mar-2021</itemAddTime>
+					<itemUpdateTime>Sun, 21-Mar-2021</itemUpdateTime>
+					<costPrice>0</costPrice>
 					<discount>0.00</discount>
-					<vat>22.13</vat>
-					<sellPrice>295.0000</sellPrice>
+					<vat>5.25</vat>
+					<sellPrice>70.00</sellPrice>
 					<sd>0.00</sd>
 					<status>Y</status>
 				</item>
 				<item>
 					<sl>88</sl>
-					<itemCode>00701067</itemCode>
-					<itemName>SAFFRON CHICKEN (S)</itemName>
-					<itemAddTime>20-January-2021</itemAddTime>
-					<itemUpdateTime>21-January-2021</itemUpdateTime>
-					<costPrice>0.00</costPrice>
+					<itemCode>01001063</itemCode>
+					<itemName>Garlic Naan</itemName>
+					<itemAddTime>Sun, 21-Mar-2021</itemAddTime>
+					<itemUpdateTime>Sun, 21-Mar-2021</itemUpdateTime>
+					<costPrice>0</costPrice>
 					<discount>0.00</discount>
-					<vat>22.13</vat>
-					<sellPrice>295.0000</sellPrice>
+					<vat>6.00</vat>
+					<sellPrice>80.00</sellPrice>
 					<sd>0.00</sd>
 					<status>Y</status>
 				</item>
 				<item>
 					<sl>89</sl>
-					<itemCode>00701068</itemCode>
-					<itemName>1/4 AFGHANI CHICKEN BREAST (S)</itemName>
-					<itemAddTime>20-January-2021</itemAddTime>
-					<itemUpdateTime>21-January-2021</itemUpdateTime>
-					<costPrice>0.00</costPrice>
+					<itemCode>01001064</itemCode>
+					<itemName>Sesame Naan</itemName>
+					<itemAddTime>Sun, 21-Mar-2021</itemAddTime>
+					<itemUpdateTime>Sun, 21-Mar-2021</itemUpdateTime>
+					<costPrice>0</costPrice>
 					<discount>0.00</discount>
-					<vat>18.00</vat>
-					<sellPrice>240.0000</sellPrice>
+					<vat>5.63</vat>
+					<sellPrice>75.00</sellPrice>
 					<sd>0.00</sd>
 					<status>Y</status>
 				</item>
 				<item>
 					<sl>90</sl>
-					<itemCode>00701069</itemCode>
-					<itemName>1/4 AFGHANI CHICKEN LEG (S)</itemName>
-					<itemAddTime>20-January-2021</itemAddTime>
-					<itemUpdateTime>21-January-2021</itemUpdateTime>
-					<costPrice>0.00</costPrice>
+					<itemCode>01001065</itemCode>
+					<itemName>PK Special Naan</itemName>
+					<itemAddTime>Sun, 21-Mar-2021</itemAddTime>
+					<itemUpdateTime>Sun, 21-Mar-2021</itemUpdateTime>
+					<costPrice>0</costPrice>
 					<discount>0.00</discount>
-					<vat>18.00</vat>
-					<sellPrice>240.0000</sellPrice>
+					<vat>9.00</vat>
+					<sellPrice>120.00</sellPrice>
 					<sd>0.00</sd>
 					<status>Y</status>
 				</item>
 				<item>
 					<sl>91</sl>
-					<itemCode>00701070</itemCode>
-					<itemName>MUTTON CHOP (S)</itemName>
-					<itemAddTime>20-January-2021</itemAddTime>
-					<itemUpdateTime>21-January-2021</itemUpdateTime>
-					<costPrice>0.00</costPrice>
+					<itemCode>01001066</itemCode>
+					<itemName>Plain Paratha</itemName>
+					<itemAddTime>Sun, 21-Mar-2021</itemAddTime>
+					<itemUpdateTime>Sun, 21-Mar-2021</itemUpdateTime>
+					<costPrice>0</costPrice>
 					<discount>0.00</discount>
-					<vat>61.88</vat>
-					<sellPrice>825.0000</sellPrice>
+					<vat>4.13</vat>
+					<sellPrice>55.00</sellPrice>
 					<sd>0.00</sd>
 					<status>Y</status>
 				</item>
 				<item>
 					<sl>92</sl>
-					<itemCode>00701071</itemCode>
-					<itemName>MUTTON TIKKA (S)</itemName>
-					<itemAddTime>20-January-2021</itemAddTime>
-					<itemUpdateTime>21-January-2021</itemUpdateTime>
-					<costPrice>0.00</costPrice>
+					<itemCode>01001067</itemCode>
+					<itemName>Laccha Paratha</itemName>
+					<itemAddTime>Sun, 21-Mar-2021</itemAddTime>
+					<itemUpdateTime>Sun, 21-Mar-2021</itemUpdateTime>
+					<costPrice>0</costPrice>
 					<discount>0.00</discount>
-					<vat>61.88</vat>
-					<sellPrice>825.0000</sellPrice>
+					<vat>4.50</vat>
+					<sellPrice>60.00</sellPrice>
 					<sd>0.00</sd>
 					<status>Y</status>
 				</item>
-			</items>
-		</category>
-		<category>
-			<categoryName>STEAK</categoryName>
-			<items>
 				<item>
 					<sl>93</sl>
-					<itemCode>00701083</itemCode>
-					<itemName>CHICKEN STEAK</itemName>
-					<itemAddTime>20-January-2021</itemAddTime>
-					<itemUpdateTime>20-January-2021</itemUpdateTime>
-					<costPrice>0.00</costPrice>
+					<itemCode>01001068</itemCode>
+					<itemName>Alu Paratha</itemName>
+					<itemAddTime>Sun, 21-Mar-2021</itemAddTime>
+					<itemUpdateTime>Sun, 21-Mar-2021</itemUpdateTime>
+					<costPrice>0</costPrice>
 					<discount>0.00</discount>
-					<vat>37.13</vat>
-					<sellPrice>495.0000</sellPrice>
+					<vat>5.25</vat>
+					<sellPrice>70.00</sellPrice>
 					<sd>0.00</sd>
 					<status>Y</status>
 				</item>
 				<item>
 					<sl>94</sl>
-					<itemCode>00701084</itemCode>
-					<itemName>BEEF STEAK</itemName>
-					<itemAddTime>20-January-2021</itemAddTime>
-					<itemUpdateTime>20-January-2021</itemUpdateTime>
-					<costPrice>0.00</costPrice>
+					<itemCode>01001069</itemCode>
+					<itemName>Chicken Kulcha</itemName>
+					<itemAddTime>Sun, 21-Mar-2021</itemAddTime>
+					<itemUpdateTime>Sun, 21-Mar-2021</itemUpdateTime>
+					<costPrice>0</costPrice>
 					<discount>0.00</discount>
-					<vat>52.50</vat>
-					<sellPrice>700.0000</sellPrice>
+					<vat>8.25</vat>
+					<sellPrice>110.00</sellPrice>
+					<sd>0.00</sd>
+					<status>Y</status>
+				</item>
+				<item>
+					<sl>95</sl>
+					<itemCode>01001070</itemCode>
+					<itemName>Beef Kulcha</itemName>
+					<itemAddTime>Sun, 21-Mar-2021</itemAddTime>
+					<itemUpdateTime>Sun, 21-Mar-2021</itemUpdateTime>
+					<costPrice>0</costPrice>
+					<discount>0.00</discount>
+					<vat>8.63</vat>
+					<sellPrice>115.00</sellPrice>
+					<sd>0.00</sd>
+					<status>Y</status>
+				</item>
+				<item>
+					<sl>96</sl>
+					<itemCode>01001071</itemCode>
+					<itemName>Tandoori Roti</itemName>
+					<itemAddTime>Sun, 21-Mar-2021</itemAddTime>
+					<itemUpdateTime>Sun, 21-Mar-2021</itemUpdateTime>
+					<costPrice>0</costPrice>
+					<discount>0.00</discount>
+					<vat>4.13</vat>
+					<sellPrice>55.00</sellPrice>
+					<sd>0.00</sd>
+					<status>Y</status>
+				</item>
+				<item>
+					<sl>97</sl>
+					<itemCode>01001072</itemCode>
+					<itemName>Rumali Roti</itemName>
+					<itemAddTime>Sun, 21-Mar-2021</itemAddTime>
+					<itemUpdateTime>Sun, 21-Mar-2021</itemUpdateTime>
+					<costPrice>0</costPrice>
+					<discount>0.00</discount>
+					<vat>3.38</vat>
+					<sellPrice>45.00</sellPrice>
 					<sd>0.00</sd>
 					<status>Y</status>
 				</item>
 			</items>
 		</category>
 		<category>
-			<categoryName>WRAP</categoryName>
+			<categoryName>Thalis</categoryName>
 			<items>
 				<item>
-					<sl>95</sl>
-					<itemCode>00701004</itemCode>
-					<itemName>LEBANESE CHICKEN WRAP</itemName>
-					<itemAddTime>20-January-2021</itemAddTime>
-					<itemUpdateTime>20-January-2021</itemUpdateTime>
-					<costPrice>0.00</costPrice>
+					<sl>98</sl>
+					<itemCode>01001001</itemCode>
+					<itemName>Amritsar Thali</itemName>
+					<itemAddTime>Sun, 21-Mar-2021</itemAddTime>
+					<itemUpdateTime>Sun, 21-Mar-2021</itemUpdateTime>
+					<costPrice>0</costPrice>
 					<discount>0.00</discount>
-					<vat>24.00</vat>
-					<sellPrice>320.0000</sellPrice>
+					<vat>31.88</vat>
+					<sellPrice>425.00</sellPrice>
 					<sd>0.00</sd>
 					<status>Y</status>
 				</item>
 				<item>
-					<sl>96</sl>
-					<itemCode>00701005</itemCode>
-					<itemName>LEBANSES BEEF WRAP</itemName>
-					<itemAddTime>20-January-2021</itemAddTime>
-					<itemUpdateTime>20-January-2021</itemUpdateTime>
-					<costPrice>0.00</costPrice>
+					<sl>99</sl>
+					<itemCode>01001002</itemCode>
+					<itemName>Multan Thali</itemName>
+					<itemAddTime>Sun, 21-Mar-2021</itemAddTime>
+					<itemUpdateTime>Sun, 21-Mar-2021</itemUpdateTime>
+					<costPrice>0</costPrice>
 					<discount>0.00</discount>
-					<vat>28.50</vat>
-					<sellPrice>380.0000</sellPrice>
+					<vat>33.75</vat>
+					<sellPrice>450.00</sellPrice>
+					<sd>0.00</sd>
+					<status>Y</status>
+				</item>
+				<item>
+					<sl>100</sl>
+					<itemCode>01001003</itemCode>
+					<itemName>Ludhiana Thali</itemName>
+					<itemAddTime>Sun, 21-Mar-2021</itemAddTime>
+					<itemUpdateTime>Sun, 21-Mar-2021</itemUpdateTime>
+					<costPrice>0</costPrice>
+					<discount>0.00</discount>
+					<vat>32.63</vat>
+					<sellPrice>435.00</sellPrice>
+					<sd>0.00</sd>
+					<status>Y</status>
+				</item>
+				<item>
+					<sl>101</sl>
+					<itemCode>01001004</itemCode>
+					<itemName>Lahore Thali</itemName>
+					<itemAddTime>Sun, 21-Mar-2021</itemAddTime>
+					<itemUpdateTime>Sun, 21-Mar-2021</itemUpdateTime>
+					<costPrice>0</costPrice>
+					<discount>0.00</discount>
+					<vat>34.88</vat>
+					<sellPrice>465.00</sellPrice>
+					<sd>0.00</sd>
+					<status>Y</status>
+				</item>
+				<item>
+					<sl>102</sl>
+					<itemCode>01001005</itemCode>
+					<itemName>Kids' Meal</itemName>
+					<itemAddTime>Sun, 21-Mar-2021</itemAddTime>
+					<itemUpdateTime>Sun, 21-Mar-2021</itemUpdateTime>
+					<costPrice>0</costPrice>
+					<discount>0.00</discount>
+					<vat>30.38</vat>
+					<sellPrice>405.00</sellPrice>
+					<sd>0.00</sd>
+					<status>Y</status>
+				</item>
+				<item>
+					<sl>103</sl>
+					<itemCode>01001103</itemCode>
+					<itemName>Halwa, Paratha &amp; Masala Tea</itemName>
+					<itemAddTime>Sun, 21-Mar-2021</itemAddTime>
+					<itemUpdateTime>Sun, 21-Mar-2021</itemUpdateTime>
+					<costPrice>0</costPrice>
+					<discount>0.00</discount>
+					<vat>16.13</vat>
+					<sellPrice>215.00</sellPrice>
 					<sd>0.00</sd>
 					<status>Y</status>
 				</item>
 			</items>
 		</category>
 	</categories>
-	<printDate>22-February-2021</printDate>
 </ilreport>

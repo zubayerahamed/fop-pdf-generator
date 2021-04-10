@@ -2,10 +2,10 @@
 <!--!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!-->
 <!--!                                                              !-->
 <!--!    File Name    : IL.xsl                                     !-->
-<!--!    Description  : Item Sales Summary                         !-->
+<!--!    Description  : Item List Report                           !-->
 <!--!    Author       : Zubayer Ahamed                             !-->
-<!--!    Date         : 15-Feb-2019                                !-->
-<!--!    Copyright    : Copyright (c) ibtl.com                     !-->
+<!--!    Date         : 10-Apr-2019                                !-->
+<!--!    Copyright    : Copyright (c) karigorit.com                !-->
 <!--!                                                              !-->
 <!--!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!-->
 <xsl:stylesheet 
@@ -21,16 +21,16 @@
 			<!-- PAGE SETUP -->
 			<fo:layout-master-set>
 				<!-- PAGE MASTER -->
-				<fo:simple-page-master master-name="A4" page-height="29.02cm" page-width="21cm" margin-top="6mm" margin-bottom="6mm" margin-left="6mm" margin-right="6mm">
+				<fo:simple-page-master master-name="A4" page-height="21cm" page-width="29.02cm" margin-top="6mm" margin-bottom="6mm" margin-left="6mm" margin-right="6mm">
 					<fo:region-body margin-top="25mm" margin-left="0mm" margin-right="0mm" margin-bottom="5mm" />
 					<fo:region-before region-name="header-first" extent="25mm"/>
 					<fo:region-after region-name="footer-pagenumber" extent="4.5mm"/>
 				</fo:simple-page-master>
-				<fo:simple-page-master master-name="A4-rest" page-height="29.02cm" page-width="21cm" margin-top="6mm" margin-bottom="6mm" margin-left="6mm" margin-right="6mm">
+				<fo:simple-page-master master-name="A4-rest" page-height="21cm" page-width="29.02cm" margin-top="6mm" margin-bottom="6mm" margin-left="6mm" margin-right="6mm">
 					<fo:region-body margin-top="0mm" margin-left="0mm" margin-right="0mm" margin-bottom="5mm" />
 					<fo:region-after region-name="footer-pagenumber" extent="4.5mm"/>
 				</fo:simple-page-master>
-				<fo:simple-page-master master-name="A4-last" page-height="29.02cm" page-width="21cm" margin-top="6mm" margin-bottom="6mm" margin-left="6mm" margin-right="6mm">
+				<fo:simple-page-master master-name="A4-last" page-height="21cm" page-width="29.02cm" margin-top="6mm" margin-bottom="6mm" margin-left="6mm" margin-right="6mm">
 					<fo:region-body margin-top="0mm" margin-left="0mm" margin-right="0mm" margin-bottom="5mm" />
 					<fo:region-after region-name="footer-pagenumber" extent="4.5mm"/>
 				</fo:simple-page-master>
@@ -50,13 +50,7 @@
 
 				<!-- PAGE HEADER (STATIC CONTENT) -->
 				<fo:static-content flow-name="header-first">
-					<!-- <fo:block-container position="absolute" width="20%" top="0mm" left="0mm">
-						<fo:block text-align="left" font-size="20px" font-weight="bold">
-							<xsl:variable name="siteLogo" select="logo"/>
-							<fo:external-graphic padding="0" margin="0" space-start="0" space-end="0" pause-before="0" pause-after="0" content-height="12mm" content-width="35mm" scaling="non-uniform" src="{$siteLogo}" />
-						</fo:block>
-					</fo:block-container> -->
-					<fo:block-container width="100%" margin-top="15px">
+					<fo:block-container width="100%">
 						<fo:block text-align="center" font-size="20px" font-weight="bold">
 							<xsl:value-of select="shopName"/>
 						</fo:block>
@@ -71,17 +65,17 @@
 
 				<!-- FOOTER PAGE NUMBER -->
 				<fo:static-content flow-name="footer-pagenumber">
-					<fo:block-container position="absolute" width="40%">
+					<fo:block-container position="absolute" width="20%">
 						<fo:block text-align="left" font-size="8px">
 							Page <fo:page-number/> of <fo:page-number-citation ref-id="{$pageid}"/>
 						</fo:block>
 					</fo:block-container>
-					<fo:block-container position="absolute" left="40%" width="20%">
+					<fo:block-container position="absolute" left="20%" width="60%">
 						<fo:block text-align="center" font-size="8px">
 							<xsl:value-of select="copyright"/>
 						</fo:block>
 					</fo:block-container>
-					<fo:block-container position="absolute" left="60%" width="40%">
+					<fo:block-container position="absolute" left="80%" width="20%">
 						<fo:block text-align="right" font-size="8px">
 							Printed Date : <xsl:value-of select="printDate"/>
 						</fo:block>
@@ -90,7 +84,7 @@
 
 				<!-- BODY CONTENT -->
 				<fo:flow flow-name="xsl-region-body">
-					<fo:block-container width="100%" margin-top="20px" right="0mm">
+					<fo:block-container width="100%">
 						<fo:block>
 							<fo:table table-layout="fixed" width="100%" border-collapse="collapse">
 								<fo:table-column column-width="100%" />
@@ -113,15 +107,15 @@
 	<xsl:template match="categories/category">
 		<fo:table-row>
 			<fo:table-cell xsl:use-attribute-sets="category.table.td">
-				<fo:block font-weight="bold" font-size="14px" padding-top="10px" padding-bottom="10px" text-align="center">
-					<xsl:value-of select="categoryName"/>
+				<fo:block font-weight="bold" font-size="14px" padding-top="10px" padding-bottom="10px" text-align="left">
+					Category: <xsl:value-of select="categoryName"/>
 				</fo:block>
 
 				<!-- Item table -->
 				<fo:block>
 					<fo:table table-layout="fixed" width="100%" border-collapse="collapse">
-						<fo:table-column column-width="5%"/>
-						<fo:table-column column-width="8%" />
+						<fo:table-column column-width="3%"/>
+						<fo:table-column column-width="10%" />
 						<fo:table-column column-width="17%" />
 						<fo:table-column column-width="12%" />
 						<fo:table-column column-width="12%" />
@@ -129,26 +123,26 @@
 						<fo:table-column column-width="8%" />
 						<fo:table-column column-width="8%" />
 						<fo:table-column column-width="8%" />
-						<fo:table-column column-width="8%" />
 						<fo:table-column column-width="6%" />
+						<fo:table-column column-width="8%" />
 
 						<!-- Table header -->
 						<fo:table-header xsl:use-attribute-sets="table.font.size">
 							<fo:table-row>
 								<fo:table-cell xsl:use-attribute-sets="client.table.th" text-align="center">
-									<fo:block>S.N</fo:block>
+									<fo:block>SL</fo:block>
 								</fo:table-cell>
 								<fo:table-cell xsl:use-attribute-sets="client.table.th" text-align="center">
-									<fo:block>Item Code</fo:block>
+									<fo:block>Item</fo:block>
 								</fo:table-cell>
 								<fo:table-cell xsl:use-attribute-sets="client.table.th" text-align="left">
-									<fo:block>Item Name</fo:block>
+									<fo:block>Name</fo:block>
 								</fo:table-cell>
 								<fo:table-cell xsl:use-attribute-sets="client.table.th" text-align="center">
-									<fo:block>Added Time</fo:block>
+									<fo:block>Created</fo:block>
 								</fo:table-cell>
 								<fo:table-cell xsl:use-attribute-sets="client.table.th" text-align="center">
-									<fo:block>Updated Time</fo:block>
+									<fo:block>Updated</fo:block>
 								</fo:table-cell>
 								<fo:table-cell xsl:use-attribute-sets="client.table.th" text-align="right">
 									<fo:block>Cost Price</fo:block>
@@ -166,7 +160,7 @@
 									<fo:block>SD</fo:block>
 								</fo:table-cell>
 								<fo:table-cell xsl:use-attribute-sets="client.table.th" text-align="center">
-									<fo:block>Active</fo:block>
+									<fo:block>Status</fo:block>
 								</fo:table-cell>
 							</fo:table-row>
 						</fo:table-header>
@@ -257,19 +251,24 @@
 		<xsl:attribute name="font-weight">bold</xsl:attribute>
 		<xsl:attribute name="font-size">8pt</xsl:attribute>
 		<xsl:attribute name="padding">2px</xsl:attribute>
-		<xsl:attribute name="background-color">#DDDDDD</xsl:attribute>
-		<xsl:attribute name="border">1pt solid #000000</xsl:attribute>
+		<xsl:attribute name="background-color">#FF6C60</xsl:attribute>
+		<xsl:attribute name="color">#fff</xsl:attribute>
+		<xsl:attribute name="border">1pt solid #fd200e</xsl:attribute>
+		<xsl:attribute name="padding-left">5px</xsl:attribute>
+		<xsl:attribute name="padding-right">5px</xsl:attribute>
 	</xsl:attribute-set>
 	<xsl:attribute-set name="client.table.tf">
 		<xsl:attribute name="font-weight">bold</xsl:attribute>
 		<xsl:attribute name="font-size">8pt</xsl:attribute>
 		<xsl:attribute name="padding">2px</xsl:attribute>
-		<xsl:attribute name="border">1pt solid #000000</xsl:attribute>
+		<xsl:attribute name="border">1pt solid #fd200e</xsl:attribute>
 	</xsl:attribute-set>
 	<xsl:attribute-set name="client.table.td">
 		<xsl:attribute name="font-size">7pt</xsl:attribute>
 		<xsl:attribute name="padding">2px</xsl:attribute>
-		<xsl:attribute name="border">1pt solid #000000</xsl:attribute>
+		<xsl:attribute name="border">1pt solid #fd200e</xsl:attribute>
+		<xsl:attribute name="padding-left">5px</xsl:attribute>
+		<xsl:attribute name="padding-right">5px</xsl:attribute>
 	</xsl:attribute-set>
 	<xsl:attribute-set name="category.table.td">
 		<xsl:attribute name="font-size">7pt</xsl:attribute>
