@@ -1,0 +1,465 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<matrixreport>
+	<businessAddress>618, Dhonia A.K. High School Road, Jatrabari, Dhaka -
+		1236</businessAddress>
+	<businessName>Khana's Central</businessName>
+	<fromDate>2021-04-17</fromDate>
+	<printDate>2021-04-18</printDate>
+	<reportName>Branch Requisitions</reportName>
+	<datas>
+		<data>
+			<columns>
+				<column>
+					<xitem>IC-000002</xitem>
+					<xdesc>Premium patty</xdesc>
+					<xunitpur>PCS</xunitpur>
+				</column>
+				<column>
+					<xitem>IC-000003</xitem>
+					<xdesc>Smoked Chicken</xdesc>
+					<xunitpur>PAC</xunitpur>
+				</column>
+				<column>
+					<xitem>IC-000005</xitem>
+					<xdesc>Chicken Cutlet</xdesc>
+					<xunitpur>SET</xunitpur>
+				</column>
+				<column>
+					<xitem>IC-000006</xitem>
+					<xdesc>MOMO</xdesc>
+					<xunitpur>SET</xunitpur>
+				</column>
+				<column>
+					<xitem>IC-000007</xitem>
+					<xdesc>Bologna</xdesc>
+					<xunitpur>PAC</xunitpur>
+				</column>
+				<column>
+					<xitem>IC-000008</xitem>
+					<xdesc>Beef patty</xdesc>
+					<xunitpur>PCS</xunitpur>
+				</column>
+				<column>
+					<xitem>IC-000009</xitem>
+					<xdesc>Burst patty</xdesc>
+					<xunitpur>PCS</xunitpur>
+				</column>
+				<column>
+					<xitem>IC-000010</xitem>
+					<xdesc>Hunter Beef</xdesc>
+					<xunitpur>KG</xunitpur>
+				</column>
+				<column>
+					<xitem>IC-000011</xitem>
+					<xdesc>Chicken Wings</xdesc>
+					<xunitpur>SET</xunitpur>
+				</column>
+			</columns>
+			<rows>
+				<row>
+					<zorg>Dhanmondi Branch</zorg>
+					<items>
+						<item>
+							<xitem>IC-000002</xitem>
+							<xqtyord>24</xqtyord>
+							<zorg>Dhanmondi Branch</zorg>
+						</item>
+						<item>
+							<xitem>IC-000003</xitem>
+							<xqtyord>123</xqtyord>
+							<zorg>Dhanmondi Branch</zorg>
+						</item>
+						<item>
+							<xitem>IC-000005</xitem>
+							<xqtyord>20</xqtyord>
+							<zorg>Dhanmondi Branch</zorg>
+						</item>
+						<item>
+							<xitem>IC-000006</xitem>
+							<xqtyord>0</xqtyord>
+							<zorg>Dhanmondi Branch</zorg>
+						</item>
+						<item>
+							<xitem>IC-000007</xitem>
+							<xqtyord>23</xqtyord>
+							<zorg>Dhanmondi Branch</zorg>
+						</item>
+						<item>
+							<xitem>IC-000008</xitem>
+							<xqtyord>1</xqtyord>
+							<zorg>Dhanmondi Branch</zorg>
+						</item>
+						<item>
+							<xitem>IC-000009</xitem>
+							<xqtyord>0</xqtyord>
+							<zorg>Dhanmondi Branch</zorg>
+						</item>
+						<item>
+							<xitem>IC-000010</xitem>
+							<xqtyord>1</xqtyord>
+							<zorg>Dhanmondi Branch</zorg>
+						</item>
+						<item>
+							<xitem>IC-000011</xitem>
+							<xqtyord>123</xqtyord>
+							<zorg>Dhanmondi Branch</zorg>
+						</item>
+					</items>
+				</row>
+				<row>
+					<zorg>Mohammodpur Branch</zorg>
+					<items>
+						<item>
+							<xitem>IC-000002</xitem>
+							<xqtyord>1</xqtyord>
+							<zorg>Mohammodpur Branch</zorg>
+						</item>
+						<item>
+							<xitem>IC-000003</xitem>
+							<xqtyord>1</xqtyord>
+							<zorg>Mohammodpur Branch</zorg>
+						</item>
+						<item>
+							<xitem>IC-000005</xitem>
+							<xqtyord>20</xqtyord>
+							<zorg>Mohammodpur Branch</zorg>
+						</item>
+						<item>
+							<xitem>IC-000006</xitem>
+							<xqtyord>1</xqtyord>
+							<zorg>Mohammodpur Branch</zorg>
+						</item>
+						<item>
+							<xitem>IC-000007</xitem>
+							<xqtyord>1</xqtyord>
+							<zorg>Mohammodpur Branch</zorg>
+						</item>
+						<item>
+							<xitem>IC-000008</xitem>
+							<xqtyord>1</xqtyord>
+							<zorg>Mohammodpur Branch</zorg>
+						</item>
+						<item>
+							<xitem>IC-000009</xitem>
+							<xqtyord>1</xqtyord>
+							<zorg>Mohammodpur Branch</zorg>
+						</item>
+						<item>
+							<xitem>IC-000010</xitem>
+							<xqtyord>1</xqtyord>
+							<zorg>Mohammodpur Branch</zorg>
+						</item>
+						<item>
+							<xitem>IC-000011</xitem>
+							<xqtyord>1</xqtyord>
+							<zorg>Mohammodpur Branch</zorg>
+						</item>
+					</items>
+				</row>
+				<row>
+					<zorg>Cub house</zorg>
+					<items>
+						<item>
+							<xitem>IC-000002</xitem>
+							<xqtyord>1</xqtyord>
+							<zorg>Cub house</zorg>
+						</item>
+						<item>
+							<xitem>IC-000003</xitem>
+							<xqtyord>1</xqtyord>
+							<zorg>Cub house</zorg>
+						</item>
+						<item>
+							<xitem>IC-000005</xitem>
+							<xqtyord>20</xqtyord>
+							<zorg>Cub house</zorg>
+						</item>
+						<item>
+							<xitem>IC-000006</xitem>
+							<xqtyord>1</xqtyord>
+							<zorg>Cub house</zorg>
+						</item>
+						<item>
+							<xitem>IC-000007</xitem>
+							<xqtyord>1</xqtyord>
+							<zorg>Cub house</zorg>
+						</item>
+						<item>
+							<xitem>IC-000008</xitem>
+							<xqtyord>1</xqtyord>
+							<zorg>Cub house</zorg>
+						</item>
+						<item>
+							<xitem>IC-000009</xitem>
+							<xqtyord>1</xqtyord>
+							<zorg>Cub house</zorg>
+						</item>
+						<item>
+							<xitem>IC-000010</xitem>
+							<xqtyord>1</xqtyord>
+							<zorg>Cub house</zorg>
+						</item>
+						<item>
+							<xitem>IC-000011</xitem>
+							<xqtyord>1</xqtyord>
+							<zorg>Cub house</zorg>
+						</item>
+					</items>
+				</row>
+			</rows>
+			<totals>
+				<total>
+					<xitem>IC-000002</xitem>
+					<xqtyord>26</xqtyord>
+				</total>
+				<total>
+					<xitem>IC-000003</xitem>
+					<xqtyord>125</xqtyord>
+				</total>
+				<total>
+					<xitem>IC-000005</xitem>
+					<xqtyord>60</xqtyord>
+				</total>
+				<total>
+					<xitem>IC-000006</xitem>
+					<xqtyord>2</xqtyord>
+				</total>
+				<total>
+					<xitem>IC-000007</xitem>
+					<xqtyord>25</xqtyord>
+				</total>
+				<total>
+					<xitem>IC-000008</xitem>
+					<xqtyord>3</xqtyord>
+				</total>
+				<total>
+					<xitem>IC-000009</xitem>
+					<xqtyord>2</xqtyord>
+				</total>
+				<total>
+					<xitem>IC-000010</xitem>
+					<xqtyord>3</xqtyord>
+				</total>
+				<total>
+					<xitem>IC-000011</xitem>
+					<xqtyord>125</xqtyord>
+				</total>
+			</totals>
+		</data>
+		<data>
+			<columns>
+				<column>
+					<xitem>IC-000013</xitem>
+					<xdesc>Fries</xdesc>
+					<xunitpur>PAC</xunitpur>
+				</column>
+				<column>
+					<xitem>IC-000014</xitem>
+					<xdesc>Mayo Gavy</xdesc>
+					<xunitpur>PAC</xunitpur>
+				</column>
+				<column>
+					<xitem>IC-000023</xitem>
+					<xdesc>Fat</xdesc>
+					<xunitpur>KG</xunitpur>
+				</column>
+				<column>
+					<xitem>IC-000024</xitem>
+					<xdesc>Chips</xdesc>
+					<xunitpur>PAC</xunitpur>
+				</column>
+				<column>
+					<xitem>IC-000028</xitem>
+					<xdesc>Takeway Box</xdesc>
+					<xunitpur>PCS</xunitpur>
+				</column>
+				<column>
+					<xitem>IC-000043</xitem>
+					<xdesc>Momo Sauce</xdesc>
+					<xunitpur>KG</xunitpur>
+				</column>
+				<column>
+					<xitem>IC-000044</xitem>
+					<xdesc>Smoked/Burger Plate</xdesc>
+					<xunitpur>PCS</xunitpur>
+				</column>
+				<column>
+					<xitem>IC-000058</xitem>
+					<xdesc>Matador Hi School</xdesc>
+					<xunitpur>SET</xunitpur>
+				</column>
+			</columns>
+			<rows>
+				<row>
+					<zorg>Dhanmondi Branch</zorg>
+					<items>
+						<item>
+							<xitem>IC-000013</xitem>
+							<xqtyord>0</xqtyord>
+							<zorg>Dhanmondi Branch</zorg>
+						</item>
+						<item>
+							<xitem>IC-000014</xitem>
+							<xqtyord>0</xqtyord>
+							<zorg>Dhanmondi Branch</zorg>
+						</item>
+						<item>
+							<xitem>IC-000023</xitem>
+							<xqtyord>0</xqtyord>
+							<zorg>Dhanmondi Branch</zorg>
+						</item>
+						<item>
+							<xitem>IC-000024</xitem>
+							<xqtyord>0</xqtyord>
+							<zorg>Dhanmondi Branch</zorg>
+						</item>
+						<item>
+							<xitem>IC-000028</xitem>
+							<xqtyord>100</xqtyord>
+							<zorg>Dhanmondi Branch</zorg>
+						</item>
+						<item>
+							<xitem>IC-000043</xitem>
+							<xqtyord>0</xqtyord>
+							<zorg>Dhanmondi Branch</zorg>
+						</item>
+						<item>
+							<xitem>IC-000044</xitem>
+							<xqtyord>0</xqtyord>
+							<zorg>Dhanmondi Branch</zorg>
+						</item>
+						<item>
+							<xitem>IC-000058</xitem>
+							<xqtyord>200</xqtyord>
+							<zorg>Dhanmondi Branch</zorg>
+						</item>
+					</items>
+				</row>
+				<row>
+					<zorg>Mohammodpur Branch</zorg>
+					<items>
+						<item>
+							<xitem>IC-000013</xitem>
+							<xqtyord>1</xqtyord>
+							<zorg>Mohammodpur Branch</zorg>
+						</item>
+						<item>
+							<xitem>IC-000014</xitem>
+							<xqtyord>1</xqtyord>
+							<zorg>Mohammodpur Branch</zorg>
+						</item>
+						<item>
+							<xitem>IC-000023</xitem>
+							<xqtyord>1</xqtyord>
+							<zorg>Mohammodpur Branch</zorg>
+						</item>
+						<item>
+							<xitem>IC-000024</xitem>
+							<xqtyord>1</xqtyord>
+							<zorg>Mohammodpur Branch</zorg>
+						</item>
+						<item>
+							<xitem>IC-000028</xitem>
+							<xqtyord>1</xqtyord>
+							<zorg>Mohammodpur Branch</zorg>
+						</item>
+						<item>
+							<xitem>IC-000043</xitem>
+							<xqtyord>0</xqtyord>
+							<zorg>Mohammodpur Branch</zorg>
+						</item>
+						<item>
+							<xitem>IC-000044</xitem>
+							<xqtyord>0</xqtyord>
+							<zorg>Mohammodpur Branch</zorg>
+						</item>
+						<item>
+							<xitem>IC-000058</xitem>
+							<xqtyord>200</xqtyord>
+							<zorg>Mohammodpur Branch</zorg>
+						</item>
+					</items>
+				</row>
+				<row>
+					<zorg>Cub house</zorg>
+					<items>
+						<item>
+							<xitem>IC-000013</xitem>
+							<xqtyord>1</xqtyord>
+							<zorg>Cub house</zorg>
+						</item>
+						<item>
+							<xitem>IC-000014</xitem>
+							<xqtyord>1</xqtyord>
+							<zorg>Cub house</zorg>
+						</item>
+						<item>
+							<xitem>IC-000023</xitem>
+							<xqtyord>1</xqtyord>
+							<zorg>Cub house</zorg>
+						</item>
+						<item>
+							<xitem>IC-000024</xitem>
+							<xqtyord>0</xqtyord>
+							<zorg>Cub house</zorg>
+						</item>
+						<item>
+							<xitem>IC-000028</xitem>
+							<xqtyord>1</xqtyord>
+							<zorg>Cub house</zorg>
+						</item>
+						<item>
+							<xitem>IC-000043</xitem>
+							<xqtyord>1</xqtyord>
+							<zorg>Cub house</zorg>
+						</item>
+						<item>
+							<xitem>IC-000044</xitem>
+							<xqtyord>1</xqtyord>
+							<zorg>Cub house</zorg>
+						</item>
+						<item>
+							<xitem>IC-000058</xitem>
+							<xqtyord>200</xqtyord>
+							<zorg>Cub house</zorg>
+						</item>
+					</items>
+				</row>
+			</rows>
+			<totals>
+				<total>
+					<xitem>IC-000013</xitem>
+					<xqtyord>2</xqtyord>
+				</total>
+				<total>
+					<xitem>IC-000014</xitem>
+					<xqtyord>2</xqtyord>
+				</total>
+				<total>
+					<xitem>IC-000023</xitem>
+					<xqtyord>2</xqtyord>
+				</total>
+				<total>
+					<xitem>IC-000024</xitem>
+					<xqtyord>1</xqtyord>
+				</total>
+				<total>
+					<xitem>IC-000028</xitem>
+					<xqtyord>102</xqtyord>
+				</total>
+				<total>
+					<xitem>IC-000043</xitem>
+					<xqtyord>1</xqtyord>
+				</total>
+				<total>
+					<xitem>IC-000044</xitem>
+					<xqtyord>1</xqtyord>
+				</total>
+				<total>
+					<xitem>IC-000058</xitem>
+					<xqtyord>600</xqtyord>
+				</total>
+			</totals>
+		</data>
+	</datas>
+</matrixreport>
