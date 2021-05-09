@@ -1,0 +1,353 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<dailydistributionreport>
+	<businessAddress>442, Abdus Subhan Dhali Road, vatara, Dhaka-1229
+	</businessAddress>
+	<businessName>Khanas Central</businessName>
+	<copyrightText>Powered by ASL © Copyright 2021</copyrightText>
+	<fromDate>Sun, 09-May-2021</fromDate>
+	<printDate>Sun, 09-May-2021</printDate>
+	<reportName>Daily Distribution Report</reportName>
+	<toDate>Sun, 09-May-2021</toDate>
+	<dailydistributions>
+		<dailydistribution>
+			<xitem>IC-000065</xitem>
+			<xdesc>Chicken Cutlet</xdesc>
+			<xunitpur>PCS</xunitpur>
+			<opening>183</opening>
+			<production>50</production>
+			<totalinventory>233</totalinventory>
+			<distribution>220</distribution>
+			<physicalstock>13</physicalstock>
+		</dailydistribution>
+		<dailydistribution>
+			<xitem>IC-000066</xitem>
+			<xdesc>Smoked chicken </xdesc>
+			<xunitpur>KG</xunitpur>
+			<opening>42</opening>
+			<production>0</production>
+			<totalinventory>42</totalinventory>
+			<distribution>11</distribution>
+			<physicalstock>31</physicalstock>
+		</dailydistribution>
+		<dailydistribution>
+			<xitem>IC-000067</xitem>
+			<xdesc>Hunter Beef</xdesc>
+			<xunitpur>KG</xunitpur>
+			<opening>221</opening>
+			<production>0</production>
+			<totalinventory>221</totalinventory>
+			<distribution>3.5</distribution>
+			<physicalstock>217.5</physicalstock>
+		</dailydistribution>
+		<dailydistribution>
+			<xitem>IC-000068</xitem>
+			<xdesc>Chicken Pastrami</xdesc>
+			<xunitpur>Pac</xunitpur>
+			<opening>60</opening>
+			<production>0</production>
+			<totalinventory>60</totalinventory>
+			<distribution>3</distribution>
+			<physicalstock>57</physicalstock>
+		</dailydistribution>
+		<dailydistribution>
+			<xitem>IC-000006</xitem>
+			<xdesc>Naga Sauce</xdesc>
+			<xunitpur>KG</xunitpur>
+			<opening>0</opening>
+			<production>0</production>
+			<totalinventory>0</totalinventory>
+			<distribution>0</distribution>
+			<physicalstock>0</physicalstock>
+		</dailydistribution>
+		<dailydistribution>
+			<xitem>IC-000050</xitem>
+			<xdesc>Serving masala</xdesc>
+			<xunitpur>KG</xunitpur>
+			<opening>0</opening>
+			<production>0</production>
+			<totalinventory>0</totalinventory>
+			<distribution>0</distribution>
+			<physicalstock>0</physicalstock>
+		</dailydistribution>
+		<dailydistribution>
+			<xitem>IC-000059</xitem>
+			<xdesc>Wings</xdesc>
+			<xunitpur>SET</xunitpur>
+			<opening>135</opening>
+			<production>0</production>
+			<totalinventory>135</totalinventory>
+			<distribution>190</distribution>
+			<physicalstock>-55</physicalstock>
+		</dailydistribution>
+		<dailydistribution>
+			<xitem>IC-000069</xitem>
+			<xdesc>Pastrami chips</xdesc>
+			<xunitpur>Pac</xunitpur>
+			<opening>0</opening>
+			<production>0</production>
+			<totalinventory>0</totalinventory>
+			<distribution>0</distribution>
+			<physicalstock>0</physicalstock>
+		</dailydistribution>
+		<dailydistribution>
+			<xitem>IC-000070</xitem>
+			<xdesc>Beef patty</xdesc>
+			<xunitpur>PCS</xunitpur>
+			<opening>310</opening>
+			<production>0</production>
+			<totalinventory>310</totalinventory>
+			<distribution>211</distribution>
+			<physicalstock>99</physicalstock>
+		</dailydistribution>
+		<dailydistribution>
+			<xitem>IC-000071</xitem>
+			<xdesc>Burst Patty</xdesc>
+			<xunitpur>PCS</xunitpur>
+			<opening>7</opening>
+			<production>0</production>
+			<totalinventory>7</totalinventory>
+			<distribution>31</distribution>
+			<physicalstock>-24</physicalstock>
+		</dailydistribution>
+		<dailydistribution>
+			<xitem>IC-000072</xitem>
+			<xdesc>Chicken patty</xdesc>
+			<xunitpur>PCS</xunitpur>
+			<opening>42</opening>
+			<production>0</production>
+			<totalinventory>42</totalinventory>
+			<distribution>181</distribution>
+			<physicalstock>-139</physicalstock>
+		</dailydistribution>
+		<dailydistribution>
+			<xitem>IC-000073</xitem>
+			<xdesc>Premium patty</xdesc>
+			<xunitpur>PCS</xunitpur>
+			<opening>0</opening>
+			<production>0</production>
+			<totalinventory>0</totalinventory>
+			<distribution>27</distribution>
+			<physicalstock>-27</physicalstock>
+		</dailydistribution>
+		<dailydistribution>
+			<xitem>IC-000075</xitem>
+			<xdesc>MOMO</xdesc>
+			<xunitpur>SET</xunitpur>
+			<opening>0</opening>
+			<production>0</production>
+			<totalinventory>0</totalinventory>
+			<distribution>7.6</distribution>
+			<physicalstock>-7.6</physicalstock>
+		</dailydistribution>
+		<dailydistribution>
+			<xitem>IC-000076</xitem>
+			<xdesc>Wedges</xdesc>
+			<xunitpur>KG</xunitpur>
+			<opening>0</opening>
+			<production>0</production>
+			<totalinventory>0</totalinventory>
+			<distribution>0</distribution>
+			<physicalstock>0</physicalstock>
+		</dailydistribution>
+		<dailydistribution>
+			<xitem>IC-000077</xitem>
+			<xdesc>Fries</xdesc>
+			<xunitpur>Pac</xunitpur>
+			<opening>0</opening>
+			<production>0</production>
+			<totalinventory>0</totalinventory>
+			<distribution>0</distribution>
+			<physicalstock>0</physicalstock>
+		</dailydistribution>
+		<dailydistribution>
+			<xitem>IC-000078</xitem>
+			<xdesc>Bologna</xdesc>
+			<xunitpur>PCS</xunitpur>
+			<opening>0</opening>
+			<production>0</production>
+			<totalinventory>0</totalinventory>
+			<distribution>0</distribution>
+			<physicalstock>0</physicalstock>
+		</dailydistribution>
+		<dailydistribution>
+			<xitem>IC-000080</xitem>
+			<xdesc>Caramelized onion</xdesc>
+			<xunitpur>KG</xunitpur>
+			<opening>0</opening>
+			<production>0</production>
+			<totalinventory>0</totalinventory>
+			<distribution>0</distribution>
+			<physicalstock>0</physicalstock>
+		</dailydistribution>
+		<dailydistribution>
+			<xitem>IC-000081</xitem>
+			<xdesc>Mayo Gravy</xdesc>
+			<xunitpur>Pac</xunitpur>
+			<opening>0</opening>
+			<production>0</production>
+			<totalinventory>0</totalinventory>
+			<distribution>0</distribution>
+			<physicalstock>0</physicalstock>
+		</dailydistribution>
+		<dailydistribution>
+			<xitem>IC-000082</xitem>
+			<xdesc>Garlic Sauce</xdesc>
+			<xunitpur>KG</xunitpur>
+			<opening>14</opening>
+			<production>0</production>
+			<totalinventory>14</totalinventory>
+			<distribution>0</distribution>
+			<physicalstock>14</physicalstock>
+		</dailydistribution>
+		<dailydistribution>
+			<xitem>IC-000083</xitem>
+			<xdesc>Hot Gravy</xdesc>
+			<xunitpur>KG</xunitpur>
+			<opening>0</opening>
+			<production>0</production>
+			<totalinventory>0</totalinventory>
+			<distribution>0</distribution>
+			<physicalstock>0</physicalstock>
+		</dailydistribution>
+		<dailydistribution>
+			<xitem>IC-000084</xitem>
+			<xdesc>MOMO Sauce</xdesc>
+			<xunitpur>KG</xunitpur>
+			<opening>0</opening>
+			<production>0</production>
+			<totalinventory>0</totalinventory>
+			<distribution>0</distribution>
+			<physicalstock>0</physicalstock>
+		</dailydistribution>
+		<dailydistribution>
+			<xitem>IC-000085</xitem>
+			<xdesc>Peri Peri Sauce</xdesc>
+			<xunitpur>KG</xunitpur>
+			<opening>0</opening>
+			<production>0</production>
+			<totalinventory>0</totalinventory>
+			<distribution>0</distribution>
+			<physicalstock>0</physicalstock>
+		</dailydistribution>
+		<dailydistribution>
+			<xitem>IC-000086</xitem>
+			<xdesc>Batter Mix</xdesc>
+			<xunitpur>KG</xunitpur>
+			<opening>0</opening>
+			<production>0</production>
+			<totalinventory>0</totalinventory>
+			<distribution>0</distribution>
+			<physicalstock>0</physicalstock>
+		</dailydistribution>
+		<dailydistribution>
+			<xitem>IC-000087</xitem>
+			<xdesc>Truffle batter</xdesc>
+			<xunitpur>KG</xunitpur>
+			<opening>20</opening>
+			<production>0</production>
+			<totalinventory>20</totalinventory>
+			<distribution>0</distribution>
+			<physicalstock>20</physicalstock>
+		</dailydistribution>
+		<dailydistribution>
+			<xitem>IC-000088</xitem>
+			<xdesc>Coffee Gravy</xdesc>
+			<xunitpur>Pac</xunitpur>
+			<opening>0</opening>
+			<production>0</production>
+			<totalinventory>0</totalinventory>
+			<distribution>0</distribution>
+			<physicalstock>0</physicalstock>
+		</dailydistribution>
+		<dailydistribution>
+			<xitem>IC-000089</xitem>
+			<xdesc>Strawberry Gravy</xdesc>
+			<xunitpur>Pac</xunitpur>
+			<opening>0</opening>
+			<production>0</production>
+			<totalinventory>0</totalinventory>
+			<distribution>0</distribution>
+			<physicalstock>0</physicalstock>
+		</dailydistribution>
+		<dailydistribution>
+			<xitem>IC-000090</xitem>
+			<xdesc>Lemon soda</xdesc>
+			<xunitpur>Pac</xunitpur>
+			<opening>0</opening>
+			<production>0</production>
+			<totalinventory>0</totalinventory>
+			<distribution>0</distribution>
+			<physicalstock>0</physicalstock>
+		</dailydistribution>
+		<dailydistribution>
+			<xitem>IC-000136</xitem>
+			<xdesc>Chips</xdesc>
+			<xunitpur>Pac</xunitpur>
+			<opening>0</opening>
+			<production>0</production>
+			<totalinventory>0</totalinventory>
+			<distribution>0</distribution>
+			<physicalstock>0</physicalstock>
+		</dailydistribution>
+		<dailydistribution>
+			<xitem>IC-000137</xitem>
+			<xdesc>Cold Coffee Gravy</xdesc>
+			<xunitpur>Pac</xunitpur>
+			<opening>0</opening>
+			<production>0</production>
+			<totalinventory>0</totalinventory>
+			<distribution>0</distribution>
+			<physicalstock>0</physicalstock>
+		</dailydistribution>
+		<dailydistribution>
+			<xitem>IC-000138</xitem>
+			<xdesc>Cold Strawberry Gravy</xdesc>
+			<xunitpur>Pac</xunitpur>
+			<opening>0</opening>
+			<production>0</production>
+			<totalinventory>0</totalinventory>
+			<distribution>0</distribution>
+			<physicalstock>0</physicalstock>
+		</dailydistribution>
+		<dailydistribution>
+			<xitem>IC-000139</xitem>
+			<xdesc>Tangy extract</xdesc>
+			<xunitpur>Pac</xunitpur>
+			<opening>0</opening>
+			<production>0</production>
+			<totalinventory>0</totalinventory>
+			<distribution>0</distribution>
+			<physicalstock>0</physicalstock>
+		</dailydistribution>
+		<dailydistribution>
+			<xitem>IC-000144</xitem>
+			<xdesc>Truffle wings flower mix</xdesc>
+			<xunitpur>Pac</xunitpur>
+			<opening>0</opening>
+			<production>0</production>
+			<totalinventory>0</totalinventory>
+			<distribution>0</distribution>
+			<physicalstock>0</physicalstock>
+		</dailydistribution>
+		<dailydistribution>
+			<xitem>IC-000150</xitem>
+			<xdesc>Chicken momo</xdesc>
+			<xunitpur>SET</xunitpur>
+			<opening>11</opening>
+			<production>0</production>
+			<totalinventory>11</totalinventory>
+			<distribution>0</distribution>
+			<physicalstock>11</physicalstock>
+		</dailydistribution>
+		<dailydistribution>
+			<xitem>IC-000161</xitem>
+			<xdesc>Garlic mayo</xdesc>
+			<xunitpur>Pac</xunitpur>
+			<opening>0</opening>
+			<production>0</production>
+			<totalinventory>0</totalinventory>
+			<distribution>0</distribution>
+			<physicalstock>0</physicalstock>
+		</dailydistribution>
+	</dailydistributions>
+</dailydistributionreport>

@@ -1,362 +1,867 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <productionbathcreport>
-	<businessName>Khana's Central</businessName>
-	<businessAddress>618, Dhonia A.K. High School Road, Jatrabari, Dhaka -
-		1236</businessAddress>
-	<reportName>Production Batch Report of Chalan - CH-000032</reportName>
-	<fromDate>Sun, 28-Mar-2021</fromDate>
-	<toDate>Sun, 28-Mar-2021</toDate>
-	<printDate>Tue, 30-Mar-2021</printDate>
+	<businessName>Khanas Central</businessName>
+	<reportName>Production Batch Report of Chalan - CH-000001</reportName>
+	<fromDate>Mon, 12-Apr-2021</fromDate>
+	<toDate>Mon, 12-Apr-2021</toDate>
+	<printDate>Tue, 13-Apr-2021</printDate>
 	<batches>
 		<batch>
 			<zactive>true</zactive>
-			<ztime>2021-03-28T15:16:39+06:00</ztime>
-			<zutime>2021-03-28T15:16:39+06:00</zutime>
-			<zid>900000</zid>
-			<xbatch>BN--000074</xbatch>
-			<xdate>2021-03-28T15:16:39+06:00</xdate>
-			<xitem>IC-000011</xitem>
-			<xbomkey>BM--000010</xbomkey>
-			<xqtyprd>72</xqtyprd>
-			<xqtycom>72</xqtycom>
-			<xstatusmor>Completed</xstatusmor>
+			<zauserid xsi:type="xs:string"
+				xmlns:xs="http://www.w3.org/2001/XMLSchema"
+				xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">khanas</zauserid>
+			<ztime>2021-04-12T17:48:33+06:00</ztime>
+			<zutime>2021-04-12T17:48:33+06:00</zutime>
+			<zuuserid xsi:type="xs:string"
+				xmlns:xs="http://www.w3.org/2001/XMLSchema"
+				xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">asl</zuuserid>
+			<zid>100000</zid>
+			<xbatch>BN--000004</xbatch>
+			<xdate>2021-04-12T17:48:33+06:00</xdate>
+			<xitem>IC-000006</xitem>
+			<xwh>Production Store</xwh>
+			<xqtyprd>5.5</xqtyprd>
+			<xqtycom>5.5</xqtycom>
+			<xstatusmor>Open</xstatusmor>
 			<xtypetrn>Batch Number</xtypetrn>
 			<xtrn>BN--</xtrn>
-			<xchalan>CH-000032</xchalan>
+			<xchalan>CH-000001</xchalan>
 			<bomexploaded>true</bomexploaded>
-			<xdesc>Chicken Wings</xdesc>
+			<xdesc>Naga Sauce</xdesc>
+			<xqtyprdunit>SET</xqtyprdunit>
+			<batchdetails />
+			<deviation>0.0</deviation>
+		</batch>
+		<batch>
+			<zactive>true</zactive>
+			<zauserid xsi:type="xs:string"
+				xmlns:xs="http://www.w3.org/2001/XMLSchema"
+				xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">khanas</zauserid>
+			<ztime>2021-04-12T17:48:33+06:00</ztime>
+			<zutime>2021-04-12T17:48:33+06:00</zutime>
+			<zuuserid xsi:type="xs:string"
+				xmlns:xs="http://www.w3.org/2001/XMLSchema"
+				xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">asl</zuuserid>
+			<zid>100000</zid>
+			<xbatch>BN--000013</xbatch>
+			<xdate>2021-04-12T17:48:33+06:00</xdate>
+			<xitem>IC-000059</xitem>
+			<xbomkey>BM--000010</xbomkey>
+			<xwh>Production Store</xwh>
+			<xqtyprd>290</xqtyprd>
+			<xqtycom>290</xqtycom>
+			<xstatusmor>Open</xstatusmor>
+			<xtypetrn>Batch Number</xtypetrn>
+			<xtrn>BN--</xtrn>
+			<xchalan>CH-000001</xchalan>
+			<bomexploaded>true</bomexploaded>
+			<xdesc>Wings</xdesc>
 			<xqtyprdunit>SET</xqtyprdunit>
 			<batchdetails>
 				<batchdetail>
 					<zactive>true</zactive>
-					<ztime>2021-03-28T23:51:17+06:00</ztime>
-					<zutime>2021-03-28T23:51:17+06:00</zutime>
-					<zid>900000</zid>
-					<xrow>2</xrow>
-					<xbatch>BN--000074</xbatch>
-					<xitem>IC-000025</xitem>
-					<xqtyreq>10</xqtyreq>
-					<xunit>PCS</xunit>
-					<xtype>Addition</xtype>
-					<xdesc>Pran Sauce</xdesc>
-				</batchdetail>
-				<batchdetail>
-					<zactive>true</zactive>
-					<zauserid>admin</zauserid>
-					<ztime>2021-03-30T23:43:07+06:00</ztime>
-					<zutime>2021-03-30T23:41:11.812+06:00</zutime>
-					<zid>900000</zid>
-					<xrow>3</xrow>
-					<xbatch>BN--000074</xbatch>
-					<xitem>IC-000011</xitem>
-					<xqtyreq>15999.84</xqtyreq>
+					<zauserid xsi:type="xs:string"
+						xmlns:xs="http://www.w3.org/2001/XMLSchema"
+						xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">asl</zauserid>
+					<ztime>2021-04-13T14:15:02+06:00</ztime>
+					<zutime>2021-04-13T14:12:28.578+06:00</zutime>
+					<zid>100000</zid>
+					<xrow>1</xrow>
+					<xbatch>BN--000013</xbatch>
+					<xitem>IC-000203</xitem>
+					<xqtyreq>64443.8</xqtyreq>
 					<xunit>gm</xunit>
+					<xwh>Production Store</xwh>
 					<xtype>Default</xtype>
 					<xdesc>Chicken Wings</xdesc>
 				</batchdetail>
 			</batchdetails>
+			<deviation>0</deviation>
 		</batch>
 		<batch>
 			<zactive>true</zactive>
-			<ztime>2021-03-28T15:16:39+06:00</ztime>
-			<zutime>2021-03-28T15:16:39+06:00</zutime>
-			<zid>900000</zid>
-			<xbatch>BN--000078</xbatch>
-			<xdate>2021-03-28T15:16:39+06:00</xdate>
-			<xitem>IC-000002</xitem>
-			<xbomkey>BM--000003</xbomkey>
-			<xqtyprd>95</xqtyprd>
-			<xqtycom>95</xqtycom>
-			<xstatusmor>Completed</xstatusmor>
+			<zauserid xsi:type="xs:string"
+				xmlns:xs="http://www.w3.org/2001/XMLSchema"
+				xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">khanas</zauserid>
+			<ztime>2021-04-12T17:48:33+06:00</ztime>
+			<zutime>2021-04-12T17:48:33+06:00</zutime>
+			<zuuserid xsi:type="xs:string"
+				xmlns:xs="http://www.w3.org/2001/XMLSchema"
+				xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">asl</zuuserid>
+			<zid>100000</zid>
+			<xbatch>BN--000022</xbatch>
+			<xdate>2021-04-12T17:48:33+06:00</xdate>
+			<xitem>IC-000065</xitem>
+			<xbomkey>BM--000004</xbomkey>
+			<xwh>Production Store</xwh>
+			<xqtyprd>100</xqtyprd>
+			<xqtycom>112</xqtycom>
+			<xstatusmor>Open</xstatusmor>
 			<xtypetrn>Batch Number</xtypetrn>
 			<xtrn>BN--</xtrn>
-			<xchalan>CH-000032</xchalan>
+			<xchalan>CH-000001</xchalan>
 			<bomexploaded>true</bomexploaded>
-			<xdesc>Premium patty</xdesc>
+			<xdesc>Chicken Cutlet</xdesc>
 			<xqtyprdunit>PCS</xqtyprdunit>
 			<batchdetails>
 				<batchdetail>
 					<zactive>true</zactive>
-					<ztime>2021-03-28T23:15:02+06:00</ztime>
-					<zutime>2021-03-28T23:15:02+06:00</zutime>
-					<zid>900000</zid>
-					<xrow>2</xrow>
-					<xbatch>BN--000078</xbatch>
-					<xitem>IC-000025</xitem>
-					<xqtyreq>1</xqtyreq>
-					<xunit>PCS</xunit>
-					<xtype>Addition</xtype>
-					<xdesc>Pran Sauce</xdesc>
-				</batchdetail>
-				<batchdetail>
-					<zactive>true</zactive>
-					<zauserid>admin</zauserid>
-					<ztime>2021-03-30T23:43:09+06:00</ztime>
-					<zutime>2021-03-30T23:41:11.828+06:00</zutime>
-					<zid>900000</zid>
-					<xrow>3</xrow>
-					<xbatch>BN--000078</xbatch>
-					<xitem>IC-000019</xitem>
-					<xqtyreq>11875</xqtyreq>
+					<zauserid xsi:type="xs:string"
+						xmlns:xs="http://www.w3.org/2001/XMLSchema"
+						xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">asl</zauserid>
+					<ztime>2021-04-13T14:15:04+06:00</ztime>
+					<zutime>2021-04-13T14:12:28.589+06:00</zutime>
+					<zid>100000</zid>
+					<xrow>1</xrow>
+					<xbatch>BN--000022</xbatch>
+					<xitem>IC-000060</xitem>
+					<xqtyreq>5600</xqtyreq>
 					<xunit>gm</xunit>
+					<xwh>Production Store</xwh>
 					<xtype>Default</xtype>
-					<xdesc>Chicken Fillet</xdesc>
+					<xdesc>Chicken fillet</xdesc>
 				</batchdetail>
 			</batchdetails>
+			<deviation>12</deviation>
 		</batch>
 		<batch>
 			<zactive>true</zactive>
-			<ztime>2021-03-28T15:16:39+06:00</ztime>
-			<zutime>2021-03-28T15:16:39+06:00</zutime>
-			<zid>900000</zid>
-			<xbatch>BN--000073</xbatch>
-			<xdate>2021-03-28T15:16:39+06:00</xdate>
-			<xitem>IC-000003</xitem>
-			<xbomkey>BM--000004</xbomkey>
-			<xqtyprd>68</xqtyprd>
-			<xqtycom>68</xqtycom>
-			<xstatusmor>Completed</xstatusmor>
+			<zauserid xsi:type="xs:string"
+				xmlns:xs="http://www.w3.org/2001/XMLSchema"
+				xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">khanas</zauserid>
+			<ztime>2021-04-12T17:48:33+06:00</ztime>
+			<zutime>2021-04-12T17:48:33+06:00</zutime>
+			<zuuserid xsi:type="xs:string"
+				xmlns:xs="http://www.w3.org/2001/XMLSchema"
+				xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">asl</zuuserid>
+			<zid>100000</zid>
+			<xbatch>BN--000021</xbatch>
+			<xdate>2021-04-12T17:48:33+06:00</xdate>
+			<xitem>IC-000066</xitem>
+			<xbomkey>BM--000002</xbomkey>
+			<xwh>Production Store</xwh>
+			<xqtyprd>5</xqtyprd>
+			<xqtycom>5</xqtycom>
+			<xstatusmor>Open</xstatusmor>
 			<xtypetrn>Batch Number</xtypetrn>
 			<xtrn>BN--</xtrn>
-			<xchalan>CH-000032</xchalan>
+			<xchalan>CH-000001</xchalan>
 			<bomexploaded>true</bomexploaded>
-			<xdesc>Smoked Chicken</xdesc>
-			<xqtyprdunit>PAC</xqtyprdunit>
-			<batchdetails>
-				<batchdetail>
-					<zactive>true</zactive>
-					<ztime>2021-03-29T16:36:55+06:00</ztime>
-					<zutime>2021-03-29T16:36:55+06:00</zutime>
-					<zid>900000</zid>
-					<xrow>2</xrow>
-					<xbatch>BN--000073</xbatch>
-					<xitem>IC-000025</xitem>
-					<xqtyreq>1</xqtyreq>
-					<xunit>PCS</xunit>
-					<xtype>Wastage</xtype>
-					<xdesc>Pran Sauce</xdesc>
-				</batchdetail>
-				<batchdetail>
-					<zactive>true</zactive>
-					<zauserid>admin</zauserid>
-					<ztime>2021-03-30T23:43:07+06:00</ztime>
-					<zutime>2021-03-30T23:41:11.898+06:00</zutime>
-					<zid>900000</zid>
-					<xrow>3</xrow>
-					<xbatch>BN--000073</xbatch>
-					<xitem>IC-000019</xitem>
-					<xqtyreq>52292</xqtyreq>
-					<xunit>gm</xunit>
-					<xtype>Default</xtype>
-					<xdesc>Chicken Fillet</xdesc>
-				</batchdetail>
-			</batchdetails>
-		</batch>
-		<batch>
-			<zactive>true</zactive>
-			<ztime>2021-03-28T15:16:39+06:00</ztime>
-			<zutime>2021-03-28T15:16:39+06:00</zutime>
-			<zid>900000</zid>
-			<xbatch>BN--000075</xbatch>
-			<xdate>2021-03-28T15:16:39+06:00</xdate>
-			<xitem>IC-000004</xitem>
-			<xbomkey>BM--000005</xbomkey>
-			<xqtyprd>10</xqtyprd>
-			<xqtycom>10</xqtycom>
-			<xstatusmor>Completed</xstatusmor>
-			<xtypetrn>Batch Number</xtypetrn>
-			<xtrn>BN--</xtrn>
-			<xchalan>CH-000032</xchalan>
-			<bomexploaded>true</bomexploaded>
-			<xdesc>Chicken</xdesc>
+			<xdesc>Smoked chicken </xdesc>
 			<xqtyprdunit>KG</xqtyprdunit>
 			<batchdetails>
 				<batchdetail>
 					<zactive>true</zactive>
-					<zauserid>admin</zauserid>
-					<ztime>2021-03-30T23:43:08+06:00</ztime>
-					<zutime>2021-03-30T23:41:11.952+06:00</zutime>
-					<zid>900000</zid>
+					<zauserid xsi:type="xs:string"
+						xmlns:xs="http://www.w3.org/2001/XMLSchema"
+						xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">asl</zauserid>
+					<ztime>2021-04-13T14:15:04+06:00</ztime>
+					<zutime>2021-04-13T14:12:28.601+06:00</zutime>
+					<zid>100000</zid>
 					<xrow>1</xrow>
-					<xbatch>BN--000075</xbatch>
-					<xitem>IC-000019</xitem>
-					<xqtyreq>7272.7</xqtyreq>
+					<xbatch>BN--000021</xbatch>
+					<xitem>IC-000060</xitem>
+					<xqtyreq>3845</xqtyreq>
 					<xunit>gm</xunit>
+					<xwh>Production Store</xwh>
 					<xtype>Default</xtype>
-					<xdesc>Chicken Fillet</xdesc>
+					<xdesc>Chicken fillet</xdesc>
 				</batchdetail>
 			</batchdetails>
+			<deviation>0</deviation>
 		</batch>
 		<batch>
 			<zactive>true</zactive>
-			<ztime>2021-03-28T15:16:39+06:00</ztime>
-			<zutime>2021-03-28T15:16:39+06:00</zutime>
-			<zid>900000</zid>
-			<xbatch>BN--000071</xbatch>
-			<xdate>2021-03-28T15:16:39+06:00</xdate>
-			<xitem>IC-000005</xitem>
+			<zauserid xsi:type="xs:string"
+				xmlns:xs="http://www.w3.org/2001/XMLSchema"
+				xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">khanas</zauserid>
+			<ztime>2021-04-12T17:48:33+06:00</ztime>
+			<zutime>2021-04-12T17:48:33+06:00</zutime>
+			<zuuserid xsi:type="xs:string"
+				xmlns:xs="http://www.w3.org/2001/XMLSchema"
+				xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">asl</zuuserid>
+			<zid>100000</zid>
+			<xbatch>BN--000020</xbatch>
+			<xdate>2021-04-12T17:48:33+06:00</xdate>
+			<xitem>IC-000067</xitem>
+			<xbomkey>BM--000008</xbomkey>
+			<xwh>Production Store</xwh>
+			<xqtyprd>1.5</xqtyprd>
+			<xqtycom>1.5</xqtycom>
+			<xstatusmor>Open</xstatusmor>
+			<xtypetrn>Batch Number</xtypetrn>
+			<xtrn>BN--</xtrn>
+			<xchalan>CH-000001</xchalan>
+			<bomexploaded>true</bomexploaded>
+			<xdesc>Hunter Beef</xdesc>
+			<xqtyprdunit>KG</xqtyprdunit>
+			<batchdetails>
+				<batchdetail>
+					<zactive>true</zactive>
+					<zauserid xsi:type="xs:string"
+						xmlns:xs="http://www.w3.org/2001/XMLSchema"
+						xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">asl</zauserid>
+					<ztime>2021-04-13T14:15:04+06:00</ztime>
+					<zutime>2021-04-13T14:12:28.612+06:00</zutime>
+					<zid>100000</zid>
+					<xrow>1</xrow>
+					<xbatch>BN--000020</xbatch>
+					<xitem>IC-000114</xitem>
+					<xqtyreq>750</xqtyreq>
+					<xunit>gm</xunit>
+					<xwh>Production Store</xwh>
+					<xtype>Default</xtype>
+					<xdesc>Raw boneless beef</xdesc>
+				</batchdetail>
+			</batchdetails>
+			<deviation>0.0</deviation>
+		</batch>
+		<batch>
+			<zactive>true</zactive>
+			<zauserid xsi:type="xs:string"
+				xmlns:xs="http://www.w3.org/2001/XMLSchema"
+				xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">khanas</zauserid>
+			<ztime>2021-04-12T17:48:33+06:00</ztime>
+			<zutime>2021-04-12T17:48:33+06:00</zutime>
+			<zuuserid xsi:type="xs:string"
+				xmlns:xs="http://www.w3.org/2001/XMLSchema"
+				xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">asl</zuuserid>
+			<zid>100000</zid>
+			<xbatch>BN--000019</xbatch>
+			<xdate>2021-04-12T17:48:33+06:00</xdate>
+			<xitem>IC-000068</xitem>
+			<xbomkey>BM--000003</xbomkey>
+			<xwh>Production Store</xwh>
+			<xqtyprd>4</xqtyprd>
+			<xqtycom>4</xqtycom>
+			<xstatusmor>Open</xstatusmor>
+			<xtypetrn>Batch Number</xtypetrn>
+			<xtrn>BN--</xtrn>
+			<xchalan>CH-000001</xchalan>
+			<bomexploaded>true</bomexploaded>
+			<xdesc>Chicken Pastrami</xdesc>
+			<xqtyprdunit>Pac</xqtyprdunit>
+			<batchdetails>
+				<batchdetail>
+					<zactive>true</zactive>
+					<zauserid xsi:type="xs:string"
+						xmlns:xs="http://www.w3.org/2001/XMLSchema"
+						xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">asl</zauserid>
+					<ztime>2021-04-13T14:15:03+06:00</ztime>
+					<zutime>2021-04-13T14:12:28.626+06:00</zutime>
+					<zid>100000</zid>
+					<xrow>1</xrow>
+					<xbatch>BN--000019</xbatch>
+					<xitem>IC-000060</xitem>
+					<xqtyreq>2909.08</xqtyreq>
+					<xunit>gm</xunit>
+					<xwh>Production Store</xwh>
+					<xtype>Default</xtype>
+					<xdesc>Chicken fillet</xdesc>
+				</batchdetail>
+			</batchdetails>
+			<deviation>0</deviation>
+		</batch>
+		<batch>
+			<zactive>true</zactive>
+			<zauserid xsi:type="xs:string"
+				xmlns:xs="http://www.w3.org/2001/XMLSchema"
+				xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">khanas</zauserid>
+			<ztime>2021-04-12T17:48:33+06:00</ztime>
+			<zutime>2021-04-12T17:48:33+06:00</zutime>
+			<zuuserid xsi:type="xs:string"
+				xmlns:xs="http://www.w3.org/2001/XMLSchema"
+				xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">asl</zuuserid>
+			<zid>100000</zid>
+			<xbatch>BN--000018</xbatch>
+			<xdate>2021-04-12T17:48:33+06:00</xdate>
+			<xitem>IC-000069</xitem>
+			<xwh>Production Store</xwh>
+			<xqtyprd>4</xqtyprd>
+			<xqtycom>4</xqtycom>
+			<xstatusmor>Open</xstatusmor>
+			<xtypetrn>Batch Number</xtypetrn>
+			<xtrn>BN--</xtrn>
+			<xchalan>CH-000001</xchalan>
+			<bomexploaded>true</bomexploaded>
+			<xdesc>Pastrami chips</xdesc>
+			<xqtyprdunit>Pac</xqtyprdunit>
+			<batchdetails />
+			<deviation>0</deviation>
+		</batch>
+		<batch>
+			<zactive>true</zactive>
+			<zauserid xsi:type="xs:string"
+				xmlns:xs="http://www.w3.org/2001/XMLSchema"
+				xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">khanas</zauserid>
+			<ztime>2021-04-12T17:48:33+06:00</ztime>
+			<zutime>2021-04-12T17:48:33+06:00</zutime>
+			<zuuserid xsi:type="xs:string"
+				xmlns:xs="http://www.w3.org/2001/XMLSchema"
+				xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">asl</zuuserid>
+			<zid>100000</zid>
+			<xbatch>BN--000017</xbatch>
+			<xdate>2021-04-12T17:48:33+06:00</xdate>
+			<xitem>IC-000070</xitem>
 			<xbomkey>BM--000006</xbomkey>
-			<xqtyprd>91</xqtyprd>
-			<xqtycom>91</xqtycom>
+			<xwh>Production Store</xwh>
+			<xqtyprd>130</xqtyprd>
+			<xqtycom>130</xqtycom>
 			<xstatusmor>Open</xstatusmor>
 			<xtypetrn>Batch Number</xtypetrn>
 			<xtrn>BN--</xtrn>
-			<xchalan>CH-000032</xchalan>
-			<bomexploaded>true</bomexploaded>
-			<xdesc>Chicken Cutlet</xdesc>
-			<xqtyprdunit>SET</xqtyprdunit>
-			<batchdetails>
-				<batchdetail>
-					<zactive>true</zactive>
-					<zauserid>admin</zauserid>
-					<ztime>2021-03-30T23:43:07+06:00</ztime>
-					<zutime>2021-03-30T23:41:11.973+06:00</zutime>
-					<zid>900000</zid>
-					<xrow>1</xrow>
-					<xbatch>BN--000071</xbatch>
-					<xitem>IC-000027</xitem>
-					<xqtyreq>4550</xqtyreq>
-					<xunit>gm</xunit>
-					<xtype>Default</xtype>
-					<xdesc>Chicken</xdesc>
-				</batchdetail>
-			</batchdetails>
-		</batch>
-		<batch>
-			<zactive>true</zactive>
-			<ztime>2021-03-28T15:16:39+06:00</ztime>
-			<zutime>2021-03-28T15:16:39+06:00</zutime>
-			<zid>900000</zid>
-			<xbatch>BN--000072</xbatch>
-			<xdate>2021-03-28T15:16:39+06:00</xdate>
-			<xitem>IC-000006</xitem>
-			<xbomkey>BM--000007</xbomkey>
-			<xqtyprd>1</xqtyprd>
-			<xqtycom>3</xqtycom>
-			<xstatusmor>Open</xstatusmor>
-			<xtypetrn>Batch Number</xtypetrn>
-			<xtrn>BN--</xtrn>
-			<xchalan>CH-000032</xchalan>
-			<bomexploaded>true</bomexploaded>
-			<xdesc>MOMO</xdesc>
-			<xqtyprdunit>SET</xqtyprdunit>
-			<batchdetails>
-				<batchdetail>
-					<zactive>true</zactive>
-					<zauserid>admin</zauserid>
-					<ztime>2021-03-30T23:43:07+06:00</ztime>
-					<zutime>2021-03-30T23:41:11.992+06:00</zutime>
-					<zid>900000</zid>
-					<xrow>1</xrow>
-					<xbatch>BN--000072</xbatch>
-					<xitem>IC-000027</xitem>
-					<xqtyreq>333.33</xqtyreq>
-					<xunit>gm</xunit>
-					<xtype>Default</xtype>
-					<xdesc>Chicken</xdesc>
-				</batchdetail>
-			</batchdetails>
-		</batch>
-		<batch>
-			<zactive>true</zactive>
-			<ztime>2021-03-28T15:16:39+06:00</ztime>
-			<zutime>2021-03-28T15:16:39+06:00</zutime>
-			<zid>900000</zid>
-			<xbatch>BN--000076</xbatch>
-			<xdate>2021-03-28T15:16:39+06:00</xdate>
-			<xitem>IC-000008</xitem>
-			<xbomkey>BM--000011</xbomkey>
-			<xqtyprd>57</xqtyprd>
-			<xqtycom>57</xqtycom>
-			<xstatusmor>Completed</xstatusmor>
-			<xtypetrn>Batch Number</xtypetrn>
-			<xtrn>BN--</xtrn>
-			<xchalan>CH-000032</xchalan>
+			<xchalan>CH-000001</xchalan>
 			<bomexploaded>true</bomexploaded>
 			<xdesc>Beef patty</xdesc>
 			<xqtyprdunit>PCS</xqtyprdunit>
 			<batchdetails>
 				<batchdetail>
 					<zactive>true</zactive>
-					<ztime>2021-03-28T23:34:31+06:00</ztime>
-					<zutime>2021-03-28T23:34:31+06:00</zutime>
-					<zid>900000</zid>
-					<xrow>2</xrow>
-					<xbatch>BN--000076</xbatch>
-					<xitem>IC-000025</xitem>
-					<xqtyreq>5</xqtyreq>
-					<xunit>PCS</xunit>
-					<xtype>Addition</xtype>
-					<xdesc>Pran Sauce</xdesc>
-				</batchdetail>
-				<batchdetail>
-					<zactive>true</zactive>
-					<zauserid>admin</zauserid>
-					<ztime>2021-03-30T23:43:08+06:00</ztime>
-					<zutime>2021-03-30T23:41:12.028+06:00</zutime>
-					<zid>900000</zid>
-					<xrow>3</xrow>
-					<xbatch>BN--000076</xbatch>
-					<xitem>IC-000026</xitem>
-					<xqtyreq>4560</xqtyreq>
+					<zauserid xsi:type="xs:string"
+						xmlns:xs="http://www.w3.org/2001/XMLSchema"
+						xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">asl</zauserid>
+					<ztime>2021-04-13T14:15:03+06:00</ztime>
+					<zutime>2021-04-13T14:12:28.672+06:00</zutime>
+					<zid>100000</zid>
+					<xrow>1</xrow>
+					<xbatch>BN--000017</xbatch>
+					<xitem>IC-000114</xitem>
+					<xqtyreq>10400</xqtyreq>
 					<xunit>gm</xunit>
+					<xwh>Production Store</xwh>
 					<xtype>Default</xtype>
-					<xdesc>Beef</xdesc>
+					<xdesc>Raw boneless beef</xdesc>
 				</batchdetail>
 			</batchdetails>
+			<deviation>0</deviation>
 		</batch>
 		<batch>
 			<zactive>true</zactive>
-			<ztime>2021-03-28T15:16:39+06:00</ztime>
-			<zutime>2021-03-28T15:16:39+06:00</zutime>
-			<zid>900000</zid>
-			<xbatch>BN--000077</xbatch>
-			<xdate>2021-03-28T15:16:39+06:00</xdate>
-			<xitem>IC-000022</xitem>
-			<xqtyprd>40</xqtyprd>
-			<xqtycom>40</xqtycom>
+			<zauserid xsi:type="xs:string"
+				xmlns:xs="http://www.w3.org/2001/XMLSchema"
+				xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">khanas</zauserid>
+			<ztime>2021-04-12T17:48:33+06:00</ztime>
+			<zutime>2021-04-12T17:48:33+06:00</zutime>
+			<zuuserid xsi:type="xs:string"
+				xmlns:xs="http://www.w3.org/2001/XMLSchema"
+				xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">asl</zuuserid>
+			<zid>100000</zid>
+			<xbatch>BN--000016</xbatch>
+			<xdate>2021-04-12T17:48:33+06:00</xdate>
+			<xitem>IC-000071</xitem>
+			<xbomkey>BM--000009</xbomkey>
+			<xwh>Production Store</xwh>
+			<xqtyprd>20</xqtyprd>
+			<xqtycom>20</xqtycom>
 			<xstatusmor>Open</xstatusmor>
 			<xtypetrn>Batch Number</xtypetrn>
 			<xtrn>BN--</xtrn>
-			<xchalan>CH-000032</xchalan>
+			<xchalan>CH-000001</xchalan>
 			<bomexploaded>true</bomexploaded>
-			<xdesc>Boneless Beef</xdesc>
-			<xqtyprdunit>KG</xqtyprdunit>
-			<batchdetails />
+			<xdesc>Burst Patty</xdesc>
+			<xqtyprdunit>PCS</xqtyprdunit>
+			<batchdetails>
+				<batchdetail>
+					<zactive>true</zactive>
+					<zauserid xsi:type="xs:string"
+						xmlns:xs="http://www.w3.org/2001/XMLSchema"
+						xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">asl</zauserid>
+					<ztime>2021-04-13T14:15:03+06:00</ztime>
+					<zutime>2021-04-13T14:12:28.693+06:00</zutime>
+					<zid>100000</zid>
+					<xrow>1</xrow>
+					<xbatch>BN--000016</xbatch>
+					<xitem>IC-000114</xitem>
+					<xqtyreq>2500</xqtyreq>
+					<xunit>gm</xunit>
+					<xwh>Production Store</xwh>
+					<xtype>Default</xtype>
+					<xdesc>Raw boneless beef</xdesc>
+				</batchdetail>
+			</batchdetails>
+			<deviation>0</deviation>
 		</batch>
 		<batch>
 			<zactive>true</zactive>
-			<ztime>2021-03-28T15:16:39+06:00</ztime>
-			<zutime>2021-03-28T15:16:39+06:00</zutime>
-			<zid>900000</zid>
-			<xbatch>BN--000070</xbatch>
-			<xdate>2021-03-28T15:16:39+06:00</xdate>
-			<xitem>IC-000001</xitem>
-			<xbomkey>BM--000002</xbomkey>
-			<xqtyprd>15</xqtyprd>
-			<xqtycom>15</xqtycom>
+			<zauserid xsi:type="xs:string"
+				xmlns:xs="http://www.w3.org/2001/XMLSchema"
+				xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">khanas</zauserid>
+			<ztime>2021-04-12T17:48:33+06:00</ztime>
+			<zutime>2021-04-12T17:48:33+06:00</zutime>
+			<zuuserid xsi:type="xs:string"
+				xmlns:xs="http://www.w3.org/2001/XMLSchema"
+				xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">asl</zuuserid>
+			<zid>100000</zid>
+			<xbatch>BN--000015</xbatch>
+			<xdate>2021-04-12T17:48:33+06:00</xdate>
+			<xitem>IC-000072</xitem>
+			<xbomkey>BM--000007</xbomkey>
+			<xwh>Production Store</xwh>
+			<xqtyprd>170</xqtyprd>
+			<xqtycom>170</xqtycom>
 			<xstatusmor>Open</xstatusmor>
 			<xtypetrn>Batch Number</xtypetrn>
 			<xtrn>BN--</xtrn>
-			<xchalan>CH-000032</xchalan>
+			<xchalan>CH-000001</xchalan>
 			<bomexploaded>true</bomexploaded>
 			<xdesc>Chicken patty</xdesc>
 			<xqtyprdunit>PCS</xqtyprdunit>
 			<batchdetails>
 				<batchdetail>
 					<zactive>true</zactive>
-					<zauserid>admin</zauserid>
-					<ztime>2021-03-30T23:43:06+06:00</ztime>
-					<zutime>2021-03-30T23:41:12.095+06:00</zutime>
-					<zid>900000</zid>
+					<zauserid xsi:type="xs:string"
+						xmlns:xs="http://www.w3.org/2001/XMLSchema"
+						xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">asl</zauserid>
+					<ztime>2021-04-13T14:15:03+06:00</ztime>
+					<zutime>2021-04-13T14:12:28.732+06:00</zutime>
+					<zid>100000</zid>
 					<xrow>1</xrow>
-					<xbatch>BN--000070</xbatch>
-					<xitem>IC-000019</xitem>
-					<xqtyreq>1363.5</xqtyreq>
+					<xbatch>BN--000015</xbatch>
+					<xitem>IC-000060</xitem>
+					<xqtyreq>15453</xqtyreq>
 					<xunit>gm</xunit>
+					<xwh>Production Store</xwh>
 					<xtype>Default</xtype>
-					<xdesc>Chicken Fillet</xdesc>
+					<xdesc>Chicken fillet</xdesc>
 				</batchdetail>
 			</batchdetails>
+			<deviation>0</deviation>
+		</batch>
+		<batch>
+			<zactive>true</zactive>
+			<zauserid xsi:type="xs:string"
+				xmlns:xs="http://www.w3.org/2001/XMLSchema"
+				xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">khanas</zauserid>
+			<ztime>2021-04-12T17:48:33+06:00</ztime>
+			<zutime>2021-04-12T17:48:33+06:00</zutime>
+			<zuuserid xsi:type="xs:string"
+				xmlns:xs="http://www.w3.org/2001/XMLSchema"
+				xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">asl</zuuserid>
+			<zid>100000</zid>
+			<xbatch>BN--000009</xbatch>
+			<xdate>2021-04-12T17:48:33+06:00</xdate>
+			<xitem>IC-000078</xitem>
+			<xwh>Production Store</xwh>
+			<xqtyprd>60</xqtyprd>
+			<xqtycom>60</xqtycom>
+			<xstatusmor>Open</xstatusmor>
+			<xtypetrn>Batch Number</xtypetrn>
+			<xtrn>BN--</xtrn>
+			<xchalan>CH-000001</xchalan>
+			<bomexploaded>true</bomexploaded>
+			<xdesc>Bologna</xdesc>
+			<xqtyprdunit>PCS</xqtyprdunit>
+			<batchdetails />
+			<deviation>0</deviation>
+		</batch>
+		<batch>
+			<zactive>true</zactive>
+			<zauserid xsi:type="xs:string"
+				xmlns:xs="http://www.w3.org/2001/XMLSchema"
+				xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">khanas</zauserid>
+			<ztime>2021-04-12T17:48:33+06:00</ztime>
+			<zutime>2021-04-12T17:48:33+06:00</zutime>
+			<zuuserid xsi:type="xs:string"
+				xmlns:xs="http://www.w3.org/2001/XMLSchema"
+				xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">asl</zuuserid>
+			<zid>100000</zid>
+			<xbatch>BN--000008</xbatch>
+			<xdate>2021-04-12T17:48:33+06:00</xdate>
+			<xitem>IC-000080</xitem>
+			<xwh>Production Store</xwh>
+			<xqtyprd>1</xqtyprd>
+			<xqtycom>1</xqtycom>
+			<xstatusmor>Open</xstatusmor>
+			<xtypetrn>Batch Number</xtypetrn>
+			<xtrn>BN--</xtrn>
+			<xchalan>CH-000001</xchalan>
+			<bomexploaded>true</bomexploaded>
+			<xdesc>Caramelized onion</xdesc>
+			<xqtyprdunit>KG</xqtyprdunit>
+			<batchdetails />
+			<deviation>0</deviation>
+		</batch>
+		<batch>
+			<zactive>true</zactive>
+			<zauserid xsi:type="xs:string"
+				xmlns:xs="http://www.w3.org/2001/XMLSchema"
+				xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">khanas</zauserid>
+			<ztime>2021-04-12T17:48:33+06:00</ztime>
+			<zutime>2021-04-12T17:48:33+06:00</zutime>
+			<zuuserid xsi:type="xs:string"
+				xmlns:xs="http://www.w3.org/2001/XMLSchema"
+				xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">asl</zuuserid>
+			<zid>100000</zid>
+			<xbatch>BN--000006</xbatch>
+			<xdate>2021-04-12T17:48:33+06:00</xdate>
+			<xitem>IC-000082</xitem>
+			<xwh>Production Store</xwh>
+			<xqtyprd>8.5</xqtyprd>
+			<xqtycom>8.5</xqtycom>
+			<xstatusmor>Open</xstatusmor>
+			<xtypetrn>Batch Number</xtypetrn>
+			<xtrn>BN--</xtrn>
+			<xchalan>CH-000001</xchalan>
+			<bomexploaded>true</bomexploaded>
+			<xdesc>Garlic Sauce</xdesc>
+			<xqtyprdunit>KG</xqtyprdunit>
+			<batchdetails />
+			<deviation>0.0</deviation>
+		</batch>
+		<batch>
+			<zactive>true</zactive>
+			<zauserid xsi:type="xs:string"
+				xmlns:xs="http://www.w3.org/2001/XMLSchema"
+				xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">khanas</zauserid>
+			<ztime>2021-04-12T17:48:33+06:00</ztime>
+			<zutime>2021-04-12T17:48:33+06:00</zutime>
+			<zuuserid xsi:type="xs:string"
+				xmlns:xs="http://www.w3.org/2001/XMLSchema"
+				xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">asl</zuuserid>
+			<zid>100000</zid>
+			<xbatch>BN--000003</xbatch>
+			<xdate>2021-04-12T17:48:33+06:00</xdate>
+			<xitem>IC-000084</xitem>
+			<xwh>Production Store</xwh>
+			<xqtyprd>3.5</xqtyprd>
+			<xqtycom>3.5</xqtycom>
+			<xstatusmor>Open</xstatusmor>
+			<xtypetrn>Batch Number</xtypetrn>
+			<xtrn>BN--</xtrn>
+			<xchalan>CH-000001</xchalan>
+			<bomexploaded>true</bomexploaded>
+			<xdesc>MOMO Sauce</xdesc>
+			<xqtyprdunit>KG</xqtyprdunit>
+			<batchdetails />
+			<deviation>0.0</deviation>
+		</batch>
+		<batch>
+			<zactive>true</zactive>
+			<zauserid xsi:type="xs:string"
+				xmlns:xs="http://www.w3.org/2001/XMLSchema"
+				xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">khanas</zauserid>
+			<ztime>2021-04-12T17:48:33+06:00</ztime>
+			<zutime>2021-04-12T17:48:33+06:00</zutime>
+			<zuuserid xsi:type="xs:string"
+				xmlns:xs="http://www.w3.org/2001/XMLSchema"
+				xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">asl</zuuserid>
+			<zid>100000</zid>
+			<xbatch>BN--000002</xbatch>
+			<xdate>2021-04-12T17:48:33+06:00</xdate>
+			<xitem>IC-000085</xitem>
+			<xwh>Production Store</xwh>
+			<xqtyprd>1.5</xqtyprd>
+			<xqtycom>1.5</xqtycom>
+			<xstatusmor>Open</xstatusmor>
+			<xtypetrn>Batch Number</xtypetrn>
+			<xtrn>BN--</xtrn>
+			<xchalan>CH-000001</xchalan>
+			<bomexploaded>true</bomexploaded>
+			<xdesc>Peri Peri Sauce</xdesc>
+			<xqtyprdunit>KG</xqtyprdunit>
+			<batchdetails />
+			<deviation>0.0</deviation>
+		</batch>
+		<batch>
+			<zactive>true</zactive>
+			<zauserid xsi:type="xs:string"
+				xmlns:xs="http://www.w3.org/2001/XMLSchema"
+				xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">khanas</zauserid>
+			<ztime>2021-04-12T17:48:33+06:00</ztime>
+			<zutime>2021-04-12T17:48:33+06:00</zutime>
+			<zuuserid xsi:type="xs:string"
+				xmlns:xs="http://www.w3.org/2001/XMLSchema"
+				xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">asl</zuuserid>
+			<zid>100000</zid>
+			<xbatch>BN--000001</xbatch>
+			<xdate>2021-04-12T17:48:33+06:00</xdate>
+			<xitem>IC-000086</xitem>
+			<xwh>Production Store</xwh>
+			<xqtyprd>5</xqtyprd>
+			<xqtycom>5</xqtycom>
+			<xstatusmor>Open</xstatusmor>
+			<xtypetrn>Batch Number</xtypetrn>
+			<xtrn>BN--</xtrn>
+			<xchalan>CH-000001</xchalan>
+			<bomexploaded>true</bomexploaded>
+			<xdesc>Batter Mix</xdesc>
+			<xqtyprdunit>KG</xqtyprdunit>
+			<batchdetails />
+			<deviation>0</deviation>
+		</batch>
+		<batch>
+			<zactive>true</zactive>
+			<zauserid xsi:type="xs:string"
+				xmlns:xs="http://www.w3.org/2001/XMLSchema"
+				xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">khanas</zauserid>
+			<ztime>2021-04-12T17:48:33+06:00</ztime>
+			<zutime>2021-04-12T17:48:33+06:00</zutime>
+			<zuuserid xsi:type="xs:string"
+				xmlns:xs="http://www.w3.org/2001/XMLSchema"
+				xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">asl</zuuserid>
+			<zid>100000</zid>
+			<xbatch>BN--000004</xbatch>
+			<xdate>2021-04-12T17:48:33+06:00</xdate>
+			<xitem>IC-000006</xitem>
+			<xwh>Production Store</xwh>
+			<xqtyprd>5.5</xqtyprd>
+			<xqtycom>5.5</xqtycom>
+			<xstatusmor>Open</xstatusmor>
+			<xtypetrn>Batch Number</xtypetrn>
+			<xtrn>BN--</xtrn>
+			<xchalan>CH-000001</xchalan>
+			<bomexploaded>true</bomexploaded>
+			<xdesc>Naga Sauce</xdesc>
+			<xqtyprdunit>KG</xqtyprdunit>
+			<batchdetails />
+			<deviation>0.0</deviation>
+		</batch>
+		<batch>
+			<zactive>true</zactive>
+			<zauserid xsi:type="xs:string"
+				xmlns:xs="http://www.w3.org/2001/XMLSchema"
+				xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">khanas</zauserid>
+			<ztime>2021-04-12T17:48:33+06:00</ztime>
+			<zutime>2021-04-12T17:48:33+06:00</zutime>
+			<zuuserid xsi:type="xs:string"
+				xmlns:xs="http://www.w3.org/2001/XMLSchema"
+				xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">asl</zuuserid>
+			<zid>100000</zid>
+			<xbatch>BN--000013</xbatch>
+			<xdate>2021-04-12T17:48:33+06:00</xdate>
+			<xitem>IC-000059</xitem>
+			<xbomkey>BM--000010</xbomkey>
+			<xwh>Production Store</xwh>
+			<xqtyprd>290</xqtyprd>
+			<xqtycom>290</xqtycom>
+			<xstatusmor>Open</xstatusmor>
+			<xtypetrn>Batch Number</xtypetrn>
+			<xtrn>BN--</xtrn>
+			<xchalan>CH-000001</xchalan>
+			<bomexploaded>true</bomexploaded>
+			<xdesc>Wings</xdesc>
+			<xqtyprdunit>SET</xqtyprdunit>
+			<batchdetails>
+				<batchdetail>
+					<zactive>true</zactive>
+					<zauserid xsi:type="xs:string"
+						xmlns:xs="http://www.w3.org/2001/XMLSchema"
+						xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">asl</zauserid>
+					<ztime>2021-04-13T14:15:02+06:00</ztime>
+					<zutime>2021-04-13T14:12:28.953+06:00</zutime>
+					<zid>100000</zid>
+					<xrow>1</xrow>
+					<xbatch>BN--000013</xbatch>
+					<xitem>IC-000203</xitem>
+					<xqtyreq>64443.8</xqtyreq>
+					<xunit>gm</xunit>
+					<xwh>Production Store</xwh>
+					<xtype>Default</xtype>
+					<xdesc>Chicken Wings</xdesc>
+				</batchdetail>
+			</batchdetails>
+			<deviation>0</deviation>
+		</batch>
+		<batch>
+			<zactive>true</zactive>
+			<zauserid xsi:type="xs:string"
+				xmlns:xs="http://www.w3.org/2001/XMLSchema"
+				xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">khanas</zauserid>
+			<ztime>2021-04-12T17:48:33+06:00</ztime>
+			<zutime>2021-04-12T17:48:33+06:00</zutime>
+			<zuuserid xsi:type="xs:string"
+				xmlns:xs="http://www.w3.org/2001/XMLSchema"
+				xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">asl</zuuserid>
+			<zid>100000</zid>
+			<xbatch>BN--000014</xbatch>
+			<xdate>2021-04-12T17:48:33+06:00</xdate>
+			<xitem>IC-000073</xitem>
+			<xbomkey>BM--000001</xbomkey>
+			<xwh>Production Store</xwh>
+			<xqtyprd>25</xqtyprd>
+			<xqtycom>25</xqtycom>
+			<xstatusmor>Open</xstatusmor>
+			<xtypetrn>Batch Number</xtypetrn>
+			<xtrn>BN--</xtrn>
+			<xchalan>CH-000001</xchalan>
+			<bomexploaded>true</bomexploaded>
+			<xdesc>Premium patty</xdesc>
+			<xqtyprdunit>PCS</xqtyprdunit>
+			<batchdetails>
+				<batchdetail>
+					<zactive>true</zactive>
+					<zauserid xsi:type="xs:string"
+						xmlns:xs="http://www.w3.org/2001/XMLSchema"
+						xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">asl</zauserid>
+					<ztime>2021-04-13T14:15:03+06:00</ztime>
+					<zutime>2021-04-13T14:12:28.975+06:00</zutime>
+					<zid>100000</zid>
+					<xrow>1</xrow>
+					<xbatch>BN--000014</xbatch>
+					<xitem>IC-000060</xitem>
+					<xqtyreq>3125</xqtyreq>
+					<xunit>gm</xunit>
+					<xwh>Production Store</xwh>
+					<xtype>Default</xtype>
+					<xdesc>Chicken fillet</xdesc>
+				</batchdetail>
+			</batchdetails>
+			<deviation>0</deviation>
+		</batch>
+		<batch>
+			<zactive>true</zactive>
+			<zauserid xsi:type="xs:string"
+				xmlns:xs="http://www.w3.org/2001/XMLSchema"
+				xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">khanas</zauserid>
+			<ztime>2021-04-12T17:48:33+06:00</ztime>
+			<zutime>2021-04-12T17:48:33+06:00</zutime>
+			<zuuserid xsi:type="xs:string"
+				xmlns:xs="http://www.w3.org/2001/XMLSchema"
+				xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">asl</zuuserid>
+			<zid>100000</zid>
+			<xbatch>BN--000012</xbatch>
+			<xdate>2021-04-12T17:48:33+06:00</xdate>
+			<xitem>IC-000075</xitem>
+			<xbomkey>BM--000005</xbomkey>
+			<xwh>Production Store</xwh>
+			<xqtyprd>60</xqtyprd>
+			<xqtycom>60</xqtycom>
+			<xstatusmor>Open</xstatusmor>
+			<xtypetrn>Batch Number</xtypetrn>
+			<xtrn>BN--</xtrn>
+			<xchalan>CH-000001</xchalan>
+			<bomexploaded>true</bomexploaded>
+			<xdesc>MOMO</xdesc>
+			<xqtyprdunit>SET</xqtyprdunit>
+			<batchdetails>
+				<batchdetail>
+					<zactive>true</zactive>
+					<zauserid xsi:type="xs:string"
+						xmlns:xs="http://www.w3.org/2001/XMLSchema"
+						xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">asl</zauserid>
+					<ztime>2021-04-13T14:15:02+06:00</ztime>
+					<zutime>2021-04-13T14:12:29.027+06:00</zutime>
+					<zid>100000</zid>
+					<xrow>1</xrow>
+					<xbatch>BN--000012</xbatch>
+					<xitem>IC-000060</xitem>
+					<xqtyreq>6666.6</xqtyreq>
+					<xunit>gm</xunit>
+					<xwh>Production Store</xwh>
+					<xtype>Default</xtype>
+					<xdesc>Chicken fillet</xdesc>
+				</batchdetail>
+			</batchdetails>
+			<deviation>0</deviation>
+		</batch>
+		<batch>
+			<zactive>true</zactive>
+			<zauserid xsi:type="xs:string"
+				xmlns:xs="http://www.w3.org/2001/XMLSchema"
+				xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">khanas</zauserid>
+			<ztime>2021-04-12T17:48:33+06:00</ztime>
+			<zutime>2021-04-12T17:48:33+06:00</zutime>
+			<zuuserid xsi:type="xs:string"
+				xmlns:xs="http://www.w3.org/2001/XMLSchema"
+				xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">asl</zuuserid>
+			<zid>100000</zid>
+			<xbatch>BN--000011</xbatch>
+			<xdate>2021-04-12T17:48:33+06:00</xdate>
+			<xitem>IC-000076</xitem>
+			<xwh>Production Store</xwh>
+			<xqtyprd>15</xqtyprd>
+			<xqtycom>15</xqtycom>
+			<xstatusmor>Open</xstatusmor>
+			<xtypetrn>Batch Number</xtypetrn>
+			<xtrn>BN--</xtrn>
+			<xchalan>CH-000001</xchalan>
+			<bomexploaded>true</bomexploaded>
+			<xdesc>Wedges</xdesc>
+			<xqtyprdunit>KG</xqtyprdunit>
+			<batchdetails />
+			<deviation>0</deviation>
+		</batch>
+		<batch>
+			<zactive>true</zactive>
+			<zauserid xsi:type="xs:string"
+				xmlns:xs="http://www.w3.org/2001/XMLSchema"
+				xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">khanas</zauserid>
+			<ztime>2021-04-12T17:48:33+06:00</ztime>
+			<zutime>2021-04-12T17:48:33+06:00</zutime>
+			<zuuserid xsi:type="xs:string"
+				xmlns:xs="http://www.w3.org/2001/XMLSchema"
+				xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">asl</zuuserid>
+			<zid>100000</zid>
+			<xbatch>BN--000010</xbatch>
+			<xdate>2021-04-12T17:48:33+06:00</xdate>
+			<xitem>IC-000077</xitem>
+			<xwh>Production Store</xwh>
+			<xqtyprd>7</xqtyprd>
+			<xqtycom>7</xqtycom>
+			<xstatusmor>Open</xstatusmor>
+			<xtypetrn>Batch Number</xtypetrn>
+			<xtrn>BN--</xtrn>
+			<xchalan>CH-000001</xchalan>
+			<bomexploaded>true</bomexploaded>
+			<xdesc>Fries</xdesc>
+			<xqtyprdunit>Pac</xqtyprdunit>
+			<batchdetails />
+			<deviation>0</deviation>
+		</batch>
+		<batch>
+			<zactive>true</zactive>
+			<zauserid xsi:type="xs:string"
+				xmlns:xs="http://www.w3.org/2001/XMLSchema"
+				xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">khanas</zauserid>
+			<ztime>2021-04-12T17:48:33+06:00</ztime>
+			<zutime>2021-04-12T17:48:33+06:00</zutime>
+			<zuuserid xsi:type="xs:string"
+				xmlns:xs="http://www.w3.org/2001/XMLSchema"
+				xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">asl</zuuserid>
+			<zid>100000</zid>
+			<xbatch>BN--000007</xbatch>
+			<xdate>2021-04-12T17:48:33+06:00</xdate>
+			<xitem>IC-000081</xitem>
+			<xwh>Production Store</xwh>
+			<xqtyprd>11</xqtyprd>
+			<xqtycom>11</xqtycom>
+			<xstatusmor>Open</xstatusmor>
+			<xtypetrn>Batch Number</xtypetrn>
+			<xtrn>BN--</xtrn>
+			<xchalan>CH-000001</xchalan>
+			<bomexploaded>true</bomexploaded>
+			<xdesc>Mayo Gravy</xdesc>
+			<xqtyprdunit>Pac</xqtyprdunit>
+			<batchdetails />
+			<deviation>0</deviation>
+		</batch>
+		<batch>
+			<zactive>true</zactive>
+			<zauserid xsi:type="xs:string"
+				xmlns:xs="http://www.w3.org/2001/XMLSchema"
+				xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">khanas</zauserid>
+			<ztime>2021-04-12T17:48:33+06:00</ztime>
+			<zutime>2021-04-12T17:48:33+06:00</zutime>
+			<zuuserid xsi:type="xs:string"
+				xmlns:xs="http://www.w3.org/2001/XMLSchema"
+				xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">asl</zuuserid>
+			<zid>100000</zid>
+			<xbatch>BN--000005</xbatch>
+			<xdate>2021-04-12T17:48:33+06:00</xdate>
+			<xitem>IC-000083</xitem>
+			<xwh>Production Store</xwh>
+			<xqtyprd>3</xqtyprd>
+			<xqtycom>3</xqtycom>
+			<xstatusmor>Open</xstatusmor>
+			<xtypetrn>Batch Number</xtypetrn>
+			<xtrn>BN--</xtrn>
+			<xchalan>CH-000001</xchalan>
+			<bomexploaded>true</bomexploaded>
+			<xdesc>Hot Gravy</xdesc>
+			<xqtyprdunit>KG</xqtyprdunit>
+			<batchdetails />
+			<deviation>0</deviation>
 		</batch>
 	</batches>
 </productionbathcreport>

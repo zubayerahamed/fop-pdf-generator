@@ -84,7 +84,16 @@
 								<fo:table-column column-width="100%" />
 
 								<fo:table-body>
-									<xsl:apply-templates select="datas/data"/>
+									<xsl:if test="datas/data">
+										<xsl:apply-templates select="datas/data"/>
+									</xsl:if>
+									<xsl:if test="not(datas/data)">
+										<fo:table-row>
+											<fo:table-cell xsl:use-attribute-sets="client.table.td">
+												<fo:block text-align="center">No Items</fo:block>
+											</fo:table-cell>
+										</fo:table-row>
+									</xsl:if>
 								</fo:table-body>
 							</fo:table>
 						</fo:block>
