@@ -1,0 +1,125 @@
+<productionbathcreport>
+	<businessAddress>442, Abdus Subhan Dhali Road, vatara, Dhaka-1229</businessAddress>
+	<businessName>Khanas Central</businessName>
+	<copyrightText>Powered by ASL © Copyright 2021</copyrightText>
+	<fromDate>Sat, 08-May-2021</fromDate>
+	<printDate>Sat, 08-May-2021</printDate>
+	<reportName>Production Batch Report of Chalan - CH-000035</reportName>
+	<toDate>Sat, 08-May-2021</toDate>
+	<rawMaterials>
+		<rawMaterial>
+			<code>IC-000060</code>
+			<name>IC-000060 - Chicken fillet</name>
+			<qty>37.81315</qty>
+			<wastage>0</wastage>
+			<finishedGoods>
+				<finishedGood>
+					<code>IC-000072</code>
+					<namee>IC-000072 - Chicken patty</namee>
+					<productionRawQty>16.4529</productionRawQty>
+					<productionQty>181</productionQty>
+					<completedQuantity>181</completedQuantity>
+					<wastage>0</wastage>
+					<deviation>0</deviation>
+				</finishedGood>
+				<finishedGood>
+					<code>IC-000073</code>
+					<namee>IC-000073 - Premium patty</namee>
+					<productionRawQty>3.375</productionRawQty>
+					<productionQty>27</productionQty>
+					<completedQuantity>27</completedQuantity>
+					<wastage>0</wastage>
+					<deviation>0</deviation>
+				</finishedGood>
+				<finishedGood>
+					<code>IC-000066</code>
+					<namee>IC-000066 - Smoked chicken </namee>
+					<productionRawQty>8.459</productionRawQty>
+					<productionQty>11</productionQty>
+					<completedQuantity>11</completedQuantity>
+					<wastage>0</wastage>
+					<deviation>0</deviation>
+				</finishedGood>
+				<finishedGood>
+					<code>IC-000068</code>
+					<namee>IC-000068 - Chicken Pastrami</namee>
+					<productionRawQty>2.18181</productionRawQty>
+					<productionQty>3</productionQty>
+					<completedQuantity>3</completedQuantity>
+					<wastage>0</wastage>
+					<deviation>0</deviation>
+				</finishedGood>
+				<finishedGood>
+					<code>IC-000065</code>
+					<namee>IC-000065 - Chicken Cutlet</namee>
+					<productionRawQty>6.5</productionRawQty>
+					<productionQty>130</productionQty>
+					<completedQuantity>130</completedQuantity>
+					<wastage>0</wastage>
+					<deviation>0</deviation>
+				</finishedGood>
+				<finishedGood>
+					<code>IC-000075</code>
+					<namee>IC-000075 - MOMO</namee>
+					<productionRawQty>0.84444</productionRawQty>
+					<productionQty>7.6</productionQty>
+					<completedQuantity>7.6</completedQuantity>
+					<wastage>0</wastage>
+					<deviation>0</deviation>
+				</finishedGood>
+			</finishedGoods>
+		</rawMaterial>
+		<rawMaterial>
+			<code>IC-000114</code>
+			<name>IC-000114 - Raw boneless beef</name>
+			<qty>22.505</qty>
+			<wastage>0</wastage>
+			<finishedGoods>
+				<finishedGood>
+					<code>IC-000070</code>
+					<namee>IC-000070 - Beef patty</namee>
+					<productionRawQty>16.88</productionRawQty>
+					<productionQty>211</productionQty>
+					<completedQuantity>211</completedQuantity>
+					<wastage>0</wastage>
+					<deviation>0</deviation>
+				</finishedGood>
+				<finishedGood>
+					<code>IC-000071</code>
+					<namee>IC-000071 - Burst Patty</namee>
+					<productionRawQty>3.875</productionRawQty>
+					<productionQty>31</productionQty>
+					<completedQuantity>31</completedQuantity>
+					<wastage>0</wastage>
+					<deviation>0</deviation>
+				</finishedGood>
+				<finishedGood>
+					<code>IC-000067</code>
+					<namee>IC-000067 - Hunter Beef</namee>
+					<productionRawQty>1.75</productionRawQty>
+					<productionQty>3.5</productionQty>
+					<completedQuantity>3.5</completedQuantity>
+					<wastage>0</wastage>
+					<deviation>0</deviation>
+				</finishedGood>
+			</finishedGoods>
+		</rawMaterial>
+		<rawMaterial>
+			<code>IC-000059</code>
+			<name>IC-000059 - Wings</name>
+			<qty>0</qty>
+			<wastage>0</wastage>
+			<finishedGoods>
+				<finishedGood>
+					<code>IC-000059</code>
+					<namee>IC-000059 - Wings</namee>
+					<productionRawQty>0</productionRawQty>
+					<productionQty>190</productionQty>
+					<completedQuantity>190</completedQuantity>
+					<wastage>0</wastage>
+					<deviation>0</deviation>
+				</finishedGood>
+			</finishedGoods>
+		</rawMaterial>
+	</rawMaterials>
+</productionbathcreport>

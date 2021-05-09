@@ -1,44 +1,82 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <productionplanningsreport>
-	<businessName>Khana's Central</businessName>
-	<businessAddress>618, Dhonia A.K. High School Road, Jatrabari, Dhaka -
-		1236</businessAddress>
-	<reportName>Production Planning of Chalan : CH-000051</reportName>
-	<fromDate>Wed, 31-Mar-2021</fromDate>
-	<toDate>Wed, 31-Mar-2021</toDate>
-	<printDate>Wed, 31-Mar-2021</printDate>
+	<businessAddress>442, Abdus Subhan Dhali Road, vatara, Dhaka-1229
+	</businessAddress>
+	<businessName>Khanas Central</businessName>
+	<copyrightText>Powered by ASL © Copyright 2021</copyrightText>
+	<fromDate>Thu, 22-Apr-2021</fromDate>
+	<printDate>Thu, 22-Apr-2021</printDate>
+	<reportName>Production Planning of Chalan : CH-000012</reportName>
+	<toDate>Thu, 22-Apr-2021</toDate>
 	<chalans>
 		<chalan>
-			<chalanName>CH-000051</chalanName>
-			<chalanDate>Wed, 31-Mar-2021</chalanDate>
+			<chalanName>CH-000012</chalanName>
+			<chalanDate>Thu, 22-Apr-2021</chalanDate>
 			<status>Confirmed</status>
 			<items />
 			<suggestions>
 				<suggestion>
-					<productionItem>Premium patty</productionItem>
-					<productionItemQty>9</productionItemQty>
+					<xitem>IC-000065</xitem>
+					<productionItem>IC-000065 - Chicken Cutlet</productionItem>
+					<productionItemQty>18</productionItemQty>
 					<productionItemUnit>PCS</productionItemUnit>
-					<rawMaterial>Chicken Fillet</rawMaterial>
-					<rawMaterialQty>1.125</rawMaterialQty>
+					<xrawmaterial>IC-000060</xrawmaterial>
+					<rawMaterial>IC-000060 - Chicken fillet</rawMaterial>
+					<rawMaterialQty>0.9</rawMaterialQty>
 					<rawMaterialUnit>KG</rawMaterialUnit>
 				</suggestion>
 				<suggestion>
-					<productionItem>Chicken Cutlet</productionItem>
-					<productionItemQty>9</productionItemQty>
-					<productionItemUnit>SET</productionItemUnit>
-					<rawMaterial>Chicken</rawMaterial>
-					<rawMaterialQty>0.45</rawMaterialQty>
+					<xitem>IC-000066</xitem>
+					<productionItem>IC-000066 - Smoked chicken </productionItem>
+					<productionItemQty>40</productionItemQty>
+					<productionItemUnit>KG</productionItemUnit>
+					<xrawmaterial>IC-000060</xrawmaterial>
+					<rawMaterial>IC-000060 - Chicken fillet</rawMaterial>
+					<rawMaterialQty>30.76</rawMaterialQty>
 					<rawMaterialUnit>KG</rawMaterialUnit>
 				</suggestion>
 				<suggestion>
-					<productionItem>Chicken Wings</productionItem>
-					<productionItemQty>1</productionItemQty>
-					<productionItemUnit>SET</productionItemUnit>
-					<rawMaterial>Chicken Wings</rawMaterial>
-					<rawMaterialQty>0.22222</rawMaterialQty>
+					<xitem>IC-000067</xitem>
+					<productionItem>IC-000067 - Hunter Beef</productionItem>
+					<productionItemQty>67</productionItemQty>
+					<productionItemUnit>KG</productionItemUnit>
+					<xrawmaterial>IC-000114</xrawmaterial>
+					<rawMaterial>IC-000114 - Raw boneless beef</rawMaterial>
+					<rawMaterialQty>33.5</rawMaterialQty>
+					<rawMaterialUnit>KG</rawMaterialUnit>
+				</suggestion>
+				<suggestion>
+					<xitem>IC-000068</xitem>
+					<productionItem>IC-000068 - Chicken Pastrami</productionItem>
+					<productionItemQty>17</productionItemQty>
+					<productionItemUnit>Pac</productionItemUnit>
+					<xrawmaterial>IC-000060</xrawmaterial>
+					<rawMaterial>IC-000060 - Chicken fillet</rawMaterial>
+					<rawMaterialQty>12.36359</rawMaterialQty>
+					<rawMaterialUnit>KG</rawMaterialUnit>
+				</suggestion>
+				<suggestion>
+					<xitem>IC-000070</xitem>
+					<productionItem>IC-000070 - Beef patty</productionItem>
+					<productionItemQty>70</productionItemQty>
+					<productionItemUnit>PCS</productionItemUnit>
+					<xrawmaterial>IC-000114</xrawmaterial>
+					<rawMaterial>IC-000114 - Raw boneless beef</rawMaterial>
+					<rawMaterialQty>5.6</rawMaterialQty>
 					<rawMaterialUnit>KG</rawMaterialUnit>
 				</suggestion>
 			</suggestions>
 		</chalan>
 	</chalans>
+	<items />
+	<rawitems>
+		<rawitem>
+			<xitem>IC-000060 - Chicken fillet (KG)</xitem>
+			<xqtyl>44.02359</xqtyl>
+		</rawitem>
+		<rawitem>
+			<xitem>IC-000114 - Raw boneless beef (KG)</xitem>
+			<xqtyl>39.1</xqtyl>
+		</rawitem>
+	</rawitems>
 </productionplanningsreport>

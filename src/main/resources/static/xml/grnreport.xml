@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<grnreport>
+	<businessAddress>618, Dhonia A.K. High School Road, Jatrabari, Dhaka -
+		1236</businessAddress>
+	<businessName>Khana's Central</businessName>
+	<copyrightText>Powered by ASL © Copyright 2021</copyrightText>
+	<fromDate>Mon, 26-Apr-2021</fromDate>
+	<printDate>Mon, 26-Apr-2021</printDate>
+	<reportName>Good Receipt Note</reportName>
+	<toDate>Mon, 26-Apr-2021</toDate>
+	<grnorders>
+		<grnorder>
+			<orderNumber>GRN-000054</orderNumber>
+			<poNumber>PO-000083</poNumber>
+			<date>Mon, 26-Apr-2021</date>
+			<supplier>SUP-000102</supplier>
+			<supplierName>ASL</supplierName>
+			<warehouse>Central Store</warehouse>
+			<totalAmount>500</totalAmount>
+			<vatAmount>35</vatAmount>
+			<taxAmount>12.5</taxAmount>
+			<discountAmount>0.5</discountAmount>
+			<grandTotalAmount>547</grandTotalAmount>
+			<returnNumber>PR--000028</returnNumber>
+			<vatAit>Vat 7 Tax 2.5</vatAit>
+			<items>
+				<item>
+					<itemCode>IC-000005</itemCode>
+					<itemName>Chicken Cutlet</itemName>
+					<itemQty>5</itemQty>
+					<itemUnit>SET</itemUnit>
+					<itemCategory>Chicken</itemCategory>
+					<itemGroup>Finished Good</itemGroup>
+					<itemRate>100</itemRate>
+					<itemTotalAmount>500</itemTotalAmount>
+				</item>
+			</items>
+		</grnorder>
+	</grnorders>
+</grnreport>
