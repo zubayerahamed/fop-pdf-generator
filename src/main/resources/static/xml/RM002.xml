@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<srdreport>
+	<copyright>Developed By KIT (karigorit.com) © Copyright 2021</copyright>
+	<fromDate>Tue, 11-May-2021</fromDate>
+	<printDate>Tue, 11-May-2021</printDate>
+	<reportName>Sales Details Report</reportName>
+	<shopAddress>House =36 ,Road =3 ,Ward =40 , 100 feet road Vatara</shopAddress>
+	<shopName>Toast Me Up Online</shopName>
+	<terminal></terminal>
+	<toDate>Tue, 11-May-2021</toDate>
+	<invoices>
+		<invoice>
+			<sl>1</sl>
+			<invNumber>IN0220121051011018</invNumber>
+			<invDate>Tue, 11-May-2021 01:43</invDate>
+			<items>
+				<item>
+					<itemCode>00601001</itemCode>
+					<itemName>Single Broast Regular </itemName>
+					<itemRate>302.33</itemRate>
+					<itemQqty>5</itemQqty>
+					<itemUnit>pcs</itemUnit>
+					<lineAmt>1511.65</lineAmt>
+					<discount>0.00</discount>
+					<vatAmt>113.37</vatAmt>
+					<netAmt>1625.02</netAmt>
+					<taxAmt>0.00</taxAmt>
+				</item>
+				<item>
+					<itemCode>00601056</itemCode>
+					<itemName>Garlic Sauce</itemName>
+					<itemRate>18.60</itemRate>
+					<itemQqty>5</itemQqty>
+					<itemUnit>pcs</itemUnit>
+					<lineAmt>93.00</lineAmt>
+					<discount>0.00</discount>
+					<vatAmt>6.98</vatAmt>
+					<netAmt>99.98</netAmt>
+					<taxAmt>0.00</taxAmt>
+				</item>
+			</items>
+			<lineAmt>1604.65</lineAmt>
+			<discount>0.00</discount>
+			<vatAmt>120.35</vatAmt>
+			<netAmt>1725.00</netAmt>
+			<taxAmt>0.00</taxAmt>
+		</invoice>
+		<invoice>
+			<sl>2</sl>
+			<invNumber>IN0220121051111001</invNumber>
+			<invDate>Tue, 11-May-2021 13:50</invDate>
+			<items>
+				<item>
+					<itemCode>00601004</itemCode>
+					<itemName>Double Broast Spicy</itemName>
+					<itemRate>395.35</itemRate>
+					<itemQqty>1</itemQqty>
+					<itemUnit>pcs</itemUnit>
+					<lineAmt>395.35</lineAmt>
+					<discount>0.00</discount>
+					<vatAmt>29.65</vatAmt>
+					<netAmt>425.00</netAmt>
+					<taxAmt>0.00</taxAmt>
+				</item>
+				<item>
+					<itemCode>00601032</itemCode>
+					<itemName>French Fries</itemName>
+					<itemRate>102.33</itemRate>
+					<itemQqty>1</itemQqty>
+					<itemUnit>pcs</itemUnit>
+					<lineAmt>102.33</lineAmt>
+					<discount>0.00</discount>
+					<vatAmt>7.67</vatAmt>
+					<netAmt>110.00</netAmt>
+					<taxAmt>0.00</taxAmt>
+				</item>
+				<item>
+					<itemCode>00601056</itemCode>
+					<itemName>Garlic Sauce</itemName>
+					<itemRate>18.60</itemRate>
+					<itemQqty>5</itemQqty>
+					<itemUnit>pcs</itemUnit>
+					<lineAmt>93.00</lineAmt>
+					<discount>0.00</discount>
+					<vatAmt>6.98</vatAmt>
+					<netAmt>99.98</netAmt>
+					<taxAmt>0.00</taxAmt>
+				</item>
+			</items>
+			<lineAmt>590.68</lineAmt>
+			<discount>0.00</discount>
+			<vatAmt>44.30</vatAmt>
+			<netAmt>634.98</netAmt>
+			<taxAmt>0.00</taxAmt>
+		</invoice>
+	</invoices>
+	<grandLineAmt>2195.33</grandLineAmt>
+	<grandDiscount>0.00</grandDiscount>
+	<grandVatAmt>164.65</grandVatAmt>
+	<grandNetAmt>2359.98</grandNetAmt>
+	<grandTaxAmt>0.00</grandTaxAmt>
+</srdreport>
