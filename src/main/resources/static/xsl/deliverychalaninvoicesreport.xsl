@@ -131,13 +131,11 @@
 				<fo:block>
 					<fo:table table-layout="fixed" width="100%" border-collapse="collapse" >
 						<fo:table-column column-width="10%"/>
-						<fo:table-column column-width="25%" />
-						<fo:table-column column-width="8%" />
-						<fo:table-column column-width="10%" />
-						<fo:table-column column-width="10%" />
+						<fo:table-column column-width="30%" />
+						<fo:table-column column-width="15%" />
+						<fo:table-column column-width="15%" />
 						<fo:table-column column-width="15%"/>
-						<fo:table-column column-width="8%"/>
-						<fo:table-column column-width="14%"/>
+						<fo:table-column column-width="15%"/>
 
 						<!-- Table header -->
 						<fo:table-header xsl:use-attribute-sets="table.font.size" font-weight="bold">
@@ -153,12 +151,6 @@
 								</fo:table-cell>
 								<fo:table-cell xsl:use-attribute-sets="client.table.th" text-align="center">
 									<fo:block>Unit</fo:block>
-								</fo:table-cell>
-								<fo:table-cell xsl:use-attribute-sets="client.table.th">
-									<fo:block>Category</fo:block>
-								</fo:table-cell>
-								<fo:table-cell xsl:use-attribute-sets="client.table.th">
-									<fo:block>Group</fo:block>
 								</fo:table-cell>
 								<fo:table-cell xsl:use-attribute-sets="client.table.th" text-align="right">
 									<fo:block>Rate</fo:block>
@@ -271,16 +263,6 @@
 			<fo:table-cell xsl:use-attribute-sets="client.table.td" text-align="center">
 				<fo:block>
 					<xsl:value-of select="itemUnit"/>
-				</fo:block>
-			</fo:table-cell>
-			<fo:table-cell xsl:use-attribute-sets="client.table.td">
-				<fo:block>
-					<xsl:value-of select="itemCategory"/>
-				</fo:block>
-			</fo:table-cell>
-			<fo:table-cell xsl:use-attribute-sets="client.table.td">
-				<fo:block>
-					<xsl:value-of select="itemGroup"/>
 				</fo:block>
 			</fo:table-cell>
 			<fo:table-cell xsl:use-attribute-sets="client.table.td" text-align="right">
