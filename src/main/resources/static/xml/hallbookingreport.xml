@@ -1,0 +1,301 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<hallbookingreport>
+	<businessName>Water Lily Convention Hall</businessName>
+	<copyrightText>Powered by ASL © Copyright 2021</copyrightText>
+	<fromDate>Tue, 15-Jun-2021</fromDate>
+	<printDate>Tue, 15-Jun-2021</printDate>
+	<reportName>Event Contract : HBSO000002</reportName>
+	<toDate>Tue, 15-Jun-2021</toDate>
+	<header>
+		<xordernum>HBSO000002</xordernum>
+		<xdate>2021-06-15T00:00:00+06:00</xdate>
+		<xcus>CUS-000005</xcus>
+		<xstatus>Open</xstatus>
+		<batchcreated>false</batchcreated>
+		<productioncompleted>false</productioncompleted>
+		<invoicecreated>false</invoicecreated>
+		<xfunction>IC-000025</xfunction>
+		<xtotguest>3</xtotguest>
+		<xfacamt>48000</xfacamt>
+		<xfoodamt>350</xfoodamt>
+		<xdiscamt>0</xdiscamt>
+		<xtotamt>48350</xtotamt>
+		<xgrandtot>48350</xgrandtot>
+		<xroomamt>0</xroomamt>
+		<xstartdate>2021-06-15T00:00:00+06:00</xstartdate>
+		<xenddate>2021-06-15T00:00:00+06:00</xenddate>
+		<xstarttime>00:01</xstarttime>
+		<xendtime>23:59</xendtime>
+		<xhallamt>0</xhallamt>
+		<xfunctionamt>0</xfunctionamt>
+		<xvatait>No Vat</xvatait>
+		<xvatamt>0</xvatamt>
+		<xaitamt>0</xaitamt>
+		<xpaymenttype>Card</xpaymenttype>
+		<xpaid>0</xpaid>
+		<suggestionCreated>false</suggestionCreated>
+		<xdue>48350</xdue>
+		<rawtocomp>false</rawtocomp>
+		<finishedtocomp>false</finishedtocomp>
+	</header>
+	<details>
+		<detail>
+			<zid>700010</zid>
+			<xordernum>HBSO000002</xordernum>
+			<xrow>5</xrow>
+			<xunit>PCS</xunit>
+			<xitem>IC-000029</xitem>
+			<xqtyord>1</xqtyord>
+			<xrate>30000</xrate>
+			<xdesc>Convention Hall Space Rent</xdesc>
+			<xgitem>Service</xgitem>
+			<xcatitem>Facilities</xcatitem>
+			<xlineamt>30000</xlineamt>
+			<xparentrow>0</xparentrow>
+			<subitems />
+		</detail>
+		<detail>
+			<zid>700010</zid>
+			<xordernum>HBSO000002</xordernum>
+			<xrow>6</xrow>
+			<xunit>PCS</xunit>
+			<xitem>IC-000030</xitem>
+			<xqtyord>1</xqtyord>
+			<xrate>8000</xrate>
+			<xdesc>Cook Charge</xdesc>
+			<xgitem>Service</xgitem>
+			<xcatitem>Facilities</xcatitem>
+			<xlineamt>8000</xlineamt>
+			<xparentrow>0</xparentrow>
+			<subitems />
+		</detail>
+		<detail>
+			<zid>700010</zid>
+			<xordernum>HBSO000002</xordernum>
+			<xrow>7</xrow>
+			<xunit>Cage</xunit>
+			<xitem>IC-000031</xitem>
+			<xqtyord>1</xqtyord>
+			<xrate>10000</xrate>
+			<xdesc>Service Charge</xdesc>
+			<xgitem>Service</xgitem>
+			<xcatitem>Facilities</xcatitem>
+			<xlineamt>10000</xlineamt>
+			<xparentrow>0</xparentrow>
+			<subitems />
+		</detail>
+		<detail>
+			<zid>700010</zid>
+			<xordernum>HBSO000002</xordernum>
+			<xrow>1</xrow>
+			<xunit>PCS</xunit>
+			<xitem>IC-000068</xitem>
+			<xqtyord>1</xqtyord>
+			<xrate>50</xrate>
+			<xdesc>Food Manu (Breakfast)</xdesc>
+			<xgitem>Service</xgitem>
+			<xcatitem>Food</xcatitem>
+			<xlineamt>50</xlineamt>
+			<xparentrow>0</xparentrow>
+			<subitems>
+				<subitem>
+					<zid>700010</zid>
+					<xordernum>HBSO000002</xordernum>
+					<xrow>18</xrow>
+					<xunit>PCS</xunit>
+					<xitem>IC-000054</xitem>
+					<xqtyord>1</xqtyord>
+					<xrate>0</xrate>
+					<xdesc>Burger</xdesc>
+					<xgitem>Service</xgitem>
+					<xcatitem>Food</xcatitem>
+					<xlineamt>0</xlineamt>
+					<xtype>Set Item</xtype>
+					<xparentrow>1</xparentrow>
+				</subitem>
+				<subitem>
+					<zid>700010</zid>
+					<xordernum>HBSO000002</xordernum>
+					<xrow>19</xrow>
+					<xunit>PCS</xunit>
+					<xitem>IC-000055</xitem>
+					<xqtyord>1</xqtyord>
+					<xrate>0</xrate>
+					<xdesc>Apple</xdesc>
+					<xgitem>Service</xgitem>
+					<xcatitem>Food</xcatitem>
+					<xlineamt>0</xlineamt>
+					<xtype>Set Item</xtype>
+					<xparentrow>1</xparentrow>
+				</subitem>
+				<subitem>
+					<zid>700010</zid>
+					<xordernum>HBSO000002</xordernum>
+					<xrow>20</xrow>
+					<xunit>Cup</xunit>
+					<xitem>IC-000056</xitem>
+					<xqtyord>1</xqtyord>
+					<xrate>0</xrate>
+					<xdesc>Colour Tea</xdesc>
+					<xgitem>Service</xgitem>
+					<xcatitem>Food</xcatitem>
+					<xlineamt>0</xlineamt>
+					<xtype>Set Item</xtype>
+					<xparentrow>1</xparentrow>
+				</subitem>
+			</subitems>
+		</detail>
+		<detail>
+			<zid>700010</zid>
+			<xordernum>HBSO000002</xordernum>
+			<xrow>8</xrow>
+			<xunit>PCS</xunit>
+			<xitem>IC-000069</xitem>
+			<xqtyord>1</xqtyord>
+			<xrate>250</xrate>
+			<xdesc>Food Manu (Lunch)</xdesc>
+			<xgitem>Service</xgitem>
+			<xcatitem>Food</xcatitem>
+			<xlineamt>250</xlineamt>
+			<xparentrow>0</xparentrow>
+			<subitems>
+				<subitem>
+					<zid>700010</zid>
+					<xordernum>HBSO000002</xordernum>
+					<xrow>9</xrow>
+					<xunit>PCS</xunit>
+					<xitem>IC-000044</xitem>
+					<xqtyord>1</xqtyord>
+					<xrate>0</xrate>
+					<xdesc>Mineral Water</xdesc>
+					<xgitem>Service</xgitem>
+					<xcatitem>Food</xcatitem>
+					<xlineamt>0</xlineamt>
+					<xtype>Set Item</xtype>
+					<xparentrow>8</xparentrow>
+				</subitem>
+				<subitem>
+					<zid>700010</zid>
+					<xordernum>HBSO000002</xordernum>
+					<xrow>10</xrow>
+					<xunit>Plate</xunit>
+					<xitem>IC-000057</xitem>
+					<xqtyord>1</xqtyord>
+					<xrate>0</xrate>
+					<xdesc>Kacchi</xdesc>
+					<xgitem>Service</xgitem>
+					<xcatitem>Food</xcatitem>
+					<xlineamt>0</xlineamt>
+					<xtype>Set Item</xtype>
+					<xparentrow>8</xparentrow>
+				</subitem>
+				<subitem>
+					<zid>700010</zid>
+					<xordernum>HBSO000002</xordernum>
+					<xrow>11</xrow>
+					<xunit>PCS</xunit>
+					<xitem>IC-000058</xitem>
+					<xqtyord>1</xqtyord>
+					<xrate>0</xrate>
+					<xdesc>Egg</xdesc>
+					<xgitem>Service</xgitem>
+					<xcatitem>Food</xcatitem>
+					<xlineamt>0</xlineamt>
+					<xtype>Set Item</xtype>
+					<xparentrow>8</xparentrow>
+				</subitem>
+				<subitem>
+					<zid>700010</zid>
+					<xordernum>HBSO000002</xordernum>
+					<xrow>12</xrow>
+					<xunit>PCS</xunit>
+					<xitem>IC-000059</xitem>
+					<xqtyord>1</xqtyord>
+					<xrate>0</xrate>
+					<xdesc>Soft Drinks</xdesc>
+					<xgitem>Service</xgitem>
+					<xcatitem>Food</xcatitem>
+					<xlineamt>0</xlineamt>
+					<xtype>Set Item</xtype>
+					<xparentrow>8</xparentrow>
+				</subitem>
+			</subitems>
+		</detail>
+		<detail>
+			<zid>700010</zid>
+			<xordernum>HBSO000002</xordernum>
+			<xrow>13</xrow>
+			<xunit>PCS</xunit>
+			<xitem>IC-000070</xitem>
+			<xqtyord>1</xqtyord>
+			<xrate>50</xrate>
+			<xdesc>Food Manu (Evening)</xdesc>
+			<xgitem>Service</xgitem>
+			<xcatitem>Food</xcatitem>
+			<xlineamt>50</xlineamt>
+			<xparentrow>0</xparentrow>
+			<subitems>
+				<subitem>
+					<zid>700010</zid>
+					<xordernum>HBSO000002</xordernum>
+					<xrow>14</xrow>
+					<xunit>Cup</xunit>
+					<xitem>IC-000056</xitem>
+					<xqtyord>1</xqtyord>
+					<xrate>0</xrate>
+					<xdesc>Colour Tea</xdesc>
+					<xgitem>Service</xgitem>
+					<xcatitem>Food</xcatitem>
+					<xlineamt>0</xlineamt>
+					<xtype>Set Item</xtype>
+					<xparentrow>13</xparentrow>
+				</subitem>
+				<subitem>
+					<zid>700010</zid>
+					<xordernum>HBSO000002</xordernum>
+					<xrow>15</xrow>
+					<xunit>PCS</xunit>
+					<xitem>IC-000060</xitem>
+					<xqtyord>1</xqtyord>
+					<xrate>0</xrate>
+					<xdesc>Somusa</xdesc>
+					<xgitem>Service</xgitem>
+					<xcatitem>Food</xcatitem>
+					<xlineamt>0</xlineamt>
+					<xtype>Set Item</xtype>
+					<xparentrow>13</xparentrow>
+				</subitem>
+				<subitem>
+					<zid>700010</zid>
+					<xordernum>HBSO000002</xordernum>
+					<xrow>16</xrow>
+					<xunit>PCS</xunit>
+					<xitem>IC-000061</xitem>
+					<xqtyord>1</xqtyord>
+					<xrate>0</xrate>
+					<xdesc>Wonton</xdesc>
+					<xgitem>Service</xgitem>
+					<xcatitem>Food</xcatitem>
+					<xlineamt>0</xlineamt>
+					<xtype>Set Item</xtype>
+					<xparentrow>13</xparentrow>
+				</subitem>
+				<subitem>
+					<zid>700010</zid>
+					<xordernum>HBSO000002</xordernum>
+					<xrow>17</xrow>
+					<xunit>PCS</xunit>
+					<xitem>IC-000062</xitem>
+					<xqtyord>1</xqtyord>
+					<xrate>0</xrate>
+					<xdesc>Orange</xdesc>
+					<xgitem>Service</xgitem>
+					<xcatitem>Food</xcatitem>
+					<xlineamt>0</xlineamt>
+					<xtype>Set Item</xtype>
+					<xparentrow>13</xparentrow>
+				</subitem>
+			</subitems>
+		</detail>
+	</details>
+</hallbookingreport>
