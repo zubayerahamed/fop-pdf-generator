@@ -8,13 +8,13 @@
 	<toDate>Tue, 15-Jun-2021</toDate>
 	<header>
 		<xordernum>HBSO000002</xordernum>
-		<xdate>2021-06-15T00:00:00+06:00</xdate>
-		<xcus>CUS-000005</xcus>
+		<xdate>Tue, 15-Jun-2021</xdate>
+		<xcus>Zubayer Ahamed</xcus>
 		<xstatus>Open</xstatus>
 		<batchcreated>false</batchcreated>
 		<productioncompleted>false</productioncompleted>
 		<invoicecreated>false</invoicecreated>
-		<xfunction>IC-000025</xfunction>
+		<xfunction>Farmer Meeting</xfunction>
 		<xtotguest>3</xtotguest>
 		<xfacamt>48000</xfacamt>
 		<xfoodamt>350</xfoodamt>
@@ -22,8 +22,8 @@
 		<xtotamt>48350</xtotamt>
 		<xgrandtot>48350</xgrandtot>
 		<xroomamt>0</xroomamt>
-		<xstartdate>2021-06-15T00:00:00+06:00</xstartdate>
-		<xenddate>2021-06-15T00:00:00+06:00</xenddate>
+		<xstartdate>Tue, 15-Jun-2021</xstartdate>
+		<xenddate>Tue, 15-Jun-2021</xenddate>
 		<xstarttime>00:01</xstarttime>
 		<xendtime>23:59</xendtime>
 		<xhallamt>0</xhallamt>
@@ -37,6 +37,7 @@
 		<xdue>48350</xdue>
 		<rawtocomp>false</rawtocomp>
 		<finishedtocomp>false</finishedtocomp>
+		<clientphone>01515634889</clientphone>
 	</header>
 	<fooddetails>
 		<fooddetail>
@@ -44,7 +45,7 @@
 			<xordernum>HBSO000002</xordernum>
 			<xrow>1</xrow>
 			<xunit>PCS</xunit>
-			<xitem>IC-000068</xitem>
+			<xitem>IC-000068 - Food Manu (Breakfast)</xitem>
 			<xqtyord>1</xqtyord>
 			<xrate>50</xrate>
 			<xdesc>Food Manu (Breakfast)</xdesc>
@@ -58,7 +59,7 @@
 					<xordernum>HBSO000002</xordernum>
 					<xrow>18</xrow>
 					<xunit>PCS</xunit>
-					<xitem>IC-000054</xitem>
+					<xitem>IC-000054 - Burger</xitem>
 					<xqtyord>1</xqtyord>
 					<xrate>0</xrate>
 					<xdesc>Burger</xdesc>
@@ -73,7 +74,7 @@
 					<xordernum>HBSO000002</xordernum>
 					<xrow>19</xrow>
 					<xunit>PCS</xunit>
-					<xitem>IC-000055</xitem>
+					<xitem>IC-000055 - Apple</xitem>
 					<xqtyord>1</xqtyord>
 					<xrate>0</xrate>
 					<xdesc>Apple</xdesc>
@@ -88,7 +89,7 @@
 					<xordernum>HBSO000002</xordernum>
 					<xrow>20</xrow>
 					<xunit>Cup</xunit>
-					<xitem>IC-000056</xitem>
+					<xitem>IC-000056 - Colour Tea</xitem>
 					<xqtyord>1</xqtyord>
 					<xrate>0</xrate>
 					<xdesc>Colour Tea</xdesc>
@@ -105,7 +106,7 @@
 			<xordernum>HBSO000002</xordernum>
 			<xrow>8</xrow>
 			<xunit>PCS</xunit>
-			<xitem>IC-000069</xitem>
+			<xitem>IC-000069 - Food Manu (Lunch)</xitem>
 			<xqtyord>1</xqtyord>
 			<xrate>250</xrate>
 			<xdesc>Food Manu (Lunch)</xdesc>
@@ -119,7 +120,7 @@
 					<xordernum>HBSO000002</xordernum>
 					<xrow>9</xrow>
 					<xunit>PCS</xunit>
-					<xitem>IC-000044</xitem>
+					<xitem>IC-000044 - Mineral Water</xitem>
 					<xqtyord>1</xqtyord>
 					<xrate>0</xrate>
 					<xdesc>Mineral Water</xdesc>
@@ -134,7 +135,7 @@
 					<xordernum>HBSO000002</xordernum>
 					<xrow>10</xrow>
 					<xunit>Plate</xunit>
-					<xitem>IC-000057</xitem>
+					<xitem>IC-000057 - Kacchi</xitem>
 					<xqtyord>1</xqtyord>
 					<xrate>0</xrate>
 					<xdesc>Kacchi</xdesc>
@@ -149,7 +150,7 @@
 					<xordernum>HBSO000002</xordernum>
 					<xrow>11</xrow>
 					<xunit>PCS</xunit>
-					<xitem>IC-000058</xitem>
+					<xitem>IC-000058 - Egg</xitem>
 					<xqtyord>1</xqtyord>
 					<xrate>0</xrate>
 					<xdesc>Egg</xdesc>
@@ -164,7 +165,7 @@
 					<xordernum>HBSO000002</xordernum>
 					<xrow>12</xrow>
 					<xunit>PCS</xunit>
-					<xitem>IC-000059</xitem>
+					<xitem>IC-000059 - Soft Drinks</xitem>
 					<xqtyord>1</xqtyord>
 					<xrate>0</xrate>
 					<xdesc>Soft Drinks</xdesc>
@@ -181,7 +182,7 @@
 			<xordernum>HBSO000002</xordernum>
 			<xrow>13</xrow>
 			<xunit>PCS</xunit>
-			<xitem>IC-000070</xitem>
+			<xitem>IC-000070 - Food Manu (Evening)</xitem>
 			<xqtyord>1</xqtyord>
 			<xrate>50</xrate>
 			<xdesc>Food Manu (Evening)</xdesc>
@@ -195,7 +196,7 @@
 					<xordernum>HBSO000002</xordernum>
 					<xrow>14</xrow>
 					<xunit>Cup</xunit>
-					<xitem>IC-000056</xitem>
+					<xitem>IC-000056 - Colour Tea</xitem>
 					<xqtyord>1</xqtyord>
 					<xrate>0</xrate>
 					<xdesc>Colour Tea</xdesc>
@@ -210,7 +211,7 @@
 					<xordernum>HBSO000002</xordernum>
 					<xrow>15</xrow>
 					<xunit>PCS</xunit>
-					<xitem>IC-000060</xitem>
+					<xitem>IC-000060 - Somusa</xitem>
 					<xqtyord>1</xqtyord>
 					<xrate>0</xrate>
 					<xdesc>Somusa</xdesc>
@@ -225,7 +226,7 @@
 					<xordernum>HBSO000002</xordernum>
 					<xrow>16</xrow>
 					<xunit>PCS</xunit>
-					<xitem>IC-000061</xitem>
+					<xitem>IC-000061 - Wonton</xitem>
 					<xqtyord>1</xqtyord>
 					<xrate>0</xrate>
 					<xdesc>Wonton</xdesc>
@@ -240,7 +241,7 @@
 					<xordernum>HBSO000002</xordernum>
 					<xrow>17</xrow>
 					<xunit>PCS</xunit>
-					<xitem>IC-000062</xitem>
+					<xitem>IC-000062 - Orange</xitem>
 					<xqtyord>1</xqtyord>
 					<xrate>0</xrate>
 					<xdesc>Orange</xdesc>
@@ -259,7 +260,7 @@
 			<xordernum>HBSO000002</xordernum>
 			<xrow>5</xrow>
 			<xunit>PCS</xunit>
-			<xitem>IC-000029</xitem>
+			<xitem>IC-000029 - Convention Hall Space Rent</xitem>
 			<xqtyord>1</xqtyord>
 			<xrate>30000</xrate>
 			<xdesc>Convention Hall Space Rent</xdesc>
@@ -274,7 +275,7 @@
 			<xordernum>HBSO000002</xordernum>
 			<xrow>6</xrow>
 			<xunit>PCS</xunit>
-			<xitem>IC-000030</xitem>
+			<xitem>IC-000030 - Cook Charge</xitem>
 			<xqtyord>1</xqtyord>
 			<xrate>8000</xrate>
 			<xdesc>Cook Charge</xdesc>
@@ -289,7 +290,7 @@
 			<xordernum>HBSO000002</xordernum>
 			<xrow>7</xrow>
 			<xunit>Cage</xunit>
-			<xitem>IC-000031</xitem>
+			<xitem>IC-000031 - Service Charge</xitem>
 			<xqtyord>1</xqtyord>
 			<xrate>10000</xrate>
 			<xdesc>Service Charge</xdesc>

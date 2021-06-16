@@ -124,7 +124,7 @@
 											<fo:block>:</fo:block>
 										</fo:table-cell>
 										<fo:table-cell xsl:use-attribute-sets="client.table.td">
-											<fo:block><xsl:value-of select="header/xstartdate"/> <xsl:value-of select="header/xstarttime"/></fo:block>
+											<fo:block><xsl:value-of select="header/xstartdate"/> - <xsl:value-of select="header/xstarttime"/></fo:block>
 										</fo:table-cell>
 									</fo:table-row>
 									<fo:table-row>
@@ -135,7 +135,7 @@
 											<fo:block>:</fo:block>
 										</fo:table-cell>
 										<fo:table-cell xsl:use-attribute-sets="client.table.td">
-											<fo:block><xsl:value-of select="header/xenddate"/> <xsl:value-of select="header/xendtime"/></fo:block>
+											<fo:block><xsl:value-of select="header/xenddate"/> - <xsl:value-of select="header/xendtime"/></fo:block>
 										</fo:table-cell>
 									</fo:table-row>
 									<fo:table-row>
@@ -157,7 +157,7 @@
 											<fo:block>:</fo:block>
 										</fo:table-cell>
 										<fo:table-cell xsl:use-attribute-sets="client.table.td">
-											<fo:block><xsl:value-of select="header/xcus"/></fo:block>
+											<fo:block><xsl:value-of select="header/clientaddress"/></fo:block>
 										</fo:table-cell>
 									</fo:table-row>
 									<fo:table-row>
@@ -168,7 +168,7 @@
 											<fo:block>:</fo:block>
 										</fo:table-cell>
 										<fo:table-cell xsl:use-attribute-sets="client.table.td">
-											<fo:block><xsl:value-of select="header/xcus"/></fo:block>
+											<fo:block><xsl:value-of select="header/clientphone"/></fo:block>
 										</fo:table-cell>
 									</fo:table-row>
 									<fo:table-row>
@@ -179,7 +179,7 @@
 											<fo:block>:</fo:block>
 										</fo:table-cell>
 										<fo:table-cell xsl:use-attribute-sets="client.table.td">
-											<fo:block></fo:block>
+											<fo:block><xsl:value-of select="header/refby"/></fo:block>
 										</fo:table-cell>
 									</fo:table-row>
 								</fo:table-body>
