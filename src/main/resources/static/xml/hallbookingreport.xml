@@ -3,7 +3,7 @@
 	<businessName>Water Lily Convention Hall</businessName>
 	<copyrightText>Powered by ASL © Copyright 2021</copyrightText>
 	<fromDate>Tue, 15-Jun-2021</fromDate>
-	<printDate>Tue, 15-Jun-2021</printDate>
+	<printDate>Wed, 16-Jun-2021</printDate>
 	<reportName>Event Contract : HBSO000002</reportName>
 	<toDate>Tue, 15-Jun-2021</toDate>
 	<header>
@@ -38,53 +38,8 @@
 		<rawtocomp>false</rawtocomp>
 		<finishedtocomp>false</finishedtocomp>
 	</header>
-	<details>
-		<detail>
-			<zid>700010</zid>
-			<xordernum>HBSO000002</xordernum>
-			<xrow>5</xrow>
-			<xunit>PCS</xunit>
-			<xitem>IC-000029</xitem>
-			<xqtyord>1</xqtyord>
-			<xrate>30000</xrate>
-			<xdesc>Convention Hall Space Rent</xdesc>
-			<xgitem>Service</xgitem>
-			<xcatitem>Facilities</xcatitem>
-			<xlineamt>30000</xlineamt>
-			<xparentrow>0</xparentrow>
-			<subitems />
-		</detail>
-		<detail>
-			<zid>700010</zid>
-			<xordernum>HBSO000002</xordernum>
-			<xrow>6</xrow>
-			<xunit>PCS</xunit>
-			<xitem>IC-000030</xitem>
-			<xqtyord>1</xqtyord>
-			<xrate>8000</xrate>
-			<xdesc>Cook Charge</xdesc>
-			<xgitem>Service</xgitem>
-			<xcatitem>Facilities</xcatitem>
-			<xlineamt>8000</xlineamt>
-			<xparentrow>0</xparentrow>
-			<subitems />
-		</detail>
-		<detail>
-			<zid>700010</zid>
-			<xordernum>HBSO000002</xordernum>
-			<xrow>7</xrow>
-			<xunit>Cage</xunit>
-			<xitem>IC-000031</xitem>
-			<xqtyord>1</xqtyord>
-			<xrate>10000</xrate>
-			<xdesc>Service Charge</xdesc>
-			<xgitem>Service</xgitem>
-			<xcatitem>Facilities</xcatitem>
-			<xlineamt>10000</xlineamt>
-			<xparentrow>0</xparentrow>
-			<subitems />
-		</detail>
-		<detail>
+	<fooddetails>
+		<fooddetail>
 			<zid>700010</zid>
 			<xordernum>HBSO000002</xordernum>
 			<xrow>1</xrow>
@@ -144,8 +99,8 @@
 					<xparentrow>1</xparentrow>
 				</subitem>
 			</subitems>
-		</detail>
-		<detail>
+		</fooddetail>
+		<fooddetail>
 			<zid>700010</zid>
 			<xordernum>HBSO000002</xordernum>
 			<xrow>8</xrow>
@@ -220,8 +175,8 @@
 					<xparentrow>8</xparentrow>
 				</subitem>
 			</subitems>
-		</detail>
-		<detail>
+		</fooddetail>
+		<fooddetail>
 			<zid>700010</zid>
 			<xordernum>HBSO000002</xordernum>
 			<xrow>13</xrow>
@@ -296,6 +251,53 @@
 					<xparentrow>13</xparentrow>
 				</subitem>
 			</subitems>
-		</detail>
-	</details>
+		</fooddetail>
+	</fooddetails>
+	<facilitiesdetails>
+		<facilitiesdetail>
+			<zid>700010</zid>
+			<xordernum>HBSO000002</xordernum>
+			<xrow>5</xrow>
+			<xunit>PCS</xunit>
+			<xitem>IC-000029</xitem>
+			<xqtyord>1</xqtyord>
+			<xrate>30000</xrate>
+			<xdesc>Convention Hall Space Rent</xdesc>
+			<xgitem>Service</xgitem>
+			<xcatitem>Facilities</xcatitem>
+			<xlineamt>30000</xlineamt>
+			<xparentrow>0</xparentrow>
+			<subitems />
+		</facilitiesdetail>
+		<facilitiesdetail>
+			<zid>700010</zid>
+			<xordernum>HBSO000002</xordernum>
+			<xrow>6</xrow>
+			<xunit>PCS</xunit>
+			<xitem>IC-000030</xitem>
+			<xqtyord>1</xqtyord>
+			<xrate>8000</xrate>
+			<xdesc>Cook Charge</xdesc>
+			<xgitem>Service</xgitem>
+			<xcatitem>Facilities</xcatitem>
+			<xlineamt>8000</xlineamt>
+			<xparentrow>0</xparentrow>
+			<subitems />
+		</facilitiesdetail>
+		<facilitiesdetail>
+			<zid>700010</zid>
+			<xordernum>HBSO000002</xordernum>
+			<xrow>7</xrow>
+			<xunit>Cage</xunit>
+			<xitem>IC-000031</xitem>
+			<xqtyord>1</xqtyord>
+			<xrate>10000</xrate>
+			<xdesc>Service Charge</xdesc>
+			<xgitem>Service</xgitem>
+			<xcatitem>Facilities</xcatitem>
+			<xlineamt>10000</xlineamt>
+			<xparentrow>0</xparentrow>
+			<subitems />
+		</facilitiesdetail>
+	</facilitiesdetails>
 </hallbookingreport>
