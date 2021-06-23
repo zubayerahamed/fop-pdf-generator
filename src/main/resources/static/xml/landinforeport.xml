@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<landinforeport>
+	<businessAddress>Mohammadpur, Dhaka</businessAddress>
+	<businessName>Boshila Garden City</businessName>
+	<copyrightText>Powered by ASL © Copyright 2021</copyrightText>
+	<printDate>Wed, 23-Jun-2021</printDate>
+	<reportName>Land Info Report : LND-000130</reportName>
+	<xland>LND-000130</xland>
+	<xlname>Basila Gerden City</xlname>
+	<xlandqty>19.5</xlandqty>
+	<xlandunit>Decimal</xlandunit>
+	<xlanddedroad>0</xlanddedroad>
+	<xlanddedother>0</xlanddedother>
+	<xriversideqty>0</xriversideqty>
+	<xriversideunit>Decimal</xriversideunit>
+	<xstatus>Standalone</xstatus>
+	<xroadred>0</xroadred>
+	<xotherred>0</xotherred>
+	<xdateborn>2021-06-19T00:00:00+06:00</xdateborn>
+	<xtypetrn>Land ID</xtypetrn>
+	<xtrn>LND-</xtrn>
+	<owners>
+		<owner>
+			<zactive>true</zactive>
+			<zauserid xsi:type="xs:string"
+				xmlns:xs="http://www.w3.org/2001/XMLSchema"
+				xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">admin</zauserid>
+			<ztime>2021-06-19T16:14:50.495+06:00</ztime>
+			<zutime>2021-06-19T16:14:50.495+06:00</zutime>
+			<zid>300000</zid>
+			<xland>LND-000130</xland>
+			<xrow>33</xrow>
+			<xperson>PRSN000006</xperson>
+			<xtype>Gong</xtype>
+			<xqty>19.5</xqty>
+			<xunit>Decimal</xunit>
+			<newData>false</newData>
+		</owner>
+		<owner>
+			<zactive>true</zactive>
+			<zauserid xsi:type="xs:string"
+				xmlns:xs="http://www.w3.org/2001/XMLSchema"
+				xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">admin</zauserid>
+			<ztime>2021-06-20T12:46:35.606+06:00</ztime>
+			<zutime>2021-06-20T12:46:35.606+06:00</zutime>
+			<zid>300000</zid>
+			<xland>LND-000130</xland>
+			<xrow>35</xrow>
+			<xperson>PRSN000002</xperson>
+			<xtype>Gong</xtype>
+			<xqty>0</xqty>
+			<xunit>Decimal</xunit>
+			<newData>false</newData>
+		</owner>
+		<owner>
+			<zactive>true</zactive>
+			<zauserid xsi:type="xs:string"
+				xmlns:xs="http://www.w3.org/2001/XMLSchema"
+				xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">admin</zauserid>
+			<ztime>2021-06-23T13:45:01.809+06:00</ztime>
+			<zutime>2021-06-23T13:45:01.809+06:00</zutime>
+			<zid>300000</zid>
+			<xland>LND-000130</xland>
+			<xrow>51</xrow>
+			<xperson>PRSN000010</xperson>
+			<xtype>Gong</xtype>
+			<xqty>19.5</xqty>
+			<xunit>Decimal</xunit>
+			<newData>false</newData>
+		</owner>
+	</owners>
+	<dags>
+		<dag>
+			<zactive>true</zactive>
+			<zauserid xsi:type="xs:string"
+				xmlns:xs="http://www.w3.org/2001/XMLSchema"
+				xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">admin</zauserid>
+			<ztime>2021-06-19T16:15:46.306+06:00</ztime>
+			<zutime>2021-06-19T16:15:46.306+06:00</zutime>
+			<xrow>57</xrow>
+			<zid>300000</zid>
+			<xland>LND-000130</xland>
+			<xdagtype>CS</xdagtype>
+			<xdagnum>303</xdagnum>
+			<xtype>None</xtype>
+			<xqty>0</xqty>
+			<xunit>Decimal</xunit>
+		</dag>
+		<dag>
+			<zactive>true</zactive>
+			<zauserid xsi:type="xs:string"
+				xmlns:xs="http://www.w3.org/2001/XMLSchema"
+				xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">admin</zauserid>
+			<ztime>2021-06-19T16:16:04.645+06:00</ztime>
+			<zutime>2021-06-19T16:16:04.645+06:00</zutime>
+			<xrow>58</xrow>
+			<zid>300000</zid>
+			<xland>LND-000130</xland>
+			<xdagtype>RS</xdagtype>
+			<xdagnum>404</xdagnum>
+			<xtype>None</xtype>
+			<xqty>0</xqty>
+			<xunit>Decimal</xunit>
+		</dag>
+		<dag>
+			<zactive>true</zactive>
+			<zauserid xsi:type="xs:string"
+				xmlns:xs="http://www.w3.org/2001/XMLSchema"
+				xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">admin</zauserid>
+			<ztime>2021-06-19T16:16:17.082+06:00</ztime>
+			<zutime>2021-06-19T16:16:17.082+06:00</zutime>
+			<xrow>59</xrow>
+			<zid>300000</zid>
+			<xland>LND-000130</xland>
+			<xdagtype>City</xdagtype>
+			<xdagnum>4004</xdagnum>
+			<xtype>None</xtype>
+			<xqty>0</xqty>
+			<xunit>Decimal</xunit>
+		</dag>
+	</dags>
+	<surveys>
+		<survey>
+			<zactive>true</zactive>
+			<zauserid xsi:type="xs:string"
+				xmlns:xs="http://www.w3.org/2001/XMLSchema"
+				xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">admin</zauserid>
+			<ztime>2021-06-20T11:54:28.220+06:00</ztime>
+			<zutime>2021-06-20T11:54:28.220+06:00</zutime>
+			<zid>300000</zid>
+			<xland>LND-000130</xland>
+			<xrow>1</xrow>
+			<xsurveyor>SRVR000001</xsurveyor>
+			<xdate>2021-06-20T00:00:00+06:00</xdate>
+			<newData>false</newData>
+		</survey>
+		<survey>
+			<zactive>true</zactive>
+			<zauserid xsi:type="xs:string"
+				xmlns:xs="http://www.w3.org/2001/XMLSchema"
+				xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">admin</zauserid>
+			<ztime>2021-06-20T12:46:55.117+06:00</ztime>
+			<zutime>2021-06-20T12:46:55.117+06:00</zutime>
+			<zid>300000</zid>
+			<xland>LND-000130</xland>
+			<xrow>2</xrow>
+			<xsurveyor>SRVR000002</xsurveyor>
+			<xdate>2021-06-20T00:00:00+06:00</xdate>
+			<newData>false</newData>
+		</survey>
+	</surveys>
+</landinforeport>
