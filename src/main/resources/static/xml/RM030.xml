@@ -1,0 +1,3869 @@
+<rm030report>
+	<copyright>Developed By KIT (karigorit.com) © Copyright 2022</copyright>
+	<fromDate>Sun, 01-May-2022</fromDate>
+	<printDate>Wed, 01-Jun-2022</printDate>
+	<reportName>Stock Transaction Report</reportName>
+	<shopAddress></shopAddress>
+	<shopName>Lake View Recration Club Ltd.</shopName>
+	<toDate>Wed, 01-Jun-2022</toDate>
+	<stocks>
+		<stock>
+			<itemId>IC--000001</itemId>
+			<itemName>Rup Chada Fish</itemName>
+			<date>2022-05-26T00:00:00+06:00</date>
+			<note>Stock Opening</note>
+			<qty>10.00</qty>
+			<unit>pcs</unit>
+			<sign>1</sign>
+			<store>01</store>
+		</stock>
+		<stock>
+			<itemId>IC--000005</itemId>
+			<itemName>koral Fish</itemName>
+			<date>2022-05-22T00:00:00+06:00</date>
+			<note>Stock Opening</note>
+			<qty>13.00</qty>
+			<unit>pcs</unit>
+			<sign>1</sign>
+			<store>01</store>
+		</stock>
+		<stock>
+			<itemId>IC--000011</itemId>
+			<itemName>Beef Meat</itemName>
+			<date>2022-05-22T00:00:00+06:00</date>
+			<note>Stock Opening</note>
+			<qty>3000.00</qty>
+			<unit>gm</unit>
+			<sign>1</sign>
+			<store>01</store>
+		</stock>
+		<stock>
+			<itemId>IC--000013</itemId>
+			<itemName>Chicken (Broiler)</itemName>
+			<date>2022-05-22T00:00:00+06:00</date>
+			<note>Stock Opening</note>
+			<qty>24700.00</qty>
+			<unit>gm</unit>
+			<sign>1</sign>
+			<store>01</store>
+		</stock>
+		<stock>
+			<itemId>IC--000015</itemId>
+			<itemName>Boneless/Tandoori Chicken</itemName>
+			<date>2022-05-22T00:00:00+06:00</date>
+			<note>Stock Opening</note>
+			<qty>3900.00</qty>
+			<unit>gm</unit>
+			<sign>1</sign>
+			<store>01</store>
+		</stock>
+		<stock>
+			<itemId>IC--000030</itemId>
+			<itemName>Brown Egg</itemName>
+			<date>2022-05-22T00:00:00+06:00</date>
+			<note>Stock Opening</note>
+			<qty>30.00</qty>
+			<unit>pcs</unit>
+			<sign>1</sign>
+			<store>01</store>
+		</stock>
+		<stock>
+			<itemId>IC--000040</itemId>
+			<itemName>Onion (Peyaj)</itemName>
+			<date>2022-05-22T00:00:00+06:00</date>
+			<note>Stock Opening</note>
+			<qty>5000.00</qty>
+			<unit>gm</unit>
+			<sign>1</sign>
+			<store>01</store>
+		</stock>
+		<stock>
+			<itemId>IC--000067</itemId>
+			<itemName>Carrot</itemName>
+			<date>2022-05-22T00:00:00+06:00</date>
+			<note>Stock Opening</note>
+			<qty>1000.00</qty>
+			<unit>gm</unit>
+			<sign>1</sign>
+			<store>01</store>
+		</stock>
+		<stock>
+			<itemId>IC--000068</itemId>
+			<itemName>Tomato</itemName>
+			<date>2022-05-22T00:00:00+06:00</date>
+			<note>Stock Opening</note>
+			<qty>2000.00</qty>
+			<unit>gm</unit>
+			<sign>1</sign>
+			<store>01</store>
+		</stock>
+		<stock>
+			<itemId>IC--000069</itemId>
+			<itemName>Cucumber</itemName>
+			<date>2022-05-22T00:00:00+06:00</date>
+			<note>Stock Opening</note>
+			<qty>4000.00</qty>
+			<unit>gm</unit>
+			<sign>1</sign>
+			<store>01</store>
+		</stock>
+		<stock>
+			<itemId>IC--000070</itemId>
+			<itemName>Chichinga</itemName>
+			<date>2022-05-22T00:00:00+06:00</date>
+			<note>Stock Opening</note>
+			<qty>1000.00</qty>
+			<unit>gm</unit>
+			<sign>1</sign>
+			<store>01</store>
+		</stock>
+		<stock>
+			<itemId>IC--000072</itemId>
+			<itemName>Lemon</itemName>
+			<date>2022-05-22T00:00:00+06:00</date>
+			<note>Stock Opening</note>
+			<qty>25.00</qty>
+			<unit>pcs</unit>
+			<sign>1</sign>
+			<store>01</store>
+		</stock>
+		<stock>
+			<itemId>IC--000073</itemId>
+			<itemName>Chinese Cabbage</itemName>
+			<date>2022-05-22T00:00:00+06:00</date>
+			<note>Stock Opening</note>
+			<qty>4.00</qty>
+			<unit>pcs</unit>
+			<sign>1</sign>
+			<store>01</store>
+		</stock>
+		<stock>
+			<itemId>IC--000074</itemId>
+			<itemName>Spring Onion (Peyaj Pata)</itemName>
+			<date>2022-05-22T00:00:00+06:00</date>
+			<note>Stock Opening</note>
+			<qty>250.00</qty>
+			<unit>gm</unit>
+			<sign>1</sign>
+			<store>01</store>
+		</stock>
+		<stock>
+			<itemId>IC--000081</itemId>
+			<itemName>Dry Red Chilli</itemName>
+			<date>2022-05-22T00:00:00+06:00</date>
+			<note>Stock Opening</note>
+			<qty>3000.00</qty>
+			<unit>gm</unit>
+			<sign>1</sign>
+			<store>01</store>
+		</stock>
+		<stock>
+			<itemId>IC--000083</itemId>
+			<itemName>Green Chilly (Kacha Morich)</itemName>
+			<date>2022-05-22T00:00:00+06:00</date>
+			<note>Stock Opening</note>
+			<qty>500.00</qty>
+			<unit>gm</unit>
+			<sign>1</sign>
+			<store>01</store>
+		</stock>
+		<stock>
+			<itemId>IC--000085</itemId>
+			<itemName>Long Beans (Borboti)</itemName>
+			<date>2022-05-22T00:00:00+06:00</date>
+			<note>Stock Opening</note>
+			<qty>250.00</qty>
+			<unit>gm</unit>
+			<sign>1</sign>
+			<store>01</store>
+		</stock>
+		<stock>
+			<itemId>IC--000090</itemId>
+			<itemName>Cabbage New (Pata Copy)</itemName>
+			<date>2022-05-22T00:00:00+06:00</date>
+			<note>Stock Opening</note>
+			<qty>1.00</qty>
+			<unit>pcs</unit>
+			<sign>1</sign>
+			<store>01</store>
+		</stock>
+		<stock>
+			<itemId>IC--000097</itemId>
+			<itemName>Papaya</itemName>
+			<date>2022-05-22T00:00:00+06:00</date>
+			<note>Stock Opening</note>
+			<qty>5000.00</qty>
+			<unit>gm</unit>
+			<sign>1</sign>
+			<store>01</store>
+		</stock>
+		<stock>
+			<itemId>IC--000169</itemId>
+			<itemName>Dhonia Pata</itemName>
+			<date>2022-05-22T00:00:00+06:00</date>
+			<note>Stock Opening</note>
+			<qty>1000.00</qty>
+			<unit>gm</unit>
+			<sign>1</sign>
+			<store>01</store>
+		</stock>
+		<stock>
+			<itemId>IC--000172</itemId>
+			<itemName>Capsicum</itemName>
+			<date>2022-05-22T00:00:00+06:00</date>
+			<note>Stock Opening</note>
+			<qty>2000.00</qty>
+			<unit>gm</unit>
+			<sign>1</sign>
+			<store>01</store>
+		</stock>
+		<stock>
+			<itemId>IC--000178</itemId>
+			<itemName>Tok Doi (curd)</itemName>
+			<date>2022-05-22T00:00:00+06:00</date>
+			<note>Stock Opening</note>
+			<qty>2000.00</qty>
+			<unit>gm</unit>
+			<sign>1</sign>
+			<store>01</store>
+		</stock>
+		<stock>
+			<itemId>IC--000183</itemId>
+			<itemName>Squid</itemName>
+			<date>2022-05-22T00:00:00+06:00</date>
+			<note>Stock Opening</note>
+			<qty>3000.00</qty>
+			<unit>gm</unit>
+			<sign>1</sign>
+			<store>01</store>
+		</stock>
+		<stock>
+			<itemId>IC--000005</itemId>
+			<itemName>koral Fish</itemName>
+			<date>2022-05-21T00:00:00+06:00</date>
+			<note>Stock Opening</note>
+			<qty>7.00</qty>
+			<unit>pcs</unit>
+			<sign>1</sign>
+			<store>01</store>
+		</stock>
+		<stock>
+			<itemId>IC--000010</itemId>
+			<itemName>Chicken (Local)</itemName>
+			<date>2022-05-21T00:00:00+06:00</date>
+			<note>Stock Opening</note>
+			<qty>2800.00</qty>
+			<unit>gm</unit>
+			<sign>1</sign>
+			<store>01</store>
+		</stock>
+		<stock>
+			<itemId>IC--000013</itemId>
+			<itemName>Chicken (Broiler)</itemName>
+			<date>2022-05-21T00:00:00+06:00</date>
+			<note>Stock Opening</note>
+			<qty>34300.00</qty>
+			<unit>gm</unit>
+			<sign>1</sign>
+			<store>01</store>
+		</stock>
+		<stock>
+			<itemId>IC--000016</itemId>
+			<itemName>Apple</itemName>
+			<date>2022-05-21T00:00:00+06:00</date>
+			<note>Stock Opening</note>
+			<qty>16.00</qty>
+			<unit>pcs</unit>
+			<sign>1</sign>
+			<store>01</store>
+		</stock>
+		<stock>
+			<itemId>IC--000017</itemId>
+			<itemName>Malta</itemName>
+			<date>2022-05-21T00:00:00+06:00</date>
+			<note>Stock Opening</note>
+			<qty>21.00</qty>
+			<unit>pcs</unit>
+			<sign>1</sign>
+			<store>01</store>
+		</stock>
+		<stock>
+			<itemId>IC--000025</itemId>
+			<itemName>Soyabin Oil</itemName>
+			<date>2022-05-21T00:00:00+06:00</date>
+			<note>Stock Opening</note>
+			<qty>10000.00</qty>
+			<unit>gm</unit>
+			<sign>1</sign>
+			<store>01</store>
+		</stock>
+		<stock>
+			<itemId>IC--000029</itemId>
+			<itemName>Moyda</itemName>
+			<date>2022-05-21T00:00:00+06:00</date>
+			<note>Stock Opening</note>
+			<qty>24000.00</qty>
+			<unit>gm</unit>
+			<sign>1</sign>
+			<store>01</store>
+		</stock>
+		<stock>
+			<itemId>IC--000030</itemId>
+			<itemName>Brown Egg</itemName>
+			<date>2022-05-21T00:00:00+06:00</date>
+			<note>Stock Opening</note>
+			<qty>30.00</qty>
+			<unit>pcs</unit>
+			<sign>1</sign>
+			<store>01</store>
+		</stock>
+		<stock>
+			<itemId>IC--000032</itemId>
+			<itemName>Suger (Chini)</itemName>
+			<date>2022-05-21T00:00:00+06:00</date>
+			<note>Stock Opening</note>
+			<qty>2000.00</qty>
+			<unit>gm</unit>
+			<sign>1</sign>
+			<store>01</store>
+		</stock>
+		<stock>
+			<itemId>IC--000035</itemId>
+			<itemName>Salt (Lobon)</itemName>
+			<date>2022-05-21T00:00:00+06:00</date>
+			<note>Stock Opening</note>
+			<qty>13000.00</qty>
+			<unit>gm</unit>
+			<sign>1</sign>
+			<store>01</store>
+		</stock>
+		<stock>
+			<itemId>IC--000036</itemId>
+			<itemName>Testing Salt</itemName>
+			<date>2022-05-21T00:00:00+06:00</date>
+			<note>Stock Opening</note>
+			<qty>3000.00</qty>
+			<unit>gm</unit>
+			<sign>1</sign>
+			<store>01</store>
+		</stock>
+		<stock>
+			<itemId>IC--000041</itemId>
+			<itemName>Garlic (Rasun)</itemName>
+			<date>2022-05-21T00:00:00+06:00</date>
+			<note>Stock Opening</note>
+			<qty>2000.00</qty>
+			<unit>gm</unit>
+			<sign>1</sign>
+			<store>01</store>
+		</stock>
+		<stock>
+			<itemId>IC--000042</itemId>
+			<itemName>Ginger (Ada)</itemName>
+			<date>2022-05-21T00:00:00+06:00</date>
+			<note>Stock Opening</note>
+			<qty>2000.00</qty>
+			<unit>gm</unit>
+			<sign>1</sign>
+			<store>01</store>
+		</stock>
+		<stock>
+			<itemId>IC--000067</itemId>
+			<itemName>Carrot</itemName>
+			<date>2022-05-21T00:00:00+06:00</date>
+			<note>Stock Opening</note>
+			<qty>3000.00</qty>
+			<unit>gm</unit>
+			<sign>1</sign>
+			<store>01</store>
+		</stock>
+		<stock>
+			<itemId>IC--000068</itemId>
+			<itemName>Tomato</itemName>
+			<date>2022-05-21T00:00:00+06:00</date>
+			<note>Stock Opening</note>
+			<qty>3000.00</qty>
+			<unit>gm</unit>
+			<sign>1</sign>
+			<store>01</store>
+		</stock>
+		<stock>
+			<itemId>IC--000069</itemId>
+			<itemName>Cucumber</itemName>
+			<date>2022-05-21T00:00:00+06:00</date>
+			<note>Stock Opening</note>
+			<qty>5000.00</qty>
+			<unit>gm</unit>
+			<sign>1</sign>
+			<store>01</store>
+		</stock>
+		<stock>
+			<itemId>IC--000070</itemId>
+			<itemName>Chichinga</itemName>
+			<date>2022-05-21T00:00:00+06:00</date>
+			<note>Stock Opening</note>
+			<qty>1.00</qty>
+			<unit>gm</unit>
+			<sign>1</sign>
+			<store>01</store>
+		</stock>
+		<stock>
+			<itemId>IC--000072</itemId>
+			<itemName>Lemon</itemName>
+			<date>2022-05-21T00:00:00+06:00</date>
+			<note>Stock Opening</note>
+			<qty>40.00</qty>
+			<unit>pcs</unit>
+			<sign>1</sign>
+			<store>01</store>
+		</stock>
+		<stock>
+			<itemId>IC--000073</itemId>
+			<itemName>Chinese Cabbage</itemName>
+			<date>2022-05-21T00:00:00+06:00</date>
+			<note>Stock Opening</note>
+			<qty>3.00</qty>
+			<unit>pcs</unit>
+			<sign>1</sign>
+			<store>01</store>
+		</stock>
+		<stock>
+			<itemId>IC--000074</itemId>
+			<itemName>Spring Onion (Peyaj Pata)</itemName>
+			<date>2022-05-21T00:00:00+06:00</date>
+			<note>Stock Opening</note>
+			<qty>250.00</qty>
+			<unit>gm</unit>
+			<sign>1</sign>
+			<store>01</store>
+		</stock>
+		<stock>
+			<itemId>IC--000076</itemId>
+			<itemName>Salary Pata</itemName>
+			<date>2022-05-21T00:00:00+06:00</date>
+			<note>Stock Opening</note>
+			<qty>1.00</qty>
+			<unit>pcs</unit>
+			<sign>1</sign>
+			<store>01</store>
+		</stock>
+		<stock>
+			<itemId>IC--000083</itemId>
+			<itemName>Green Chilly (Kacha Morich)</itemName>
+			<date>2022-05-21T00:00:00+06:00</date>
+			<note>Stock Opening</note>
+			<qty>1000.00</qty>
+			<unit>gm</unit>
+			<sign>1</sign>
+			<store>01</store>
+		</stock>
+		<stock>
+			<itemId>IC--000085</itemId>
+			<itemName>Long Beans (Borboti)</itemName>
+			<date>2022-05-21T00:00:00+06:00</date>
+			<note>Stock Opening</note>
+			<qty>250.00</qty>
+			<unit>gm</unit>
+			<sign>1</sign>
+			<store>01</store>
+		</stock>
+		<stock>
+			<itemId>IC--000090</itemId>
+			<itemName>Cabbage New (Pata Copy)</itemName>
+			<date>2022-05-21T00:00:00+06:00</date>
+			<note>Stock Opening</note>
+			<qty>3.00</qty>
+			<unit>pcs</unit>
+			<sign>1</sign>
+			<store>01</store>
+		</stock>
+		<stock>
+			<itemId>IC--000111</itemId>
+			<itemName>Nut</itemName>
+			<date>2022-05-21T00:00:00+06:00</date>
+			<note>Stock Opening</note>
+			<qty>10000.00</qty>
+			<unit>gm</unit>
+			<sign>1</sign>
+			<store>01</store>
+		</stock>
+		<stock>
+			<itemId>IC--000129</itemId>
+			<itemName>wonthon pati</itemName>
+			<date>2022-05-21T00:00:00+06:00</date>
+			<note>Stock Opening</note>
+			<qty>2.00</qty>
+			<unit>pcs</unit>
+			<sign>1</sign>
+			<store>01</store>
+		</stock>
+		<stock>
+			<itemId>IC--000169</itemId>
+			<itemName>Dhonia Pata</itemName>
+			<date>2022-05-21T00:00:00+06:00</date>
+			<note>Stock Opening</note>
+			<qty>1000.00</qty>
+			<unit>gm</unit>
+			<sign>1</sign>
+			<store>01</store>
+		</stock>
+		<stock>
+			<itemId>IC--000172</itemId>
+			<itemName>Capsicum</itemName>
+			<date>2022-05-21T00:00:00+06:00</date>
+			<note>Stock Opening</note>
+			<qty>2000.00</qty>
+			<unit>gm</unit>
+			<sign>1</sign>
+			<store>01</store>
+		</stock>
+		<stock>
+			<itemId>IC--000178</itemId>
+			<itemName>Tok Doi (curd)</itemName>
+			<date>2022-05-21T00:00:00+06:00</date>
+			<note>Stock Opening</note>
+			<qty>1000.00</qty>
+			<unit>gm</unit>
+			<sign>1</sign>
+			<store>01</store>
+		</stock>
+		<stock>
+			<itemId>IC--000181</itemId>
+			<itemName>Duck</itemName>
+			<date>2022-05-21T00:00:00+06:00</date>
+			<note>Stock Opening</note>
+			<qty>2.00</qty>
+			<unit>pcs</unit>
+			<sign>1</sign>
+			<store>01</store>
+		</stock>
+		<stock>
+			<itemId>IC--000010</itemId>
+			<itemName>Chicken (Local)</itemName>
+			<date>2022-05-19T00:00:00+06:00</date>
+			<note>Stock Opening</note>
+			<qty>4000.00</qty>
+			<unit>gm</unit>
+			<sign>1</sign>
+			<store>01</store>
+		</stock>
+		<stock>
+			<itemId>IC--000011</itemId>
+			<itemName>Beef Meat</itemName>
+			<date>2022-05-19T00:00:00+06:00</date>
+			<note>Stock Opening</note>
+			<qty>5000.00</qty>
+			<unit>gm</unit>
+			<sign>1</sign>
+			<store>01</store>
+		</stock>
+		<stock>
+			<itemId>IC--000025</itemId>
+			<itemName>Soyabin Oil</itemName>
+			<date>2022-05-19T00:00:00+06:00</date>
+			<note>Stock Opening</note>
+			<qty>15000.00</qty>
+			<unit>gm</unit>
+			<sign>1</sign>
+			<store>01</store>
+		</stock>
+		<stock>
+			<itemId>IC--000030</itemId>
+			<itemName>Brown Egg</itemName>
+			<date>2022-05-19T00:00:00+06:00</date>
+			<note>Stock Opening</note>
+			<qty>30.00</qty>
+			<unit>pcs</unit>
+			<sign>1</sign>
+			<store>01</store>
+		</stock>
+		<stock>
+			<itemId>IC--000036</itemId>
+			<itemName>Testing Salt</itemName>
+			<date>2022-05-19T00:00:00+06:00</date>
+			<note>Stock Opening</note>
+			<qty>5000.00</qty>
+			<unit>gm</unit>
+			<sign>1</sign>
+			<store>01</store>
+		</stock>
+		<stock>
+			<itemId>IC--000040</itemId>
+			<itemName>Onion (Peyaj)</itemName>
+			<date>2022-05-19T00:00:00+06:00</date>
+			<note>Stock Opening</note>
+			<qty>13000.00</qty>
+			<unit>gm</unit>
+			<sign>1</sign>
+			<store>01</store>
+		</stock>
+		<stock>
+			<itemId>IC--000041</itemId>
+			<itemName>Garlic (Rasun)</itemName>
+			<date>2022-05-19T00:00:00+06:00</date>
+			<note>Stock Opening</note>
+			<qty>2000.00</qty>
+			<unit>gm</unit>
+			<sign>1</sign>
+			<store>01</store>
+		</stock>
+		<stock>
+			<itemId>IC--000042</itemId>
+			<itemName>Ginger (Ada)</itemName>
+			<date>2022-05-19T00:00:00+06:00</date>
+			<note>Stock Opening</note>
+			<qty>2000.00</qty>
+			<unit>gm</unit>
+			<sign>1</sign>
+			<store>01</store>
+		</stock>
+		<stock>
+			<itemId>IC--000043</itemId>
+			<itemName>Thai Ginger (Thai Ada)</itemName>
+			<date>2022-05-19T00:00:00+06:00</date>
+			<note>Stock Opening</note>
+			<qty>250.00</qty>
+			<unit>gm</unit>
+			<sign>1</sign>
+			<store>01</store>
+		</stock>
+		<stock>
+			<itemId>IC--000059</itemId>
+			<itemName>Chat Mashla</itemName>
+			<date>2022-05-19T00:00:00+06:00</date>
+			<note>Stock Opening</note>
+			<qty>10000.00</qty>
+			<unit>gm</unit>
+			<sign>1</sign>
+			<store>01</store>
+		</stock>
+		<stock>
+			<itemId>IC--000066</itemId>
+			<itemName>Butter Oil</itemName>
+			<date>2022-05-19T00:00:00+06:00</date>
+			<note>Stock Opening</note>
+			<qty>2000.00</qty>
+			<unit>gm</unit>
+			<sign>1</sign>
+			<store>01</store>
+		</stock>
+		<stock>
+			<itemId>IC--000067</itemId>
+			<itemName>Carrot</itemName>
+			<date>2022-05-19T00:00:00+06:00</date>
+			<note>Stock Opening</note>
+			<qty>2000.00</qty>
+			<unit>gm</unit>
+			<sign>1</sign>
+			<store>01</store>
+		</stock>
+		<stock>
+			<itemId>IC--000068</itemId>
+			<itemName>Tomato</itemName>
+			<date>2022-05-19T00:00:00+06:00</date>
+			<note>Stock Opening</note>
+			<qty>3000.00</qty>
+			<unit>gm</unit>
+			<sign>1</sign>
+			<store>01</store>
+		</stock>
+		<stock>
+			<itemId>IC--000069</itemId>
+			<itemName>Cucumber</itemName>
+			<date>2022-05-19T00:00:00+06:00</date>
+			<note>Stock Opening</note>
+			<qty>4000.00</qty>
+			<unit>gm</unit>
+			<sign>1</sign>
+			<store>01</store>
+		</stock>
+		<stock>
+			<itemId>IC--000070</itemId>
+			<itemName>Chichinga</itemName>
+			<date>2022-05-19T00:00:00+06:00</date>
+			<note>Stock Opening</note>
+			<qty>1000.00</qty>
+			<unit>gm</unit>
+			<sign>1</sign>
+			<store>01</store>
+		</stock>
+		<stock>
+			<itemId>IC--000072</itemId>
+			<itemName>Lemon</itemName>
+			<date>2022-05-19T00:00:00+06:00</date>
+			<note>Stock Opening</note>
+			<qty>30.00</qty>
+			<unit>pcs</unit>
+			<sign>1</sign>
+			<store>01</store>
+		</stock>
+		<stock>
+			<itemId>IC--000074</itemId>
+			<itemName>Spring Onion (Peyaj Pata)</itemName>
+			<date>2022-05-19T00:00:00+06:00</date>
+			<note>Stock Opening</note>
+			<qty>250.00</qty>
+			<unit>gm</unit>
+			<sign>1</sign>
+			<store>01</store>
+		</stock>
+		<stock>
+			<itemId>IC--000083</itemId>
+			<itemName>Green Chilly (Kacha Morich)</itemName>
+			<date>2022-05-19T00:00:00+06:00</date>
+			<note>Stock Opening</note>
+			<qty>1000.00</qty>
+			<unit>gm</unit>
+			<sign>1</sign>
+			<store>01</store>
+		</stock>
+		<stock>
+			<itemId>IC--000085</itemId>
+			<itemName>Long Beans (Borboti)</itemName>
+			<date>2022-05-19T00:00:00+06:00</date>
+			<note>Stock Opening</note>
+			<qty>250.00</qty>
+			<unit>gm</unit>
+			<sign>1</sign>
+			<store>01</store>
+		</stock>
+		<stock>
+			<itemId>IC--000089</itemId>
+			<itemName>Cauliflower (Ful Copy)</itemName>
+			<date>2022-05-19T00:00:00+06:00</date>
+			<note>Stock Opening</note>
+			<qty>1.00</qty>
+			<unit>pcs</unit>
+			<sign>1</sign>
+			<store>01</store>
+		</stock>
+		<stock>
+			<itemId>IC--000092</itemId>
+			<itemName>Brocoli </itemName>
+			<date>2022-05-19T00:00:00+06:00</date>
+			<note>Stock Opening</note>
+			<qty>1.00</qty>
+			<unit>pcs</unit>
+			<sign>1</sign>
+			<store>01</store>
+		</stock>
+		<stock>
+			<itemId>IC--000096</itemId>
+			<itemName>Green Peach</itemName>
+			<date>2022-05-19T00:00:00+06:00</date>
+			<note>Stock Opening</note>
+			<qty>12.00</qty>
+			<unit>pcs</unit>
+			<sign>1</sign>
+			<store>01</store>
+		</stock>
+		<stock>
+			<itemId>IC--000097</itemId>
+			<itemName>Papaya</itemName>
+			<date>2022-05-19T00:00:00+06:00</date>
+			<note>Stock Opening</note>
+			<qty>5000.00</qty>
+			<unit>gm</unit>
+			<sign>1</sign>
+			<store>01</store>
+		</stock>
+		<stock>
+			<itemId>IC--000111</itemId>
+			<itemName>Nut</itemName>
+			<date>2022-05-19T00:00:00+06:00</date>
+			<note>Stock Opening</note>
+			<qty>2000.00</qty>
+			<unit>gm</unit>
+			<sign>1</sign>
+			<store>01</store>
+		</stock>
+		<stock>
+			<itemId>IC--000113</itemId>
+			<itemName>Sauce</itemName>
+			<date>2022-05-19T00:00:00+06:00</date>
+			<note>Stock Opening</note>
+			<qty>1000.00</qty>
+			<unit>gm</unit>
+			<sign>1</sign>
+			<store>01</store>
+		</stock>
+		<stock>
+			<itemId>IC--000114</itemId>
+			<itemName>Oyster Sauce</itemName>
+			<date>2022-05-19T00:00:00+06:00</date>
+			<note>Stock Opening</note>
+			<qty>12000.00</qty>
+			<unit>gm</unit>
+			<sign>1</sign>
+			<store>01</store>
+		</stock>
+		<stock>
+			<itemId>IC--000124</itemId>
+			<itemName>French Fries</itemName>
+			<date>2022-05-19T00:00:00+06:00</date>
+			<note>Stock Opening</note>
+			<qty>25000.00</qty>
+			<unit>gm</unit>
+			<sign>1</sign>
+			<store>01</store>
+		</stock>
+		<stock>
+			<itemId>IC--000169</itemId>
+			<itemName>Dhonia Pata</itemName>
+			<date>2022-05-19T00:00:00+06:00</date>
+			<note>Stock Opening</note>
+			<qty>500.00</qty>
+			<unit>gm</unit>
+			<sign>1</sign>
+			<store>01</store>
+		</stock>
+		<stock>
+			<itemId>IC--000172</itemId>
+			<itemName>Capsicum</itemName>
+			<date>2022-05-19T00:00:00+06:00</date>
+			<note>Stock Opening</note>
+			<qty>2000.00</qty>
+			<unit>gm</unit>
+			<sign>1</sign>
+			<store>01</store>
+		</stock>
+		<stock>
+			<itemId>IC--000005</itemId>
+			<itemName>koral Fish</itemName>
+			<date>2022-05-18T00:00:00+06:00</date>
+			<note>Stock Opening</note>
+			<qty>1.00</qty>
+			<unit>pcs</unit>
+			<sign>1</sign>
+			<store>01</store>
+		</stock>
+		<stock>
+			<itemId>IC--000010</itemId>
+			<itemName>Chicken (Local)</itemName>
+			<date>2022-05-18T00:00:00+06:00</date>
+			<note>Stock Opening</note>
+			<qty>2600.00</qty>
+			<unit>gm</unit>
+			<sign>1</sign>
+			<store>01</store>
+		</stock>
+		<stock>
+			<itemId>IC--000011</itemId>
+			<itemName>Beef Meat</itemName>
+			<date>2022-05-18T00:00:00+06:00</date>
+			<note>Stock Opening</note>
+			<qty>3500.00</qty>
+			<unit>gm</unit>
+			<sign>1</sign>
+			<store>01</store>
+		</stock>
+		<stock>
+			<itemId>IC--000013</itemId>
+			<itemName>Chicken (Broiler)</itemName>
+			<date>2022-05-18T00:00:00+06:00</date>
+			<note>Stock Opening</note>
+			<qty>26100.00</qty>
+			<unit>gm</unit>
+			<sign>1</sign>
+			<store>01</store>
+		</stock>
+		<stock>
+			<itemId>IC--000025</itemId>
+			<itemName>Soyabin Oil</itemName>
+			<date>2022-05-18T00:00:00+06:00</date>
+			<note>Stock Opening</note>
+			<qty>1000.00</qty>
+			<unit>gm</unit>
+			<sign>1</sign>
+			<store>01</store>
+		</stock>
+		<stock>
+			<itemId>IC--000030</itemId>
+			<itemName>Brown Egg</itemName>
+			<date>2022-05-18T00:00:00+06:00</date>
+			<note>Stock Opening</note>
+			<qty>30.00</qty>
+			<unit>pcs</unit>
+			<sign>1</sign>
+			<store>01</store>
+		</stock>
+		<stock>
+			<itemId>IC--000040</itemId>
+			<itemName>Onion (Peyaj)</itemName>
+			<date>2022-05-18T00:00:00+06:00</date>
+			<note>Stock Opening</note>
+			<qty>10000.00</qty>
+			<unit>gm</unit>
+			<sign>1</sign>
+			<store>01</store>
+		</stock>
+		<stock>
+			<itemId>IC--000041</itemId>
+			<itemName>Garlic (Rasun)</itemName>
+			<date>2022-05-18T00:00:00+06:00</date>
+			<note>Stock Opening</note>
+			<qty>2000.00</qty>
+			<unit>gm</unit>
+			<sign>1</sign>
+			<store>01</store>
+		</stock>
+		<stock>
+			<itemId>IC--000060</itemId>
+			<itemName>Potato (Big)</itemName>
+			<date>2022-05-18T00:00:00+06:00</date>
+			<note>Stock Opening</note>
+			<qty>5000.00</qty>
+			<unit>gm</unit>
+			<sign>1</sign>
+			<store>01</store>
+		</stock>
+		<stock>
+			<itemId>IC--000064</itemId>
+			<itemName>Milk (Powder)</itemName>
+			<date>2022-05-18T00:00:00+06:00</date>
+			<note>Stock Opening</note>
+			<qty>1000.00</qty>
+			<unit>gm</unit>
+			<sign>1</sign>
+			<store>01</store>
+		</stock>
+		<stock>
+			<itemId>IC--000067</itemId>
+			<itemName>Carrot</itemName>
+			<date>2022-05-18T00:00:00+06:00</date>
+			<note>Stock Opening</note>
+			<qty>2000.00</qty>
+			<unit>gm</unit>
+			<sign>1</sign>
+			<store>01</store>
+		</stock>
+		<stock>
+			<itemId>IC--000068</itemId>
+			<itemName>Tomato</itemName>
+			<date>2022-05-18T00:00:00+06:00</date>
+			<note>Stock Opening</note>
+			<qty>2000.00</qty>
+			<unit>gm</unit>
+			<sign>1</sign>
+			<store>01</store>
+		</stock>
+		<stock>
+			<itemId>IC--000069</itemId>
+			<itemName>Cucumber</itemName>
+			<date>2022-05-18T00:00:00+06:00</date>
+			<note>Stock Opening</note>
+			<qty>3000.00</qty>
+			<unit>gm</unit>
+			<sign>1</sign>
+			<store>01</store>
+		</stock>
+		<stock>
+			<itemId>IC--000072</itemId>
+			<itemName>Lemon</itemName>
+			<date>2022-05-18T00:00:00+06:00</date>
+			<note>Stock Opening</note>
+			<qty>25.00</qty>
+			<unit>pcs</unit>
+			<sign>1</sign>
+			<store>01</store>
+		</stock>
+		<stock>
+			<itemId>IC--000074</itemId>
+			<itemName>Spring Onion (Peyaj Pata)</itemName>
+			<date>2022-05-18T00:00:00+06:00</date>
+			<note>Stock Opening</note>
+			<qty>250.00</qty>
+			<unit>gm</unit>
+			<sign>1</sign>
+			<store>01</store>
+		</stock>
+		<stock>
+			<itemId>IC--000083</itemId>
+			<itemName>Green Chilly (Kacha Morich)</itemName>
+			<date>2022-05-18T00:00:00+06:00</date>
+			<note>Stock Opening</note>
+			<qty>1000.00</qty>
+			<unit>gm</unit>
+			<sign>1</sign>
+			<store>01</store>
+		</stock>
+		<stock>
+			<itemId>IC--000084</itemId>
+			<itemName>Lemon Grass</itemName>
+			<date>2022-05-18T00:00:00+06:00</date>
+			<note>Stock Opening</note>
+			<qty>250.00</qty>
+			<unit>pcs</unit>
+			<sign>1</sign>
+			<store>01</store>
+		</stock>
+		<stock>
+			<itemId>IC--000090</itemId>
+			<itemName>Cabbage New (Pata Copy)</itemName>
+			<date>2022-05-18T00:00:00+06:00</date>
+			<note>Stock Opening</note>
+			<qty>3.00</qty>
+			<unit>pcs</unit>
+			<sign>1</sign>
+			<store>01</store>
+		</stock>
+		<stock>
+			<itemId>IC--000111</itemId>
+			<itemName>Nut</itemName>
+			<date>2022-05-18T00:00:00+06:00</date>
+			<note>Stock Opening</note>
+			<qty>2000.00</qty>
+			<unit>gm</unit>
+			<sign>1</sign>
+			<store>01</store>
+		</stock>
+		<stock>
+			<itemId>IC--000116</itemId>
+			<itemName>Soya Sauce</itemName>
+			<date>2022-05-18T00:00:00+06:00</date>
+			<note>Stock Opening</note>
+			<qty>1000.00</qty>
+			<unit>gm</unit>
+			<sign>1</sign>
+			<store>01</store>
+		</stock>
+		<stock>
+			<itemId>IC--000121</itemId>
+			<itemName>Noodles</itemName>
+			<date>2022-05-18T00:00:00+06:00</date>
+			<note>Stock Opening</note>
+			<qty>20.00</qty>
+			<unit>pcs</unit>
+			<sign>1</sign>
+			<store>01</store>
+		</stock>
+		<stock>
+			<itemId>IC--000169</itemId>
+			<itemName>Dhonia Pata</itemName>
+			<date>2022-05-18T00:00:00+06:00</date>
+			<note>Stock Opening</note>
+			<qty>500.00</qty>
+			<unit>gm</unit>
+			<sign>1</sign>
+			<store>01</store>
+		</stock>
+		<stock>
+			<itemId>IC--000185</itemId>
+			<itemName>Baking Powder</itemName>
+			<date>2022-05-18T00:00:00+06:00</date>
+			<note>Stock Opening</note>
+			<qty>250.00</qty>
+			<unit>gm</unit>
+			<sign>1</sign>
+			<store>01</store>
+		</stock>
+		<stock>
+			<itemId>IC--000223</itemId>
+			<itemName>Pineapple</itemName>
+			<date>2022-05-18T00:00:00+06:00</date>
+			<note>Stock Opening</note>
+			<qty>1.00</qty>
+			<unit>pcs</unit>
+			<sign>1</sign>
+			<store>01</store>
+		</stock>
+		<stock>
+			<itemId>IC--000013</itemId>
+			<itemName>Chicken (Broiler)</itemName>
+			<date>2022-05-17T00:00:00+06:00</date>
+			<note>Stock Opening</note>
+			<qty>34200.00</qty>
+			<unit>gm</unit>
+			<sign>1</sign>
+			<store>01</store>
+		</stock>
+		<stock>
+			<itemId>IC--000015</itemId>
+			<itemName>Boneless/Tandoori Chicken</itemName>
+			<date>2022-05-17T00:00:00+06:00</date>
+			<note>Stock Opening</note>
+			<qty>4100.00</qty>
+			<unit>gm</unit>
+			<sign>1</sign>
+			<store>01</store>
+		</stock>
+		<stock>
+			<itemId>IC--000025</itemId>
+			<itemName>Soyabin Oil</itemName>
+			<date>2022-05-17T00:00:00+06:00</date>
+			<note>Stock Opening</note>
+			<qty>5000.00</qty>
+			<unit>gm</unit>
+			<sign>1</sign>
+			<store>01</store>
+		</stock>
+		<stock>
+			<itemId>IC--000030</itemId>
+			<itemName>Brown Egg</itemName>
+			<date>2022-05-17T00:00:00+06:00</date>
+			<note>Stock Opening</note>
+			<qty>30.00</qty>
+			<unit>pcs</unit>
+			<sign>1</sign>
+			<store>01</store>
+		</stock>
+		<stock>
+			<itemId>IC--000033</itemId>
+			<itemName>Breadcrumbs</itemName>
+			<date>2022-05-17T00:00:00+06:00</date>
+			<note>Stock Opening</note>
+			<qty>1000.00</qty>
+			<unit>gm</unit>
+			<sign>1</sign>
+			<store>01</store>
+		</stock>
+		<stock>
+			<itemId>IC--000040</itemId>
+			<itemName>Onion (Peyaj)</itemName>
+			<date>2022-05-17T00:00:00+06:00</date>
+			<note>Stock Opening</note>
+			<qty>5000.00</qty>
+			<unit>gm</unit>
+			<sign>1</sign>
+			<store>01</store>
+		</stock>
+		<stock>
+			<itemId>IC--000042</itemId>
+			<itemName>Ginger (Ada)</itemName>
+			<date>2022-05-17T00:00:00+06:00</date>
+			<note>Stock Opening</note>
+			<qty>1000.00</qty>
+			<unit>gm</unit>
+			<sign>1</sign>
+			<store>01</store>
+		</stock>
+		<stock>
+			<itemId>IC--000060</itemId>
+			<itemName>Potato (Big)</itemName>
+			<date>2022-05-17T00:00:00+06:00</date>
+			<note>Stock Opening</note>
+			<qty>5000.00</qty>
+			<unit>gm</unit>
+			<sign>1</sign>
+			<store>01</store>
+		</stock>
+		<stock>
+			<itemId>IC--000068</itemId>
+			<itemName>Tomato</itemName>
+			<date>2022-05-17T00:00:00+06:00</date>
+			<note>Stock Opening</note>
+			<qty>2000.00</qty>
+			<unit>gm</unit>
+			<sign>1</sign>
+			<store>01</store>
+		</stock>
+		<stock>
+			<itemId>IC--000069</itemId>
+			<itemName>Cucumber</itemName>
+			<date>2022-05-17T00:00:00+06:00</date>
+			<note>Stock Opening</note>
+			<qty>4000.00</qty>
+			<unit>gm</unit>
+			<sign>1</sign>
+			<store>01</store>
+		</stock>
+		<stock>
+			<itemId>IC--000071</itemId>
+			<date>2022-05-17T00:00:00+06:00</date>
+			<note>Stock Opening</note>
+			<qty>1000.00</qty>
+			<unit>gm</unit>
+			<sign>1</sign>
+			<store>01</store>
+		</stock>
+		<stock>
+			<itemId>IC--000072</itemId>
+			<itemName>Lemon</itemName>
+			<date>2022-05-17T00:00:00+06:00</date>
+			<note>Stock Opening</note>
+			<qty>25.00</qty>
+			<unit>pcs</unit>
+			<sign>1</sign>
+			<store>01</store>
+		</stock>
+		<stock>
+			<itemId>IC--000074</itemId>
+			<itemName>Spring Onion (Peyaj Pata)</itemName>
+			<date>2022-05-17T00:00:00+06:00</date>
+			<note>Stock Opening</note>
+			<qty>250.00</qty>
+			<unit>gm</unit>
+			<sign>1</sign>
+			<store>01</store>
+		</stock>
+		<stock>
+			<itemId>IC--000090</itemId>
+			<itemName>Cabbage New (Pata Copy)</itemName>
+			<date>2022-05-17T00:00:00+06:00</date>
+			<note>Stock Opening</note>
+			<qty>3.00</qty>
+			<unit>pcs</unit>
+			<sign>1</sign>
+			<store>01</store>
+		</stock>
+		<stock>
+			<itemId>IC--000097</itemId>
+			<itemName>Papaya</itemName>
+			<date>2022-05-17T00:00:00+06:00</date>
+			<note>Stock Opening</note>
+			<qty>5000.00</qty>
+			<unit>gm</unit>
+			<sign>1</sign>
+			<store>01</store>
+		</stock>
+		<stock>
+			<itemId>IC--000108</itemId>
+			<itemName>Kaju Nut</itemName>
+			<date>2022-05-17T00:00:00+06:00</date>
+			<note>Stock Opening</note>
+			<qty>10000.00</qty>
+			<unit>gm</unit>
+			<sign>1</sign>
+			<store>01</store>
+		</stock>
+		<stock>
+			<itemId>IC--000111</itemId>
+			<itemName>Nut</itemName>
+			<date>2022-05-17T00:00:00+06:00</date>
+			<note>Stock Opening</note>
+			<qty>2000.00</qty>
+			<unit>gm</unit>
+			<sign>1</sign>
+			<store>01</store>
+		</stock>
+		<stock>
+			<itemId>IC--000169</itemId>
+			<itemName>Dhonia Pata</itemName>
+			<date>2022-05-17T00:00:00+06:00</date>
+			<note>Stock Opening</note>
+			<qty>1000.00</qty>
+			<unit>gm</unit>
+			<sign>1</sign>
+			<store>01</store>
+		</stock>
+		<stock>
+			<itemId>IC--000172</itemId>
+			<itemName>Capsicum</itemName>
+			<date>2022-05-17T00:00:00+06:00</date>
+			<note>Stock Opening</note>
+			<qty>2000.00</qty>
+			<unit>gm</unit>
+			<sign>1</sign>
+			<store>01</store>
+		</stock>
+		<stock>
+			<itemId>IC--000178</itemId>
+			<itemName>Tok Doi (curd)</itemName>
+			<date>2022-05-17T00:00:00+06:00</date>
+			<note>Stock Opening</note>
+			<qty>1000.00</qty>
+			<unit>gm</unit>
+			<sign>1</sign>
+			<store>01</store>
+		</stock>
+		<stock>
+			<itemId>IC--000183</itemId>
+			<itemName>Squid</itemName>
+			<date>2022-05-17T00:00:00+06:00</date>
+			<note>Stock Opening</note>
+			<qty>2000.00</qty>
+			<unit>gm</unit>
+			<sign>1</sign>
+			<store>01</store>
+		</stock>
+		<stock>
+			<itemId>IC--000184</itemId>
+			<itemName>Guava</itemName>
+			<date>2022-05-17T00:00:00+06:00</date>
+			<note>Stock Opening</note>
+			<qty>2000.00</qty>
+			<unit>gm</unit>
+			<sign>1</sign>
+			<store>01</store>
+		</stock>
+		<stock>
+			<itemId>IC--000005</itemId>
+			<itemName>koral Fish</itemName>
+			<date>2022-05-16T00:00:00+06:00</date>
+			<note>Stock Opening</note>
+			<qty>12.00</qty>
+			<unit>pcs</unit>
+			<sign>1</sign>
+			<store>01</store>
+		</stock>
+		<stock>
+			<itemId>IC--000011</itemId>
+			<itemName>Beef Meat</itemName>
+			<date>2022-05-16T00:00:00+06:00</date>
+			<note>Stock Opening</note>
+			<qty>5000.00</qty>
+			<unit>gm</unit>
+			<sign>1</sign>
+			<store>01</store>
+		</stock>
+		<stock>
+			<itemId>IC--000013</itemId>
+			<itemName>Chicken (Broiler)</itemName>
+			<date>2022-05-16T00:00:00+06:00</date>
+			<note>Stock Opening</note>
+			<qty>3900.00</qty>
+			<unit>gm</unit>
+			<sign>1</sign>
+			<store>01</store>
+		</stock>
+		<stock>
+			<itemId>IC--000030</itemId>
+			<itemName>Brown Egg</itemName>
+			<date>2022-05-16T00:00:00+06:00</date>
+			<note>Stock Opening</note>
+			<qty>30.00</qty>
+			<unit>pcs</unit>
+			<sign>1</sign>
+			<store>01</store>
+		</stock>
+		<stock>
+			<itemId>IC--000040</itemId>
+			<itemName>Onion (Peyaj)</itemName>
+			<date>2022-05-16T00:00:00+06:00</date>
+			<note>Stock Opening</note>
+			<qty>10000.00</qty>
+			<unit>gm</unit>
+			<sign>1</sign>
+			<store>01</store>
+		</stock>
+		<stock>
+			<itemId>IC--000041</itemId>
+			<itemName>Garlic (Rasun)</itemName>
+			<date>2022-05-16T00:00:00+06:00</date>
+			<note>Stock Opening</note>
+			<qty>2000.00</qty>
+			<unit>gm</unit>
+			<sign>1</sign>
+			<store>01</store>
+		</stock>
+		<stock>
+			<itemId>IC--000042</itemId>
+			<itemName>Ginger (Ada)</itemName>
+			<date>2022-05-16T00:00:00+06:00</date>
+			<note>Stock Opening</note>
+			<qty>1000.00</qty>
+			<unit>gm</unit>
+			<sign>1</sign>
+			<store>01</store>
+		</stock>
+		<stock>
+			<itemId>IC--000067</itemId>
+			<itemName>Carrot</itemName>
+			<date>2022-05-16T00:00:00+06:00</date>
+			<note>Stock Opening</note>
+			<qty>2000.00</qty>
+			<unit>gm</unit>
+			<sign>1</sign>
+			<store>01</store>
+		</stock>
+		<stock>
+			<itemId>IC--000068</itemId>
+			<itemName>Tomato</itemName>
+			<date>2022-05-16T00:00:00+06:00</date>
+			<note>Stock Opening</note>
+			<qty>3000.00</qty>
+			<unit>gm</unit>
+			<sign>1</sign>
+			<store>01</store>
+		</stock>
+		<stock>
+			<itemId>IC--000069</itemId>
+			<itemName>Cucumber</itemName>
+			<date>2022-05-16T00:00:00+06:00</date>
+			<note>Stock Opening</note>
+			<qty>4000.00</qty>
+			<unit>gm</unit>
+			<sign>1</sign>
+			<store>01</store>
+		</stock>
+		<stock>
+			<itemId>IC--000070</itemId>
+			<itemName>Chichinga</itemName>
+			<date>2022-05-16T00:00:00+06:00</date>
+			<note>Stock Opening</note>
+			<qty>1000.00</qty>
+			<unit>gm</unit>
+			<sign>1</sign>
+			<store>01</store>
+		</stock>
+		<stock>
+			<itemId>IC--000072</itemId>
+			<itemName>Lemon</itemName>
+			<date>2022-05-16T00:00:00+06:00</date>
+			<note>Stock Opening</note>
+			<qty>35.00</qty>
+			<unit>pcs</unit>
+			<sign>1</sign>
+			<store>01</store>
+		</stock>
+		<stock>
+			<itemId>IC--000074</itemId>
+			<itemName>Spring Onion (Peyaj Pata)</itemName>
+			<date>2022-05-16T00:00:00+06:00</date>
+			<note>Stock Opening</note>
+			<qty>250.00</qty>
+			<unit>gm</unit>
+			<sign>1</sign>
+			<store>01</store>
+		</stock>
+		<stock>
+			<itemId>IC--000083</itemId>
+			<itemName>Green Chilly (Kacha Morich)</itemName>
+			<date>2022-05-16T00:00:00+06:00</date>
+			<note>Stock Opening</note>
+			<qty>500.00</qty>
+			<unit>gm</unit>
+			<sign>1</sign>
+			<store>01</store>
+		</stock>
+		<stock>
+			<itemId>IC--000085</itemId>
+			<itemName>Long Beans (Borboti)</itemName>
+			<date>2022-05-16T00:00:00+06:00</date>
+			<note>Stock Opening</note>
+			<qty>250.00</qty>
+			<unit>gm</unit>
+			<sign>1</sign>
+			<store>01</store>
+		</stock>
+		<stock>
+			<itemId>IC--000089</itemId>
+			<itemName>Cauliflower (Ful Copy)</itemName>
+			<date>2022-05-16T00:00:00+06:00</date>
+			<note>Stock Opening</note>
+			<qty>1.00</qty>
+			<unit>pcs</unit>
+			<sign>1</sign>
+			<store>01</store>
+		</stock>
+		<stock>
+			<itemId>IC--000090</itemId>
+			<itemName>Cabbage New (Pata Copy)</itemName>
+			<date>2022-05-16T00:00:00+06:00</date>
+			<note>Stock Opening</note>
+			<qty>3.00</qty>
+			<unit>pcs</unit>
+			<sign>1</sign>
+			<store>01</store>
+		</stock>
+		<stock>
+			<itemId>IC--000109</itemId>
+			<itemName>Kabli Nut</itemName>
+			<date>2022-05-16T00:00:00+06:00</date>
+			<note>Stock Opening</note>
+			<qty>10000.00</qty>
+			<unit>gm</unit>
+			<sign>1</sign>
+			<store>01</store>
+		</stock>
+		<stock>
+			<itemId>IC--000116</itemId>
+			<itemName>Soya Sauce</itemName>
+			<date>2022-05-16T00:00:00+06:00</date>
+			<note>Stock Opening</note>
+			<qty>1000.00</qty>
+			<unit>gm</unit>
+			<sign>1</sign>
+			<store>01</store>
+		</stock>
+		<stock>
+			<itemId>IC--000123</itemId>
+			<itemName>Spring roll</itemName>
+			<date>2022-05-16T00:00:00+06:00</date>
+			<note>Stock Opening</note>
+			<qty>2.00</qty>
+			<unit>pcs</unit>
+			<sign>1</sign>
+			<store>01</store>
+		</stock>
+		<stock>
+			<itemId>IC--000169</itemId>
+			<itemName>Dhonia Pata</itemName>
+			<date>2022-05-16T00:00:00+06:00</date>
+			<note>Stock Opening</note>
+			<qty>1000.00</qty>
+			<unit>gm</unit>
+			<sign>1</sign>
+			<store>01</store>
+		</stock>
+		<stock>
+			<itemId>IC--000172</itemId>
+			<itemName>Capsicum</itemName>
+			<date>2022-05-16T00:00:00+06:00</date>
+			<note>Stock Opening</note>
+			<qty>1000.00</qty>
+			<unit>gm</unit>
+			<sign>1</sign>
+			<store>01</store>
+		</stock>
+		<stock>
+			<itemId>IC--000013</itemId>
+			<itemName>Chicken (Broiler)</itemName>
+			<date>2022-05-15T00:00:00+06:00</date>
+			<note>Stock Opening</note>
+			<qty>29900.00</qty>
+			<unit>gm</unit>
+			<sign>1</sign>
+			<store>01</store>
+		</stock>
+		<stock>
+			<itemId>IC--000025</itemId>
+			<itemName>Soyabin Oil</itemName>
+			<date>2022-05-15T00:00:00+06:00</date>
+			<note>Stock Opening</note>
+			<qty>5000.00</qty>
+			<unit>gm</unit>
+			<sign>1</sign>
+			<store>01</store>
+		</stock>
+		<stock>
+			<itemId>IC--000030</itemId>
+			<itemName>Brown Egg</itemName>
+			<date>2022-05-15T00:00:00+06:00</date>
+			<note>Stock Opening</note>
+			<qty>30.00</qty>
+			<unit>pcs</unit>
+			<sign>1</sign>
+			<store>01</store>
+		</stock>
+		<stock>
+			<itemId>IC--000032</itemId>
+			<itemName>Suger (Chini)</itemName>
+			<date>2022-05-15T00:00:00+06:00</date>
+			<note>Stock Opening</note>
+			<qty>5000.00</qty>
+			<unit>gm</unit>
+			<sign>1</sign>
+			<store>01</store>
+		</stock>
+		<stock>
+			<itemId>IC--000036</itemId>
+			<itemName>Testing Salt</itemName>
+			<date>2022-05-15T00:00:00+06:00</date>
+			<note>Stock Opening</note>
+			<qty>5000.00</qty>
+			<unit>gm</unit>
+			<sign>1</sign>
+			<store>01</store>
+		</stock>
+		<stock>
+			<itemId>IC--000040</itemId>
+			<itemName>Onion (Peyaj)</itemName>
+			<date>2022-05-15T00:00:00+06:00</date>
+			<note>Stock Opening</note>
+			<qty>5000.00</qty>
+			<unit>gm</unit>
+			<sign>1</sign>
+			<store>01</store>
+		</stock>
+		<stock>
+			<itemId>IC--000046</itemId>
+			<itemName>Mustered Oil</itemName>
+			<date>2022-05-15T00:00:00+06:00</date>
+			<note>Stock Opening</note>
+			<qty>3000.00</qty>
+			<unit>gm</unit>
+			<sign>1</sign>
+			<store>01</store>
+		</stock>
+		<stock>
+			<itemId>IC--000066</itemId>
+			<itemName>Butter Oil</itemName>
+			<date>2022-05-15T00:00:00+06:00</date>
+			<note>Stock Opening</note>
+			<qty>2000.00</qty>
+			<unit>gm</unit>
+			<sign>1</sign>
+			<store>01</store>
+		</stock>
+		<stock>
+			<itemId>IC--000068</itemId>
+			<itemName>Tomato</itemName>
+			<date>2022-05-15T00:00:00+06:00</date>
+			<note>Stock Opening</note>
+			<qty>3000.00</qty>
+			<unit>gm</unit>
+			<sign>1</sign>
+			<store>01</store>
+		</stock>
+		<stock>
+			<itemId>IC--000069</itemId>
+			<itemName>Cucumber</itemName>
+			<date>2022-05-15T00:00:00+06:00</date>
+			<note>Stock Opening</note>
+			<qty>4000.00</qty>
+			<unit>gm</unit>
+			<sign>1</sign>
+			<store>01</store>
+		</stock>
+		<stock>
+			<itemId>IC--000072</itemId>
+			<itemName>Lemon</itemName>
+			<date>2022-05-15T00:00:00+06:00</date>
+			<note>Stock Opening</note>
+			<qty>20.00</qty>
+			<unit>pcs</unit>
+			<sign>1</sign>
+			<store>01</store>
+		</stock>
+		<stock>
+			<itemId>IC--000073</itemId>
+			<itemName>Chinese Cabbage</itemName>
+			<date>2022-05-15T00:00:00+06:00</date>
+			<note>Stock Opening</note>
+			<qty>5.00</qty>
+			<unit>pcs</unit>
+			<sign>1</sign>
+			<store>01</store>
+		</stock>
+		<stock>
+			<itemId>IC--000074</itemId>
+			<itemName>Spring Onion (Peyaj Pata)</itemName>
+			<date>2022-05-15T00:00:00+06:00</date>
+			<note>Stock Opening</note>
+			<qty>250.00</qty>
+			<unit>gm</unit>
+			<sign>1</sign>
+			<store>01</store>
+		</stock>
+		<stock>
+			<itemId>IC--000083</itemId>
+			<itemName>Green Chilly (Kacha Morich)</itemName>
+			<date>2022-05-15T00:00:00+06:00</date>
+			<note>Stock Opening</note>
+			<qty>500.00</qty>
+			<unit>gm</unit>
+			<sign>1</sign>
+			<store>01</store>
+		</stock>
+		<stock>
+			<itemId>IC--000089</itemId>
+			<itemName>Cauliflower (Ful Copy)</itemName>
+			<date>2022-05-15T00:00:00+06:00</date>
+			<note>Stock Opening</note>
+			<qty>1.00</qty>
+			<unit>pcs</unit>
+			<sign>1</sign>
+			<store>01</store>
+		</stock>
+		<stock>
+			<itemId>IC--000090</itemId>
+			<itemName>Cabbage New (Pata Copy)</itemName>
+			<date>2022-05-15T00:00:00+06:00</date>
+			<note>Stock Opening</note>
+			<qty>2.00</qty>
+			<unit>pcs</unit>
+			<sign>1</sign>
+			<store>01</store>
+		</stock>
+		<stock>
+			<itemId>IC--000097</itemId>
+			<itemName>Papaya</itemName>
+			<date>2022-05-15T00:00:00+06:00</date>
+			<note>Stock Opening</note>
+			<qty>4000.00</qty>
+			<unit>gm</unit>
+			<sign>1</sign>
+			<store>01</store>
+		</stock>
+		<stock>
+			<itemId>IC--000109</itemId>
+			<itemName>Kabli Nut</itemName>
+			<date>2022-05-15T00:00:00+06:00</date>
+			<note>Stock Opening</note>
+			<qty>10000.00</qty>
+			<unit>gm</unit>
+			<sign>1</sign>
+			<store>01</store>
+		</stock>
+		<stock>
+			<itemId>IC--000169</itemId>
+			<itemName>Dhonia Pata</itemName>
+			<date>2022-05-15T00:00:00+06:00</date>
+			<note>Stock Opening</note>
+			<qty>1000.00</qty>
+			<unit>gm</unit>
+			<sign>1</sign>
+			<store>01</store>
+		</stock>
+		<stock>
+			<itemId>IC--000172</itemId>
+			<itemName>Capsicum</itemName>
+			<date>2022-05-15T00:00:00+06:00</date>
+			<note>Stock Opening</note>
+			<qty>2000.00</qty>
+			<unit>gm</unit>
+			<sign>1</sign>
+			<store>01</store>
+		</stock>
+		<stock>
+			<itemId>IC--000090</itemId>
+			<itemName>Cabbage New (Pata Copy)</itemName>
+			<date>2022-05-14T00:00:00+06:00</date>
+			<note>Stock Opening</note>
+			<qty>3.00</qty>
+			<unit>pcs</unit>
+			<sign>1</sign>
+			<store>01</store>
+		</stock>
+		<stock>
+			<itemId>IC--000124</itemId>
+			<itemName>French Fries</itemName>
+			<date>2022-05-14T00:00:00+06:00</date>
+			<note>Stock Opening</note>
+			<qty>25000.00</qty>
+			<unit>gm</unit>
+			<sign>1</sign>
+			<store>01</store>
+		</stock>
+		<stock>
+			<itemId>IC--000002</itemId>
+			<itemName>Crab (Kakra)</itemName>
+			<date>2022-05-12T00:00:00+06:00</date>
+			<note>Stock Opening</note>
+			<qty>10000.00</qty>
+			<unit>gm</unit>
+			<sign>1</sign>
+			<store>01</store>
+		</stock>
+		<stock>
+			<itemId>IC--000008</itemId>
+			<itemName>Prawn </itemName>
+			<date>2022-05-12T00:00:00+06:00</date>
+			<note>Stock Opening</note>
+			<qty>2500.00</qty>
+			<unit>gm</unit>
+			<sign>1</sign>
+			<store>01</store>
+		</stock>
+		<stock>
+			<itemId>IC--000011</itemId>
+			<itemName>Beef Meat</itemName>
+			<date>2022-05-12T00:00:00+06:00</date>
+			<note>Stock Opening</note>
+			<qty>6000.00</qty>
+			<unit>gm</unit>
+			<sign>1</sign>
+			<store>01</store>
+		</stock>
+		<stock>
+			<itemId>IC--000012</itemId>
+			<itemName>Mutton Meat</itemName>
+			<date>2022-05-12T00:00:00+06:00</date>
+			<note>Stock Opening</note>
+			<qty>2000.00</qty>
+			<unit>gm</unit>
+			<sign>1</sign>
+			<store>01</store>
+		</stock>
+		<stock>
+			<itemId>IC--000013</itemId>
+			<itemName>Chicken (Broiler)</itemName>
+			<date>2022-05-12T00:00:00+06:00</date>
+			<note>Stock Opening</note>
+			<qty>30400.00</qty>
+			<unit>gm</unit>
+			<sign>1</sign>
+			<store>01</store>
+		</stock>
+		<stock>
+			<itemId>IC--000037</itemId>
+			<itemName>Zira</itemName>
+			<date>2022-05-12T00:00:00+06:00</date>
+			<note>Stock Opening</note>
+			<qty>500.00</qty>
+			<unit>gm</unit>
+			<sign>1</sign>
+			<store>01</store>
+		</stock>
+		<stock>
+			<itemId>IC--000040</itemId>
+			<itemName>Onion (Peyaj)</itemName>
+			<date>2022-05-12T00:00:00+06:00</date>
+			<note>Stock Opening</note>
+			<qty>13000.00</qty>
+			<unit>gm</unit>
+			<sign>1</sign>
+			<store>01</store>
+		</stock>
+		<stock>
+			<itemId>IC--000041</itemId>
+			<itemName>Garlic (Rasun)</itemName>
+			<date>2022-05-12T00:00:00+06:00</date>
+			<note>Stock Opening</note>
+			<qty>2000.00</qty>
+			<unit>gm</unit>
+			<sign>1</sign>
+			<store>01</store>
+		</stock>
+		<stock>
+			<itemId>IC--000059</itemId>
+			<itemName>Chat Mashla</itemName>
+			<date>2022-05-12T00:00:00+06:00</date>
+			<note>Stock Opening</note>
+			<qty>10000.00</qty>
+			<unit>gm</unit>
+			<sign>1</sign>
+			<store>01</store>
+		</stock>
+		<stock>
+			<itemId>IC--000060</itemId>
+			<itemName>Potato (Big)</itemName>
+			<date>2022-05-12T00:00:00+06:00</date>
+			<note>Stock Opening</note>
+			<qty>5000.00</qty>
+			<unit>gm</unit>
+			<sign>1</sign>
+			<store>01</store>
+		</stock>
+		<stock>
+			<itemId>IC--000066</itemId>
+			<itemName>Butter Oil</itemName>
+			<date>2022-05-12T00:00:00+06:00</date>
+			<note>Stock Opening</note>
+			<qty>1000.00</qty>
+			<unit>gm</unit>
+			<sign>1</sign>
+			<store>01</store>
+		</stock>
+		<stock>
+			<itemId>IC--000067</itemId>
+			<itemName>Carrot</itemName>
+			<date>2022-05-12T00:00:00+06:00</date>
+			<note>Stock Opening</note>
+			<qty>3000.00</qty>
+			<unit>gm</unit>
+			<sign>1</sign>
+			<store>01</store>
+		</stock>
+		<stock>
+			<itemId>IC--000068</itemId>
+			<itemName>Tomato</itemName>
+			<date>2022-05-12T00:00:00+06:00</date>
+			<note>Stock Opening</note>
+			<qty>3000.00</qty>
+			<unit>gm</unit>
+			<sign>1</sign>
+			<store>01</store>
+		</stock>
+		<stock>
+			<itemId>IC--000069</itemId>
+			<itemName>Cucumber</itemName>
+			<date>2022-05-12T00:00:00+06:00</date>
+			<note>Stock Opening</note>
+			<qty>6000.00</qty>
+			<unit>gm</unit>
+			<sign>1</sign>
+			<store>01</store>
+		</stock>
+		<stock>
+			<itemId>IC--000070</itemId>
+			<itemName>Chichinga</itemName>
+			<date>2022-05-12T00:00:00+06:00</date>
+			<note>Stock Opening</note>
+			<qty>1000.00</qty>
+			<unit>gm</unit>
+			<sign>1</sign>
+			<store>01</store>
+		</stock>
+		<stock>
+			<itemId>IC--000072</itemId>
+			<itemName>Lemon</itemName>
+			<date>2022-05-12T00:00:00+06:00</date>
+			<note>Stock Opening</note>
+			<qty>30.00</qty>
+			<unit>pcs</unit>
+			<sign>1</sign>
+			<store>01</store>
+		</stock>
+		<stock>
+			<itemId>IC--000073</itemId>
+			<itemName>Chinese Cabbage</itemName>
+			<date>2022-05-12T00:00:00+06:00</date>
+			<note>Stock Opening</note>
+			<qty>5.00</qty>
+			<unit>pcs</unit>
+			<sign>1</sign>
+			<store>01</store>
+		</stock>
+		<stock>
+			<itemId>IC--000083</itemId>
+			<itemName>Green Chilly (Kacha Morich)</itemName>
+			<date>2022-05-12T00:00:00+06:00</date>
+			<note>Stock Opening</note>
+			<qty>1000.00</qty>
+			<unit>gm</unit>
+			<sign>1</sign>
+			<store>01</store>
+		</stock>
+		<stock>
+			<itemId>IC--000085</itemId>
+			<itemName>Long Beans (Borboti)</itemName>
+			<date>2022-05-12T00:00:00+06:00</date>
+			<note>Stock Opening</note>
+			<qty>250.00</qty>
+			<unit>gm</unit>
+			<sign>1</sign>
+			<store>01</store>
+		</stock>
+		<stock>
+			<itemId>IC--000090</itemId>
+			<itemName>Cabbage New (Pata Copy)</itemName>
+			<date>2022-05-12T00:00:00+06:00</date>
+			<note>Stock Opening</note>
+			<qty>2.00</qty>
+			<unit>pcs</unit>
+			<sign>1</sign>
+			<store>01</store>
+		</stock>
+		<stock>
+			<itemId>IC--000096</itemId>
+			<itemName>Green Peach</itemName>
+			<date>2022-05-12T00:00:00+06:00</date>
+			<note>Stock Opening</note>
+			<qty>24.00</qty>
+			<unit>pcs</unit>
+			<sign>1</sign>
+			<store>01</store>
+		</stock>
+		<stock>
+			<itemId>IC--000123</itemId>
+			<itemName>Spring roll</itemName>
+			<date>2022-05-12T00:00:00+06:00</date>
+			<note>Stock Opening</note>
+			<qty>2.00</qty>
+			<unit>pcs</unit>
+			<sign>1</sign>
+			<store>01</store>
+		</stock>
+		<stock>
+			<itemId>IC--000129</itemId>
+			<itemName>wonthon pati</itemName>
+			<date>2022-05-12T00:00:00+06:00</date>
+			<note>Stock Opening</note>
+			<qty>2.00</qty>
+			<unit>pcs</unit>
+			<sign>1</sign>
+			<store>01</store>
+		</stock>
+		<stock>
+			<itemId>IC--000169</itemId>
+			<itemName>Dhonia Pata</itemName>
+			<date>2022-05-12T00:00:00+06:00</date>
+			<note>Stock Opening</note>
+			<qty>1000.00</qty>
+			<unit>gm</unit>
+			<sign>1</sign>
+			<store>01</store>
+		</stock>
+		<stock>
+			<itemId>IC--000172</itemId>
+			<itemName>Capsicum</itemName>
+			<date>2022-05-12T00:00:00+06:00</date>
+			<note>Stock Opening</note>
+			<qty>2000.00</qty>
+			<unit>gm</unit>
+			<sign>1</sign>
+			<store>01</store>
+		</stock>
+		<stock>
+			<itemId>IC--000005</itemId>
+			<itemName>koral Fish</itemName>
+			<date>2022-05-11T00:00:00+06:00</date>
+			<note>Stock Opening</note>
+			<qty>11.00</qty>
+			<unit>pcs</unit>
+			<sign>1</sign>
+			<store>01</store>
+		</stock>
+		<stock>
+			<itemId>IC--000013</itemId>
+			<itemName>Chicken (Broiler)</itemName>
+			<date>2022-05-11T00:00:00+06:00</date>
+			<note>Stock Opening</note>
+			<qty>25200.00</qty>
+			<unit>gm</unit>
+			<sign>1</sign>
+			<store>01</store>
+		</stock>
+		<stock>
+			<itemId>IC--000017</itemId>
+			<itemName>Malta</itemName>
+			<date>2022-05-11T00:00:00+06:00</date>
+			<note>Stock Opening</note>
+			<qty>24.00</qty>
+			<unit>pcs</unit>
+			<sign>1</sign>
+			<store>01</store>
+		</stock>
+		<stock>
+			<itemId>IC--000025</itemId>
+			<itemName>Soyabin Oil</itemName>
+			<date>2022-05-11T00:00:00+06:00</date>
+			<note>Stock Opening</note>
+			<qty>10000.00</qty>
+			<unit>gm</unit>
+			<sign>1</sign>
+			<store>01</store>
+		</stock>
+		<stock>
+			<itemId>IC--000029</itemId>
+			<itemName>Moyda</itemName>
+			<date>2022-05-11T00:00:00+06:00</date>
+			<note>Stock Opening</note>
+			<qty>58000.00</qty>
+			<unit>gm</unit>
+			<sign>1</sign>
+			<store>01</store>
+		</stock>
+		<stock>
+			<itemId>IC--000030</itemId>
+			<itemName>Brown Egg</itemName>
+			<date>2022-05-11T00:00:00+06:00</date>
+			<note>Stock Opening</note>
+			<qty>30.00</qty>
+			<unit>pcs</unit>
+			<sign>1</sign>
+			<store>01</store>
+		</stock>
+		<stock>
+			<itemId>IC--000032</itemId>
+			<itemName>Suger (Chini)</itemName>
+			<date>2022-05-11T00:00:00+06:00</date>
+			<note>Stock Opening</note>
+			<qty>5000.00</qty>
+			<unit>gm</unit>
+			<sign>1</sign>
+			<store>01</store>
+		</stock>
+		<stock>
+			<itemId>IC--000040</itemId>
+			<itemName>Onion (Peyaj)</itemName>
+			<date>2022-05-11T00:00:00+06:00</date>
+			<note>Stock Opening</note>
+			<qty>13000.00</qty>
+			<unit>gm</unit>
+			<sign>1</sign>
+			<store>01</store>
+		</stock>
+		<stock>
+			<itemId>IC--000046</itemId>
+			<itemName>Mustered Oil</itemName>
+			<date>2022-05-11T00:00:00+06:00</date>
+			<note>Stock Opening</note>
+			<qty>3000.00</qty>
+			<unit>gm</unit>
+			<sign>1</sign>
+			<store>01</store>
+		</stock>
+		<stock>
+			<itemId>IC--000064</itemId>
+			<itemName>Milk (Powder)</itemName>
+			<date>2022-05-11T00:00:00+06:00</date>
+			<note>Stock Opening</note>
+			<qty>1000.00</qty>
+			<unit>gm</unit>
+			<sign>1</sign>
+			<store>01</store>
+		</stock>
+		<stock>
+			<itemId>IC--000068</itemId>
+			<itemName>Tomato</itemName>
+			<date>2022-05-11T00:00:00+06:00</date>
+			<note>Stock Opening</note>
+			<qty>3000.00</qty>
+			<unit>gm</unit>
+			<sign>1</sign>
+			<store>01</store>
+		</stock>
+		<stock>
+			<itemId>IC--000069</itemId>
+			<itemName>Cucumber</itemName>
+			<date>2022-05-11T00:00:00+06:00</date>
+			<note>Stock Opening</note>
+			<qty>4000.00</qty>
+			<unit>gm</unit>
+			<sign>1</sign>
+			<store>01</store>
+		</stock>
+		<stock>
+			<itemId>IC--000070</itemId>
+			<itemName>Chichinga</itemName>
+			<date>2022-05-11T00:00:00+06:00</date>
+			<note>Stock Opening</note>
+			<qty>1000.00</qty>
+			<unit>gm</unit>
+			<sign>1</sign>
+			<store>01</store>
+		</stock>
+		<stock>
+			<itemId>IC--000072</itemId>
+			<itemName>Lemon</itemName>
+			<date>2022-05-11T00:00:00+06:00</date>
+			<note>Stock Opening</note>
+			<qty>30.00</qty>
+			<unit>pcs</unit>
+			<sign>1</sign>
+			<store>01</store>
+		</stock>
+		<stock>
+			<itemId>IC--000073</itemId>
+			<itemName>Chinese Cabbage</itemName>
+			<date>2022-05-11T00:00:00+06:00</date>
+			<note>Stock Opening</note>
+			<qty>3.00</qty>
+			<unit>pcs</unit>
+			<sign>1</sign>
+			<store>01</store>
+		</stock>
+		<stock>
+			<itemId>IC--000074</itemId>
+			<itemName>Spring Onion (Peyaj Pata)</itemName>
+			<date>2022-05-11T00:00:00+06:00</date>
+			<note>Stock Opening</note>
+			<qty>250.00</qty>
+			<unit>gm</unit>
+			<sign>1</sign>
+			<store>01</store>
+		</stock>
+		<stock>
+			<itemId>IC--000083</itemId>
+			<itemName>Green Chilly (Kacha Morich)</itemName>
+			<date>2022-05-11T00:00:00+06:00</date>
+			<note>Stock Opening</note>
+			<qty>1000.00</qty>
+			<unit>gm</unit>
+			<sign>1</sign>
+			<store>01</store>
+		</stock>
+		<stock>
+			<itemId>IC--000085</itemId>
+			<itemName>Long Beans (Borboti)</itemName>
+			<date>2022-05-11T00:00:00+06:00</date>
+			<note>Stock Opening</note>
+			<qty>500.00</qty>
+			<unit>gm</unit>
+			<sign>1</sign>
+			<store>01</store>
+		</stock>
+		<stock>
+			<itemId>IC--000089</itemId>
+			<itemName>Cauliflower (Ful Copy)</itemName>
+			<date>2022-05-11T00:00:00+06:00</date>
+			<note>Stock Opening</note>
+			<qty>1.00</qty>
+			<unit>pcs</unit>
+			<sign>1</sign>
+			<store>01</store>
+		</stock>
+		<stock>
+			<itemId>IC--000092</itemId>
+			<itemName>Brocoli </itemName>
+			<date>2022-05-11T00:00:00+06:00</date>
+			<note>Stock Opening</note>
+			<qty>1.00</qty>
+			<unit>pcs</unit>
+			<sign>1</sign>
+			<store>01</store>
+		</stock>
+		<stock>
+			<itemId>IC--000097</itemId>
+			<itemName>Papaya</itemName>
+			<date>2022-05-11T00:00:00+06:00</date>
+			<note>Stock Opening</note>
+			<qty>5000.00</qty>
+			<unit>gm</unit>
+			<sign>1</sign>
+			<store>01</store>
+		</stock>
+		<stock>
+			<itemId>IC--000108</itemId>
+			<itemName>Kaju Nut</itemName>
+			<date>2022-05-11T00:00:00+06:00</date>
+			<note>Stock Opening</note>
+			<qty>5000.00</qty>
+			<unit>gm</unit>
+			<sign>1</sign>
+			<store>01</store>
+		</stock>
+		<stock>
+			<itemId>IC--000109</itemId>
+			<itemName>Kabli Nut</itemName>
+			<date>2022-05-11T00:00:00+06:00</date>
+			<note>Stock Opening</note>
+			<qty>5000.00</qty>
+			<unit>gm</unit>
+			<sign>1</sign>
+			<store>01</store>
+		</stock>
+		<stock>
+			<itemId>IC--000132</itemId>
+			<itemName>Thai labu Pata</itemName>
+			<date>2022-05-11T00:00:00+06:00</date>
+			<note>Stock Opening</note>
+			<qty>250.00</qty>
+			<unit>gm</unit>
+			<sign>1</sign>
+			<store>01</store>
+		</stock>
+		<stock>
+			<itemId>IC--000169</itemId>
+			<itemName>Dhonia Pata</itemName>
+			<date>2022-05-11T00:00:00+06:00</date>
+			<note>Stock Opening</note>
+			<qty>1000.00</qty>
+			<unit>gm</unit>
+			<sign>1</sign>
+			<store>01</store>
+		</stock>
+		<stock>
+			<itemId>IC--000172</itemId>
+			<itemName>Capsicum</itemName>
+			<date>2022-05-11T00:00:00+06:00</date>
+			<note>Stock Opening</note>
+			<qty>2000.00</qty>
+			<unit>gm</unit>
+			<sign>1</sign>
+			<store>01</store>
+		</stock>
+		<stock>
+			<itemId>IC--000178</itemId>
+			<itemName>Tok Doi (curd)</itemName>
+			<date>2022-05-11T00:00:00+06:00</date>
+			<note>Stock Opening</note>
+			<qty>500.00</qty>
+			<unit>gm</unit>
+			<sign>1</sign>
+			<store>01</store>
+		</stock>
+		<stock>
+			<itemId>IC--000223</itemId>
+			<itemName>Pineapple</itemName>
+			<date>2022-05-11T00:00:00+06:00</date>
+			<note>Stock Opening</note>
+			<qty>1.00</qty>
+			<unit>pcs</unit>
+			<sign>1</sign>
+			<store>01</store>
+		</stock>
+		<stock>
+			<itemId>IC--000010</itemId>
+			<itemName>Chicken (Local)</itemName>
+			<date>2022-05-10T00:00:00+06:00</date>
+			<note>Stock Opening</note>
+			<qty>3200.00</qty>
+			<unit>gm</unit>
+			<sign>1</sign>
+			<store>01</store>
+		</stock>
+		<stock>
+			<itemId>IC--000011</itemId>
+			<itemName>Beef Meat</itemName>
+			<date>2022-05-10T00:00:00+06:00</date>
+			<note>Stock Opening</note>
+			<qty>5000.00</qty>
+			<unit>gm</unit>
+			<sign>1</sign>
+			<store>01</store>
+		</stock>
+		<stock>
+			<itemId>IC--000012</itemId>
+			<itemName>Mutton Meat</itemName>
+			<date>2022-05-10T00:00:00+06:00</date>
+			<note>Stock Opening</note>
+			<qty>1600.00</qty>
+			<unit>gm</unit>
+			<sign>1</sign>
+			<store>01</store>
+		</stock>
+		<stock>
+			<itemId>IC--000013</itemId>
+			<itemName>Chicken (Broiler)</itemName>
+			<date>2022-05-10T00:00:00+06:00</date>
+			<note>Stock Opening</note>
+			<qty>25500.00</qty>
+			<unit>gm</unit>
+			<sign>1</sign>
+			<store>01</store>
+		</stock>
+		<stock>
+			<itemId>IC--000017</itemId>
+			<itemName>Malta</itemName>
+			<date>2022-05-10T00:00:00+06:00</date>
+			<note>Stock Opening</note>
+			<qty>21.00</qty>
+			<unit>pcs</unit>
+			<sign>1</sign>
+			<store>01</store>
+		</stock>
+		<stock>
+			<itemId>IC--000025</itemId>
+			<itemName>Soyabin Oil</itemName>
+			<date>2022-05-10T00:00:00+06:00</date>
+			<note>Stock Opening</note>
+			<qty>15000.00</qty>
+			<unit>gm</unit>
+			<sign>1</sign>
+			<store>01</store>
+		</stock>
+		<stock>
+			<itemId>IC--000036</itemId>
+			<itemName>Testing Salt</itemName>
+			<date>2022-05-10T00:00:00+06:00</date>
+			<note>Stock Opening</note>
+			<qty>5000.00</qty>
+			<unit>gm</unit>
+			<sign>1</sign>
+			<store>01</store>
+		</stock>
+		<stock>
+			<itemId>IC--000040</itemId>
+			<itemName>Onion (Peyaj)</itemName>
+			<date>2022-05-10T00:00:00+06:00</date>
+			<note>Stock Opening</note>
+			<qty>10000.00</qty>
+			<unit>gm</unit>
+			<sign>1</sign>
+			<store>01</store>
+		</stock>
+		<stock>
+			<itemId>IC--000041</itemId>
+			<itemName>Garlic (Rasun)</itemName>
+			<date>2022-05-10T00:00:00+06:00</date>
+			<note>Stock Opening</note>
+			<qty>2000.00</qty>
+			<unit>gm</unit>
+			<sign>1</sign>
+			<store>01</store>
+		</stock>
+		<stock>
+			<itemId>IC--000042</itemId>
+			<itemName>Ginger (Ada)</itemName>
+			<date>2022-05-10T00:00:00+06:00</date>
+			<note>Stock Opening</note>
+			<qty>2000.00</qty>
+			<unit>gm</unit>
+			<sign>1</sign>
+			<store>01</store>
+		</stock>
+		<stock>
+			<itemId>IC--000067</itemId>
+			<itemName>Carrot</itemName>
+			<date>2022-05-10T00:00:00+06:00</date>
+			<note>Stock Opening</note>
+			<qty>2000.00</qty>
+			<unit>gm</unit>
+			<sign>1</sign>
+			<store>01</store>
+		</stock>
+		<stock>
+			<itemId>IC--000068</itemId>
+			<itemName>Tomato</itemName>
+			<date>2022-05-10T00:00:00+06:00</date>
+			<note>Stock Opening</note>
+			<qty>3000.00</qty>
+			<unit>gm</unit>
+			<sign>1</sign>
+			<store>01</store>
+		</stock>
+		<stock>
+			<itemId>IC--000069</itemId>
+			<itemName>Cucumber</itemName>
+			<date>2022-05-10T00:00:00+06:00</date>
+			<note>Stock Opening</note>
+			<qty>5000.00</qty>
+			<unit>gm</unit>
+			<sign>1</sign>
+			<store>01</store>
+		</stock>
+		<stock>
+			<itemId>IC--000072</itemId>
+			<itemName>Lemon</itemName>
+			<date>2022-05-10T00:00:00+06:00</date>
+			<note>Stock Opening</note>
+			<qty>30.00</qty>
+			<unit>pcs</unit>
+			<sign>1</sign>
+			<store>01</store>
+		</stock>
+		<stock>
+			<itemId>IC--000073</itemId>
+			<itemName>Chinese Cabbage</itemName>
+			<date>2022-05-10T00:00:00+06:00</date>
+			<note>Stock Opening</note>
+			<qty>5.00</qty>
+			<unit>pcs</unit>
+			<sign>1</sign>
+			<store>01</store>
+		</stock>
+		<stock>
+			<itemId>IC--000074</itemId>
+			<itemName>Spring Onion (Peyaj Pata)</itemName>
+			<date>2022-05-10T00:00:00+06:00</date>
+			<note>Stock Opening</note>
+			<qty>250.00</qty>
+			<unit>gm</unit>
+			<sign>1</sign>
+			<store>01</store>
+		</stock>
+		<stock>
+			<itemId>IC--000083</itemId>
+			<itemName>Green Chilly (Kacha Morich)</itemName>
+			<date>2022-05-10T00:00:00+06:00</date>
+			<note>Stock Opening</note>
+			<qty>1000.00</qty>
+			<unit>gm</unit>
+			<sign>1</sign>
+			<store>01</store>
+		</stock>
+		<stock>
+			<itemId>IC--000085</itemId>
+			<itemName>Long Beans (Borboti)</itemName>
+			<date>2022-05-10T00:00:00+06:00</date>
+			<note>Stock Opening</note>
+			<qty>250.00</qty>
+			<unit>gm</unit>
+			<sign>1</sign>
+			<store>01</store>
+		</stock>
+		<stock>
+			<itemId>IC--000092</itemId>
+			<itemName>Brocoli </itemName>
+			<date>2022-05-10T00:00:00+06:00</date>
+			<note>Stock Opening</note>
+			<qty>1.00</qty>
+			<unit>pcs</unit>
+			<sign>1</sign>
+			<store>01</store>
+		</stock>
+		<stock>
+			<itemId>IC--000097</itemId>
+			<itemName>Papaya</itemName>
+			<date>2022-05-10T00:00:00+06:00</date>
+			<note>Stock Opening</note>
+			<qty>3000.00</qty>
+			<unit>gm</unit>
+			<sign>1</sign>
+			<store>01</store>
+		</stock>
+		<stock>
+			<itemId>IC--000169</itemId>
+			<itemName>Dhonia Pata</itemName>
+			<date>2022-05-10T00:00:00+06:00</date>
+			<note>Stock Opening</note>
+			<qty>1000.00</qty>
+			<unit>gm</unit>
+			<sign>1</sign>
+			<store>01</store>
+		</stock>
+		<stock>
+			<itemId>IC--000172</itemId>
+			<itemName>Capsicum</itemName>
+			<date>2022-05-10T00:00:00+06:00</date>
+			<note>Stock Opening</note>
+			<qty>2000.00</qty>
+			<unit>gm</unit>
+			<sign>1</sign>
+			<store>01</store>
+		</stock>
+		<stock>
+			<itemId>IC--000178</itemId>
+			<itemName>Tok Doi (curd)</itemName>
+			<date>2022-05-10T00:00:00+06:00</date>
+			<note>Stock Opening</note>
+			<qty>500.00</qty>
+			<unit>gm</unit>
+			<sign>1</sign>
+			<store>01</store>
+		</stock>
+		<stock>
+			<itemId>IC--000181</itemId>
+			<itemName>Duck</itemName>
+			<date>2022-05-10T00:00:00+06:00</date>
+			<note>Stock Opening</note>
+			<qty>1.00</qty>
+			<unit>pcs</unit>
+			<sign>1</sign>
+			<store>01</store>
+		</stock>
+		<stock>
+			<itemId>IC--000008</itemId>
+			<itemName>Prawn </itemName>
+			<date>2022-05-09T00:00:00+06:00</date>
+			<note>Stock Opening</note>
+			<qty>2000.00</qty>
+			<unit>gm</unit>
+			<sign>1</sign>
+			<store>01</store>
+		</stock>
+		<stock>
+			<itemId>IC--000010</itemId>
+			<itemName>Chicken (Local)</itemName>
+			<date>2022-05-09T00:00:00+06:00</date>
+			<note>Stock Opening</note>
+			<qty>3200.00</qty>
+			<unit>gm</unit>
+			<sign>1</sign>
+			<store>01</store>
+		</stock>
+		<stock>
+			<itemId>IC--000011</itemId>
+			<itemName>Beef Meat</itemName>
+			<date>2022-05-09T00:00:00+06:00</date>
+			<note>Stock Opening</note>
+			<qty>9000.00</qty>
+			<unit>gm</unit>
+			<sign>1</sign>
+			<store>01</store>
+		</stock>
+		<stock>
+			<itemId>IC--000013</itemId>
+			<itemName>Chicken (Broiler)</itemName>
+			<date>2022-05-09T00:00:00+06:00</date>
+			<note>Stock Opening</note>
+			<qty>25600.00</qty>
+			<unit>gm</unit>
+			<sign>1</sign>
+			<store>01</store>
+		</stock>
+		<stock>
+			<itemId>IC--000025</itemId>
+			<itemName>Soyabin Oil</itemName>
+			<date>2022-05-09T00:00:00+06:00</date>
+			<note>Stock Opening</note>
+			<qty>10000.00</qty>
+			<unit>gm</unit>
+			<sign>1</sign>
+			<store>01</store>
+		</stock>
+		<stock>
+			<itemId>IC--000030</itemId>
+			<itemName>Brown Egg</itemName>
+			<date>2022-05-09T00:00:00+06:00</date>
+			<note>Stock Opening</note>
+			<qty>60.00</qty>
+			<unit>pcs</unit>
+			<sign>1</sign>
+			<store>01</store>
+		</stock>
+		<stock>
+			<itemId>IC--000032</itemId>
+			<itemName>Suger (Chini)</itemName>
+			<date>2022-05-09T00:00:00+06:00</date>
+			<note>Stock Opening</note>
+			<qty>5000.00</qty>
+			<unit>gm</unit>
+			<sign>1</sign>
+			<store>01</store>
+		</stock>
+		<stock>
+			<itemId>IC--000040</itemId>
+			<itemName>Onion (Peyaj)</itemName>
+			<date>2022-05-09T00:00:00+06:00</date>
+			<note>Stock Opening</note>
+			<qty>12000.00</qty>
+			<unit>gm</unit>
+			<sign>1</sign>
+			<store>01</store>
+		</stock>
+		<stock>
+			<itemId>IC--000041</itemId>
+			<itemName>Garlic (Rasun)</itemName>
+			<date>2022-05-09T00:00:00+06:00</date>
+			<note>Stock Opening</note>
+			<qty>2000.00</qty>
+			<unit>gm</unit>
+			<sign>1</sign>
+			<store>01</store>
+		</stock>
+		<stock>
+			<itemId>IC--000042</itemId>
+			<itemName>Ginger (Ada)</itemName>
+			<date>2022-05-09T00:00:00+06:00</date>
+			<note>Stock Opening</note>
+			<qty>2000.00</qty>
+			<unit>gm</unit>
+			<sign>1</sign>
+			<store>01</store>
+		</stock>
+		<stock>
+			<itemId>IC--000043</itemId>
+			<itemName>Thai Ginger (Thai Ada)</itemName>
+			<date>2022-05-09T00:00:00+06:00</date>
+			<note>Stock Opening</note>
+			<qty>250.00</qty>
+			<unit>gm</unit>
+			<sign>1</sign>
+			<store>01</store>
+		</stock>
+		<stock>
+			<itemId>IC--000060</itemId>
+			<itemName>Potato (Big)</itemName>
+			<date>2022-05-09T00:00:00+06:00</date>
+			<note>Stock Opening</note>
+			<qty>5000.00</qty>
+			<unit>gm</unit>
+			<sign>1</sign>
+			<store>01</store>
+		</stock>
+		<stock>
+			<itemId>IC--000064</itemId>
+			<itemName>Milk (Powder)</itemName>
+			<date>2022-05-09T00:00:00+06:00</date>
+			<note>Stock Opening</note>
+			<qty>1000.00</qty>
+			<unit>gm</unit>
+			<sign>1</sign>
+			<store>01</store>
+		</stock>
+		<stock>
+			<itemId>IC--000066</itemId>
+			<itemName>Butter Oil</itemName>
+			<date>2022-05-09T00:00:00+06:00</date>
+			<note>Stock Opening</note>
+			<qty>2000.00</qty>
+			<unit>gm</unit>
+			<sign>1</sign>
+			<store>01</store>
+		</stock>
+		<stock>
+			<itemId>IC--000067</itemId>
+			<itemName>Carrot</itemName>
+			<date>2022-05-09T00:00:00+06:00</date>
+			<note>Stock Opening</note>
+			<qty>3000.00</qty>
+			<unit>gm</unit>
+			<sign>1</sign>
+			<store>01</store>
+		</stock>
+		<stock>
+			<itemId>IC--000068</itemId>
+			<itemName>Tomato</itemName>
+			<date>2022-05-09T00:00:00+06:00</date>
+			<note>Stock Opening</note>
+			<qty>4000.00</qty>
+			<unit>gm</unit>
+			<sign>1</sign>
+			<store>01</store>
+		</stock>
+		<stock>
+			<itemId>IC--000069</itemId>
+			<itemName>Cucumber</itemName>
+			<date>2022-05-09T00:00:00+06:00</date>
+			<note>Stock Opening</note>
+			<qty>6000.00</qty>
+			<unit>gm</unit>
+			<sign>1</sign>
+			<store>01</store>
+		</stock>
+		<stock>
+			<itemId>IC--000070</itemId>
+			<itemName>Chichinga</itemName>
+			<date>2022-05-09T00:00:00+06:00</date>
+			<note>Stock Opening</note>
+			<qty>1000.00</qty>
+			<unit>gm</unit>
+			<sign>1</sign>
+			<store>01</store>
+		</stock>
+		<stock>
+			<itemId>IC--000072</itemId>
+			<itemName>Lemon</itemName>
+			<date>2022-05-09T00:00:00+06:00</date>
+			<note>Stock Opening</note>
+			<qty>50.00</qty>
+			<unit>pcs</unit>
+			<sign>1</sign>
+			<store>01</store>
+		</stock>
+		<stock>
+			<itemId>IC--000073</itemId>
+			<itemName>Chinese Cabbage</itemName>
+			<date>2022-05-09T00:00:00+06:00</date>
+			<note>Stock Opening</note>
+			<qty>4.00</qty>
+			<unit>pcs</unit>
+			<sign>1</sign>
+			<store>01</store>
+		</stock>
+		<stock>
+			<itemId>IC--000074</itemId>
+			<itemName>Spring Onion (Peyaj Pata)</itemName>
+			<date>2022-05-09T00:00:00+06:00</date>
+			<note>Stock Opening</note>
+			<qty>250.00</qty>
+			<unit>gm</unit>
+			<sign>1</sign>
+			<store>01</store>
+		</stock>
+		<stock>
+			<itemId>IC--000083</itemId>
+			<itemName>Green Chilly (Kacha Morich)</itemName>
+			<date>2022-05-09T00:00:00+06:00</date>
+			<note>Stock Opening</note>
+			<qty>1000.00</qty>
+			<unit>gm</unit>
+			<sign>1</sign>
+			<store>01</store>
+		</stock>
+		<stock>
+			<itemId>IC--000085</itemId>
+			<itemName>Long Beans (Borboti)</itemName>
+			<date>2022-05-09T00:00:00+06:00</date>
+			<note>Stock Opening</note>
+			<qty>250.00</qty>
+			<unit>gm</unit>
+			<sign>1</sign>
+			<store>01</store>
+		</stock>
+		<stock>
+			<itemId>IC--000089</itemId>
+			<itemName>Cauliflower (Ful Copy)</itemName>
+			<date>2022-05-09T00:00:00+06:00</date>
+			<note>Stock Opening</note>
+			<qty>1.00</qty>
+			<unit>pcs</unit>
+			<sign>1</sign>
+			<store>01</store>
+		</stock>
+		<stock>
+			<itemId>IC--000090</itemId>
+			<itemName>Cabbage New (Pata Copy)</itemName>
+			<date>2022-05-09T00:00:00+06:00</date>
+			<note>Stock Opening</note>
+			<qty>4.00</qty>
+			<unit>pcs</unit>
+			<sign>1</sign>
+			<store>01</store>
+		</stock>
+		<stock>
+			<itemId>IC--000097</itemId>
+			<itemName>Papaya</itemName>
+			<date>2022-05-09T00:00:00+06:00</date>
+			<note>Stock Opening</note>
+			<qty>4000.00</qty>
+			<unit>gm</unit>
+			<sign>1</sign>
+			<store>01</store>
+		</stock>
+		<stock>
+			<itemId>IC--000116</itemId>
+			<itemName>Soya Sauce</itemName>
+			<date>2022-05-09T00:00:00+06:00</date>
+			<note>Stock Opening</note>
+			<qty>2000.00</qty>
+			<unit>gm</unit>
+			<sign>1</sign>
+			<store>01</store>
+		</stock>
+		<stock>
+			<itemId>IC--000169</itemId>
+			<itemName>Dhonia Pata</itemName>
+			<date>2022-05-09T00:00:00+06:00</date>
+			<note>Stock Opening</note>
+			<qty>500.00</qty>
+			<unit>gm</unit>
+			<sign>1</sign>
+			<store>01</store>
+		</stock>
+		<stock>
+			<itemId>IC--000172</itemId>
+			<itemName>Capsicum</itemName>
+			<date>2022-05-09T00:00:00+06:00</date>
+			<note>Stock Opening</note>
+			<qty>1000.00</qty>
+			<unit>gm</unit>
+			<sign>1</sign>
+			<store>01</store>
+		</stock>
+		<stock>
+			<itemId>IC--000181</itemId>
+			<itemName>Duck</itemName>
+			<date>2022-05-09T00:00:00+06:00</date>
+			<note>Stock Opening</note>
+			<qty>2.00</qty>
+			<unit>pcs</unit>
+			<sign>1</sign>
+			<store>01</store>
+		</stock>
+		<stock>
+			<itemId>IC--000183</itemId>
+			<itemName>Squid</itemName>
+			<date>2022-05-09T00:00:00+06:00</date>
+			<note>Stock Opening</note>
+			<qty>2000.00</qty>
+			<unit>gm</unit>
+			<sign>1</sign>
+			<store>01</store>
+		</stock>
+		<stock>
+			<itemId>IC--000184</itemId>
+			<itemName>Guava</itemName>
+			<date>2022-05-09T00:00:00+06:00</date>
+			<note>Stock Opening</note>
+			<qty>1900.00</qty>
+			<unit>gm</unit>
+			<sign>1</sign>
+			<store>01</store>
+		</stock>
+		<stock>
+			<itemId>IC--000223</itemId>
+			<itemName>Pineapple</itemName>
+			<date>2022-05-09T00:00:00+06:00</date>
+			<note>Stock Opening</note>
+			<qty>1.00</qty>
+			<unit>pcs</unit>
+			<sign>1</sign>
+			<store>01</store>
+		</stock>
+		<stock>
+			<itemId>IC--000147</itemId>
+			<itemName>Beer (16%)</itemName>
+			<date>2022-05-08T00:00:00+06:00</date>
+			<note>Stock Opening</note>
+			<qty>360.00</qty>
+			<unit>pcs</unit>
+			<sign>1</sign>
+			<store>01</store>
+		</stock>
+		<stock>
+			<itemId>IC--000150</itemId>
+			<itemName>Normal Whisky</itemName>
+			<date>2022-05-08T00:00:00+06:00</date>
+			<note>Stock Opening</note>
+			<qty>2640.00</qty>
+			<unit>Peg</unit>
+			<sign>1</sign>
+			<store>01</store>
+		</stock>
+		<stock>
+			<itemId>IC--000151</itemId>
+			<itemName>Normal Vodka</itemName>
+			<date>2022-05-08T00:00:00+06:00</date>
+			<note>Stock Opening</note>
+			<qty>528.00</qty>
+			<unit>Peg</unit>
+			<sign>1</sign>
+			<store>01</store>
+		</stock>
+		<stock>
+			<itemId>IC--000157</itemId>
+			<itemName>Wine (White &amp; Red)</itemName>
+			<date>2022-05-08T00:00:00+06:00</date>
+			<note>Stock Opening</note>
+			<qty>24.00</qty>
+			<unit>pcs</unit>
+			<sign>1</sign>
+			<store>01</store>
+		</stock>
+		<stock>
+			<itemId>IC--000194</itemId>
+			<date>2022-05-08T00:00:00+06:00</date>
+			<note>Stock Opening</note>
+			<qty>264.00</qty>
+			<unit>Peg</unit>
+			<sign>1</sign>
+			<store>01</store>
+		</stock>
+		<stock>
+			<itemId>IC--000011</itemId>
+			<itemName>Beef Meat</itemName>
+			<date>2022-05-07T00:00:00+06:00</date>
+			<note>Stock Opening</note>
+			<qty>2000.00</qty>
+			<unit>gm</unit>
+			<sign>1</sign>
+			<store>01</store>
+		</stock>
+		<stock>
+			<itemId>IC--000013</itemId>
+			<itemName>Chicken (Broiler)</itemName>
+			<date>2022-05-07T00:00:00+06:00</date>
+			<note>Stock Opening</note>
+			<qty>31100.00</qty>
+			<unit>gm</unit>
+			<sign>1</sign>
+			<store>01</store>
+		</stock>
+		<stock>
+			<itemId>IC--000016</itemId>
+			<itemName>Apple</itemName>
+			<date>2022-05-07T00:00:00+06:00</date>
+			<note>Stock Opening</note>
+			<qty>3000.00</qty>
+			<unit>pcs</unit>
+			<sign>1</sign>
+			<store>01</store>
+		</stock>
+		<stock>
+			<itemId>IC--000017</itemId>
+			<itemName>Malta</itemName>
+			<date>2022-05-07T00:00:00+06:00</date>
+			<note>Stock Opening</note>
+			<qty>3000.00</qty>
+			<unit>pcs</unit>
+			<sign>1</sign>
+			<store>01</store>
+		</stock>
+		<stock>
+			<itemId>IC--000025</itemId>
+			<itemName>Soyabin Oil</itemName>
+			<date>2022-05-07T00:00:00+06:00</date>
+			<note>Stock Opening</note>
+			<qty>10000.00</qty>
+			<unit>gm</unit>
+			<sign>1</sign>
+			<store>01</store>
+		</stock>
+		<stock>
+			<itemId>IC--000030</itemId>
+			<itemName>Brown Egg</itemName>
+			<date>2022-05-07T00:00:00+06:00</date>
+			<note>Stock Opening</note>
+			<qty>30.00</qty>
+			<unit>pcs</unit>
+			<sign>1</sign>
+			<store>01</store>
+		</stock>
+		<stock>
+			<itemId>IC--000036</itemId>
+			<itemName>Testing Salt</itemName>
+			<date>2022-05-07T00:00:00+06:00</date>
+			<note>Stock Opening</note>
+			<qty>500.00</qty>
+			<unit>gm</unit>
+			<sign>1</sign>
+			<store>01</store>
+		</stock>
+		<stock>
+			<itemId>IC--000040</itemId>
+			<itemName>Onion (Peyaj)</itemName>
+			<date>2022-05-07T00:00:00+06:00</date>
+			<note>Stock Opening</note>
+			<qty>10000.00</qty>
+			<unit>gm</unit>
+			<sign>1</sign>
+			<store>01</store>
+		</stock>
+		<stock>
+			<itemId>IC--000041</itemId>
+			<itemName>Garlic (Rasun)</itemName>
+			<date>2022-05-07T00:00:00+06:00</date>
+			<note>Stock Opening</note>
+			<qty>3000.00</qty>
+			<unit>gm</unit>
+			<sign>1</sign>
+			<store>01</store>
+		</stock>
+		<stock>
+			<itemId>IC--000042</itemId>
+			<itemName>Ginger (Ada)</itemName>
+			<date>2022-05-07T00:00:00+06:00</date>
+			<note>Stock Opening</note>
+			<qty>1000.00</qty>
+			<unit>gm</unit>
+			<sign>1</sign>
+			<store>01</store>
+		</stock>
+		<stock>
+			<itemId>IC--000060</itemId>
+			<itemName>Potato (Big)</itemName>
+			<date>2022-05-07T00:00:00+06:00</date>
+			<note>Stock Opening</note>
+			<qty>5000.00</qty>
+			<unit>gm</unit>
+			<sign>1</sign>
+			<store>01</store>
+		</stock>
+		<stock>
+			<itemId>IC--000067</itemId>
+			<itemName>Carrot</itemName>
+			<date>2022-05-07T00:00:00+06:00</date>
+			<note>Stock Opening</note>
+			<qty>3000.00</qty>
+			<unit>gm</unit>
+			<sign>1</sign>
+			<store>01</store>
+		</stock>
+		<stock>
+			<itemId>IC--000068</itemId>
+			<itemName>Tomato</itemName>
+			<date>2022-05-07T00:00:00+06:00</date>
+			<note>Stock Opening</note>
+			<qty>3000.00</qty>
+			<unit>gm</unit>
+			<sign>1</sign>
+			<store>01</store>
+		</stock>
+		<stock>
+			<itemId>IC--000069</itemId>
+			<itemName>Cucumber</itemName>
+			<date>2022-05-07T00:00:00+06:00</date>
+			<note>Stock Opening</note>
+			<qty>4000.00</qty>
+			<unit>gm</unit>
+			<sign>1</sign>
+			<store>01</store>
+		</stock>
+		<stock>
+			<itemId>IC--000072</itemId>
+			<itemName>Lemon</itemName>
+			<date>2022-05-07T00:00:00+06:00</date>
+			<note>Stock Opening</note>
+			<qty>50.00</qty>
+			<unit>pcs</unit>
+			<sign>1</sign>
+			<store>01</store>
+		</stock>
+		<stock>
+			<itemId>IC--000073</itemId>
+			<itemName>Chinese Cabbage</itemName>
+			<date>2022-05-07T00:00:00+06:00</date>
+			<note>Stock Opening</note>
+			<qty>700.00</qty>
+			<unit>pcs</unit>
+			<sign>1</sign>
+			<store>01</store>
+		</stock>
+		<stock>
+			<itemId>IC--000081</itemId>
+			<itemName>Dry Red Chilli</itemName>
+			<date>2022-05-07T00:00:00+06:00</date>
+			<note>Stock Opening</note>
+			<qty>1000.00</qty>
+			<unit>gm</unit>
+			<sign>1</sign>
+			<store>01</store>
+		</stock>
+		<stock>
+			<itemId>IC--000083</itemId>
+			<itemName>Green Chilly (Kacha Morich)</itemName>
+			<date>2022-05-07T00:00:00+06:00</date>
+			<note>Stock Opening</note>
+			<qty>1000.00</qty>
+			<unit>gm</unit>
+			<sign>1</sign>
+			<store>01</store>
+		</stock>
+		<stock>
+			<itemId>IC--000090</itemId>
+			<itemName>Cabbage New (Pata Copy)</itemName>
+			<date>2022-05-07T00:00:00+06:00</date>
+			<note>Stock Opening</note>
+			<qty>3.00</qty>
+			<unit>pcs</unit>
+			<sign>1</sign>
+			<store>01</store>
+		</stock>
+		<stock>
+			<itemId>IC--000097</itemId>
+			<itemName>Papaya</itemName>
+			<date>2022-05-07T00:00:00+06:00</date>
+			<note>Stock Opening</note>
+			<qty>5000.00</qty>
+			<unit>gm</unit>
+			<sign>1</sign>
+			<store>01</store>
+		</stock>
+		<stock>
+			<itemId>IC--000129</itemId>
+			<itemName>wonthon pati</itemName>
+			<date>2022-05-07T00:00:00+06:00</date>
+			<note>Stock Opening</note>
+			<qty>2.00</qty>
+			<unit>pcs</unit>
+			<sign>1</sign>
+			<store>01</store>
+		</stock>
+		<stock>
+			<itemId>IC--000169</itemId>
+			<itemName>Dhonia Pata</itemName>
+			<date>2022-05-07T00:00:00+06:00</date>
+			<note>Stock Opening</note>
+			<qty>1000.00</qty>
+			<unit>gm</unit>
+			<sign>1</sign>
+			<store>01</store>
+		</stock>
+		<stock>
+			<itemId>IC--000172</itemId>
+			<itemName>Capsicum</itemName>
+			<date>2022-05-07T00:00:00+06:00</date>
+			<note>Stock Opening</note>
+			<qty>2000.00</qty>
+			<unit>gm</unit>
+			<sign>1</sign>
+			<store>01</store>
+		</stock>
+		<stock>
+			<itemId>IC--000010</itemId>
+			<itemName>Chicken (Local)</itemName>
+			<date>2022-05-05T00:00:00+06:00</date>
+			<note>Stock Opening</note>
+			<qty>6000.00</qty>
+			<unit>gm</unit>
+			<sign>1</sign>
+			<store>01</store>
+		</stock>
+		<stock>
+			<itemId>IC--000013</itemId>
+			<itemName>Chicken (Broiler)</itemName>
+			<date>2022-05-05T00:00:00+06:00</date>
+			<note>Stock Opening</note>
+			<qty>10600.00</qty>
+			<unit>gm</unit>
+			<sign>1</sign>
+			<store>01</store>
+		</stock>
+		<stock>
+			<itemId>IC--000030</itemId>
+			<itemName>Brown Egg</itemName>
+			<date>2022-05-05T00:00:00+06:00</date>
+			<note>Stock Opening</note>
+			<qty>30.00</qty>
+			<unit>pcs</unit>
+			<sign>1</sign>
+			<store>01</store>
+		</stock>
+		<stock>
+			<itemId>IC--000060</itemId>
+			<itemName>Potato (Big)</itemName>
+			<date>2022-05-05T00:00:00+06:00</date>
+			<note>Stock Opening</note>
+			<qty>3000.00</qty>
+			<unit>gm</unit>
+			<sign>1</sign>
+			<store>01</store>
+		</stock>
+		<stock>
+			<itemId>IC--000068</itemId>
+			<itemName>Tomato</itemName>
+			<date>2022-05-05T00:00:00+06:00</date>
+			<note>Stock Opening</note>
+			<qty>3000.00</qty>
+			<unit>gm</unit>
+			<sign>1</sign>
+			<store>01</store>
+		</stock>
+		<stock>
+			<itemId>IC--000069</itemId>
+			<itemName>Cucumber</itemName>
+			<date>2022-05-05T00:00:00+06:00</date>
+			<note>Stock Opening</note>
+			<qty>4000.00</qty>
+			<unit>gm</unit>
+			<sign>1</sign>
+			<store>01</store>
+		</stock>
+		<stock>
+			<itemId>IC--000072</itemId>
+			<itemName>Lemon</itemName>
+			<date>2022-05-05T00:00:00+06:00</date>
+			<note>Stock Opening</note>
+			<qty>50.00</qty>
+			<unit>pcs</unit>
+			<sign>1</sign>
+			<store>01</store>
+		</stock>
+		<stock>
+			<itemId>IC--000083</itemId>
+			<itemName>Green Chilly (Kacha Morich)</itemName>
+			<date>2022-05-05T00:00:00+06:00</date>
+			<note>Stock Opening</note>
+			<qty>1000.00</qty>
+			<unit>gm</unit>
+			<sign>1</sign>
+			<store>01</store>
+		</stock>
+		<stock>
+			<itemId>IC--000090</itemId>
+			<itemName>Cabbage New (Pata Copy)</itemName>
+			<date>2022-05-05T00:00:00+06:00</date>
+			<note>Stock Opening</note>
+			<qty>2.00</qty>
+			<unit>pcs</unit>
+			<sign>1</sign>
+			<store>01</store>
+		</stock>
+		<stock>
+			<itemId>IC--000095</itemId>
+			<itemName>Vinager</itemName>
+			<date>2022-05-05T00:00:00+06:00</date>
+			<note>Stock Opening</note>
+			<qty>4500.00</qty>
+			<unit>gm</unit>
+			<sign>1</sign>
+			<store>01</store>
+		</stock>
+		<stock>
+			<itemId>IC--000097</itemId>
+			<itemName>Papaya</itemName>
+			<date>2022-05-05T00:00:00+06:00</date>
+			<note>Stock Opening</note>
+			<qty>2000.00</qty>
+			<unit>gm</unit>
+			<sign>1</sign>
+			<store>01</store>
+		</stock>
+		<stock>
+			<itemId>IC--000169</itemId>
+			<itemName>Dhonia Pata</itemName>
+			<date>2022-05-05T00:00:00+06:00</date>
+			<note>Stock Opening</note>
+			<qty>1000.00</qty>
+			<unit>gm</unit>
+			<sign>1</sign>
+			<store>01</store>
+		</stock>
+		<stock>
+			<itemId>IC--000013</itemId>
+			<itemName>Chicken (Broiler)</itemName>
+			<date>2022-05-04T00:00:00+06:00</date>
+			<note>Stock Opening</note>
+			<qty>32800.00</qty>
+			<unit>gm</unit>
+			<sign>1</sign>
+			<store>01</store>
+		</stock>
+		<stock>
+			<itemId>IC--000032</itemId>
+			<itemName>Suger (Chini)</itemName>
+			<date>2022-05-04T00:00:00+06:00</date>
+			<note>Stock Opening</note>
+			<qty>5000.00</qty>
+			<unit>gm</unit>
+			<sign>1</sign>
+			<store>01</store>
+		</stock>
+		<stock>
+			<itemId>IC--000057</itemId>
+			<itemName>Onion Local (Peyaj)</itemName>
+			<date>2022-05-04T00:00:00+06:00</date>
+			<note>Stock Opening</note>
+			<qty>5000.00</qty>
+			<unit>gm</unit>
+			<sign>1</sign>
+			<store>01</store>
+		</stock>
+		<stock>
+			<itemId>IC--000060</itemId>
+			<itemName>Potato (Big)</itemName>
+			<date>2022-05-04T00:00:00+06:00</date>
+			<note>Stock Opening</note>
+			<qty>12000.00</qty>
+			<unit>gm</unit>
+			<sign>1</sign>
+			<store>01</store>
+		</stock>
+		<stock>
+			<itemId>IC--000069</itemId>
+			<itemName>Cucumber</itemName>
+			<date>2022-05-04T00:00:00+06:00</date>
+			<note>Stock Opening</note>
+			<qty>4000.00</qty>
+			<unit>gm</unit>
+			<sign>1</sign>
+			<store>01</store>
+		</stock>
+		<stock>
+			<itemId>IC--000072</itemId>
+			<itemName>Lemon</itemName>
+			<date>2022-05-04T00:00:00+06:00</date>
+			<note>Stock Opening</note>
+			<qty>90.00</qty>
+			<unit>pcs</unit>
+			<sign>1</sign>
+			<store>01</store>
+		</stock>
+		<stock>
+			<itemId>IC--000090</itemId>
+			<itemName>Cabbage New (Pata Copy)</itemName>
+			<date>2022-05-04T00:00:00+06:00</date>
+			<note>Stock Opening</note>
+			<qty>4.00</qty>
+			<unit>pcs</unit>
+			<sign>1</sign>
+			<store>01</store>
+		</stock>
+		<stock>
+			<itemId>IC--000097</itemId>
+			<itemName>Papaya</itemName>
+			<date>2022-05-04T00:00:00+06:00</date>
+			<note>Stock Opening</note>
+			<qty>6000.00</qty>
+			<unit>gm</unit>
+			<sign>1</sign>
+			<store>01</store>
+		</stock>
+		<stock>
+			<itemId>IC--000146</itemId>
+			<itemName>Beer (12%)</itemName>
+			<date>2022-05-04T00:00:00+06:00</date>
+			<note>Stock Opening</note>
+			<qty>120.00</qty>
+			<unit>pcs</unit>
+			<sign>1</sign>
+			<store>01</store>
+		</stock>
+		<stock>
+			<itemId>IC--000147</itemId>
+			<itemName>Beer (16%)</itemName>
+			<date>2022-05-04T00:00:00+06:00</date>
+			<note>Stock Opening</note>
+			<qty>360.00</qty>
+			<unit>pcs</unit>
+			<sign>1</sign>
+			<store>01</store>
+		</stock>
+		<stock>
+			<itemId>IC--000150</itemId>
+			<itemName>Normal Whisky</itemName>
+			<date>2022-05-04T00:00:00+06:00</date>
+			<note>Stock Opening</note>
+			<qty>1320.00</qty>
+			<unit>Peg</unit>
+			<sign>1</sign>
+			<store>01</store>
+		</stock>
+		<stock>
+			<itemId>IC--000169</itemId>
+			<itemName>Dhonia Pata</itemName>
+			<date>2022-05-04T00:00:00+06:00</date>
+			<note>Stock Opening</note>
+			<qty>2000.00</qty>
+			<unit>gm</unit>
+			<sign>1</sign>
+			<store>01</store>
+		</stock>
+		<stock>
+			<itemId>IC--000147</itemId>
+			<itemName>Beer (16%)</itemName>
+			<date>2022-05-03T00:00:00+06:00</date>
+			<note>Stock Opening</note>
+			<qty>360.00</qty>
+			<unit>pcs</unit>
+			<sign>1</sign>
+			<store>01</store>
+		</stock>
+		<stock>
+			<itemId>IC--000157</itemId>
+			<itemName>Wine (White &amp; Red)</itemName>
+			<date>2022-05-03T00:00:00+06:00</date>
+			<note>Stock Opening</note>
+			<qty>12.00</qty>
+			<unit>pcs</unit>
+			<sign>1</sign>
+			<store>01</store>
+		</stock>
+		<stock>
+			<itemId>IC--000001</itemId>
+			<itemName>Rup Chada Fish</itemName>
+			<date>2022-05-02T00:00:00+06:00</date>
+			<note>Stock Opening</note>
+			<qty>12.00</qty>
+			<unit>pcs</unit>
+			<sign>1</sign>
+			<store>01</store>
+		</stock>
+		<stock>
+			<itemId>IC--000010</itemId>
+			<itemName>Chicken (Local)</itemName>
+			<date>2022-05-02T00:00:00+06:00</date>
+			<note>Stock Opening</note>
+			<qty>3400.00</qty>
+			<unit>gm</unit>
+			<sign>1</sign>
+			<store>01</store>
+		</stock>
+		<stock>
+			<itemId>IC--000013</itemId>
+			<itemName>Chicken (Broiler)</itemName>
+			<date>2022-05-02T00:00:00+06:00</date>
+			<note>Stock Opening</note>
+			<qty>68900.00</qty>
+			<unit>gm</unit>
+			<sign>1</sign>
+			<store>01</store>
+		</stock>
+		<stock>
+			<itemId>IC--000016</itemId>
+			<itemName>Apple</itemName>
+			<date>2022-05-02T00:00:00+06:00</date>
+			<note>Stock Opening</note>
+			<qty>21.00</qty>
+			<unit>pcs</unit>
+			<sign>1</sign>
+			<store>01</store>
+		</stock>
+		<stock>
+			<itemId>IC--000017</itemId>
+			<itemName>Malta</itemName>
+			<date>2022-05-02T00:00:00+06:00</date>
+			<note>Stock Opening</note>
+			<qty>30.00</qty>
+			<unit>pcs</unit>
+			<sign>1</sign>
+			<store>01</store>
+		</stock>
+		<stock>
+			<itemId>IC--000025</itemId>
+			<itemName>Soyabin Oil</itemName>
+			<date>2022-05-02T00:00:00+06:00</date>
+			<note>Stock Opening</note>
+			<qty>10000.00</qty>
+			<unit>gm</unit>
+			<sign>1</sign>
+			<store>01</store>
+		</stock>
+		<stock>
+			<itemId>IC--000030</itemId>
+			<itemName>Brown Egg</itemName>
+			<date>2022-05-02T00:00:00+06:00</date>
+			<note>Stock Opening</note>
+			<qty>60.00</qty>
+			<unit>pcs</unit>
+			<sign>1</sign>
+			<store>01</store>
+		</stock>
+		<stock>
+			<itemId>IC--000040</itemId>
+			<itemName>Onion (Peyaj)</itemName>
+			<date>2022-05-02T00:00:00+06:00</date>
+			<note>Stock Opening</note>
+			<qty>25000.00</qty>
+			<unit>gm</unit>
+			<sign>1</sign>
+			<store>01</store>
+		</stock>
+		<stock>
+			<itemId>IC--000041</itemId>
+			<itemName>Garlic (Rasun)</itemName>
+			<date>2022-05-02T00:00:00+06:00</date>
+			<note>Stock Opening</note>
+			<qty>3000.00</qty>
+			<unit>gm</unit>
+			<sign>1</sign>
+			<store>01</store>
+		</stock>
+		<stock>
+			<itemId>IC--000042</itemId>
+			<itemName>Ginger (Ada)</itemName>
+			<date>2022-05-02T00:00:00+06:00</date>
+			<note>Stock Opening</note>
+			<qty>3000.00</qty>
+			<unit>gm</unit>
+			<sign>1</sign>
+			<store>01</store>
+		</stock>
+		<stock>
+			<itemId>IC--000067</itemId>
+			<itemName>Carrot</itemName>
+			<date>2022-05-02T00:00:00+06:00</date>
+			<note>Stock Opening</note>
+			<qty>4000.00</qty>
+			<unit>gm</unit>
+			<sign>1</sign>
+			<store>01</store>
+		</stock>
+		<stock>
+			<itemId>IC--000068</itemId>
+			<itemName>Tomato</itemName>
+			<date>2022-05-02T00:00:00+06:00</date>
+			<note>Stock Opening</note>
+			<qty>10000.00</qty>
+			<unit>gm</unit>
+			<sign>1</sign>
+			<store>01</store>
+		</stock>
+		<stock>
+			<itemId>IC--000069</itemId>
+			<itemName>Cucumber</itemName>
+			<date>2022-05-02T00:00:00+06:00</date>
+			<note>Stock Opening</note>
+			<qty>10000.00</qty>
+			<unit>gm</unit>
+			<sign>1</sign>
+			<store>01</store>
+		</stock>
+		<stock>
+			<itemId>IC--000070</itemId>
+			<itemName>Chichinga</itemName>
+			<date>2022-05-02T00:00:00+06:00</date>
+			<note>Stock Opening</note>
+			<qty>2000.00</qty>
+			<unit>gm</unit>
+			<sign>1</sign>
+			<store>01</store>
+		</stock>
+		<stock>
+			<itemId>IC--000072</itemId>
+			<itemName>Lemon</itemName>
+			<date>2022-05-02T00:00:00+06:00</date>
+			<note>Stock Opening</note>
+			<qty>75.00</qty>
+			<unit>pcs</unit>
+			<sign>1</sign>
+			<store>01</store>
+		</stock>
+		<stock>
+			<itemId>IC--000073</itemId>
+			<itemName>Chinese Cabbage</itemName>
+			<date>2022-05-02T00:00:00+06:00</date>
+			<note>Stock Opening</note>
+			<qty>2.00</qty>
+			<unit>pcs</unit>
+			<sign>1</sign>
+			<store>01</store>
+		</stock>
+		<stock>
+			<itemId>IC--000074</itemId>
+			<itemName>Spring Onion (Peyaj Pata)</itemName>
+			<date>2022-05-02T00:00:00+06:00</date>
+			<note>Stock Opening</note>
+			<qty>1000.00</qty>
+			<unit>gm</unit>
+			<sign>1</sign>
+			<store>01</store>
+		</stock>
+		<stock>
+			<itemId>IC--000076</itemId>
+			<itemName>Salary Pata</itemName>
+			<date>2022-05-02T00:00:00+06:00</date>
+			<note>Stock Opening</note>
+			<qty>1.00</qty>
+			<unit>pcs</unit>
+			<sign>1</sign>
+			<store>01</store>
+		</stock>
+		<stock>
+			<itemId>IC--000083</itemId>
+			<itemName>Green Chilly (Kacha Morich)</itemName>
+			<date>2022-05-02T00:00:00+06:00</date>
+			<note>Stock Opening</note>
+			<qty>2000.00</qty>
+			<unit>gm</unit>
+			<sign>1</sign>
+			<store>01</store>
+		</stock>
+		<stock>
+			<itemId>IC--000085</itemId>
+			<itemName>Long Beans (Borboti)</itemName>
+			<date>2022-05-02T00:00:00+06:00</date>
+			<note>Stock Opening</note>
+			<qty>500.00</qty>
+			<unit>gm</unit>
+			<sign>1</sign>
+			<store>01</store>
+		</stock>
+		<stock>
+			<itemId>IC--000089</itemId>
+			<itemName>Cauliflower (Ful Copy)</itemName>
+			<date>2022-05-02T00:00:00+06:00</date>
+			<note>Stock Opening</note>
+			<qty>2.00</qty>
+			<unit>pcs</unit>
+			<sign>1</sign>
+			<store>01</store>
+		</stock>
+		<stock>
+			<itemId>IC--000090</itemId>
+			<itemName>Cabbage New (Pata Copy)</itemName>
+			<date>2022-05-02T00:00:00+06:00</date>
+			<note>Stock Opening</note>
+			<qty>8.00</qty>
+			<unit>pcs</unit>
+			<sign>1</sign>
+			<store>01</store>
+		</stock>
+		<stock>
+			<itemId>IC--000097</itemId>
+			<itemName>Papaya</itemName>
+			<date>2022-05-02T00:00:00+06:00</date>
+			<note>Stock Opening</note>
+			<qty>6000.00</qty>
+			<unit>gm</unit>
+			<sign>1</sign>
+			<store>01</store>
+		</stock>
+		<stock>
+			<itemId>IC--000121</itemId>
+			<itemName>Noodles</itemName>
+			<date>2022-05-02T00:00:00+06:00</date>
+			<note>Stock Opening</note>
+			<qty>10.00</qty>
+			<unit>pcs</unit>
+			<sign>1</sign>
+			<store>01</store>
+		</stock>
+		<stock>
+			<itemId>IC--000123</itemId>
+			<itemName>Spring roll</itemName>
+			<date>2022-05-02T00:00:00+06:00</date>
+			<note>Stock Opening</note>
+			<qty>2.00</qty>
+			<unit>pcs</unit>
+			<sign>1</sign>
+			<store>01</store>
+		</stock>
+		<stock>
+			<itemId>IC--000169</itemId>
+			<itemName>Dhonia Pata</itemName>
+			<date>2022-05-02T00:00:00+06:00</date>
+			<note>Stock Opening</note>
+			<qty>2000.00</qty>
+			<unit>gm</unit>
+			<sign>1</sign>
+			<store>01</store>
+		</stock>
+		<stock>
+			<itemId>IC--000172</itemId>
+			<itemName>Capsicum</itemName>
+			<date>2022-05-02T00:00:00+06:00</date>
+			<note>Stock Opening</note>
+			<qty>5000.00</qty>
+			<unit>gm</unit>
+			<sign>1</sign>
+			<store>01</store>
+		</stock>
+		<stock>
+			<itemId>IC--000178</itemId>
+			<itemName>Tok Doi (curd)</itemName>
+			<date>2022-05-02T00:00:00+06:00</date>
+			<note>Stock Opening</note>
+			<qty>2000.00</qty>
+			<unit>gm</unit>
+			<sign>1</sign>
+			<store>01</store>
+		</stock>
+		<stock>
+			<itemId>IC--000008</itemId>
+			<itemName>Prawn </itemName>
+			<date>2022-05-01T00:00:00+06:00</date>
+			<note>Stock Opening</note>
+			<qty>2000.00</qty>
+			<unit>gm</unit>
+			<sign>1</sign>
+			<store>01</store>
+		</stock>
+		<stock>
+			<itemId>IC--000010</itemId>
+			<itemName>Chicken (Local)</itemName>
+			<date>2022-05-01T00:00:00+06:00</date>
+			<note>Stock Opening</note>
+			<qty>4100.00</qty>
+			<unit>gm</unit>
+			<sign>1</sign>
+			<store>01</store>
+		</stock>
+		<stock>
+			<itemId>IC--000013</itemId>
+			<itemName>Chicken (Broiler)</itemName>
+			<date>2022-05-01T00:00:00+06:00</date>
+			<note>Stock Opening</note>
+			<qty>10200.00</qty>
+			<unit>gm</unit>
+			<sign>1</sign>
+			<store>01</store>
+		</stock>
+		<stock>
+			<itemId>IC--000030</itemId>
+			<itemName>Brown Egg</itemName>
+			<date>2022-05-01T00:00:00+06:00</date>
+			<note>Stock Opening</note>
+			<qty>30.00</qty>
+			<unit>pcs</unit>
+			<sign>1</sign>
+			<store>01</store>
+		</stock>
+		<stock>
+			<itemId>IC--000040</itemId>
+			<itemName>Onion (Peyaj)</itemName>
+			<date>2022-05-01T00:00:00+06:00</date>
+			<note>Stock Opening</note>
+			<qty>10000.00</qty>
+			<unit>gm</unit>
+			<sign>1</sign>
+			<store>01</store>
+		</stock>
+		<stock>
+			<itemId>IC--000060</itemId>
+			<itemName>Potato (Big)</itemName>
+			<date>2022-05-01T00:00:00+06:00</date>
+			<note>Stock Opening</note>
+			<qty>5000.00</qty>
+			<unit>gm</unit>
+			<sign>1</sign>
+			<store>01</store>
+		</stock>
+		<stock>
+			<itemId>IC--000067</itemId>
+			<itemName>Carrot</itemName>
+			<date>2022-05-01T00:00:00+06:00</date>
+			<note>Stock Opening</note>
+			<qty>2000.00</qty>
+			<unit>gm</unit>
+			<sign>1</sign>
+			<store>01</store>
+		</stock>
+		<stock>
+			<itemId>IC--000068</itemId>
+			<itemName>Tomato</itemName>
+			<date>2022-05-01T00:00:00+06:00</date>
+			<note>Stock Opening</note>
+			<qty>2000.00</qty>
+			<unit>gm</unit>
+			<sign>1</sign>
+			<store>01</store>
+		</stock>
+		<stock>
+			<itemId>IC--000069</itemId>
+			<itemName>Cucumber</itemName>
+			<date>2022-05-01T00:00:00+06:00</date>
+			<note>Stock Opening</note>
+			<qty>3000.00</qty>
+			<unit>gm</unit>
+			<sign>1</sign>
+			<store>01</store>
+		</stock>
+		<stock>
+			<itemId>IC--000070</itemId>
+			<itemName>Chichinga</itemName>
+			<date>2022-05-01T00:00:00+06:00</date>
+			<note>Stock Opening</note>
+			<qty>1000.00</qty>
+			<unit>gm</unit>
+			<sign>1</sign>
+			<store>01</store>
+		</stock>
+		<stock>
+			<itemId>IC--000072</itemId>
+			<itemName>Lemon</itemName>
+			<date>2022-05-01T00:00:00+06:00</date>
+			<note>Stock Opening</note>
+			<qty>20.00</qty>
+			<unit>pcs</unit>
+			<sign>1</sign>
+			<store>01</store>
+		</stock>
+		<stock>
+			<itemId>IC--000073</itemId>
+			<itemName>Chinese Cabbage</itemName>
+			<date>2022-05-01T00:00:00+06:00</date>
+			<note>Stock Opening</note>
+			<qty>1.00</qty>
+			<unit>pcs</unit>
+			<sign>1</sign>
+			<store>01</store>
+		</stock>
+		<stock>
+			<itemId>IC--000074</itemId>
+			<itemName>Spring Onion (Peyaj Pata)</itemName>
+			<date>2022-05-01T00:00:00+06:00</date>
+			<note>Stock Opening</note>
+			<qty>250.00</qty>
+			<unit>gm</unit>
+			<sign>1</sign>
+			<store>01</store>
+		</stock>
+		<stock>
+			<itemId>IC--000083</itemId>
+			<itemName>Green Chilly (Kacha Morich)</itemName>
+			<date>2022-05-01T00:00:00+06:00</date>
+			<note>Stock Opening</note>
+			<qty>500.00</qty>
+			<unit>gm</unit>
+			<sign>1</sign>
+			<store>01</store>
+		</stock>
+		<stock>
+			<itemId>IC--000085</itemId>
+			<itemName>Long Beans (Borboti)</itemName>
+			<date>2022-05-01T00:00:00+06:00</date>
+			<note>Stock Opening</note>
+			<qty>150.00</qty>
+			<unit>gm</unit>
+			<sign>1</sign>
+			<store>01</store>
+		</stock>
+		<stock>
+			<itemId>IC--000089</itemId>
+			<itemName>Cauliflower (Ful Copy)</itemName>
+			<date>2022-05-01T00:00:00+06:00</date>
+			<note>Stock Opening</note>
+			<qty>1.00</qty>
+			<unit>pcs</unit>
+			<sign>1</sign>
+			<store>01</store>
+		</stock>
+		<stock>
+			<itemId>IC--000092</itemId>
+			<itemName>Brocoli </itemName>
+			<date>2022-05-01T00:00:00+06:00</date>
+			<note>Stock Opening</note>
+			<qty>1.00</qty>
+			<unit>pcs</unit>
+			<sign>1</sign>
+			<store>01</store>
+		</stock>
+		<stock>
+			<itemId>IC--000123</itemId>
+			<itemName>Spring roll</itemName>
+			<date>2022-05-01T00:00:00+06:00</date>
+			<note>Stock Opening</note>
+			<qty>2.00</qty>
+			<unit>pcs</unit>
+			<sign>1</sign>
+			<store>01</store>
+		</stock>
+		<stock>
+			<itemId>IC--000129</itemId>
+			<itemName>wonthon pati</itemName>
+			<date>2022-05-01T00:00:00+06:00</date>
+			<note>Stock Opening</note>
+			<qty>2.00</qty>
+			<unit>pcs</unit>
+			<sign>1</sign>
+			<store>01</store>
+		</stock>
+		<stock>
+			<itemId>IC--000164</itemId>
+			<itemName>Brandy</itemName>
+			<date>2022-05-01T00:00:00+06:00</date>
+			<note>Stock Opening</note>
+			<qty>264.00</qty>
+			<unit>Peg</unit>
+			<sign>1</sign>
+			<store>01</store>
+		</stock>
+		<stock>
+			<itemId>IC--000169</itemId>
+			<itemName>Dhonia Pata</itemName>
+			<date>2022-05-01T00:00:00+06:00</date>
+			<note>Stock Opening</note>
+			<qty>500.00</qty>
+			<unit>gm</unit>
+			<sign>1</sign>
+			<store>01</store>
+		</stock>
+		<stock>
+			<itemId>IC--000191</itemId>
+			<itemName>Double Black Level</itemName>
+			<date>2022-05-01T00:00:00+06:00</date>
+			<note>Stock Opening</note>
+			<qty>132.00</qty>
+			<unit>Peg</unit>
+			<sign>1</sign>
+			<store>01</store>
+		</stock>
+	</stocks>
+</rm030report>
