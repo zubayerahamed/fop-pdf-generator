@@ -41,6 +41,13 @@
 
 				<!-- PAGE HEADER (STATIC CONTENT) -->
 				<fo:static-content flow-name="header-first">
+					<fo:block-container height="18mm" width="18mm" right="0mm" position="absolute">
+						<fo:block>
+							<xsl:variable name="imagepath" select="reportLogo" />
+							<fo:external-graphic padding="0" margin="0" space-start="0" space-end="0" pause-before="0" pause-after="0" content-height="18mm" content-width="18mm" scaling="non-uniform" src="{$imagepath}" />
+						</fo:block>
+					</fo:block-container>
+
 					<fo:block-container width="100%" border-bottom ="1pt solid #000000" >
 						<fo:block text-align="center" font-size="20px" font-weight="bold">
 							<xsl:value-of select="businessName"/>
@@ -123,8 +130,8 @@
 								<fo:table-cell><fo:block><xsl:value-of select="supplier"/> - <xsl:value-of select="supplierName"/></fo:block></fo:table-cell>
 							</fo:table-row>
 							<fo:table-row>
-								<fo:table-cell><fo:block></fo:block></fo:table-cell>
-								<fo:table-cell><fo:block></fo:block></fo:table-cell>
+								<fo:table-cell><fo:block>Supplier Address</fo:block></fo:table-cell>
+								<fo:table-cell><fo:block>:</fo:block></fo:table-cell>
 								<fo:table-cell><fo:block><xsl:value-of select="supplierAddress"/></fo:block></fo:table-cell>
 							</fo:table-row>
 							<xsl:if test="poNumber">
@@ -141,11 +148,6 @@
 									<fo:table-cell><fo:block><xsl:value-of select="returnNumber"/></fo:block></fo:table-cell>
 								</fo:table-row>
 							</xsl:if>
-							<fo:table-row>
-								<fo:table-cell><fo:block>Vat Type</fo:block></fo:table-cell>
-								<fo:table-cell><fo:block>:</fo:block></fo:table-cell>
-								<fo:table-cell><fo:block><xsl:value-of select="vatAit"/></fo:block></fo:table-cell>
-							</fo:table-row>
 						</fo:table-body>
 					</fo:table>
 				</fo:block>
@@ -153,13 +155,11 @@
 				<!-- Item table -->
 				<fo:block>
 					<fo:table table-layout="fixed" width="100%" border-collapse="collapse" >
-						<fo:table-column column-width="15%"/>
-						<fo:table-column column-width="15%" />
-						<fo:table-column column-width="15%" />
-						<fo:table-column column-width="15%" />
-						<fo:table-column column-width="10%" />
-						<fo:table-column column-width="10%" />
-						<fo:table-column column-width="10%" />
+						<fo:table-column column-width="30%"/>
+						<fo:table-column column-width="30%"/>
+						<fo:table-column column-width="10%"/>
+						<fo:table-column column-width="10%"/>
+						<fo:table-column column-width="10%"/>
 						<fo:table-column column-width="10%"/>
 
 						<!-- Table header -->
@@ -170,12 +170,6 @@
 								</fo:table-cell> 
 								<fo:table-cell xsl:use-attribute-sets="client.table.th">
 									<fo:block>Item Name</fo:block>
-								</fo:table-cell>
-								<fo:table-cell xsl:use-attribute-sets="client.table.th">
-									<fo:block>Category</fo:block>
-								</fo:table-cell>
-								<fo:table-cell xsl:use-attribute-sets="client.table.th">
-									<fo:block>Group</fo:block>
 								</fo:table-cell>
 								<fo:table-cell xsl:use-attribute-sets="client.table.th" text-align="right">
 									<fo:block>Qty</fo:block>
@@ -228,7 +222,7 @@
 									</fo:table-cell>
 								</fo:table-row>
 
-								<fo:table-row>
+								<!--<fo:table-row>
 									<fo:table-cell text-align="right">
 										<fo:block font-weight="bold">Vat</fo:block>
 									</fo:table-cell>
@@ -274,7 +268,7 @@
 									<fo:table-cell text-align="right">
 										<fo:block><xsl:value-of select="grandTotalAmount"/></fo:block>
 									</fo:table-cell>
-								</fo:table-row>
+								</fo:table-row>-->
 
 							</fo:table-body>
 						</fo:table>
@@ -295,16 +289,6 @@
 			<fo:table-cell xsl:use-attribute-sets="client.table.td">
 				<fo:block>
 					<xsl:value-of select="itemName"/>
-				</fo:block>
-			</fo:table-cell>
-			<fo:table-cell xsl:use-attribute-sets="client.table.td">
-				<fo:block>
-					<xsl:value-of select="itemCategory"/>
-				</fo:block>
-			</fo:table-cell>
-			<fo:table-cell xsl:use-attribute-sets="client.table.td">
-				<fo:block>
-					<xsl:value-of select="itemGroup"/>
 				</fo:block>
 			</fo:table-cell>
 			<fo:table-cell xsl:use-attribute-sets="client.table.td" text-align="right">

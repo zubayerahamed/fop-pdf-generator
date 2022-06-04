@@ -41,6 +41,13 @@
 
 				<!-- PAGE HEADER (STATIC CONTENT) -->
 				<fo:static-content flow-name="header-first">
+					<fo:block-container height="18mm" width="18mm" right="0mm" position="absolute">
+						<fo:block>
+							<xsl:variable name="imagepath" select="reportLogo" />
+							<fo:external-graphic padding="0" margin="0" space-start="0" space-end="0" pause-before="0" pause-after="0" content-height="18mm" content-width="18mm" scaling="non-uniform" src="{$imagepath}" />
+						</fo:block>
+					</fo:block-container>
+
 					<fo:block-container width="100%" border-bottom ="1px solid #000000" >
 						<fo:block text-align="center" font-size="20px" font-weight="bold">
 							<xsl:value-of select="businessName"/>
@@ -56,17 +63,17 @@
 
 				<!-- FOOTER PAGE NUMBER -->
 				<fo:static-content flow-name="footer-pagenumber">
-					<fo:block-container position="absolute" width="40%">
+					<fo:block-container position="absolute" width="30%">
 						<fo:block text-align="left" font-size="8px">
 							Page <fo:page-number/> of <fo:page-number-citation ref-id="{$pageid}"/>
 						</fo:block>
 					</fo:block-container>
-					<fo:block-container position="absolute" left="40%" width="20%">
+					<fo:block-container position="absolute" left="30%" width="40%">
 						<fo:block text-align="center" font-size="8px">
 							<xsl:value-of select="copyrightText"/>
 						</fo:block>
 					</fo:block-container>
-					<fo:block-container position="absolute" left="60%" width="40%">
+					<fo:block-container position="absolute" left="70%" width="30%">
 						<fo:block text-align="right" font-size="8px">
 							Printed Date : <xsl:value-of select="printDate"/>
 						</fo:block>

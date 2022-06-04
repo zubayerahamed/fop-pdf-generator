@@ -1,12 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
-
 <xsl:stylesheet 
 	version="1.1"
 	xmlns:xsl="http://www.w3.org/1999/XSL/Transform" 
 	xmlns:fo="http://www.w3.org/1999/XSL/Format"
 	exclude-result-prefixes="fo">
 
-	<xsl:template match="allsalesorderchalanreport">
+	<xsl:template match="chalanreport">
 		<fo:root xmlns:fo="http://www.w3.org/1999/XSL/Format">
 			<xsl:variable name="pageid" select="generate-id()" />
 
@@ -59,7 +58,7 @@
 						<fo:block text-align="center" font-size="12px" font-weight="bold" margin-top="4px">
 							<xsl:value-of select="reportName"/>
 						</fo:block>
-						<fo:block text-align="left" font-size="7px" font-weight="bold"  margin-top="2px" padding-bottom="5px">
+						<fo:block text-align="left" font-size="7px" margin-top="2px" padding-bottom="5px">
 							Date: <xsl:value-of select="fromDate"/>
 						</fo:block>
 					</fo:block-container>
@@ -85,13 +84,14 @@
 				</fo:static-content>
 
 				<!-- BODY CONTENT -->
-				<fo:flow flow-name="xsl-region-body">
-					<fo:block-container width="100%" right="0mm">
+ 				<fo:flow flow-name="xsl-region-body">
+					<fo:block-container width="100%" margin-top="0px" right="0mm">
 						<fo:block>
 							<fo:table table-layout="fixed" width="100%" border-collapse="collapse">
 								<fo:table-column column-width="100%" />
+
 								<fo:table-body>
-									<xsl:apply-templates select="chalans/chalan"/>
+									<xsl:apply-templates select="salesorders/salesorder"/>
 								</fo:table-body>
 							</fo:table>
 						</fo:block>
@@ -104,26 +104,31 @@
 	</xsl:template>
 
 	<!-- Category table template -->
-	<xsl:template match="chalans/chalan">
+	<xsl:template match="salesorders/salesorder">
 		<fo:table-row>
 			<fo:table-cell xsl:use-attribute-sets="category.table.td" margin-top="10px">
-				<fo:block font-weight="bold" font-size="10px" padding-top="30px" padding-bottom="5px" text-align="center">
-					Chalan : <xsl:value-of select="chalanName"/>
-				</fo:block>
 
-				<fo:block margin-bottom="5px">
-					<fo:table table-layout="fixed" width="100%" border-collapse="collapse" >
-						<fo:table-column column-width="50%"/>
-						<fo:table-column column-width="50%" />
+				<fo:block  font-size="8px" padding-top="30px" padding-bottom="5px" text-align="left">
+					<fo:table table-layout="fixed" width="100%" border-collapse="collapse">
+						<fo:table-column column-width="15%"/>
+						<fo:table-column column-width="2%" />
+						<fo:table-column column-width="83%" />
 
 						<fo:table-body>
-							<fo:table-row font-weight="bold" font-size="7px">
-								<fo:table-cell text-align="left">
-									<fo:block>Chalan Date: <xsl:value-of select="chalanDate"/></fo:block>
-								</fo:table-cell>
-								<fo:table-cell text-align="right">
-									<fo:block>Status: <xsl:value-of select="status"/></fo:block>
-								</fo:table-cell>
+							<fo:table-row>
+								<fo:table-cell><fo:block>Sales Number</fo:block></fo:table-cell>
+								<fo:table-cell><fo:block>:</fo:block></fo:table-cell>
+								<fo:table-cell><fo:block><xsl:value-of select="orderNumber"/></fo:block></fo:table-cell>
+							</fo:table-row>
+							<fo:table-row>
+								<fo:table-cell><fo:block>Customer</fo:block></fo:table-cell>
+								<fo:table-cell><fo:block>:</fo:block></fo:table-cell>
+								<fo:table-cell><fo:block><xsl:value-of select="reqBranch"/> - <xsl:value-of select="customer"/></fo:block></fo:table-cell>
+							</fo:table-row>
+							<fo:table-row>
+								<fo:table-cell><fo:block>Date</fo:block></fo:table-cell>
+								<fo:table-cell><fo:block>:</fo:block></fo:table-cell>
+								<fo:table-cell><fo:block><xsl:value-of select="date"/></fo:block></fo:table-cell>
 							</fo:table-row>
 						</fo:table-body>
 					</fo:table>
@@ -132,16 +137,19 @@
 				<!-- Item table -->
 				<fo:block>
 					<fo:table table-layout="fixed" width="100%" border-collapse="collapse" >
-						<fo:table-column column-width="25%"/>
-						<fo:table-column column-width="25%" />
-						<fo:table-column column-width="25%" />
-						<fo:table-column column-width="25%" />
+						<fo:table-column column-width="20%"/>
+						<fo:table-column column-width="35%" />
+						<fo:table-column column-width="8%" />
+						<fo:table-column column-width="15%" />
+						<fo:table-column column-width="8%"/>
+						<fo:table-column column-width="14%"/>
+
 						<!-- Table header -->
-						<fo:table-header xsl:use-attribute-sets="table.font.size">
+						<fo:table-header xsl:use-attribute-sets="table.font.size" font-weight="bold">
 							<fo:table-row>
 								<fo:table-cell xsl:use-attribute-sets="client.table.th">
 									<fo:block>Item Code</fo:block>
-								</fo:table-cell>
+								</fo:table-cell> 
 								<fo:table-cell xsl:use-attribute-sets="client.table.th">
 									<fo:block>Item Name</fo:block>
 								</fo:table-cell>
@@ -151,15 +159,91 @@
 								<fo:table-cell xsl:use-attribute-sets="client.table.th" text-align="center">
 									<fo:block>Unit</fo:block>
 								</fo:table-cell>
+								<fo:table-cell xsl:use-attribute-sets="client.table.th" text-align="right">
+									<fo:block>Rate</fo:block>
+								</fo:table-cell>
+								<fo:table-cell xsl:use-attribute-sets="client.table.th" text-align="right">
+									<fo:block>Total Amount</fo:block>
+								</fo:table-cell>
 							</fo:table-row>
 						</fo:table-header>
 
 						<!-- table body -->
 						<fo:table-body>
-							<xsl:apply-templates select="items/item"/>
+							<xsl:if test="items/item">
+								<xsl:apply-templates select="items/item"/>
+							</xsl:if>
+							<xsl:if test="not(items/item)">
+								<fo:table-row>
+									<fo:table-cell number-columns-spanned="8" xsl:use-attribute-sets="client.table.td">
+										<fo:block>No Items found</fo:block>
+									</fo:table-cell>
+								</fo:table-row>
+							</xsl:if>
 						</fo:table-body>
 					</fo:table>
 				</fo:block>
+
+				<fo:block-container width="100%" margin-top="10px" margin-left="0px">
+					<fo:block padding-top="8px">
+						<fo:table table-layout="fixed" width="100%" border-collapse="collapse" xsl:use-attribute-sets="table.font.size">
+							<fo:table-column column-width="80%" />
+							<fo:table-column column-width="5%" />
+							<fo:table-column column-width="10%" />
+
+							<fo:table-body>
+								<fo:table-row>
+									<fo:table-cell text-align="right">
+										<fo:block font-weight="bold">Total Amount</fo:block>
+									</fo:table-cell>
+									<fo:table-cell text-align="left" margin-left="10px">
+										<fo:block>:</fo:block>
+									</fo:table-cell>
+									<fo:table-cell text-align="left">
+										<fo:block color="black"><xsl:value-of select="totalAmount"/></fo:block>
+									</fo:table-cell>
+								</fo:table-row>
+
+								<!--<fo:table-row>
+									<fo:table-cell text-align="right">
+										<fo:block font-weight="bold">Vat Amount</fo:block>
+									</fo:table-cell>
+									<fo:table-cell text-align="left" margin-left="10px">
+										<fo:block>:</fo:block>
+									</fo:table-cell>
+									<fo:table-cell text-align="left">
+										<fo:block><xsl:value-of select="vatAmount"/></fo:block>
+									</fo:table-cell>
+								</fo:table-row>
+
+								<fo:table-row>
+									<fo:table-cell text-align="right">
+										<fo:block font-weight="bold">Discount Amount</fo:block>
+									</fo:table-cell>
+									<fo:table-cell text-align="left" margin-left="10px">
+										<fo:block>:</fo:block>
+									</fo:table-cell>
+									<fo:table-cell text-align="left">
+										<fo:block><xsl:value-of select="discountAmount"/></fo:block>
+									</fo:table-cell>
+								</fo:table-row>
+
+								<fo:table-row>
+									<fo:table-cell text-align="right">
+										<fo:block font-weight="bold">Grand Total Amount</fo:block>
+									</fo:table-cell>
+									<fo:table-cell text-align="left" margin-left="10px">
+										<fo:block>:</fo:block>
+									</fo:table-cell>
+									<fo:table-cell text-align="left">
+										<fo:block><xsl:value-of select="grandTotalAmount"/></fo:block>
+									</fo:table-cell>
+								</fo:table-row>-->
+
+							</fo:table-body>
+						</fo:table>
+					</fo:block>
+				</fo:block-container>
 			</fo:table-cell>
 		</fo:table-row>
 	</xsl:template>
@@ -185,6 +269,16 @@
 			<fo:table-cell xsl:use-attribute-sets="client.table.td" text-align="center">
 				<fo:block>
 					<xsl:value-of select="itemUnit"/>
+				</fo:block>
+			</fo:table-cell>
+			<fo:table-cell xsl:use-attribute-sets="client.table.td" text-align="right">
+				<fo:block>
+					<xsl:value-of select="itemRate"/>
+				</fo:block>
+			</fo:table-cell>
+			<fo:table-cell xsl:use-attribute-sets="client.table.td" text-align="right">
+				<fo:block>
+					<xsl:value-of select="itemTotalAmount"/>
 				</fo:block>
 			</fo:table-cell>
 		</fo:table-row>

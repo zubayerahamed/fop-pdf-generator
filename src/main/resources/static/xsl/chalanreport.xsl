@@ -41,7 +41,14 @@
 
 				<!-- PAGE HEADER (STATIC CONTENT) -->
 				<fo:static-content flow-name="header-first">
-					<fo:block-container width="100%" margin-top="15px" border-bottom ="1px solid #000000" >
+					<fo:block-container height="18mm" width="18mm" right="0mm" position="absolute">
+						<fo:block>
+							<xsl:variable name="imagepath" select="reportLogo" />
+							<fo:external-graphic padding="0" margin="0" space-start="0" space-end="0" pause-before="0" pause-after="0" content-height="18mm" content-width="18mm" scaling="non-uniform" src="{$imagepath}" />
+						</fo:block>
+					</fo:block-container>
+
+					<fo:block-container width="100%" margin-top="15px" border-bottom ="2pt solid #000000" >
 						<fo:block text-align="center" font-size="20px" font-weight="bold">
 							<xsl:value-of select="businessName"/>
 						</fo:block>
@@ -56,6 +63,7 @@
 						</fo:block>
 					</fo:block-container>
 				</fo:static-content>
+				
 
 				<!-- FOOTER PAGE NUMBER -->
 				<fo:static-content flow-name="footer-pagenumber">
@@ -95,6 +103,7 @@
 								<fo:table-column column-width="100%" />
 										
 								<fo:table-body>
+									
 									<xsl:apply-templates select="salesorders/salesorder"/>
 								</fo:table-body>
 							</fo:table>

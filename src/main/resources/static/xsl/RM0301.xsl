@@ -51,6 +51,13 @@
 
 				<!-- PAGE HEADER (STATIC CONTENT) -->
 				<fo:static-content flow-name="header-first">
+					<fo:block-container height="18mm" width="18mm" right="0mm" position="absolute">
+						<fo:block>
+							<xsl:variable name="imagepath" select="reportLogo" />
+							<fo:external-graphic padding="0" margin="0" space-start="0" space-end="0" pause-before="0" pause-after="0" content-height="18mm" content-width="18mm" scaling="non-uniform" src="{$imagepath}" />
+						</fo:block>
+					</fo:block-container>
+
 					<fo:block-container width="100%" border-bottom ="1pt solid #000000" >
 						<fo:block text-align="center" font-size="20px" font-weight="bold">
 							<xsl:value-of select="businessName"/>

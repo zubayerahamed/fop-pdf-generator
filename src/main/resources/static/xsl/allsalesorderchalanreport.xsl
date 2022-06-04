@@ -49,7 +49,7 @@
 						</fo:block>
 					</fo:block-container>
 
-					<fo:block-container width="100%" border-bottom ="1pt solid #000000" >
+					<fo:block-container width="100%" margin-top="15px" border-bottom ="2pt solid #000000" >
 						<fo:block text-align="center" font-size="20px" font-weight="bold">
 							<xsl:value-of select="businessName"/>
 						</fo:block>
@@ -60,24 +60,24 @@
 							<xsl:value-of select="reportName"/>
 						</fo:block>
 						<fo:block text-align="left" font-size="7px" font-weight="bold"  margin-top="2px" padding-bottom="5px">
-							Date: <xsl:value-of select="fromDate"/>
+							Date: <xsl:value-of select="fromDate"/> To <xsl:value-of select="toDate"/>
 						</fo:block>
 					</fo:block-container>
 				</fo:static-content>
 
 				<!-- FOOTER PAGE NUMBER -->
 				<fo:static-content flow-name="footer-pagenumber">
-					<fo:block-container position="absolute" width="30%">
+					<fo:block-container position="absolute" width="40%">
 						<fo:block text-align="left" font-size="8px">
 							Page <fo:page-number/> of <fo:page-number-citation ref-id="{$pageid}"/>
 						</fo:block>
 					</fo:block-container>
-					<fo:block-container position="absolute" left="30%" width="40%">
+					<fo:block-container position="absolute" left="40%" width="20%">
 						<fo:block text-align="center" font-size="8px">
 							<xsl:value-of select="copyrightText"/>
 						</fo:block>
 					</fo:block-container>
-					<fo:block-container position="absolute" left="70%" width="30%">
+					<fo:block-container position="absolute" left="60%" width="40%">
 						<fo:block text-align="right" font-size="8px">
 							Printed Date : <xsl:value-of select="printDate"/>
 						</fo:block>
@@ -86,10 +86,11 @@
 
 				<!-- BODY CONTENT -->
 				<fo:flow flow-name="xsl-region-body">
-					<fo:block-container width="100%" right="0mm">
+					<fo:block-container width="100%" margin-top="20px" right="0mm">
 						<fo:block>
 							<fo:table table-layout="fixed" width="100%" border-collapse="collapse">
 								<fo:table-column column-width="100%" />
+
 								<fo:table-body>
 									<xsl:apply-templates select="chalans/chalan"/>
 								</fo:table-body>
@@ -108,48 +109,58 @@
 		<fo:table-row>
 			<fo:table-cell xsl:use-attribute-sets="category.table.td" margin-top="10px">
 				<fo:block font-weight="bold" font-size="10px" padding-top="30px" padding-bottom="5px" text-align="center">
-					Chalan : <xsl:value-of select="chalanName"/>
+					Chalan Name: <xsl:value-of select="chalanName"/>
 				</fo:block>
-
-				<fo:block margin-bottom="5px">
+				
+				<fo:block>
 					<fo:table table-layout="fixed" width="100%" border-collapse="collapse" >
 						<fo:table-column column-width="50%"/>
 						<fo:table-column column-width="50%" />
-
+						
 						<fo:table-body>
 							<fo:table-row font-weight="bold" font-size="7px">
 								<fo:table-cell text-align="left">
-									<fo:block>Chalan Date: <xsl:value-of select="chalanDate"/></fo:block>
+									<fo:block>Date: <xsl:value-of select="chalanDate"/></fo:block>
 								</fo:table-cell>
 								<fo:table-cell text-align="right">
 									<fo:block>Status: <xsl:value-of select="status"/></fo:block>
 								</fo:table-cell>
 							</fo:table-row>
 						</fo:table-body>
+						
 					</fo:table>
 				</fo:block>
-
+				
+				
 				<!-- Item table -->
 				<fo:block>
 					<fo:table table-layout="fixed" width="100%" border-collapse="collapse" >
-						<fo:table-column column-width="25%"/>
-						<fo:table-column column-width="25%" />
-						<fo:table-column column-width="25%" />
-						<fo:table-column column-width="25%" />
+						<fo:table-column column-width="15%"/>
+						<fo:table-column column-width="15%" />
+						<fo:table-column column-width="15%" />
+						<fo:table-column column-width="15%" />
+						<fo:table-column column-width="20%" />
+						<fo:table-column column-width="20%"/>
 						<!-- Table header -->
 						<fo:table-header xsl:use-attribute-sets="table.font.size">
 							<fo:table-row>
-								<fo:table-cell xsl:use-attribute-sets="client.table.th">
-									<fo:block>Item Code</fo:block>
+								<fo:table-cell xsl:use-attribute-sets="client.table.th" text-align="center" background-color="gray">
+									<fo:block>item Code</fo:block>
 								</fo:table-cell>
-								<fo:table-cell xsl:use-attribute-sets="client.table.th">
+								<fo:table-cell xsl:use-attribute-sets="client.table.th" text-align="center" background-color="gray">
 									<fo:block>Item Name</fo:block>
 								</fo:table-cell>
-								<fo:table-cell xsl:use-attribute-sets="client.table.th" text-align="right">
-									<fo:block>Qty</fo:block>
+								<fo:table-cell xsl:use-attribute-sets="client.table.th" text-align="center" background-color="gray">
+									<fo:block>item Qty</fo:block>
 								</fo:table-cell>
-								<fo:table-cell xsl:use-attribute-sets="client.table.th" text-align="center">
-									<fo:block>Unit</fo:block>
+								<fo:table-cell xsl:use-attribute-sets="client.table.th" text-align="center" background-color="gray">
+									<fo:block>item Unit</fo:block>
+								</fo:table-cell>
+								<fo:table-cell xsl:use-attribute-sets="client.table.th" text-align="center" background-color="gray">
+									<fo:block>item Category</fo:block>
+								</fo:table-cell>
+								<fo:table-cell xsl:use-attribute-sets="client.table.th" text-align="center" background-color="gray">
+									<fo:block>item Group</fo:block>
 								</fo:table-cell>
 							</fo:table-row>
 						</fo:table-header>
@@ -167,17 +178,17 @@
 	<!-- Item table template -->
 	<xsl:template match="items/item">
 		<fo:table-row>
-			<fo:table-cell xsl:use-attribute-sets="client.table.td">
+			<fo:table-cell xsl:use-attribute-sets="client.table.td" text-align="center">
 				<fo:block>
 					<xsl:value-of select="itemCode"/>
 				</fo:block>
 			</fo:table-cell>
-			<fo:table-cell xsl:use-attribute-sets="client.table.td">
+			<fo:table-cell xsl:use-attribute-sets="client.table.td" text-align="center">
 				<fo:block>
 					<xsl:value-of select="itemName"/>
 				</fo:block>
 			</fo:table-cell>
-			<fo:table-cell xsl:use-attribute-sets="client.table.td" text-align="right">
+			<fo:table-cell xsl:use-attribute-sets="client.table.td" text-align="center">
 				<fo:block>
 					<xsl:value-of select="itemQty"/>
 				</fo:block>
@@ -185,6 +196,16 @@
 			<fo:table-cell xsl:use-attribute-sets="client.table.td" text-align="center">
 				<fo:block>
 					<xsl:value-of select="itemUnit"/>
+				</fo:block>
+			</fo:table-cell>
+			<fo:table-cell xsl:use-attribute-sets="client.table.td" text-align="center">
+				<fo:block>
+					<xsl:value-of select="itemCategory"/>
+				</fo:block>
+			</fo:table-cell>
+			<fo:table-cell xsl:use-attribute-sets="client.table.td" text-align="center">
+				<fo:block>
+					<xsl:value-of select="itemGroup"/>
 				</fo:block>
 			</fo:table-cell>
 		</fo:table-row>
@@ -209,8 +230,6 @@
 		<xsl:attribute name="padding">2px</xsl:attribute>
 		<xsl:attribute name="background-color">#DDDDDD</xsl:attribute>
 		<xsl:attribute name="border">1pt solid #000000</xsl:attribute>
-		<xsl:attribute name="padding-left">5px</xsl:attribute>
-		<xsl:attribute name="padding-right">5px</xsl:attribute>
 	</xsl:attribute-set>
 	<xsl:attribute-set name="client.table.tf">
 		<xsl:attribute name="font-weight">bold</xsl:attribute>
@@ -222,8 +241,6 @@
 		<xsl:attribute name="font-size">7pt</xsl:attribute>
 		<xsl:attribute name="padding">2px</xsl:attribute>
 		<xsl:attribute name="border">1pt solid #000000</xsl:attribute>
-		<xsl:attribute name="padding-left">5px</xsl:attribute>
-		<xsl:attribute name="padding-right">5px</xsl:attribute>
 	</xsl:attribute-set>
 	<xsl:attribute-set name="category.table.td">
 		<xsl:attribute name="font-size">7pt</xsl:attribute>

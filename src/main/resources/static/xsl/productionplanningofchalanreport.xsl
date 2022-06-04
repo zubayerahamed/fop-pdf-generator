@@ -42,7 +42,14 @@
 
 				<!-- PAGE HEADER (STATIC CONTENT) -->
 				<fo:static-content flow-name="header-first">
-					<fo:block-container width="100%" margin-top="15px" border-bottom ="1px solid #000000" >
+					<fo:block-container height="18mm" width="18mm" right="0mm" position="absolute">
+						<fo:block>
+							<xsl:variable name="imagepath" select="reportLogo" />
+							<fo:external-graphic padding="0" margin="0" space-start="0" space-end="0" pause-before="0" pause-after="0" content-height="18mm" content-width="18mm" scaling="non-uniform" src="{$imagepath}" />
+						</fo:block>
+					</fo:block-container>
+
+					<fo:block-container width="100%" border-bottom ="1px solid #000000" >
 						<fo:block text-align="center" font-size="20px" font-weight="bold">
 							<xsl:value-of select="businessName"/>
 						</fo:block>
@@ -60,17 +67,17 @@
 
 				<!-- FOOTER PAGE NUMBER -->
 				<fo:static-content flow-name="footer-pagenumber">
-					<fo:block-container position="absolute" width="40%">
+					<fo:block-container position="absolute" width="30%">
 						<fo:block text-align="left" font-size="8px">
 							Page <fo:page-number/> of <fo:page-number-citation ref-id="{$pageid}"/>
 						</fo:block>
 					</fo:block-container>
-					<fo:block-container position="absolute" left="40%" width="20%">
+					<fo:block-container position="absolute" left="30%" width="40%">
 						<fo:block text-align="center" font-size="8px">
 							<xsl:value-of select="copyrightText"/>
 						</fo:block>
 					</fo:block-container>
-					<fo:block-container position="absolute" left="60%" width="40%">
+					<fo:block-container position="absolute" left="70%" width="30%">
 						<fo:block text-align="right" font-size="8px">
 							Printed Date : <xsl:value-of select="printDate"/>
 						</fo:block>
@@ -128,32 +135,32 @@
 				<!-- Item table -->
 				<fo:block>
 					<fo:table table-layout="fixed" width="100%" border-collapse="collapse" >
-						<fo:table-column column-width="15%"/>
-						<fo:table-column column-width="15%" />
+						<fo:table-column column-width="20%"/>
 						<fo:table-column column-width="15%" />
 						<fo:table-column column-width="15%" />
 						<fo:table-column column-width="20%" />
-						<fo:table-column column-width="20%"/>
+						<fo:table-column column-width="15%" />
+						<fo:table-column column-width="15%"/>
 						<!-- Table header -->
 						<fo:table-header xsl:use-attribute-sets="table.font.size">
 							<fo:table-row>
-								<fo:table-cell xsl:use-attribute-sets="client.table.th" text-align="center">
+								<fo:table-cell xsl:use-attribute-sets="client.table.th">
 									<fo:block>Production Item</fo:block>
 								</fo:table-cell>
 								<fo:table-cell xsl:use-attribute-sets="client.table.th" text-align="center">
-									<fo:block>Production Item Qty</fo:block>
+									<fo:block>Production Qty</fo:block>
 								</fo:table-cell>
 								<fo:table-cell xsl:use-attribute-sets="client.table.th" text-align="center">
-									<fo:block>Production Item Unit</fo:block>
+									<fo:block>Production Unit</fo:block>
 								</fo:table-cell>
-								<fo:table-cell xsl:use-attribute-sets="client.table.th" text-align="center">
+								<fo:table-cell xsl:use-attribute-sets="client.table.th">
 									<fo:block>Raw Material</fo:block>
 								</fo:table-cell>
 								<fo:table-cell xsl:use-attribute-sets="client.table.th" text-align="center">
-									<fo:block>Raw Material Qty</fo:block>
+									<fo:block>Raw Qty</fo:block>
 								</fo:table-cell>
 								<fo:table-cell xsl:use-attribute-sets="client.table.th" text-align="center">
-									<fo:block>Raw Material Unit</fo:block>
+									<fo:block>Raw Unit</fo:block>
 								</fo:table-cell>
 							</fo:table-row>
 						</fo:table-header>
@@ -180,7 +187,7 @@
 	<!-- Item table template -->
 	<xsl:template match="suggestions/suggestion">
 		<fo:table-row>
-			<fo:table-cell xsl:use-attribute-sets="client.table.td" text-align="center">
+			<fo:table-cell xsl:use-attribute-sets="client.table.td">
 				<fo:block>
 					<xsl:value-of select="productionItem"/>
 				</fo:block>
@@ -195,7 +202,7 @@
 					<xsl:value-of select="productionItemUnit"/>
 				</fo:block>
 			</fo:table-cell>
-			<fo:table-cell xsl:use-attribute-sets="client.table.td" text-align="center">
+			<fo:table-cell xsl:use-attribute-sets="client.table.td">
 				<fo:block>
 					<xsl:value-of select="rawMaterial"/>
 				</fo:block>
