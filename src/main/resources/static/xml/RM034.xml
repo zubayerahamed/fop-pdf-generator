@@ -1,0 +1,2077 @@
+<rm034report>
+	<copyright>Developed By KIT (karigorit.com) © Copyright 2022</copyright>
+	<printDate>Tue, 21-Jun-2022</printDate>
+	<reportName>Raw Item List Report</reportName>
+	<shopAddress></shopAddress>
+	<shopName>Lake View Recration Club Ltd.</shopName>
+	<items>
+		<item>
+			<dateCreated>2022-06-21T10:59:55.718+06:00</dateCreated>
+			<dateUpdated>2022-06-21T10:59:55.718+06:00</dateUpdated>
+			<newFlag>false</newFlag>
+			<status>1</status>
+			<id>IC--000196</id>
+			<category>Cigarette</category>
+			<conunit>pcs</conunit>
+			<name>Marlboro (Switch)</name>
+			<type>Raw Materials</type>
+		</item>
+		<item>
+			<dateCreated>2022-06-21T10:59:55.718+06:00</dateCreated>
+			<dateUpdated>2022-06-21T10:59:55.718+06:00</dateUpdated>
+			<newFlag>false</newFlag>
+			<status>1</status>
+			<id>IC--000200</id>
+			<category>Cigarette</category>
+			<conunit>pcs</conunit>
+			<name>Marlboro (Advance)</name>
+			<type>Raw Materials</type>
+		</item>
+		<item>
+			<dateCreated>2022-06-21T10:59:55.718+06:00</dateCreated>
+			<dateUpdated>2022-06-21T10:59:55.718+06:00</dateUpdated>
+			<newFlag>false</newFlag>
+			<status>1</status>
+			<id>IC--000190</id>
+			<category>Each Game/Table</category>
+			<conunit>pcs</conunit>
+			<name>Each Game/Table</name>
+			<type>Raw Materials</type>
+		</item>
+		<item>
+			<dateCreated>2022-06-21T10:59:55.718+06:00</dateCreated>
+			<dateUpdated>2022-06-21T10:59:55.718+06:00</dateUpdated>
+			<newFlag>false</newFlag>
+			<status>1</status>
+			<id>IC--000191</id>
+			<category>Hard Drinks</category>
+			<conunit>Peg</conunit>
+			<name>Double Black Level</name>
+			<type>Raw Materials</type>
+		</item>
+		<item>
+			<dateCreated>2022-06-21T10:59:55.718+06:00</dateCreated>
+			<dateUpdated>2022-06-21T10:59:55.718+06:00</dateUpdated>
+			<newFlag>false</newFlag>
+			<status>1</status>
+			<id>IC--000192</id>
+			<category>Hard Drinks</category>
+			<conunit>Peg</conunit>
+			<name>Red Level/Black Gog Whisky</name>
+			<type>Raw Materials</type>
+		</item>
+		<item>
+			<dateCreated>2022-06-21T10:59:55.718+06:00</dateCreated>
+			<dateUpdated>2022-06-21T10:59:55.718+06:00</dateUpdated>
+			<newFlag>false</newFlag>
+			<status>1</status>
+			<id>IC--000193</id>
+			<category>Hard Drinks</category>
+			<conunit>pcs</conunit>
+			<name>Premium Gin</name>
+			<type>Raw Materials</type>
+		</item>
+		<item>
+			<dateCreated>2022-06-21T10:59:55.718+06:00</dateCreated>
+			<dateUpdated>2022-06-21T10:59:55.718+06:00</dateUpdated>
+			<newFlag>false</newFlag>
+			<status>1</status>
+			<id>IC--000195</id>
+			<category>Hard Drinks</category>
+			<conunit>pcs</conunit>
+			<name>Black Level 200ml Small</name>
+			<type>Raw Materials</type>
+		</item>
+		<item>
+			<dateCreated>2022-06-21T10:59:55.718+06:00</dateCreated>
+			<dateUpdated>2022-06-21T10:59:55.718+06:00</dateUpdated>
+			<newFlag>false</newFlag>
+			<status>1</status>
+			<id>IC--000145</id>
+			<category>Hard Drinks</category>
+			<conunit>pcs</conunit>
+			<name>Beer (5%)</name>
+			<type>Raw Materials</type>
+		</item>
+		<item>
+			<dateCreated>2022-06-21T10:59:55.718+06:00</dateCreated>
+			<dateUpdated>2022-06-21T10:59:55.718+06:00</dateUpdated>
+			<newFlag>false</newFlag>
+			<status>1</status>
+			<id>IC--000146</id>
+			<category>Hard Drinks</category>
+			<conunit>pcs</conunit>
+			<name>Beer (12%)</name>
+			<type>Raw Materials</type>
+		</item>
+		<item>
+			<dateCreated>2022-06-21T10:59:55.718+06:00</dateCreated>
+			<dateUpdated>2022-06-21T10:59:55.718+06:00</dateUpdated>
+			<newFlag>false</newFlag>
+			<status>1</status>
+			<id>IC--000148</id>
+			<category>Hard Drinks</category>
+			<conunit>pcs</conunit>
+			<name>Beer (Soju Bottle)</name>
+			<type>Raw Materials</type>
+		</item>
+		<item>
+			<dateCreated>2022-06-21T10:59:55.718+06:00</dateCreated>
+			<dateUpdated>2022-06-21T10:59:55.718+06:00</dateUpdated>
+			<newFlag>false</newFlag>
+			<status>1</status>
+			<id>IC--000150</id>
+			<category>Hard Drinks</category>
+			<conunit>Peg</conunit>
+			<name>Normal Whisky</name>
+			<type>Raw Materials</type>
+		</item>
+		<item>
+			<dateCreated>2022-06-21T10:59:55.718+06:00</dateCreated>
+			<dateUpdated>2022-06-21T10:59:55.718+06:00</dateUpdated>
+			<newFlag>false</newFlag>
+			<status>1</status>
+			<id>IC--000151</id>
+			<category>Hard Drinks</category>
+			<conunit>Peg</conunit>
+			<name>Normal Vodka</name>
+			<type>Raw Materials</type>
+		</item>
+		<item>
+			<dateCreated>2022-06-21T10:59:55.718+06:00</dateCreated>
+			<dateUpdated>2022-06-21T10:59:55.718+06:00</dateUpdated>
+			<newFlag>false</newFlag>
+			<status>1</status>
+			<id>IC--000152</id>
+			<category>Hard Drinks</category>
+			<conunit>pcs</conunit>
+			<name>Normal Vodka (Can)</name>
+			<type>Raw Materials</type>
+		</item>
+		<item>
+			<dateCreated>2022-06-21T10:59:55.718+06:00</dateCreated>
+			<dateUpdated>2022-06-21T10:59:55.718+06:00</dateUpdated>
+			<newFlag>false</newFlag>
+			<status>1</status>
+			<id>IC--000153</id>
+			<category>Hard Drinks</category>
+			<conunit>Peg</conunit>
+			<name>Normal Gin</name>
+			<type>Raw Materials</type>
+		</item>
+		<item>
+			<dateCreated>2022-06-21T10:59:55.718+06:00</dateCreated>
+			<dateUpdated>2022-06-21T10:59:55.718+06:00</dateUpdated>
+			<newFlag>false</newFlag>
+			<status>1</status>
+			<id>IC--000154</id>
+			<category>Hard Drinks</category>
+			<conunit>Peg</conunit>
+			<name>Tequila</name>
+			<type>Raw Materials</type>
+		</item>
+		<item>
+			<dateCreated>2022-06-21T10:59:55.718+06:00</dateCreated>
+			<dateUpdated>2022-06-21T10:59:55.718+06:00</dateUpdated>
+			<newFlag>false</newFlag>
+			<status>1</status>
+			<id>IC--000155</id>
+			<category>Hard Drinks</category>
+			<conunit>Peg</conunit>
+			<name>Jack Daniel</name>
+			<type>Raw Materials</type>
+		</item>
+		<item>
+			<dateCreated>2022-06-21T10:59:55.718+06:00</dateCreated>
+			<dateUpdated>2022-06-21T10:59:55.718+06:00</dateUpdated>
+			<newFlag>false</newFlag>
+			<status>1</status>
+			<id>IC--000156</id>
+			<category>Hard Drinks</category>
+			<conunit>Peg</conunit>
+			<name>Black Level</name>
+			<type>Raw Materials</type>
+		</item>
+		<item>
+			<dateCreated>2022-06-21T10:59:55.718+06:00</dateCreated>
+			<dateUpdated>2022-06-21T10:59:55.718+06:00</dateUpdated>
+			<newFlag>false</newFlag>
+			<status>1</status>
+			<id>IC--000157</id>
+			<category>Hard Drinks</category>
+			<conunit>pcs</conunit>
+			<name>Wine (White &amp; Red)</name>
+			<type>Raw Materials</type>
+		</item>
+		<item>
+			<dateCreated>2022-06-21T10:59:55.718+06:00</dateCreated>
+			<dateUpdated>2022-06-21T10:59:55.718+06:00</dateUpdated>
+			<newFlag>false</newFlag>
+			<status>1</status>
+			<id>IC--000158</id>
+			<category>Hard Drinks</category>
+			<conunit>pcs</conunit>
+			<name>Wine (Premium)</name>
+			<type>Raw Materials</type>
+		</item>
+		<item>
+			<dateCreated>2022-06-21T10:59:55.718+06:00</dateCreated>
+			<dateUpdated>2022-06-21T10:59:55.718+06:00</dateUpdated>
+			<newFlag>false</newFlag>
+			<status>1</status>
+			<id>IC--000159</id>
+			<category>Hard Drinks</category>
+			<conunit>Peg</conunit>
+			<name>Dimple Whisky</name>
+			<type>Raw Materials</type>
+		</item>
+		<item>
+			<dateCreated>2022-06-21T10:59:55.718+06:00</dateCreated>
+			<dateUpdated>2022-06-21T10:59:55.718+06:00</dateUpdated>
+			<newFlag>false</newFlag>
+			<status>1</status>
+			<id>IC--000160</id>
+			<category>Hard Drinks</category>
+			<conunit>Peg</conunit>
+			<name>Gold Level</name>
+			<type>Raw Materials</type>
+		</item>
+		<item>
+			<dateCreated>2022-06-21T10:59:55.718+06:00</dateCreated>
+			<dateUpdated>2022-06-21T10:59:55.718+06:00</dateUpdated>
+			<newFlag>false</newFlag>
+			<status>1</status>
+			<id>IC--000161</id>
+			<category>Hard Drinks</category>
+			<conunit>Peg</conunit>
+			<name>Flavour Vodka </name>
+			<type>Raw Materials</type>
+		</item>
+		<item>
+			<dateCreated>2022-06-21T10:59:55.718+06:00</dateCreated>
+			<dateUpdated>2022-06-21T10:59:55.718+06:00</dateUpdated>
+			<newFlag>false</newFlag>
+			<status>1</status>
+			<id>IC--000162</id>
+			<category>Hard Drinks</category>
+			<conunit>Peg</conunit>
+			<name>Rum</name>
+			<type>Raw Materials</type>
+		</item>
+		<item>
+			<dateCreated>2022-06-21T10:59:55.718+06:00</dateCreated>
+			<dateUpdated>2022-06-21T10:59:55.718+06:00</dateUpdated>
+			<newFlag>false</newFlag>
+			<status>1</status>
+			<id>IC--000163</id>
+			<category>Hard Drinks</category>
+			<conunit>Peg</conunit>
+			<name>Absolute Vodka</name>
+			<type>Raw Materials</type>
+		</item>
+		<item>
+			<dateCreated>2022-06-21T10:59:55.718+06:00</dateCreated>
+			<dateUpdated>2022-06-21T10:59:55.718+06:00</dateUpdated>
+			<newFlag>false</newFlag>
+			<status>1</status>
+			<id>IC--000164</id>
+			<category>Hard Drinks</category>
+			<conunit>Peg</conunit>
+			<name>Brandy</name>
+			<type>Raw Materials</type>
+		</item>
+		<item>
+			<dateCreated>2022-06-21T10:59:55.718+06:00</dateCreated>
+			<dateUpdated>2022-06-21T10:59:55.718+06:00</dateUpdated>
+			<newFlag>false</newFlag>
+			<status>1</status>
+			<id>IC--000165</id>
+			<category>Hard Drinks</category>
+			<conunit>pcs</conunit>
+			<name>Hunter Beer (can)</name>
+			<type>Raw Materials</type>
+		</item>
+		<item>
+			<dateCreated>2022-06-21T10:59:55.718+06:00</dateCreated>
+			<dateUpdated>2022-06-21T10:59:55.718+06:00</dateUpdated>
+			<newFlag>false</newFlag>
+			<status>1</status>
+			<id>IC--000166</id>
+			<category>Hard Drinks</category>
+			<conunit>pcs</conunit>
+			<name>Hunter Beer (Bottle)</name>
+			<type>Raw Materials</type>
+		</item>
+		<item>
+			<dateCreated>2022-06-21T10:59:55.718+06:00</dateCreated>
+			<dateUpdated>2022-06-21T10:59:55.718+06:00</dateUpdated>
+			<newFlag>false</newFlag>
+			<status>1</status>
+			<id>IC--000167</id>
+			<category>Hard Drinks</category>
+			<conunit>pcs</conunit>
+			<name>Carew (Whisky/Vodka/Brandy/Orange) Small</name>
+			<type>Raw Materials</type>
+		</item>
+		<item>
+			<dateCreated>2022-06-21T10:59:55.718+06:00</dateCreated>
+			<dateUpdated>2022-06-21T10:59:55.718+06:00</dateUpdated>
+			<newFlag>false</newFlag>
+			<status>1</status>
+			<id>IC--000202</id>
+			<category>Hard Drinks</category>
+			<conunit>Peg</conunit>
+			<name>Carew Gin Peg</name>
+			<type>Raw Materials</type>
+		</item>
+		<item>
+			<dateCreated>2022-06-21T10:59:55.718+06:00</dateCreated>
+			<dateUpdated>2022-06-21T10:59:55.718+06:00</dateUpdated>
+			<newFlag>false</newFlag>
+			<status>1</status>
+			<id>IC--000187</id>
+			<category>Hard Drinks</category>
+			<conunit>pcs</conunit>
+			<name>Carew (Whisky/Vodka/Brandy/Orange) Large</name>
+			<type>Raw Materials</type>
+		</item>
+		<item>
+			<dateCreated>2022-06-21T10:59:55.718+06:00</dateCreated>
+			<dateUpdated>2022-06-21T10:59:55.718+06:00</dateUpdated>
+			<newFlag>false</newFlag>
+			<status>1</status>
+			<id>IC--000208</id>
+			<category>Hard Drinks</category>
+			<conunit>gm</conunit>
+			<name>Belays syrup </name>
+			<type>Raw Materials</type>
+		</item>
+		<item>
+			<dateCreated>2022-06-21T10:59:55.718+06:00</dateCreated>
+			<dateUpdated>2022-06-21T10:59:55.718+06:00</dateUpdated>
+			<newFlag>false</newFlag>
+			<status>1</status>
+			<id>IC--000209</id>
+			<category>Hard Drinks</category>
+			<conunit>gm</conunit>
+			<name>Kahlua syrup </name>
+			<type>Raw Materials</type>
+		</item>
+		<item>
+			<dateCreated>2022-06-21T10:59:55.718+06:00</dateCreated>
+			<dateUpdated>2022-06-21T10:59:55.718+06:00</dateUpdated>
+			<newFlag>false</newFlag>
+			<status>1</status>
+			<id>IC--000210</id>
+			<category>Hard Drinks</category>
+			<conunit>gm</conunit>
+			<name>Black Coffee</name>
+			<type>Raw Materials</type>
+		</item>
+		<item>
+			<dateCreated>2022-06-21T10:59:55.718+06:00</dateCreated>
+			<dateUpdated>2022-06-21T10:59:55.718+06:00</dateUpdated>
+			<newFlag>false</newFlag>
+			<status>1</status>
+			<id>IC--000211</id>
+			<category>Hard Drinks</category>
+			<conunit>gm</conunit>
+			<name>Blue Caracrow</name>
+			<type>Raw Materials</type>
+		</item>
+		<item>
+			<dateCreated>2022-06-21T10:59:55.718+06:00</dateCreated>
+			<dateUpdated>2022-06-21T10:59:55.718+06:00</dateUpdated>
+			<newFlag>false</newFlag>
+			<status>1</status>
+			<id>IC--000212</id>
+			<category>Hard Drinks</category>
+			<conunit>gm</conunit>
+			<name>Sugar Syrup</name>
+			<type>Raw Materials</type>
+		</item>
+		<item>
+			<dateCreated>2022-06-21T10:59:55.718+06:00</dateCreated>
+			<dateUpdated>2022-06-21T10:59:55.718+06:00</dateUpdated>
+			<newFlag>false</newFlag>
+			<status>1</status>
+			<id>IC--000214</id>
+			<category>Hard Drinks</category>
+			<conunit>gm</conunit>
+			<name>Triple Sec Syrup</name>
+			<type>Raw Materials</type>
+		</item>
+		<item>
+			<dateCreated>2022-06-21T10:59:55.718+06:00</dateCreated>
+			<dateUpdated>2022-06-21T10:59:55.718+06:00</dateUpdated>
+			<newFlag>false</newFlag>
+			<status>1</status>
+			<id>IC--000215</id>
+			<category>Hard Drinks</category>
+			<conunit>gm</conunit>
+			<name>Tomato Juice</name>
+			<type>Raw Materials</type>
+		</item>
+		<item>
+			<dateCreated>2022-06-21T10:59:55.718+06:00</dateCreated>
+			<dateUpdated>2022-06-21T10:59:55.718+06:00</dateUpdated>
+			<newFlag>false</newFlag>
+			<status>1</status>
+			<id>IC--000216</id>
+			<category>Hard Drinks</category>
+			<conunit>gm</conunit>
+			<name>Tabasco Syrup</name>
+			<type>Raw Materials</type>
+		</item>
+		<item>
+			<dateCreated>2022-06-21T10:59:55.718+06:00</dateCreated>
+			<dateUpdated>2022-06-21T10:59:55.718+06:00</dateUpdated>
+			<newFlag>false</newFlag>
+			<status>1</status>
+			<id>IC--000217</id>
+			<category>Hard Drinks</category>
+			<conunit>gm</conunit>
+			<name>Grape Fruit Juice </name>
+			<type>Raw Materials</type>
+		</item>
+		<item>
+			<dateCreated>2022-06-21T10:59:55.718+06:00</dateCreated>
+			<dateUpdated>2022-06-21T10:59:55.718+06:00</dateUpdated>
+			<newFlag>false</newFlag>
+			<status>1</status>
+			<id>IC--000219</id>
+			<category>Hard Drinks</category>
+			<conunit>gm</conunit>
+			<name>Lemonade Syrup </name>
+			<type>Raw Materials</type>
+		</item>
+		<item>
+			<dateCreated>2022-06-21T10:59:55.718+06:00</dateCreated>
+			<dateUpdated>2022-06-21T10:59:55.718+06:00</dateUpdated>
+			<newFlag>false</newFlag>
+			<status>1</status>
+			<id>IC--000220</id>
+			<category>Hard Drinks</category>
+			<conunit>gm</conunit>
+			<name>Cranberry Juice </name>
+			<type>Raw Materials</type>
+		</item>
+		<item>
+			<dateCreated>2022-06-21T10:59:55.718+06:00</dateCreated>
+			<dateUpdated>2022-06-21T10:59:55.718+06:00</dateUpdated>
+			<newFlag>false</newFlag>
+			<status>1</status>
+			<id>IC--000223</id>
+			<category>Hard Drinks</category>
+			<conunit>pcs</conunit>
+			<name>Pineapple</name>
+			<type>Raw Materials</type>
+		</item>
+		<item>
+			<dateCreated>2022-06-21T10:59:55.718+06:00</dateCreated>
+			<dateUpdated>2022-06-21T10:59:55.718+06:00</dateUpdated>
+			<newFlag>false</newFlag>
+			<status>1</status>
+			<id>IC--000224</id>
+			<category>Hard Drinks</category>
+			<conunit>pcs</conunit>
+			<name>Alcoholic chocolate </name>
+			<type>Raw Materials</type>
+		</item>
+		<item>
+			<dateCreated>2022-06-21T10:59:55.718+06:00</dateCreated>
+			<dateUpdated>2022-06-21T10:59:55.718+06:00</dateUpdated>
+			<newFlag>false</newFlag>
+			<status>1</status>
+			<id>IC--000199</id>
+			<category>Hard Drinks</category>
+			<conunit>Peg</conunit>
+			<name>Ballentine whisky </name>
+			<type>Raw Materials</type>
+		</item>
+		<item>
+			<dateCreated>2022-06-21T10:59:55.718+06:00</dateCreated>
+			<dateUpdated>2022-06-21T10:59:55.718+06:00</dateUpdated>
+			<newFlag>false</newFlag>
+			<status>1</status>
+			<id>IC--000206</id>
+			<category>Hard Drinks</category>
+			<conunit>gm</conunit>
+			<name>Grenadine Syrup</name>
+			<type>Raw Materials</type>
+		</item>
+		<item>
+			<dateCreated>2022-06-21T10:59:55.718+06:00</dateCreated>
+			<dateUpdated>2022-06-21T10:59:55.718+06:00</dateUpdated>
+			<newFlag>false</newFlag>
+			<status>1</status>
+			<id>IC--000234</id>
+			<category>Hard Drinks</category>
+			<conunit>Peg</conunit>
+			<name>Chivas 18</name>
+			<type>Raw Materials</type>
+		</item>
+		<item>
+			<dateCreated>2022-06-21T10:59:55.718+06:00</dateCreated>
+			<dateUpdated>2022-06-21T10:59:55.718+06:00</dateUpdated>
+			<newFlag>false</newFlag>
+			<status>1</status>
+			<id>IC--000225</id>
+			<category>Kitchen</category>
+			<conunit>gm</conunit>
+			<name>Sweet Corn</name>
+			<type>Raw Materials</type>
+		</item>
+		<item>
+			<dateCreated>2022-06-21T10:59:55.718+06:00</dateCreated>
+			<dateUpdated>2022-06-21T10:59:55.718+06:00</dateUpdated>
+			<newFlag>false</newFlag>
+			<status>1</status>
+			<id>IC--000226</id>
+			<category>Kitchen</category>
+			<conunit>gm</conunit>
+			<name>Kichmich</name>
+			<type>Raw Materials</type>
+		</item>
+		<item>
+			<dateCreated>2022-06-21T10:59:55.718+06:00</dateCreated>
+			<dateUpdated>2022-06-21T10:59:55.718+06:00</dateUpdated>
+			<newFlag>false</newFlag>
+			<status>1</status>
+			<id>IC--000227</id>
+			<category>Kitchen</category>
+			<conunit>gm</conunit>
+			<name>Potato Wedges</name>
+			<type>Raw Materials</type>
+		</item>
+		<item>
+			<dateCreated>2022-06-21T10:59:55.718+06:00</dateCreated>
+			<dateUpdated>2022-06-21T10:59:55.718+06:00</dateUpdated>
+			<newFlag>false</newFlag>
+			<status>1</status>
+			<id>IC--000228</id>
+			<category>Kitchen</category>
+			<conunit>gm</conunit>
+			<name>BBQ Sauce </name>
+			<type>Raw Materials</type>
+		</item>
+		<item>
+			<dateCreated>2022-06-21T10:59:55.718+06:00</dateCreated>
+			<dateUpdated>2022-06-21T10:59:55.718+06:00</dateUpdated>
+			<newFlag>false</newFlag>
+			<status>1</status>
+			<id>IC--000229</id>
+			<category>Kitchen</category>
+			<conunit>gm</conunit>
+			<name>Prawn (Small)</name>
+			<type>Raw Materials</type>
+		</item>
+		<item>
+			<dateCreated>2022-06-21T10:59:55.718+06:00</dateCreated>
+			<dateUpdated>2022-06-21T10:59:55.718+06:00</dateUpdated>
+			<newFlag>false</newFlag>
+			<status>1</status>
+			<id>IC--000230</id>
+			<category>Kitchen</category>
+			<conunit>pcs</conunit>
+			<name>Carew Gin small</name>
+			<type>Raw Materials</type>
+		</item>
+		<item>
+			<dateCreated>2022-06-21T10:59:55.718+06:00</dateCreated>
+			<dateUpdated>2022-06-21T10:59:55.718+06:00</dateUpdated>
+			<newFlag>false</newFlag>
+			<status>1</status>
+			<id>IC--000231</id>
+			<category>Kitchen</category>
+			<conunit>pcs</conunit>
+			<name>Carew Gin large</name>
+			<type>Raw Materials</type>
+		</item>
+		<item>
+			<dateCreated>2022-06-21T10:59:55.718+06:00</dateCreated>
+			<dateUpdated>2022-06-21T10:59:55.718+06:00</dateUpdated>
+			<newFlag>false</newFlag>
+			<status>1</status>
+			<id>IC--000222</id>
+			<category>Kitchen</category>
+			<conunit>gm</conunit>
+			<name>Black Pepper(Kalo Gol Morich)</name>
+			<type>Raw Materials</type>
+		</item>
+		<item>
+			<dateCreated>2022-06-21T10:59:55.718+06:00</dateCreated>
+			<dateUpdated>2022-06-21T10:59:55.718+06:00</dateUpdated>
+			<newFlag>false</newFlag>
+			<status>1</status>
+			<id>IC--000188</id>
+			<category>Kitchen</category>
+			<conunit>pcs</conunit>
+			<name>Cigeratte</name>
+			<type>Raw Materials</type>
+		</item>
+		<item>
+			<dateCreated>2022-06-21T10:59:55.718+06:00</dateCreated>
+			<dateUpdated>2022-06-21T10:59:55.718+06:00</dateUpdated>
+			<newFlag>false</newFlag>
+			<status>1</status>
+			<id>IC--000197</id>
+			<category>Kitchen</category>
+			<conunit>Peg</conunit>
+			<name>Ram Bacardi</name>
+			<type>Raw Materials</type>
+		</item>
+		<item>
+			<dateCreated>2022-06-21T10:59:55.718+06:00</dateCreated>
+			<dateUpdated>2022-06-21T10:59:55.718+06:00</dateUpdated>
+			<newFlag>false</newFlag>
+			<status>1</status>
+			<id>IC--000198</id>
+			<category>Kitchen</category>
+			<conunit>pcs</conunit>
+			<name>Coconut</name>
+			<type>Raw Materials</type>
+		</item>
+		<item>
+			<dateCreated>2022-06-21T10:59:55.718+06:00</dateCreated>
+			<dateUpdated>2022-06-21T10:59:55.718+06:00</dateUpdated>
+			<newFlag>false</newFlag>
+			<status>1</status>
+			<id>IC--000201</id>
+			<category>Kitchen</category>
+			<conunit>Peg</conunit>
+			<name>Carew Peg</name>
+			<type>Raw Materials</type>
+		</item>
+		<item>
+			<dateCreated>2022-06-21T10:59:55.718+06:00</dateCreated>
+			<dateUpdated>2022-06-21T10:59:55.718+06:00</dateUpdated>
+			<newFlag>false</newFlag>
+			<status>1</status>
+			<id>IC--000169</id>
+			<category>Kitchen</category>
+			<conunit>gm</conunit>
+			<name>Dhonia Pata</name>
+			<type>Raw Materials</type>
+		</item>
+		<item>
+			<dateCreated>2022-06-21T10:59:55.718+06:00</dateCreated>
+			<dateUpdated>2022-06-21T10:59:55.718+06:00</dateUpdated>
+			<newFlag>false</newFlag>
+			<status>1</status>
+			<id>IC--000170</id>
+			<category>Kitchen</category>
+			<conunit>gm</conunit>
+			<name>Jely Noodles</name>
+			<type>Raw Materials</type>
+		</item>
+		<item>
+			<dateCreated>2022-06-21T10:59:55.718+06:00</dateCreated>
+			<dateUpdated>2022-06-21T10:59:55.718+06:00</dateUpdated>
+			<newFlag>false</newFlag>
+			<status>1</status>
+			<id>IC--000171</id>
+			<category>Kitchen</category>
+			<conunit>gm</conunit>
+			<name>Bit salt</name>
+			<type>Raw Materials</type>
+		</item>
+		<item>
+			<dateCreated>2022-06-21T10:59:55.718+06:00</dateCreated>
+			<dateUpdated>2022-06-21T10:59:55.718+06:00</dateUpdated>
+			<newFlag>false</newFlag>
+			<status>1</status>
+			<id>IC--000172</id>
+			<category>Kitchen</category>
+			<conunit>gm</conunit>
+			<name>Capsicum</name>
+			<type>Raw Materials</type>
+		</item>
+		<item>
+			<dateCreated>2022-06-21T10:59:55.718+06:00</dateCreated>
+			<dateUpdated>2022-06-21T10:59:55.718+06:00</dateUpdated>
+			<newFlag>false</newFlag>
+			<status>1</status>
+			<id>IC--000149</id>
+			<category>Kitchen</category>
+			<conunit>pcs</conunit>
+			<name>Beer (Corona Can)</name>
+			<type>Raw Materials</type>
+		</item>
+		<item>
+			<dateCreated>2022-06-21T10:59:55.718+06:00</dateCreated>
+			<dateUpdated>2022-06-21T10:59:55.718+06:00</dateUpdated>
+			<newFlag>false</newFlag>
+			<status>1</status>
+			<id>IC--000147</id>
+			<category>Kitchen</category>
+			<conunit>pcs</conunit>
+			<name>Beer (16%)</name>
+			<type>Raw Materials</type>
+		</item>
+		<item>
+			<dateCreated>2022-06-21T10:59:55.718+06:00</dateCreated>
+			<dateUpdated>2022-06-21T10:59:55.718+06:00</dateUpdated>
+			<newFlag>false</newFlag>
+			<status>1</status>
+			<id>IC--000175</id>
+			<category>Kitchen</category>
+			<conunit>gm</conunit>
+			<name>Beef (Boneless)</name>
+			<type>Raw Materials</type>
+		</item>
+		<item>
+			<dateCreated>2022-06-21T10:59:55.718+06:00</dateCreated>
+			<dateUpdated>2022-06-21T10:59:55.718+06:00</dateUpdated>
+			<newFlag>false</newFlag>
+			<status>1</status>
+			<id>IC--000176</id>
+			<category>Kitchen</category>
+			<conunit>gm</conunit>
+			<name>Tez Pata</name>
+			<type>Raw Materials</type>
+		</item>
+		<item>
+			<dateCreated>2022-06-21T10:59:55.718+06:00</dateCreated>
+			<dateUpdated>2022-06-21T10:59:55.718+06:00</dateUpdated>
+			<newFlag>false</newFlag>
+			<status>1</status>
+			<id>IC--000177</id>
+			<category>Kitchen</category>
+			<conunit>gm</conunit>
+			<name>Ararot</name>
+			<type>Raw Materials</type>
+		</item>
+		<item>
+			<dateCreated>2022-06-21T10:59:55.718+06:00</dateCreated>
+			<dateUpdated>2022-06-21T10:59:55.718+06:00</dateUpdated>
+			<newFlag>false</newFlag>
+			<status>1</status>
+			<id>IC--000178</id>
+			<category>Kitchen</category>
+			<conunit>gm</conunit>
+			<name>Tok Doi (curd)</name>
+			<type>Raw Materials</type>
+		</item>
+		<item>
+			<dateCreated>2022-06-21T10:59:55.718+06:00</dateCreated>
+			<dateUpdated>2022-06-21T10:59:55.718+06:00</dateUpdated>
+			<newFlag>false</newFlag>
+			<status>1</status>
+			<id>IC--000179</id>
+			<category>Kitchen</category>
+			<conunit>gm</conunit>
+			<name>chicken Powder</name>
+			<type>Raw Materials</type>
+		</item>
+		<item>
+			<dateCreated>2022-06-21T10:59:55.718+06:00</dateCreated>
+			<dateUpdated>2022-06-21T10:59:55.718+06:00</dateUpdated>
+			<newFlag>false</newFlag>
+			<status>1</status>
+			<id>IC--000180</id>
+			<category>Kitchen</category>
+			<conunit>gm</conunit>
+			<name>Coconut Powder</name>
+			<type>Raw Materials</type>
+		</item>
+		<item>
+			<dateCreated>2022-06-21T10:59:55.718+06:00</dateCreated>
+			<dateUpdated>2022-06-21T10:59:55.718+06:00</dateUpdated>
+			<newFlag>false</newFlag>
+			<status>1</status>
+			<id>IC--000181</id>
+			<category>Kitchen</category>
+			<conunit>pcs</conunit>
+			<name>Duck</name>
+			<type>Raw Materials</type>
+		</item>
+		<item>
+			<dateCreated>2022-06-21T10:59:55.718+06:00</dateCreated>
+			<dateUpdated>2022-06-21T10:59:55.718+06:00</dateUpdated>
+			<newFlag>false</newFlag>
+			<status>1</status>
+			<id>IC--000182</id>
+			<category>Kitchen</category>
+			<conunit>pcs</conunit>
+			<name>Pigeon Meat</name>
+			<type>Raw Materials</type>
+		</item>
+		<item>
+			<dateCreated>2022-06-21T10:59:55.718+06:00</dateCreated>
+			<dateUpdated>2022-06-21T10:59:55.718+06:00</dateUpdated>
+			<newFlag>false</newFlag>
+			<status>1</status>
+			<id>IC--000183</id>
+			<category>Kitchen</category>
+			<conunit>gm</conunit>
+			<name>Squid</name>
+			<type>Raw Materials</type>
+		</item>
+		<item>
+			<dateCreated>2022-06-21T10:59:55.718+06:00</dateCreated>
+			<dateUpdated>2022-06-21T10:59:55.718+06:00</dateUpdated>
+			<newFlag>false</newFlag>
+			<status>1</status>
+			<id>IC--000184</id>
+			<category>Kitchen</category>
+			<conunit>gm</conunit>
+			<name>Guava</name>
+			<type>Raw Materials</type>
+		</item>
+		<item>
+			<dateCreated>2022-06-21T10:59:55.718+06:00</dateCreated>
+			<dateUpdated>2022-06-21T10:59:55.718+06:00</dateUpdated>
+			<newFlag>false</newFlag>
+			<status>1</status>
+			<id>IC--000185</id>
+			<category>Kitchen</category>
+			<conunit>gm</conunit>
+			<name>Baking Powder</name>
+			<type>Raw Materials</type>
+		</item>
+		<item>
+			<dateCreated>2022-06-21T10:59:55.718+06:00</dateCreated>
+			<dateUpdated>2022-06-21T10:59:55.718+06:00</dateUpdated>
+			<newFlag>false</newFlag>
+			<status>1</status>
+			<id>IC--000186</id>
+			<category>Kitchen</category>
+			<conunit>gm</conunit>
+			<name>Butter</name>
+			<type>Raw Materials</type>
+		</item>
+		<item>
+			<dateCreated>2022-06-21T10:59:55.718+06:00</dateCreated>
+			<dateUpdated>2022-06-21T10:59:55.718+06:00</dateUpdated>
+			<newFlag>false</newFlag>
+			<status>1</status>
+			<id>IC--000001</id>
+			<category>Kitchen</category>
+			<conunit>pcs</conunit>
+			<name>Rup Chada Fish</name>
+			<type>Raw Materials</type>
+		</item>
+		<item>
+			<dateCreated>2022-06-21T10:59:55.718+06:00</dateCreated>
+			<dateUpdated>2022-06-21T10:59:55.718+06:00</dateUpdated>
+			<newFlag>false</newFlag>
+			<status>1</status>
+			<id>IC--000002</id>
+			<category>Kitchen</category>
+			<conunit>gm</conunit>
+			<name>Crab (Kakra)</name>
+			<type>Raw Materials</type>
+		</item>
+		<item>
+			<dateCreated>2022-06-21T10:59:55.718+06:00</dateCreated>
+			<dateUpdated>2022-06-21T10:59:55.718+06:00</dateUpdated>
+			<newFlag>false</newFlag>
+			<status>1</status>
+			<id>IC--000006</id>
+			<category>Kitchen</category>
+			<conunit>pcs</conunit>
+			<name>Red Snapper Fish</name>
+			<type>Raw Materials</type>
+		</item>
+		<item>
+			<dateCreated>2022-06-21T10:59:55.718+06:00</dateCreated>
+			<dateUpdated>2022-06-21T10:59:55.718+06:00</dateUpdated>
+			<newFlag>false</newFlag>
+			<status>1</status>
+			<id>IC--000008</id>
+			<category>Kitchen</category>
+			<conunit>gm</conunit>
+			<name>Prawn (Large)</name>
+			<type>Raw Materials</type>
+		</item>
+		<item>
+			<dateCreated>2022-06-21T10:59:55.718+06:00</dateCreated>
+			<dateUpdated>2022-06-21T10:59:55.718+06:00</dateUpdated>
+			<newFlag>false</newFlag>
+			<status>1</status>
+			<id>IC--000010</id>
+			<category>Kitchen</category>
+			<conunit>gm</conunit>
+			<name>Chicken (Local)</name>
+			<type>Raw Materials</type>
+		</item>
+		<item>
+			<dateCreated>2022-06-21T10:59:55.718+06:00</dateCreated>
+			<dateUpdated>2022-06-21T10:59:55.718+06:00</dateUpdated>
+			<newFlag>false</newFlag>
+			<status>1</status>
+			<id>IC--000011</id>
+			<category>Kitchen</category>
+			<conunit>gm</conunit>
+			<name>Beef Meat</name>
+			<type>Raw Materials</type>
+		</item>
+		<item>
+			<dateCreated>2022-06-21T10:59:55.718+06:00</dateCreated>
+			<dateUpdated>2022-06-21T10:59:55.718+06:00</dateUpdated>
+			<newFlag>false</newFlag>
+			<status>1</status>
+			<id>IC--000012</id>
+			<category>Kitchen</category>
+			<conunit>gm</conunit>
+			<name>Mutton Meat</name>
+			<type>Raw Materials</type>
+		</item>
+		<item>
+			<dateCreated>2022-06-21T10:59:55.718+06:00</dateCreated>
+			<dateUpdated>2022-06-21T10:59:55.718+06:00</dateUpdated>
+			<newFlag>false</newFlag>
+			<status>1</status>
+			<id>IC--000013</id>
+			<category>Kitchen</category>
+			<conunit>gm</conunit>
+			<name>Chicken (Broiler)</name>
+			<type>Raw Materials</type>
+		</item>
+		<item>
+			<dateCreated>2022-06-21T10:59:55.718+06:00</dateCreated>
+			<dateUpdated>2022-06-21T10:59:55.718+06:00</dateUpdated>
+			<newFlag>false</newFlag>
+			<status>1</status>
+			<id>IC--000014</id>
+			<category>Kitchen</category>
+			<conunit>gm</conunit>
+			<name>Under Cut</name>
+			<type>Raw Materials</type>
+		</item>
+		<item>
+			<dateCreated>2022-06-21T10:59:55.718+06:00</dateCreated>
+			<dateUpdated>2022-06-21T10:59:55.718+06:00</dateUpdated>
+			<newFlag>false</newFlag>
+			<status>1</status>
+			<id>IC--000015</id>
+			<category>Kitchen</category>
+			<conunit>gm</conunit>
+			<name>Boneless/Tandoori Chicken</name>
+			<type>Raw Materials</type>
+		</item>
+		<item>
+			<dateCreated>2022-06-21T10:59:55.718+06:00</dateCreated>
+			<dateUpdated>2022-06-21T10:59:55.718+06:00</dateUpdated>
+			<newFlag>false</newFlag>
+			<status>1</status>
+			<id>IC--000016</id>
+			<category>Kitchen</category>
+			<conunit>pcs</conunit>
+			<name>Apple</name>
+			<type>Raw Materials</type>
+		</item>
+		<item>
+			<dateCreated>2022-06-21T10:59:55.718+06:00</dateCreated>
+			<dateUpdated>2022-06-21T10:59:55.718+06:00</dateUpdated>
+			<newFlag>false</newFlag>
+			<status>1</status>
+			<id>IC--000017</id>
+			<category>Kitchen</category>
+			<conunit>pcs</conunit>
+			<name>Malta</name>
+			<type>Raw Materials</type>
+		</item>
+		<item>
+			<dateCreated>2022-06-21T10:59:55.718+06:00</dateCreated>
+			<dateUpdated>2022-06-21T10:59:55.718+06:00</dateUpdated>
+			<newFlag>false</newFlag>
+			<status>1</status>
+			<id>IC--000018</id>
+			<category>Kitchen</category>
+			<conunit>pcs</conunit>
+			<name>Naspaty</name>
+			<type>Raw Materials</type>
+		</item>
+		<item>
+			<dateCreated>2022-06-21T10:59:55.718+06:00</dateCreated>
+			<dateUpdated>2022-06-21T10:59:55.718+06:00</dateUpdated>
+			<newFlag>false</newFlag>
+			<status>1</status>
+			<id>IC--000019</id>
+			<category>Kitchen</category>
+			<conunit>gm</conunit>
+			<name>Red Grapes</name>
+			<type>Raw Materials</type>
+		</item>
+		<item>
+			<dateCreated>2022-06-21T10:59:55.718+06:00</dateCreated>
+			<dateUpdated>2022-06-21T10:59:55.718+06:00</dateUpdated>
+			<newFlag>false</newFlag>
+			<status>1</status>
+			<id>IC--000020</id>
+			<category>Kitchen</category>
+			<conunit>gm</conunit>
+			<name>Polao Rice</name>
+			<type>Raw Materials</type>
+		</item>
+		<item>
+			<dateCreated>2022-06-21T10:59:55.718+06:00</dateCreated>
+			<dateUpdated>2022-06-21T10:59:55.718+06:00</dateUpdated>
+			<newFlag>false</newFlag>
+			<status>1</status>
+			<id>IC--000022</id>
+			<category>Kitchen</category>
+			<conunit>gm</conunit>
+			<name>Chola</name>
+			<type>Raw Materials</type>
+		</item>
+		<item>
+			<dateCreated>2022-06-21T10:59:55.718+06:00</dateCreated>
+			<dateUpdated>2022-06-21T10:59:55.718+06:00</dateUpdated>
+			<newFlag>false</newFlag>
+			<status>1</status>
+			<id>IC--000025</id>
+			<category>Kitchen</category>
+			<conunit>gm</conunit>
+			<name>Soyabin Oil</name>
+			<type>Raw Materials</type>
+		</item>
+		<item>
+			<dateCreated>2022-06-21T10:59:55.718+06:00</dateCreated>
+			<dateUpdated>2022-06-21T10:59:55.718+06:00</dateUpdated>
+			<newFlag>false</newFlag>
+			<status>1</status>
+			<id>IC--000028</id>
+			<category>Kitchen</category>
+			<conunit>gm</conunit>
+			<name>Ata</name>
+			<type>Raw Materials</type>
+		</item>
+		<item>
+			<dateCreated>2022-06-21T10:59:55.718+06:00</dateCreated>
+			<dateUpdated>2022-06-21T10:59:55.718+06:00</dateUpdated>
+			<newFlag>false</newFlag>
+			<status>1</status>
+			<id>IC--000029</id>
+			<category>Kitchen</category>
+			<conunit>gm</conunit>
+			<name>Moyda</name>
+			<type>Raw Materials</type>
+		</item>
+		<item>
+			<dateCreated>2022-06-21T10:59:55.718+06:00</dateCreated>
+			<dateUpdated>2022-06-21T10:59:55.718+06:00</dateUpdated>
+			<newFlag>false</newFlag>
+			<status>1</status>
+			<id>IC--000030</id>
+			<category>Kitchen</category>
+			<conunit>pcs</conunit>
+			<name>Brown Egg</name>
+			<type>Raw Materials</type>
+		</item>
+		<item>
+			<dateCreated>2022-06-21T10:59:55.718+06:00</dateCreated>
+			<dateUpdated>2022-06-21T10:59:55.718+06:00</dateUpdated>
+			<newFlag>false</newFlag>
+			<status>1</status>
+			<id>IC--000031</id>
+			<category>Kitchen</category>
+			<conunit>pcs</conunit>
+			<name>Duck Egg</name>
+			<type>Raw Materials</type>
+		</item>
+		<item>
+			<dateCreated>2022-06-21T10:59:55.718+06:00</dateCreated>
+			<dateUpdated>2022-06-21T10:59:55.718+06:00</dateUpdated>
+			<newFlag>false</newFlag>
+			<status>1</status>
+			<id>IC--000032</id>
+			<category>Kitchen</category>
+			<conunit>gm</conunit>
+			<name>Suger (Chini)</name>
+			<type>Raw Materials</type>
+		</item>
+		<item>
+			<dateCreated>2022-06-21T10:59:55.718+06:00</dateCreated>
+			<dateUpdated>2022-06-21T10:59:55.718+06:00</dateUpdated>
+			<newFlag>false</newFlag>
+			<status>1</status>
+			<id>IC--000033</id>
+			<category>Kitchen</category>
+			<conunit>gm</conunit>
+			<name>Breadcrumbs</name>
+			<type>Raw Materials</type>
+		</item>
+		<item>
+			<dateCreated>2022-06-21T10:59:55.718+06:00</dateCreated>
+			<dateUpdated>2022-06-21T10:59:55.718+06:00</dateUpdated>
+			<newFlag>false</newFlag>
+			<status>1</status>
+			<id>IC--000035</id>
+			<category>Kitchen</category>
+			<conunit>gm</conunit>
+			<name>Salt (Lobon)</name>
+			<type>Raw Materials</type>
+		</item>
+		<item>
+			<dateCreated>2022-06-21T10:59:55.718+06:00</dateCreated>
+			<dateUpdated>2022-06-21T10:59:55.718+06:00</dateUpdated>
+			<newFlag>false</newFlag>
+			<status>1</status>
+			<id>IC--000036</id>
+			<category>Kitchen</category>
+			<conunit>gm</conunit>
+			<name>Testing Salt</name>
+			<type>Raw Materials</type>
+		</item>
+		<item>
+			<dateCreated>2022-06-21T10:59:55.718+06:00</dateCreated>
+			<dateUpdated>2022-06-21T10:59:55.718+06:00</dateUpdated>
+			<newFlag>false</newFlag>
+			<status>1</status>
+			<id>IC--000037</id>
+			<category>Kitchen</category>
+			<conunit>gm</conunit>
+			<name>Zira</name>
+			<type>Raw Materials</type>
+		</item>
+		<item>
+			<dateCreated>2022-06-21T10:59:55.718+06:00</dateCreated>
+			<dateUpdated>2022-06-21T10:59:55.718+06:00</dateUpdated>
+			<newFlag>false</newFlag>
+			<status>1</status>
+			<id>IC--000038</id>
+			<category>Kitchen</category>
+			<conunit>gm</conunit>
+			<name>Dhonia</name>
+			<type>Raw Materials</type>
+		</item>
+		<item>
+			<dateCreated>2022-06-21T10:59:55.718+06:00</dateCreated>
+			<dateUpdated>2022-06-21T10:59:55.718+06:00</dateUpdated>
+			<newFlag>false</newFlag>
+			<status>1</status>
+			<id>IC--000039</id>
+			<category>Kitchen</category>
+			<conunit>gm</conunit>
+			<name>Turmeric (Halud)</name>
+			<type>Raw Materials</type>
+		</item>
+		<item>
+			<dateCreated>2022-06-21T10:59:55.718+06:00</dateCreated>
+			<dateUpdated>2022-06-21T10:59:55.718+06:00</dateUpdated>
+			<newFlag>false</newFlag>
+			<status>1</status>
+			<id>IC--000040</id>
+			<category>Kitchen</category>
+			<conunit>gm</conunit>
+			<name>Onion (Peyaj)</name>
+			<type>Raw Materials</type>
+		</item>
+		<item>
+			<dateCreated>2022-06-21T10:59:55.718+06:00</dateCreated>
+			<dateUpdated>2022-06-21T10:59:55.718+06:00</dateUpdated>
+			<newFlag>false</newFlag>
+			<status>1</status>
+			<id>IC--000041</id>
+			<category>Kitchen</category>
+			<conunit>gm</conunit>
+			<name>Garlic (Rasun)</name>
+			<type>Raw Materials</type>
+		</item>
+		<item>
+			<dateCreated>2022-06-21T10:59:55.718+06:00</dateCreated>
+			<dateUpdated>2022-06-21T10:59:55.718+06:00</dateUpdated>
+			<newFlag>false</newFlag>
+			<status>1</status>
+			<id>IC--000042</id>
+			<category>Kitchen</category>
+			<conunit>gm</conunit>
+			<name>Ginger (Ada)</name>
+			<type>Raw Materials</type>
+		</item>
+		<item>
+			<dateCreated>2022-06-21T10:59:55.718+06:00</dateCreated>
+			<dateUpdated>2022-06-21T10:59:55.718+06:00</dateUpdated>
+			<newFlag>false</newFlag>
+			<status>1</status>
+			<id>IC--000043</id>
+			<category>Kitchen</category>
+			<conunit>gm</conunit>
+			<name>Thai Ginger (Thai Ada)</name>
+			<type>Raw Materials</type>
+		</item>
+		<item>
+			<dateCreated>2022-06-21T10:59:55.718+06:00</dateCreated>
+			<dateUpdated>2022-06-21T10:59:55.718+06:00</dateUpdated>
+			<newFlag>false</newFlag>
+			<status>1</status>
+			<id>IC--000045</id>
+			<category>Kitchen</category>
+			<conunit>gm</conunit>
+			<name>Corn Flour</name>
+			<type>Raw Materials</type>
+		</item>
+		<item>
+			<dateCreated>2022-06-21T10:59:55.718+06:00</dateCreated>
+			<dateUpdated>2022-06-21T10:59:55.718+06:00</dateUpdated>
+			<newFlag>false</newFlag>
+			<status>1</status>
+			<id>IC--000046</id>
+			<category>Kitchen</category>
+			<conunit>gm</conunit>
+			<name>Mustered Oil</name>
+			<type>Raw Materials</type>
+		</item>
+		<item>
+			<dateCreated>2022-06-21T10:59:55.718+06:00</dateCreated>
+			<dateUpdated>2022-06-21T10:59:55.718+06:00</dateUpdated>
+			<newFlag>false</newFlag>
+			<status>1</status>
+			<id>IC--000047</id>
+			<category>Kitchen</category>
+			<conunit>gm</conunit>
+			<name>Elach</name>
+			<type>Raw Materials</type>
+		</item>
+		<item>
+			<dateCreated>2022-06-21T10:59:55.718+06:00</dateCreated>
+			<dateUpdated>2022-06-21T10:59:55.718+06:00</dateUpdated>
+			<newFlag>false</newFlag>
+			<status>1</status>
+			<id>IC--000048</id>
+			<category>Kitchen</category>
+			<conunit>gm</conunit>
+			<name>Daruchini</name>
+			<type>Raw Materials</type>
+		</item>
+		<item>
+			<dateCreated>2022-06-21T10:59:55.718+06:00</dateCreated>
+			<dateUpdated>2022-06-21T10:59:55.718+06:00</dateUpdated>
+			<newFlag>false</newFlag>
+			<status>1</status>
+			<id>IC--000049</id>
+			<category>Kitchen</category>
+			<conunit>gm</conunit>
+			<name>Long</name>
+			<type>Raw Materials</type>
+		</item>
+		<item>
+			<dateCreated>2022-06-21T10:59:55.718+06:00</dateCreated>
+			<dateUpdated>2022-06-21T10:59:55.718+06:00</dateUpdated>
+			<newFlag>false</newFlag>
+			<status>1</status>
+			<id>IC--000050</id>
+			<category>Kitchen</category>
+			<conunit>gm</conunit>
+			<name>Jaytrik</name>
+			<type>Raw Materials</type>
+		</item>
+		<item>
+			<dateCreated>2022-06-21T10:59:55.718+06:00</dateCreated>
+			<dateUpdated>2022-06-21T10:59:55.718+06:00</dateUpdated>
+			<newFlag>false</newFlag>
+			<status>1</status>
+			<id>IC--000052</id>
+			<category>Kitchen</category>
+			<conunit>gm</conunit>
+			<name>Dry Ginger</name>
+			<type>Raw Materials</type>
+		</item>
+		<item>
+			<dateCreated>2022-06-21T10:59:55.718+06:00</dateCreated>
+			<dateUpdated>2022-06-21T10:59:55.718+06:00</dateUpdated>
+			<newFlag>false</newFlag>
+			<status>1</status>
+			<id>IC--000053</id>
+			<category>Kitchen</category>
+			<conunit>gm</conunit>
+			<name>Josthi Modhu</name>
+			<type>Raw Materials</type>
+		</item>
+		<item>
+			<dateCreated>2022-06-21T10:59:55.718+06:00</dateCreated>
+			<dateUpdated>2022-06-21T10:59:55.718+06:00</dateUpdated>
+			<newFlag>false</newFlag>
+			<status>1</status>
+			<id>IC--000054</id>
+			<category>Kitchen</category>
+			<conunit>gm</conunit>
+			<name>Yeast</name>
+			<type>Raw Materials</type>
+		</item>
+		<item>
+			<dateCreated>2022-06-21T10:59:55.718+06:00</dateCreated>
+			<dateUpdated>2022-06-21T10:59:55.718+06:00</dateUpdated>
+			<newFlag>false</newFlag>
+			<status>1</status>
+			<id>IC--000055</id>
+			<category>Kitchen</category>
+			<conunit>gm</conunit>
+			<name>Jayfol</name>
+			<type>Raw Materials</type>
+		</item>
+		<item>
+			<dateCreated>2022-06-21T10:59:55.718+06:00</dateCreated>
+			<dateUpdated>2022-06-21T10:59:55.718+06:00</dateUpdated>
+			<newFlag>false</newFlag>
+			<status>1</status>
+			<id>IC--000056</id>
+			<category>Kitchen</category>
+			<conunit>gm</conunit>
+			<name>Kabab Mashla</name>
+			<type>Raw Materials</type>
+		</item>
+		<item>
+			<dateCreated>2022-06-21T10:59:55.718+06:00</dateCreated>
+			<dateUpdated>2022-06-21T10:59:55.718+06:00</dateUpdated>
+			<newFlag>false</newFlag>
+			<status>1</status>
+			<id>IC--000057</id>
+			<category>Kitchen</category>
+			<conunit>gm</conunit>
+			<name>Onion Local (Peyaj)</name>
+			<type>Raw Materials</type>
+		</item>
+		<item>
+			<dateCreated>2022-06-21T10:59:55.718+06:00</dateCreated>
+			<dateUpdated>2022-06-21T10:59:55.718+06:00</dateUpdated>
+			<newFlag>false</newFlag>
+			<status>1</status>
+			<id>IC--000058</id>
+			<category>Kitchen</category>
+			<conunit>gm</conunit>
+			<name>Red chilli (Grind)</name>
+			<type>Raw Materials</type>
+		</item>
+		<item>
+			<dateCreated>2022-06-21T10:59:55.718+06:00</dateCreated>
+			<dateUpdated>2022-06-21T10:59:55.718+06:00</dateUpdated>
+			<newFlag>false</newFlag>
+			<status>1</status>
+			<id>IC--000059</id>
+			<category>Kitchen</category>
+			<conunit>gm</conunit>
+			<name>Chat Mashla</name>
+			<type>Raw Materials</type>
+		</item>
+		<item>
+			<dateCreated>2022-06-21T10:59:55.718+06:00</dateCreated>
+			<dateUpdated>2022-06-21T10:59:55.718+06:00</dateUpdated>
+			<newFlag>false</newFlag>
+			<status>1</status>
+			<id>IC--000060</id>
+			<category>Kitchen</category>
+			<conunit>gm</conunit>
+			<name>Potato (Big)</name>
+			<type>Raw Materials</type>
+		</item>
+		<item>
+			<dateCreated>2022-06-21T10:59:55.718+06:00</dateCreated>
+			<dateUpdated>2022-06-21T10:59:55.718+06:00</dateUpdated>
+			<newFlag>false</newFlag>
+			<status>1</status>
+			<id>IC--000062</id>
+			<category>Kitchen</category>
+			<conunit>gm</conunit>
+			<name>White Pepper</name>
+			<type>Raw Materials</type>
+		</item>
+		<item>
+			<dateCreated>2022-06-21T10:59:55.718+06:00</dateCreated>
+			<dateUpdated>2022-06-21T10:59:55.718+06:00</dateUpdated>
+			<newFlag>false</newFlag>
+			<status>1</status>
+			<id>IC--000064</id>
+			<category>Kitchen</category>
+			<conunit>gm</conunit>
+			<name>Milk (Powder)</name>
+			<type>Raw Materials</type>
+		</item>
+		<item>
+			<dateCreated>2022-06-21T10:59:55.718+06:00</dateCreated>
+			<dateUpdated>2022-06-21T10:59:55.718+06:00</dateUpdated>
+			<newFlag>false</newFlag>
+			<status>1</status>
+			<id>IC--000065</id>
+			<category>Kitchen</category>
+			<conunit>gm</conunit>
+			<name>Coconut Milk</name>
+			<type>Raw Materials</type>
+		</item>
+		<item>
+			<dateCreated>2022-06-21T10:59:55.718+06:00</dateCreated>
+			<dateUpdated>2022-06-21T10:59:55.718+06:00</dateUpdated>
+			<newFlag>false</newFlag>
+			<status>1</status>
+			<id>IC--000066</id>
+			<category>Kitchen</category>
+			<conunit>gm</conunit>
+			<name>Butter Oil</name>
+			<type>Raw Materials</type>
+		</item>
+		<item>
+			<dateCreated>2022-06-21T10:59:55.718+06:00</dateCreated>
+			<dateUpdated>2022-06-21T10:59:55.718+06:00</dateUpdated>
+			<newFlag>false</newFlag>
+			<status>1</status>
+			<id>IC--000067</id>
+			<category>Kitchen</category>
+			<conunit>gm</conunit>
+			<name>Carrot</name>
+			<type>Raw Materials</type>
+		</item>
+		<item>
+			<dateCreated>2022-06-21T10:59:55.718+06:00</dateCreated>
+			<dateUpdated>2022-06-21T10:59:55.718+06:00</dateUpdated>
+			<newFlag>false</newFlag>
+			<status>1</status>
+			<id>IC--000068</id>
+			<category>Kitchen</category>
+			<conunit>gm</conunit>
+			<name>Tomato</name>
+			<type>Raw Materials</type>
+		</item>
+		<item>
+			<dateCreated>2022-06-21T10:59:55.718+06:00</dateCreated>
+			<dateUpdated>2022-06-21T10:59:55.718+06:00</dateUpdated>
+			<newFlag>false</newFlag>
+			<status>1</status>
+			<id>IC--000069</id>
+			<category>Kitchen</category>
+			<conunit>gm</conunit>
+			<name>Cucumber</name>
+			<type>Raw Materials</type>
+		</item>
+		<item>
+			<dateCreated>2022-06-21T10:59:55.718+06:00</dateCreated>
+			<dateUpdated>2022-06-21T10:59:55.718+06:00</dateUpdated>
+			<newFlag>false</newFlag>
+			<status>1</status>
+			<id>IC--000070</id>
+			<category>Kitchen</category>
+			<conunit>gm</conunit>
+			<name>Chichinga</name>
+			<type>Raw Materials</type>
+		</item>
+		<item>
+			<dateCreated>2022-06-21T10:59:55.718+06:00</dateCreated>
+			<dateUpdated>2022-06-21T10:59:55.718+06:00</dateUpdated>
+			<newFlag>false</newFlag>
+			<status>1</status>
+			<id>IC--000072</id>
+			<category>Kitchen</category>
+			<conunit>pcs</conunit>
+			<name>Lemon</name>
+			<type>Raw Materials</type>
+		</item>
+		<item>
+			<dateCreated>2022-06-21T10:59:55.718+06:00</dateCreated>
+			<dateUpdated>2022-06-21T10:59:55.718+06:00</dateUpdated>
+			<newFlag>false</newFlag>
+			<status>1</status>
+			<id>IC--000073</id>
+			<category>Kitchen</category>
+			<conunit>pcs</conunit>
+			<name>Chinese Cabbage</name>
+			<type>Raw Materials</type>
+		</item>
+		<item>
+			<dateCreated>2022-06-21T10:59:55.718+06:00</dateCreated>
+			<dateUpdated>2022-06-21T10:59:55.718+06:00</dateUpdated>
+			<newFlag>false</newFlag>
+			<status>1</status>
+			<id>IC--000074</id>
+			<category>Kitchen</category>
+			<conunit>gm</conunit>
+			<name>Spring Onion (Peyaj Pata)</name>
+			<type>Raw Materials</type>
+		</item>
+		<item>
+			<dateCreated>2022-06-21T10:59:55.718+06:00</dateCreated>
+			<dateUpdated>2022-06-21T10:59:55.718+06:00</dateUpdated>
+			<newFlag>false</newFlag>
+			<status>1</status>
+			<id>IC--000075</id>
+			<category>Kitchen</category>
+			<conunit>pcs</conunit>
+			<name>Lettuce leaf</name>
+			<type>Raw Materials</type>
+		</item>
+		<item>
+			<dateCreated>2022-06-21T10:59:55.718+06:00</dateCreated>
+			<dateUpdated>2022-06-21T10:59:55.718+06:00</dateUpdated>
+			<newFlag>false</newFlag>
+			<status>1</status>
+			<id>IC--000076</id>
+			<category>Kitchen</category>
+			<conunit>pcs</conunit>
+			<name>Salary Pata</name>
+			<type>Raw Materials</type>
+		</item>
+		<item>
+			<dateCreated>2022-06-21T10:59:55.718+06:00</dateCreated>
+			<dateUpdated>2022-06-21T10:59:55.718+06:00</dateUpdated>
+			<newFlag>false</newFlag>
+			<status>1</status>
+			<id>IC--000077</id>
+			<category>Kitchen</category>
+			<conunit>gm</conunit>
+			<name>Parsley</name>
+			<type>Raw Materials</type>
+		</item>
+		<item>
+			<dateCreated>2022-06-21T10:59:55.718+06:00</dateCreated>
+			<dateUpdated>2022-06-21T10:59:55.718+06:00</dateUpdated>
+			<newFlag>false</newFlag>
+			<status>1</status>
+			<id>IC--000078</id>
+			<category>Kitchen</category>
+			<conunit>gm</conunit>
+			<name>Mint Leaf</name>
+			<type>Raw Materials</type>
+		</item>
+		<item>
+			<dateCreated>2022-06-21T10:59:55.718+06:00</dateCreated>
+			<dateUpdated>2022-06-21T10:59:55.718+06:00</dateUpdated>
+			<newFlag>false</newFlag>
+			<status>1</status>
+			<id>IC--000081</id>
+			<category>Kitchen</category>
+			<conunit>gm</conunit>
+			<name>Dry Red Chilli</name>
+			<type>Raw Materials</type>
+		</item>
+		<item>
+			<dateCreated>2022-06-21T10:59:55.718+06:00</dateCreated>
+			<dateUpdated>2022-06-21T10:59:55.718+06:00</dateUpdated>
+			<newFlag>false</newFlag>
+			<status>1</status>
+			<id>IC--000082</id>
+			<category>Kitchen</category>
+			<conunit>gm</conunit>
+			<name>Kashmeri Morich</name>
+			<type>Raw Materials</type>
+		</item>
+		<item>
+			<dateCreated>2022-06-21T10:59:55.718+06:00</dateCreated>
+			<dateUpdated>2022-06-21T10:59:55.718+06:00</dateUpdated>
+			<newFlag>false</newFlag>
+			<status>1</status>
+			<id>IC--000083</id>
+			<category>Kitchen</category>
+			<conunit>gm</conunit>
+			<name>Green Chilly (Kacha Morich)</name>
+			<type>Raw Materials</type>
+		</item>
+		<item>
+			<dateCreated>2022-06-21T10:59:55.718+06:00</dateCreated>
+			<dateUpdated>2022-06-21T10:59:55.718+06:00</dateUpdated>
+			<newFlag>false</newFlag>
+			<status>1</status>
+			<id>IC--000084</id>
+			<category>Kitchen</category>
+			<conunit>pcs</conunit>
+			<name>Lemon Grass</name>
+			<type>Raw Materials</type>
+		</item>
+		<item>
+			<dateCreated>2022-06-21T10:59:55.718+06:00</dateCreated>
+			<dateUpdated>2022-06-21T10:59:55.718+06:00</dateUpdated>
+			<newFlag>false</newFlag>
+			<status>1</status>
+			<id>IC--000085</id>
+			<category>Kitchen</category>
+			<conunit>gm</conunit>
+			<name>Long Beans (Borboti)</name>
+			<type>Raw Materials</type>
+		</item>
+		<item>
+			<dateCreated>2022-06-21T10:59:55.718+06:00</dateCreated>
+			<dateUpdated>2022-06-21T10:59:55.718+06:00</dateUpdated>
+			<newFlag>false</newFlag>
+			<status>1</status>
+			<id>IC--000086</id>
+			<category>Kitchen</category>
+			<conunit>gm</conunit>
+			<name>Bean Sprout</name>
+			<type>Raw Materials</type>
+		</item>
+		<item>
+			<dateCreated>2022-06-21T10:59:55.718+06:00</dateCreated>
+			<dateUpdated>2022-06-21T10:59:55.718+06:00</dateUpdated>
+			<newFlag>false</newFlag>
+			<status>1</status>
+			<id>IC--000088</id>
+			<category>Kitchen</category>
+			<conunit>gm</conunit>
+			<name>Radish</name>
+			<type>Raw Materials</type>
+		</item>
+		<item>
+			<dateCreated>2022-06-21T10:59:55.718+06:00</dateCreated>
+			<dateUpdated>2022-06-21T10:59:55.718+06:00</dateUpdated>
+			<newFlag>false</newFlag>
+			<status>1</status>
+			<id>IC--000089</id>
+			<category>Kitchen</category>
+			<conunit>pcs</conunit>
+			<name>Cauliflower (Ful Copy)</name>
+			<type>Raw Materials</type>
+		</item>
+		<item>
+			<dateCreated>2022-06-21T10:59:55.718+06:00</dateCreated>
+			<dateUpdated>2022-06-21T10:59:55.718+06:00</dateUpdated>
+			<newFlag>false</newFlag>
+			<status>1</status>
+			<id>IC--000090</id>
+			<category>Kitchen</category>
+			<conunit>pcs</conunit>
+			<name>Cabbage New (Pata Copy)</name>
+			<type>Raw Materials</type>
+		</item>
+		<item>
+			<dateCreated>2022-06-21T10:59:55.718+06:00</dateCreated>
+			<dateUpdated>2022-06-21T10:59:55.718+06:00</dateUpdated>
+			<newFlag>false</newFlag>
+			<status>1</status>
+			<id>IC--000092</id>
+			<category>Kitchen</category>
+			<conunit>pcs</conunit>
+			<name>Brocoli </name>
+			<type>Raw Materials</type>
+		</item>
+		<item>
+			<dateCreated>2022-06-21T10:59:55.718+06:00</dateCreated>
+			<dateUpdated>2022-06-21T10:59:55.718+06:00</dateUpdated>
+			<newFlag>false</newFlag>
+			<status>1</status>
+			<id>IC--000093</id>
+			<category>Kitchen</category>
+			<conunit>gm</conunit>
+			<name>Mashroom</name>
+			<type>Raw Materials</type>
+		</item>
+		<item>
+			<dateCreated>2022-06-21T10:59:55.718+06:00</dateCreated>
+			<dateUpdated>2022-06-21T10:59:55.718+06:00</dateUpdated>
+			<newFlag>false</newFlag>
+			<status>1</status>
+			<id>IC--000094</id>
+			<category>Kitchen</category>
+			<conunit>gm</conunit>
+			<name>Baby Corn</name>
+			<type>Raw Materials</type>
+		</item>
+		<item>
+			<dateCreated>2022-06-21T10:59:55.718+06:00</dateCreated>
+			<dateUpdated>2022-06-21T10:59:55.718+06:00</dateUpdated>
+			<newFlag>false</newFlag>
+			<status>1</status>
+			<id>IC--000095</id>
+			<category>Kitchen</category>
+			<conunit>gm</conunit>
+			<name>Vinager</name>
+			<type>Raw Materials</type>
+		</item>
+		<item>
+			<dateCreated>2022-06-21T10:59:55.718+06:00</dateCreated>
+			<dateUpdated>2022-06-21T10:59:55.718+06:00</dateUpdated>
+			<newFlag>false</newFlag>
+			<status>1</status>
+			<id>IC--000096</id>
+			<category>Kitchen</category>
+			<conunit>Can</conunit>
+			<name>Green Peach</name>
+			<type>Raw Materials</type>
+		</item>
+		<item>
+			<dateCreated>2022-06-21T10:59:55.718+06:00</dateCreated>
+			<dateUpdated>2022-06-21T10:59:55.718+06:00</dateUpdated>
+			<newFlag>false</newFlag>
+			<status>1</status>
+			<id>IC--000097</id>
+			<category>Kitchen</category>
+			<conunit>gm</conunit>
+			<name>Papaya</name>
+			<type>Raw Materials</type>
+		</item>
+		<item>
+			<dateCreated>2022-06-21T10:59:55.718+06:00</dateCreated>
+			<dateUpdated>2022-06-21T10:59:55.718+06:00</dateUpdated>
+			<newFlag>false</newFlag>
+			<status>1</status>
+			<id>IC--000098</id>
+			<category>Kitchen</category>
+			<conunit>gm</conunit>
+			<name>Egg Plant</name>
+			<type>Raw Materials</type>
+		</item>
+		<item>
+			<dateCreated>2022-06-21T10:59:55.718+06:00</dateCreated>
+			<dateUpdated>2022-06-21T10:59:55.718+06:00</dateUpdated>
+			<newFlag>false</newFlag>
+			<status>1</status>
+			<id>IC--000100</id>
+			<category>Kitchen</category>
+			<conunit>gm</conunit>
+			<name>Beans</name>
+			<type>Raw Materials</type>
+		</item>
+		<item>
+			<dateCreated>2022-06-21T10:59:55.718+06:00</dateCreated>
+			<dateUpdated>2022-06-21T10:59:55.718+06:00</dateUpdated>
+			<newFlag>false</newFlag>
+			<status>1</status>
+			<id>IC--000101</id>
+			<category>Kitchen</category>
+			<conunit>pcs</conunit>
+			<name>Misty Kumra</name>
+			<type>Raw Materials</type>
+		</item>
+		<item>
+			<dateCreated>2022-06-21T10:59:55.718+06:00</dateCreated>
+			<dateUpdated>2022-06-21T10:59:55.718+06:00</dateUpdated>
+			<newFlag>false</newFlag>
+			<status>1</status>
+			<id>IC--000103</id>
+			<category>Kitchen</category>
+			<conunit>pcs</conunit>
+			<name>Chal Kumra</name>
+			<type>Raw Materials</type>
+		</item>
+		<item>
+			<dateCreated>2022-06-21T10:59:55.718+06:00</dateCreated>
+			<dateUpdated>2022-06-21T10:59:55.718+06:00</dateUpdated>
+			<newFlag>false</newFlag>
+			<status>1</status>
+			<id>IC--000106</id>
+			<category>Kitchen</category>
+			<conunit>gm</conunit>
+			<name>Spanich </name>
+			<type>Raw Materials</type>
+		</item>
+		<item>
+			<dateCreated>2022-06-21T10:59:55.718+06:00</dateCreated>
+			<dateUpdated>2022-06-21T10:59:55.718+06:00</dateUpdated>
+			<newFlag>false</newFlag>
+			<status>1</status>
+			<id>IC--000108</id>
+			<category>Kitchen</category>
+			<conunit>gm</conunit>
+			<name>Kaju Nut</name>
+			<type>Raw Materials</type>
+		</item>
+		<item>
+			<dateCreated>2022-06-21T10:59:55.718+06:00</dateCreated>
+			<dateUpdated>2022-06-21T10:59:55.718+06:00</dateUpdated>
+			<newFlag>false</newFlag>
+			<status>1</status>
+			<id>IC--000109</id>
+			<category>Kitchen</category>
+			<conunit>gm</conunit>
+			<name>Kabli Nut</name>
+			<type>Raw Materials</type>
+		</item>
+		<item>
+			<dateCreated>2022-06-21T10:59:55.718+06:00</dateCreated>
+			<dateUpdated>2022-06-21T10:59:55.718+06:00</dateUpdated>
+			<newFlag>false</newFlag>
+			<status>1</status>
+			<id>IC--000111</id>
+			<category>Kitchen</category>
+			<conunit>gm</conunit>
+			<name>Nut</name>
+			<type>Raw Materials</type>
+		</item>
+		<item>
+			<dateCreated>2022-06-21T10:59:55.718+06:00</dateCreated>
+			<dateUpdated>2022-06-21T10:59:55.718+06:00</dateUpdated>
+			<newFlag>false</newFlag>
+			<status>1</status>
+			<id>IC--000113</id>
+			<category>Kitchen</category>
+			<conunit>gm</conunit>
+			<name>Chili Sauce</name>
+			<type>Raw Materials</type>
+		</item>
+		<item>
+			<dateCreated>2022-06-21T10:59:55.718+06:00</dateCreated>
+			<dateUpdated>2022-06-21T10:59:55.718+06:00</dateUpdated>
+			<newFlag>false</newFlag>
+			<status>1</status>
+			<id>IC--000114</id>
+			<category>Kitchen</category>
+			<conunit>gm</conunit>
+			<name>Oyster Sauce</name>
+			<type>Raw Materials</type>
+		</item>
+		<item>
+			<dateCreated>2022-06-21T10:59:55.718+06:00</dateCreated>
+			<dateUpdated>2022-06-21T10:59:55.718+06:00</dateUpdated>
+			<newFlag>false</newFlag>
+			<status>1</status>
+			<id>IC--000115</id>
+			<category>Kitchen</category>
+			<conunit>gm</conunit>
+			<name>Vit-Root</name>
+			<type>Raw Materials</type>
+		</item>
+		<item>
+			<dateCreated>2022-06-21T10:59:55.718+06:00</dateCreated>
+			<dateUpdated>2022-06-21T10:59:55.718+06:00</dateUpdated>
+			<newFlag>false</newFlag>
+			<status>1</status>
+			<id>IC--000116</id>
+			<category>Kitchen</category>
+			<conunit>gm</conunit>
+			<name>Soya Sauce</name>
+			<type>Raw Materials</type>
+		</item>
+		<item>
+			<dateCreated>2022-06-21T10:59:55.718+06:00</dateCreated>
+			<dateUpdated>2022-06-21T10:59:55.718+06:00</dateUpdated>
+			<newFlag>false</newFlag>
+			<status>1</status>
+			<id>IC--000117</id>
+			<category>Kitchen</category>
+			<conunit>gm</conunit>
+			<name>Sesame Oil</name>
+			<type>Raw Materials</type>
+		</item>
+		<item>
+			<dateCreated>2022-06-21T10:59:55.718+06:00</dateCreated>
+			<dateUpdated>2022-06-21T10:59:55.718+06:00</dateUpdated>
+			<newFlag>false</newFlag>
+			<status>1</status>
+			<id>IC--000120</id>
+			<category>Kitchen</category>
+			<conunit>gm</conunit>
+			<name>Fish Sauce</name>
+			<type>Raw Materials</type>
+		</item>
+		<item>
+			<dateCreated>2022-06-21T10:59:55.718+06:00</dateCreated>
+			<dateUpdated>2022-06-21T10:59:55.718+06:00</dateUpdated>
+			<newFlag>false</newFlag>
+			<status>1</status>
+			<id>IC--000121</id>
+			<category>Kitchen</category>
+			<conunit>pcs</conunit>
+			<name>Noodles</name>
+			<type>Raw Materials</type>
+		</item>
+		<item>
+			<dateCreated>2022-06-21T10:59:55.718+06:00</dateCreated>
+			<dateUpdated>2022-06-21T10:59:55.718+06:00</dateUpdated>
+			<newFlag>false</newFlag>
+			<status>1</status>
+			<id>IC--000123</id>
+			<category>Kitchen</category>
+			<conunit>pcs</conunit>
+			<name>Spring roll</name>
+			<type>Raw Materials</type>
+		</item>
+		<item>
+			<dateCreated>2022-06-21T10:59:55.718+06:00</dateCreated>
+			<dateUpdated>2022-06-21T10:59:55.718+06:00</dateUpdated>
+			<newFlag>false</newFlag>
+			<status>1</status>
+			<id>IC--000124</id>
+			<category>Kitchen</category>
+			<conunit>gm</conunit>
+			<name>French Fries</name>
+			<type>Raw Materials</type>
+		</item>
+		<item>
+			<dateCreated>2022-06-21T10:59:55.718+06:00</dateCreated>
+			<dateUpdated>2022-06-21T10:59:55.718+06:00</dateUpdated>
+			<newFlag>false</newFlag>
+			<status>1</status>
+			<id>IC--000125</id>
+			<category>Kitchen</category>
+			<conunit>gm</conunit>
+			<name>Dabli</name>
+			<type>Raw Materials</type>
+		</item>
+		<item>
+			<dateCreated>2022-06-21T10:59:55.718+06:00</dateCreated>
+			<dateUpdated>2022-06-21T10:59:55.718+06:00</dateUpdated>
+			<newFlag>false</newFlag>
+			<status>1</status>
+			<id>IC--000129</id>
+			<category>Kitchen</category>
+			<conunit>pcs</conunit>
+			<name>wonthon pati</name>
+			<type>Raw Materials</type>
+		</item>
+		<item>
+			<dateCreated>2022-06-21T10:59:55.718+06:00</dateCreated>
+			<dateUpdated>2022-06-21T10:59:55.718+06:00</dateUpdated>
+			<newFlag>false</newFlag>
+			<status>1</status>
+			<id>IC--000132</id>
+			<category>Kitchen</category>
+			<conunit>gm</conunit>
+			<name>Thai labu Pata</name>
+			<type>Raw Materials</type>
+		</item>
+		<item>
+			<dateCreated>2022-06-21T10:59:55.718+06:00</dateCreated>
+			<dateUpdated>2022-06-21T10:59:55.718+06:00</dateUpdated>
+			<newFlag>false</newFlag>
+			<status>1</status>
+			<id>IC--000205</id>
+			<category>Room-1</category>
+			<conunit>pcs</conunit>
+			<name>Room Service No-1</name>
+			<type>Raw Materials</type>
+		</item>
+		<item>
+			<dateCreated>2022-06-21T10:59:55.718+06:00</dateCreated>
+			<dateUpdated>2022-06-21T10:59:55.718+06:00</dateUpdated>
+			<newFlag>false</newFlag>
+			<status>1</status>
+			<id>IC--000203</id>
+			<category>Room-2</category>
+			<conunit>pcs</conunit>
+			<name>Room Service No-2</name>
+			<type>Raw Materials</type>
+		</item>
+		<item>
+			<dateCreated>2022-06-21T10:59:55.718+06:00</dateCreated>
+			<dateUpdated>2022-06-21T10:59:55.718+06:00</dateUpdated>
+			<newFlag>false</newFlag>
+			<status>1</status>
+			<id>IC--000204</id>
+			<category>Soft Drinks</category>
+			<conunit>pcs</conunit>
+			<name>Juice Packet</name>
+			<type>Raw Materials</type>
+		</item>
+		<item>
+			<dateCreated>2022-06-21T10:59:55.718+06:00</dateCreated>
+			<dateUpdated>2022-06-21T10:59:55.718+06:00</dateUpdated>
+			<newFlag>false</newFlag>
+			<status>1</status>
+			<id>IC--000189</id>
+			<category>Soft Drinks</category>
+			<conunit>pcs</conunit>
+			<name>Ginger Water</name>
+			<type>Raw Materials</type>
+		</item>
+		<item>
+			<dateCreated>2022-06-21T10:59:55.718+06:00</dateCreated>
+			<dateUpdated>2022-06-21T10:59:55.718+06:00</dateUpdated>
+			<newFlag>false</newFlag>
+			<status>1</status>
+			<id>IC--000207</id>
+			<category>Soft Drinks</category>
+			<conunit>pcs</conunit>
+			<name>Ice Cube</name>
+			<type>Raw Materials</type>
+		</item>
+		<item>
+			<dateCreated>2022-06-21T10:59:55.718+06:00</dateCreated>
+			<dateUpdated>2022-06-21T10:59:55.718+06:00</dateUpdated>
+			<newFlag>false</newFlag>
+			<status>1</status>
+			<id>IC--000173</id>
+			<category>Soft Drinks</category>
+			<conunit>pcs</conunit>
+			<name>Orange Juice</name>
+			<type>Raw Materials</type>
+		</item>
+		<item>
+			<dateCreated>2022-06-21T10:59:55.718+06:00</dateCreated>
+			<dateUpdated>2022-06-21T10:59:55.718+06:00</dateUpdated>
+			<newFlag>false</newFlag>
+			<status>1</status>
+			<id>IC--000134</id>
+			<category>Soft Drinks</category>
+			<conunit>pcs</conunit>
+			<name>Red Bull</name>
+			<type>Raw Materials</type>
+		</item>
+		<item>
+			<dateCreated>2022-06-21T10:59:55.718+06:00</dateCreated>
+			<dateUpdated>2022-06-21T10:59:55.718+06:00</dateUpdated>
+			<newFlag>false</newFlag>
+			<status>1</status>
+			<id>IC--000135</id>
+			<category>Soft Drinks</category>
+			<conunit>pcs</conunit>
+			<name>Club Soda (Btl)</name>
+			<type>Raw Materials</type>
+		</item>
+		<item>
+			<dateCreated>2022-06-21T10:59:55.718+06:00</dateCreated>
+			<dateUpdated>2022-06-21T10:59:55.718+06:00</dateUpdated>
+			<newFlag>false</newFlag>
+			<status>1</status>
+			<id>IC--000136</id>
+			<category>Soft Drinks</category>
+			<conunit>pcs</conunit>
+			<name>Mineral Water (Small)</name>
+			<type>Raw Materials</type>
+		</item>
+		<item>
+			<dateCreated>2022-06-21T10:59:55.718+06:00</dateCreated>
+			<dateUpdated>2022-06-21T10:59:55.718+06:00</dateUpdated>
+			<newFlag>false</newFlag>
+			<status>1</status>
+			<id>IC--000137</id>
+			<category>Soft Drinks</category>
+			<conunit>pcs</conunit>
+			<name>Mineral Water (Large)</name>
+			<type>Raw Materials</type>
+		</item>
+		<item>
+			<dateCreated>2022-06-21T10:59:55.718+06:00</dateCreated>
+			<dateUpdated>2022-06-21T10:59:55.718+06:00</dateUpdated>
+			<newFlag>false</newFlag>
+			<status>1</status>
+			<id>IC--000138</id>
+			<category>Soft Drinks</category>
+			<conunit>pcs</conunit>
+			<name>Soft Drink'S (Coke &amp; 7up)</name>
+			<type>Raw Materials</type>
+		</item>
+		<item>
+			<dateCreated>2022-06-21T10:59:55.718+06:00</dateCreated>
+			<dateUpdated>2022-06-21T10:59:55.718+06:00</dateUpdated>
+			<newFlag>false</newFlag>
+			<status>1</status>
+			<id>IC--000139</id>
+			<category>Soft Drinks</category>
+			<conunit>pcs</conunit>
+			<name>Tonic water (Can/Btl)</name>
+			<type>Raw Materials</type>
+		</item>
+		<item>
+			<dateCreated>2022-06-21T10:59:55.718+06:00</dateCreated>
+			<dateUpdated>2022-06-21T10:59:55.718+06:00</dateUpdated>
+			<newFlag>false</newFlag>
+			<status>1</status>
+			<id>IC--000142</id>
+			<category>Soft Drinks</category>
+			<conunit>pcs</conunit>
+			<name>Fruite Juice (Small)</name>
+			<type>Raw Materials</type>
+		</item>
+		<item>
+			<dateCreated>2022-06-21T10:59:55.718+06:00</dateCreated>
+			<dateUpdated>2022-06-21T10:59:55.718+06:00</dateUpdated>
+			<newFlag>false</newFlag>
+			<status>1</status>
+			<id>IC--000143</id>
+			<category>Soft Drinks</category>
+			<conunit>pcs</conunit>
+			<name>Coconut Water</name>
+			<type>Raw Materials</type>
+		</item>
+		<item>
+			<dateCreated>2022-06-21T10:59:55.718+06:00</dateCreated>
+			<dateUpdated>2022-06-21T10:59:55.718+06:00</dateUpdated>
+			<newFlag>false</newFlag>
+			<status>1</status>
+			<id>IC--000144</id>
+			<category>Soft Drinks</category>
+			<conunit>pcs</conunit>
+			<name>Ginger</name>
+			<type>Raw Materials</type>
+		</item>
+	</items>
+</rm034report>
