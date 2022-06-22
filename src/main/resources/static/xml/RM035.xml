@@ -1,0 +1,6035 @@
+<rm035report>
+	<copyright>Developed By KIT (karigorit.com) © Copyright 2022
+	</copyright>
+	<fromDate>Wed, 01-Jun-2022</fromDate>
+	<printDate>Wed, 22-Jun-2022</printDate>
+	<reportName>Stock Transaction Summary</reportName>
+	<shopAddress></shopAddress>
+	<shopName>Lake View Recration Club Ltd.</shopName>
+	<toDate>Sun, 05-Jun-2022</toDate>
+	<items>
+		<item>
+			<itemId>IC--000108</itemId>
+			<itemName>Kaju Nut</itemName>
+			<details>
+				<detail>
+					<date>Sun, 05-Jun-2022</date>
+					<stockEntry>0.00</stockEntry>
+					<extraStockEntry>0.00</extraStockEntry>
+					<damageEntry>0.00</damageEntry>
+					<consumption>-340.00</consumption>
+					<stockAdjustment>0.00</stockAdjustment>
+					<unit>gm</unit>
+				</detail>
+				<detail>
+					<date>Sat, 04-Jun-2022</date>
+					<stockEntry>0.00</stockEntry>
+					<extraStockEntry>0.00</extraStockEntry>
+					<damageEntry>0.00</damageEntry>
+					<consumption>-350.00</consumption>
+					<stockAdjustment>0.00</stockAdjustment>
+					<unit>gm</unit>
+				</detail>
+				<detail>
+					<date>Sat, 04-Jun-2022</date>
+					<stockEntry>10000.00</stockEntry>
+					<extraStockEntry>0.00</extraStockEntry>
+					<damageEntry>0.00</damageEntry>
+					<consumption>0.00</consumption>
+					<stockAdjustment>0.00</stockAdjustment>
+					<unit>gm</unit>
+				</detail>
+				<detail>
+					<date>Thu, 02-Jun-2022</date>
+					<stockEntry>0.00</stockEntry>
+					<extraStockEntry>0.00</extraStockEntry>
+					<damageEntry>0.00</damageEntry>
+					<consumption>-765.00</consumption>
+					<stockAdjustment>0.00</stockAdjustment>
+					<unit>gm</unit>
+				</detail>
+				<detail>
+					<date>Wed, 01-Jun-2022</date>
+					<stockEntry>0.00</stockEntry>
+					<extraStockEntry>0.00</extraStockEntry>
+					<damageEntry>0.00</damageEntry>
+					<consumption>-175.00</consumption>
+					<stockAdjustment>0.00</stockAdjustment>
+					<unit>gm</unit>
+				</detail>
+			</details>
+			<totalConsumption>-1630.00</totalConsumption>
+			<totalEntry>10000.00</totalEntry>
+			<stock>8370.00</stock>
+		</item>
+		<item>
+			<itemId>IC--000229</itemId>
+			<itemName>Prawn (Small)</itemName>
+			<details>
+				<detail>
+					<date>Sun, 05-Jun-2022</date>
+					<stockEntry>1000.00</stockEntry>
+					<extraStockEntry>0.00</extraStockEntry>
+					<damageEntry>0.00</damageEntry>
+					<consumption>0.00</consumption>
+					<stockAdjustment>0.00</stockAdjustment>
+					<unit>gm</unit>
+				</detail>
+			</details>
+			<totalConsumption>0.00</totalConsumption>
+			<totalEntry>1000.00</totalEntry>
+			<stock>1000.00</stock>
+		</item>
+		<item>
+			<itemId>IC--000109</itemId>
+			<itemName>Kabli Nut</itemName>
+			<details>
+				<detail>
+					<date>Sun, 05-Jun-2022</date>
+					<stockEntry>10000.00</stockEntry>
+					<extraStockEntry>0.00</extraStockEntry>
+					<damageEntry>0.00</damageEntry>
+					<consumption>0.00</consumption>
+					<stockAdjustment>0.00</stockAdjustment>
+					<unit>gm</unit>
+				</detail>
+				<detail>
+					<date>Wed, 01-Jun-2022</date>
+					<stockEntry>5000.00</stockEntry>
+					<extraStockEntry>0.00</extraStockEntry>
+					<damageEntry>0.00</damageEntry>
+					<consumption>0.00</consumption>
+					<stockAdjustment>0.00</stockAdjustment>
+					<unit>gm</unit>
+				</detail>
+			</details>
+			<totalConsumption>0.00</totalConsumption>
+			<totalEntry>15000.00</totalEntry>
+			<stock>15000.00</stock>
+		</item>
+		<item>
+			<itemId>IC--000111</itemId>
+			<itemName>Nut</itemName>
+			<details>
+				<detail>
+					<date>Sun, 05-Jun-2022</date>
+					<stockEntry>0.00</stockEntry>
+					<extraStockEntry>0.00</extraStockEntry>
+					<damageEntry>0.00</damageEntry>
+					<consumption>-1709.00</consumption>
+					<stockAdjustment>0.00</stockAdjustment>
+					<unit>gm</unit>
+				</detail>
+				<detail>
+					<date>Sat, 04-Jun-2022</date>
+					<stockEntry>0.00</stockEntry>
+					<extraStockEntry>0.00</extraStockEntry>
+					<damageEntry>0.00</damageEntry>
+					<consumption>-2590.00</consumption>
+					<stockAdjustment>0.00</stockAdjustment>
+					<unit>gm</unit>
+				</detail>
+				<detail>
+					<date>Sat, 04-Jun-2022</date>
+					<stockEntry>5000.00</stockEntry>
+					<extraStockEntry>0.00</extraStockEntry>
+					<damageEntry>0.00</damageEntry>
+					<consumption>0.00</consumption>
+					<stockAdjustment>0.00</stockAdjustment>
+					<unit>gm</unit>
+				</detail>
+				<detail>
+					<date>Thu, 02-Jun-2022</date>
+					<stockEntry>0.00</stockEntry>
+					<extraStockEntry>0.00</extraStockEntry>
+					<damageEntry>0.00</damageEntry>
+					<consumption>-5157.00</consumption>
+					<stockAdjustment>0.00</stockAdjustment>
+					<unit>gm</unit>
+				</detail>
+				<detail>
+					<date>Wed, 01-Jun-2022</date>
+					<stockEntry>0.00</stockEntry>
+					<extraStockEntry>0.00</extraStockEntry>
+					<damageEntry>0.00</damageEntry>
+					<consumption>-1779.00</consumption>
+					<stockAdjustment>0.00</stockAdjustment>
+					<unit>gm</unit>
+				</detail>
+				<detail>
+					<date>Wed, 01-Jun-2022</date>
+					<stockEntry>4000.00</stockEntry>
+					<extraStockEntry>0.00</extraStockEntry>
+					<damageEntry>0.00</damageEntry>
+					<consumption>0.00</consumption>
+					<stockAdjustment>0.00</stockAdjustment>
+					<unit>gm</unit>
+				</detail>
+			</details>
+			<totalConsumption>-11235.00</totalConsumption>
+			<totalEntry>9000.00</totalEntry>
+			<stock>-2235.00</stock>
+		</item>
+		<item>
+			<itemId>IC--000231</itemId>
+			<itemName>Carew Gin large</itemName>
+			<details>
+				<detail>
+					<date>Thu, 02-Jun-2022</date>
+					<stockEntry>0.00</stockEntry>
+					<extraStockEntry>0.00</extraStockEntry>
+					<damageEntry>0.00</damageEntry>
+					<consumption>-7.00</consumption>
+					<stockAdjustment>0.00</stockAdjustment>
+					<unit>pcs</unit>
+				</detail>
+				<detail>
+					<date>Thu, 02-Jun-2022</date>
+					<stockEntry>12.00</stockEntry>
+					<extraStockEntry>0.00</extraStockEntry>
+					<damageEntry>0.00</damageEntry>
+					<consumption>0.00</consumption>
+					<stockAdjustment>0.00</stockAdjustment>
+					<unit>pcs</unit>
+				</detail>
+			</details>
+			<totalConsumption>-7.00</totalConsumption>
+			<totalEntry>12.00</totalEntry>
+			<stock>5.00</stock>
+		</item>
+		<item>
+			<itemId>IC--000230</itemId>
+			<itemName>Carew Gin small</itemName>
+			<details>
+				<detail>
+					<date>Sun, 05-Jun-2022</date>
+					<stockEntry>0.00</stockEntry>
+					<extraStockEntry>0.00</extraStockEntry>
+					<damageEntry>0.00</damageEntry>
+					<consumption>-7.00</consumption>
+					<stockAdjustment>0.00</stockAdjustment>
+					<unit>pcs</unit>
+				</detail>
+				<detail>
+					<date>Sat, 04-Jun-2022</date>
+					<stockEntry>0.00</stockEntry>
+					<extraStockEntry>0.00</extraStockEntry>
+					<damageEntry>0.00</damageEntry>
+					<consumption>-3.00</consumption>
+					<stockAdjustment>0.00</stockAdjustment>
+					<unit>pcs</unit>
+				</detail>
+				<detail>
+					<date>Thu, 02-Jun-2022</date>
+					<stockEntry>0.00</stockEntry>
+					<extraStockEntry>0.00</extraStockEntry>
+					<damageEntry>0.00</damageEntry>
+					<consumption>-8.00</consumption>
+					<stockAdjustment>0.00</stockAdjustment>
+					<unit>pcs</unit>
+				</detail>
+				<detail>
+					<date>Wed, 01-Jun-2022</date>
+					<stockEntry>0.00</stockEntry>
+					<extraStockEntry>0.00</extraStockEntry>
+					<damageEntry>0.00</damageEntry>
+					<consumption>-7.00</consumption>
+					<stockAdjustment>0.00</stockAdjustment>
+					<unit>pcs</unit>
+				</detail>
+			</details>
+			<totalConsumption>-25.00</totalConsumption>
+			<totalEntry>0.00</totalEntry>
+			<stock>-25.00</stock>
+		</item>
+		<item>
+			<itemId>IC--000114</itemId>
+			<itemName>Oyster Sauce</itemName>
+			<details>
+				<detail>
+					<date>Sun, 05-Jun-2022</date>
+					<stockEntry>0.00</stockEntry>
+					<extraStockEntry>0.00</extraStockEntry>
+					<damageEntry>0.00</damageEntry>
+					<consumption>-216.00</consumption>
+					<stockAdjustment>0.00</stockAdjustment>
+					<unit>gm</unit>
+				</detail>
+				<detail>
+					<date>Sat, 04-Jun-2022</date>
+					<stockEntry>0.00</stockEntry>
+					<extraStockEntry>0.00</extraStockEntry>
+					<damageEntry>0.00</damageEntry>
+					<consumption>-263.00</consumption>
+					<stockAdjustment>0.00</stockAdjustment>
+					<unit>gm</unit>
+				</detail>
+				<detail>
+					<date>Thu, 02-Jun-2022</date>
+					<stockEntry>0.00</stockEntry>
+					<extraStockEntry>0.00</extraStockEntry>
+					<damageEntry>0.00</damageEntry>
+					<consumption>-512.00</consumption>
+					<stockAdjustment>0.00</stockAdjustment>
+					<unit>gm</unit>
+				</detail>
+				<detail>
+					<date>Wed, 01-Jun-2022</date>
+					<stockEntry>0.00</stockEntry>
+					<extraStockEntry>0.00</extraStockEntry>
+					<damageEntry>0.00</damageEntry>
+					<consumption>-239.00</consumption>
+					<stockAdjustment>0.00</stockAdjustment>
+					<unit>gm</unit>
+				</detail>
+				<detail>
+					<date>Wed, 01-Jun-2022</date>
+					<stockEntry>3000.00</stockEntry>
+					<extraStockEntry>0.00</extraStockEntry>
+					<damageEntry>0.00</damageEntry>
+					<consumption>0.00</consumption>
+					<stockAdjustment>0.00</stockAdjustment>
+					<unit>gm</unit>
+				</detail>
+			</details>
+			<totalConsumption>-1230.00</totalConsumption>
+			<totalEntry>3000.00</totalEntry>
+			<stock>1770.00</stock>
+		</item>
+		<item>
+			<itemId>IC--000113</itemId>
+			<itemName>Chili Sauce</itemName>
+			<details>
+				<detail>
+					<date>Thu, 02-Jun-2022</date>
+					<stockEntry>0.00</stockEntry>
+					<extraStockEntry>0.00</extraStockEntry>
+					<damageEntry>0.00</damageEntry>
+					<consumption>-450.00</consumption>
+					<stockAdjustment>0.00</stockAdjustment>
+					<unit>gm</unit>
+				</detail>
+				<detail>
+					<date>Thu, 02-Jun-2022</date>
+					<stockEntry>4500.00</stockEntry>
+					<extraStockEntry>0.00</extraStockEntry>
+					<damageEntry>0.00</damageEntry>
+					<consumption>0.00</consumption>
+					<stockAdjustment>0.00</stockAdjustment>
+					<unit>gm</unit>
+				</detail>
+			</details>
+			<totalConsumption>-450.00</totalConsumption>
+			<totalEntry>4500.00</totalEntry>
+			<stock>4050.00</stock>
+		</item>
+		<item>
+			<itemId>IC--000070</itemId>
+			<itemName>Chichinga</itemName>
+			<details>
+				<detail>
+					<date>Sun, 05-Jun-2022</date>
+					<stockEntry>0.00</stockEntry>
+					<extraStockEntry>0.00</extraStockEntry>
+					<damageEntry>0.00</damageEntry>
+					<consumption>-45.00</consumption>
+					<stockAdjustment>0.00</stockAdjustment>
+					<unit>gm</unit>
+				</detail>
+				<detail>
+					<date>Sun, 05-Jun-2022</date>
+					<stockEntry>1000.00</stockEntry>
+					<extraStockEntry>0.00</extraStockEntry>
+					<damageEntry>0.00</damageEntry>
+					<consumption>0.00</consumption>
+					<stockAdjustment>0.00</stockAdjustment>
+					<unit>gm</unit>
+				</detail>
+				<detail>
+					<date>Sat, 04-Jun-2022</date>
+					<stockEntry>0.00</stockEntry>
+					<extraStockEntry>0.00</extraStockEntry>
+					<damageEntry>0.00</damageEntry>
+					<consumption>-25.00</consumption>
+					<stockAdjustment>0.00</stockAdjustment>
+					<unit>gm</unit>
+				</detail>
+				<detail>
+					<date>Thu, 02-Jun-2022</date>
+					<stockEntry>0.00</stockEntry>
+					<extraStockEntry>0.00</extraStockEntry>
+					<damageEntry>0.00</damageEntry>
+					<consumption>-10.00</consumption>
+					<stockAdjustment>0.00</stockAdjustment>
+					<unit>gm</unit>
+				</detail>
+				<detail>
+					<date>Thu, 02-Jun-2022</date>
+					<stockEntry>1000.00</stockEntry>
+					<extraStockEntry>0.00</extraStockEntry>
+					<damageEntry>0.00</damageEntry>
+					<consumption>0.00</consumption>
+					<stockAdjustment>0.00</stockAdjustment>
+					<unit>gm</unit>
+				</detail>
+				<detail>
+					<date>Wed, 01-Jun-2022</date>
+					<stockEntry>0.00</stockEntry>
+					<extraStockEntry>0.00</extraStockEntry>
+					<damageEntry>0.00</damageEntry>
+					<consumption>-60.00</consumption>
+					<stockAdjustment>0.00</stockAdjustment>
+					<unit>gm</unit>
+				</detail>
+			</details>
+			<totalConsumption>-140.00</totalConsumption>
+			<totalEntry>2000.00</totalEntry>
+			<stock>1860.00</stock>
+		</item>
+		<item>
+			<itemId>IC--000191</itemId>
+			<itemName>Double Black Level</itemName>
+			<details>
+				<detail>
+					<date>Thu, 02-Jun-2022</date>
+					<stockEntry>0.00</stockEntry>
+					<extraStockEntry>0.00</extraStockEntry>
+					<damageEntry>0.00</damageEntry>
+					<consumption>-150.00</consumption>
+					<stockAdjustment>0.00</stockAdjustment>
+					<unit>Peg</unit>
+				</detail>
+			</details>
+			<totalConsumption>-150.00</totalConsumption>
+			<totalEntry>0.00</totalEntry>
+			<stock>-150.00</stock>
+		</item>
+		<item>
+			<itemId>IC--000190</itemId>
+			<itemName>Each Game/Table</itemName>
+			<details>
+				<detail>
+					<date>Sun, 05-Jun-2022</date>
+					<stockEntry>0.00</stockEntry>
+					<extraStockEntry>0.00</extraStockEntry>
+					<damageEntry>0.00</damageEntry>
+					<consumption>-14.00</consumption>
+					<stockAdjustment>0.00</stockAdjustment>
+					<unit>pcs</unit>
+				</detail>
+				<detail>
+					<date>Sat, 04-Jun-2022</date>
+					<stockEntry>0.00</stockEntry>
+					<extraStockEntry>0.00</extraStockEntry>
+					<damageEntry>0.00</damageEntry>
+					<consumption>-19.00</consumption>
+					<stockAdjustment>0.00</stockAdjustment>
+					<unit>pcs</unit>
+				</detail>
+				<detail>
+					<date>Thu, 02-Jun-2022</date>
+					<stockEntry>0.00</stockEntry>
+					<extraStockEntry>0.00</extraStockEntry>
+					<damageEntry>0.00</damageEntry>
+					<consumption>-14.00</consumption>
+					<stockAdjustment>0.00</stockAdjustment>
+					<unit>pcs</unit>
+				</detail>
+				<detail>
+					<date>Wed, 01-Jun-2022</date>
+					<stockEntry>0.00</stockEntry>
+					<extraStockEntry>0.00</extraStockEntry>
+					<damageEntry>0.00</damageEntry>
+					<consumption>-16.00</consumption>
+					<stockAdjustment>0.00</stockAdjustment>
+					<unit>pcs</unit>
+				</detail>
+			</details>
+			<totalConsumption>-63.00</totalConsumption>
+			<totalEntry>0.00</totalEntry>
+			<stock>-63.00</stock>
+		</item>
+		<item>
+			<itemId>IC--000074</itemId>
+			<itemName>Spring Onion (Peyaj Pata)</itemName>
+			<details>
+				<detail>
+					<date>Sun, 05-Jun-2022</date>
+					<stockEntry>0.00</stockEntry>
+					<extraStockEntry>0.00</extraStockEntry>
+					<damageEntry>0.00</damageEntry>
+					<consumption>-57.00</consumption>
+					<stockAdjustment>0.00</stockAdjustment>
+					<unit>pcs</unit>
+				</detail>
+				<detail>
+					<date>Sun, 05-Jun-2022</date>
+					<stockEntry>250.00</stockEntry>
+					<extraStockEntry>0.00</extraStockEntry>
+					<damageEntry>0.00</damageEntry>
+					<consumption>0.00</consumption>
+					<stockAdjustment>0.00</stockAdjustment>
+					<unit>gm</unit>
+				</detail>
+				<detail>
+					<date>Sat, 04-Jun-2022</date>
+					<stockEntry>0.00</stockEntry>
+					<extraStockEntry>0.00</extraStockEntry>
+					<damageEntry>0.00</damageEntry>
+					<consumption>-50.00</consumption>
+					<stockAdjustment>0.00</stockAdjustment>
+					<unit>pcs</unit>
+				</detail>
+				<detail>
+					<date>Sat, 04-Jun-2022</date>
+					<stockEntry>250.00</stockEntry>
+					<extraStockEntry>0.00</extraStockEntry>
+					<damageEntry>0.00</damageEntry>
+					<consumption>0.00</consumption>
+					<stockAdjustment>0.00</stockAdjustment>
+					<unit>gm</unit>
+				</detail>
+				<detail>
+					<date>Thu, 02-Jun-2022</date>
+					<stockEntry>0.00</stockEntry>
+					<extraStockEntry>0.00</extraStockEntry>
+					<damageEntry>0.00</damageEntry>
+					<consumption>-97.00</consumption>
+					<stockAdjustment>0.00</stockAdjustment>
+					<unit>pcs</unit>
+				</detail>
+				<detail>
+					<date>Thu, 02-Jun-2022</date>
+					<stockEntry>250.00</stockEntry>
+					<extraStockEntry>0.00</extraStockEntry>
+					<damageEntry>0.00</damageEntry>
+					<consumption>0.00</consumption>
+					<stockAdjustment>0.00</stockAdjustment>
+					<unit>gm</unit>
+				</detail>
+				<detail>
+					<date>Wed, 01-Jun-2022</date>
+					<stockEntry>0.00</stockEntry>
+					<extraStockEntry>0.00</extraStockEntry>
+					<damageEntry>0.00</damageEntry>
+					<consumption>-89.00</consumption>
+					<stockAdjustment>0.00</stockAdjustment>
+					<unit>pcs</unit>
+				</detail>
+				<detail>
+					<date>Wed, 01-Jun-2022</date>
+					<stockEntry>250.00</stockEntry>
+					<extraStockEntry>0.00</extraStockEntry>
+					<damageEntry>0.00</damageEntry>
+					<consumption>0.00</consumption>
+					<stockAdjustment>0.00</stockAdjustment>
+					<unit>gm</unit>
+				</detail>
+			</details>
+			<totalConsumption>-293.00</totalConsumption>
+			<totalEntry>1000.00</totalEntry>
+			<stock>707.00</stock>
+		</item>
+		<item>
+			<itemId>IC--000073</itemId>
+			<itemName>Chinese Cabbage</itemName>
+			<details>
+				<detail>
+					<date>Sun, 05-Jun-2022</date>
+					<stockEntry>0.00</stockEntry>
+					<extraStockEntry>0.00</extraStockEntry>
+					<damageEntry>0.00</damageEntry>
+					<consumption>-115.00</consumption>
+					<stockAdjustment>0.00</stockAdjustment>
+					<unit>pcs</unit>
+				</detail>
+				<detail>
+					<date>Sun, 05-Jun-2022</date>
+					<stockEntry>2.00</stockEntry>
+					<extraStockEntry>0.00</extraStockEntry>
+					<damageEntry>0.00</damageEntry>
+					<consumption>0.00</consumption>
+					<stockAdjustment>0.00</stockAdjustment>
+					<unit>pcs</unit>
+				</detail>
+				<detail>
+					<date>Sat, 04-Jun-2022</date>
+					<stockEntry>0.00</stockEntry>
+					<extraStockEntry>0.00</extraStockEntry>
+					<damageEntry>0.00</damageEntry>
+					<consumption>-65.00</consumption>
+					<stockAdjustment>0.00</stockAdjustment>
+					<unit>pcs</unit>
+				</detail>
+				<detail>
+					<date>Sat, 04-Jun-2022</date>
+					<stockEntry>5.00</stockEntry>
+					<extraStockEntry>0.00</extraStockEntry>
+					<damageEntry>0.00</damageEntry>
+					<consumption>0.00</consumption>
+					<stockAdjustment>0.00</stockAdjustment>
+					<unit>pcs</unit>
+				</detail>
+				<detail>
+					<date>Thu, 02-Jun-2022</date>
+					<stockEntry>0.00</stockEntry>
+					<extraStockEntry>0.00</extraStockEntry>
+					<damageEntry>0.00</damageEntry>
+					<consumption>-135.00</consumption>
+					<stockAdjustment>0.00</stockAdjustment>
+					<unit>pcs</unit>
+				</detail>
+				<detail>
+					<date>Thu, 02-Jun-2022</date>
+					<stockEntry>5.00</stockEntry>
+					<extraStockEntry>0.00</extraStockEntry>
+					<damageEntry>0.00</damageEntry>
+					<consumption>0.00</consumption>
+					<stockAdjustment>0.00</stockAdjustment>
+					<unit>pcs</unit>
+				</detail>
+				<detail>
+					<date>Wed, 01-Jun-2022</date>
+					<stockEntry>0.00</stockEntry>
+					<extraStockEntry>0.00</extraStockEntry>
+					<damageEntry>0.00</damageEntry>
+					<consumption>-110.00</consumption>
+					<stockAdjustment>0.00</stockAdjustment>
+					<unit>pcs</unit>
+				</detail>
+				<detail>
+					<date>Wed, 01-Jun-2022</date>
+					<stockEntry>5.00</stockEntry>
+					<extraStockEntry>0.00</extraStockEntry>
+					<damageEntry>0.00</damageEntry>
+					<consumption>0.00</consumption>
+					<stockAdjustment>0.00</stockAdjustment>
+					<unit>pcs</unit>
+				</detail>
+			</details>
+			<totalConsumption>-425.00</totalConsumption>
+			<totalEntry>17.00</totalEntry>
+			<stock>-408.00</stock>
+		</item>
+		<item>
+			<itemId>IC--000072</itemId>
+			<itemName>Lemon</itemName>
+			<details>
+				<detail>
+					<date>Sun, 05-Jun-2022</date>
+					<stockEntry>0.00</stockEntry>
+					<extraStockEntry>0.00</extraStockEntry>
+					<damageEntry>0.00</damageEntry>
+					<consumption>-43.00</consumption>
+					<stockAdjustment>0.00</stockAdjustment>
+					<unit>pcs</unit>
+				</detail>
+				<detail>
+					<date>Sun, 05-Jun-2022</date>
+					<stockEntry>40.00</stockEntry>
+					<extraStockEntry>0.00</extraStockEntry>
+					<damageEntry>0.00</damageEntry>
+					<consumption>0.00</consumption>
+					<stockAdjustment>0.00</stockAdjustment>
+					<unit>pcs</unit>
+				</detail>
+				<detail>
+					<date>Sat, 04-Jun-2022</date>
+					<stockEntry>0.00</stockEntry>
+					<extraStockEntry>0.00</extraStockEntry>
+					<damageEntry>0.00</damageEntry>
+					<consumption>-63.00</consumption>
+					<stockAdjustment>0.00</stockAdjustment>
+					<unit>pcs</unit>
+				</detail>
+				<detail>
+					<date>Sat, 04-Jun-2022</date>
+					<stockEntry>50.00</stockEntry>
+					<extraStockEntry>0.00</extraStockEntry>
+					<damageEntry>0.00</damageEntry>
+					<consumption>0.00</consumption>
+					<stockAdjustment>0.00</stockAdjustment>
+					<unit>pcs</unit>
+				</detail>
+				<detail>
+					<date>Thu, 02-Jun-2022</date>
+					<stockEntry>0.00</stockEntry>
+					<extraStockEntry>0.00</extraStockEntry>
+					<damageEntry>0.00</damageEntry>
+					<consumption>-103.00</consumption>
+					<stockAdjustment>0.00</stockAdjustment>
+					<unit>pcs</unit>
+				</detail>
+				<detail>
+					<date>Thu, 02-Jun-2022</date>
+					<stockEntry>35.00</stockEntry>
+					<extraStockEntry>0.00</extraStockEntry>
+					<damageEntry>0.00</damageEntry>
+					<consumption>0.00</consumption>
+					<stockAdjustment>0.00</stockAdjustment>
+					<unit>pcs</unit>
+				</detail>
+				<detail>
+					<date>Wed, 01-Jun-2022</date>
+					<stockEntry>0.00</stockEntry>
+					<extraStockEntry>0.00</extraStockEntry>
+					<damageEntry>0.00</damageEntry>
+					<consumption>-54.00</consumption>
+					<stockAdjustment>0.00</stockAdjustment>
+					<unit>pcs</unit>
+				</detail>
+				<detail>
+					<date>Wed, 01-Jun-2022</date>
+					<stockEntry>45.00</stockEntry>
+					<extraStockEntry>0.00</extraStockEntry>
+					<damageEntry>0.00</damageEntry>
+					<consumption>0.00</consumption>
+					<stockAdjustment>0.00</stockAdjustment>
+					<unit>pcs</unit>
+				</detail>
+			</details>
+			<totalConsumption>-263.00</totalConsumption>
+			<totalEntry>170.00</totalEntry>
+			<stock>-93.00</stock>
+		</item>
+		<item>
+			<itemId>IC--000119</itemId>
+			<details>
+				<detail>
+					<date>Sun, 05-Jun-2022</date>
+					<stockEntry>0.00</stockEntry>
+					<extraStockEntry>0.00</extraStockEntry>
+					<damageEntry>0.00</damageEntry>
+					<consumption>-205.00</consumption>
+					<stockAdjustment>0.00</stockAdjustment>
+					<unit>gm</unit>
+				</detail>
+				<detail>
+					<date>Sat, 04-Jun-2022</date>
+					<stockEntry>0.00</stockEntry>
+					<extraStockEntry>0.00</extraStockEntry>
+					<damageEntry>0.00</damageEntry>
+					<consumption>-265.00</consumption>
+					<stockAdjustment>0.00</stockAdjustment>
+					<unit>gm</unit>
+				</detail>
+				<detail>
+					<date>Thu, 02-Jun-2022</date>
+					<stockEntry>0.00</stockEntry>
+					<extraStockEntry>0.00</extraStockEntry>
+					<damageEntry>0.00</damageEntry>
+					<consumption>-30.00</consumption>
+					<stockAdjustment>0.00</stockAdjustment>
+					<unit>gm</unit>
+				</detail>
+				<detail>
+					<date>Wed, 01-Jun-2022</date>
+					<stockEntry>0.00</stockEntry>
+					<extraStockEntry>0.00</extraStockEntry>
+					<damageEntry>0.00</damageEntry>
+					<consumption>-305.00</consumption>
+					<stockAdjustment>0.00</stockAdjustment>
+					<unit>gm</unit>
+				</detail>
+			</details>
+			<totalConsumption>-805.00</totalConsumption>
+			<totalEntry>0.00</totalEntry>
+			<stock>-805.00</stock>
+		</item>
+		<item>
+			<itemId>IC--000117</itemId>
+			<itemName>Sesame Oil</itemName>
+			<details>
+				<detail>
+					<date>Sun, 05-Jun-2022</date>
+					<stockEntry>0.00</stockEntry>
+					<extraStockEntry>0.00</extraStockEntry>
+					<damageEntry>0.00</damageEntry>
+					<consumption>-5.00</consumption>
+					<stockAdjustment>0.00</stockAdjustment>
+					<unit>gm</unit>
+				</detail>
+				<detail>
+					<date>Thu, 02-Jun-2022</date>
+					<stockEntry>0.00</stockEntry>
+					<extraStockEntry>0.00</extraStockEntry>
+					<damageEntry>0.00</damageEntry>
+					<consumption>-10.00</consumption>
+					<stockAdjustment>0.00</stockAdjustment>
+					<unit>gm</unit>
+				</detail>
+				<detail>
+					<date>Wed, 01-Jun-2022</date>
+					<stockEntry>0.00</stockEntry>
+					<extraStockEntry>0.00</extraStockEntry>
+					<damageEntry>0.00</damageEntry>
+					<consumption>-15.00</consumption>
+					<stockAdjustment>0.00</stockAdjustment>
+					<unit>gm</unit>
+				</detail>
+			</details>
+			<totalConsumption>-30.00</totalConsumption>
+			<totalEntry>0.00</totalEntry>
+			<stock>-30.00</stock>
+		</item>
+		<item>
+			<itemId>IC--000116</itemId>
+			<itemName>Soya Sauce</itemName>
+			<details>
+				<detail>
+					<date>Sun, 05-Jun-2022</date>
+					<stockEntry>0.00</stockEntry>
+					<extraStockEntry>0.00</extraStockEntry>
+					<damageEntry>0.00</damageEntry>
+					<consumption>-222.00</consumption>
+					<stockAdjustment>0.00</stockAdjustment>
+					<unit>gm</unit>
+				</detail>
+				<detail>
+					<date>Sun, 05-Jun-2022</date>
+					<stockEntry>1600.00</stockEntry>
+					<extraStockEntry>0.00</extraStockEntry>
+					<damageEntry>0.00</damageEntry>
+					<consumption>0.00</consumption>
+					<stockAdjustment>0.00</stockAdjustment>
+					<unit>gm</unit>
+				</detail>
+				<detail>
+					<date>Sat, 04-Jun-2022</date>
+					<stockEntry>0.00</stockEntry>
+					<extraStockEntry>0.00</extraStockEntry>
+					<damageEntry>0.00</damageEntry>
+					<consumption>-189.00</consumption>
+					<stockAdjustment>0.00</stockAdjustment>
+					<unit>gm</unit>
+				</detail>
+				<detail>
+					<date>Thu, 02-Jun-2022</date>
+					<stockEntry>0.00</stockEntry>
+					<extraStockEntry>0.00</extraStockEntry>
+					<damageEntry>0.00</damageEntry>
+					<consumption>-318.00</consumption>
+					<stockAdjustment>0.00</stockAdjustment>
+					<unit>gm</unit>
+				</detail>
+				<detail>
+					<date>Thu, 02-Jun-2022</date>
+					<stockEntry>1600.00</stockEntry>
+					<extraStockEntry>0.00</extraStockEntry>
+					<damageEntry>0.00</damageEntry>
+					<consumption>0.00</consumption>
+					<stockAdjustment>0.00</stockAdjustment>
+					<unit>gm</unit>
+				</detail>
+				<detail>
+					<date>Wed, 01-Jun-2022</date>
+					<stockEntry>0.00</stockEntry>
+					<extraStockEntry>0.00</extraStockEntry>
+					<damageEntry>0.00</damageEntry>
+					<consumption>-180.00</consumption>
+					<stockAdjustment>0.00</stockAdjustment>
+					<unit>gm</unit>
+				</detail>
+			</details>
+			<totalConsumption>-909.00</totalConsumption>
+			<totalEntry>3200.00</totalEntry>
+			<stock>2291.00</stock>
+		</item>
+		<item>
+			<itemId>IC--000001</itemId>
+			<itemName>Rup Chada Fish</itemName>
+			<details>
+				<detail>
+					<date>Thu, 02-Jun-2022</date>
+					<stockEntry>7.00</stockEntry>
+					<extraStockEntry>0.00</extraStockEntry>
+					<damageEntry>0.00</damageEntry>
+					<consumption>0.00</consumption>
+					<stockAdjustment>0.00</stockAdjustment>
+					<unit>pcs</unit>
+				</detail>
+				<detail>
+					<date>Wed, 01-Jun-2022</date>
+					<stockEntry>0.00</stockEntry>
+					<extraStockEntry>0.00</extraStockEntry>
+					<damageEntry>0.00</damageEntry>
+					<consumption>-1.00</consumption>
+					<stockAdjustment>0.00</stockAdjustment>
+					<unit>pcs</unit>
+				</detail>
+			</details>
+			<totalConsumption>-1.00</totalConsumption>
+			<totalEntry>7.00</totalEntry>
+			<stock>6.00</stock>
+		</item>
+		<item>
+			<itemId>IC--000089</itemId>
+			<itemName>Cauliflower (Ful Copy)</itemName>
+			<details>
+				<detail>
+					<date>Sun, 05-Jun-2022</date>
+					<stockEntry>0.00</stockEntry>
+					<extraStockEntry>0.00</extraStockEntry>
+					<damageEntry>0.00</damageEntry>
+					<consumption>-45.00</consumption>
+					<stockAdjustment>0.00</stockAdjustment>
+					<unit>pcs</unit>
+				</detail>
+				<detail>
+					<date>Sun, 05-Jun-2022</date>
+					<stockEntry>1.00</stockEntry>
+					<extraStockEntry>0.00</extraStockEntry>
+					<damageEntry>0.00</damageEntry>
+					<consumption>0.00</consumption>
+					<stockAdjustment>0.00</stockAdjustment>
+					<unit>pcs</unit>
+				</detail>
+				<detail>
+					<date>Sat, 04-Jun-2022</date>
+					<stockEntry>0.00</stockEntry>
+					<extraStockEntry>0.00</extraStockEntry>
+					<damageEntry>0.00</damageEntry>
+					<consumption>-25.00</consumption>
+					<stockAdjustment>0.00</stockAdjustment>
+					<unit>pcs</unit>
+				</detail>
+				<detail>
+					<date>Sat, 04-Jun-2022</date>
+					<stockEntry>4.00</stockEntry>
+					<extraStockEntry>0.00</extraStockEntry>
+					<damageEntry>0.00</damageEntry>
+					<consumption>0.00</consumption>
+					<stockAdjustment>0.00</stockAdjustment>
+					<unit>pcs</unit>
+				</detail>
+				<detail>
+					<date>Thu, 02-Jun-2022</date>
+					<stockEntry>0.00</stockEntry>
+					<extraStockEntry>0.00</extraStockEntry>
+					<damageEntry>0.00</damageEntry>
+					<consumption>-50.00</consumption>
+					<stockAdjustment>0.00</stockAdjustment>
+					<unit>pcs</unit>
+				</detail>
+				<detail>
+					<date>Thu, 02-Jun-2022</date>
+					<stockEntry>1.00</stockEntry>
+					<extraStockEntry>0.00</extraStockEntry>
+					<damageEntry>0.00</damageEntry>
+					<consumption>0.00</consumption>
+					<stockAdjustment>0.00</stockAdjustment>
+					<unit>pcs</unit>
+				</detail>
+				<detail>
+					<date>Wed, 01-Jun-2022</date>
+					<stockEntry>0.00</stockEntry>
+					<extraStockEntry>0.00</extraStockEntry>
+					<damageEntry>0.00</damageEntry>
+					<consumption>-100.00</consumption>
+					<stockAdjustment>0.00</stockAdjustment>
+					<unit>pcs</unit>
+				</detail>
+			</details>
+			<totalConsumption>-220.00</totalConsumption>
+			<totalEntry>6.00</totalEntry>
+			<stock>-214.00</stock>
+		</item>
+		<item>
+			<itemId>IC--000121</itemId>
+			<itemName>Noodles</itemName>
+			<details>
+				<detail>
+					<date>Sun, 05-Jun-2022</date>
+					<stockEntry>0.00</stockEntry>
+					<extraStockEntry>0.00</extraStockEntry>
+					<damageEntry>0.00</damageEntry>
+					<consumption>-103.25</consumption>
+					<stockAdjustment>0.00</stockAdjustment>
+					<unit>pcs</unit>
+				</detail>
+				<detail>
+					<date>Sat, 04-Jun-2022</date>
+					<stockEntry>0.00</stockEntry>
+					<extraStockEntry>0.00</extraStockEntry>
+					<damageEntry>0.00</damageEntry>
+					<consumption>-361.75</consumption>
+					<stockAdjustment>0.00</stockAdjustment>
+					<unit>pcs</unit>
+				</detail>
+				<detail>
+					<date>Thu, 02-Jun-2022</date>
+					<stockEntry>0.00</stockEntry>
+					<extraStockEntry>0.00</extraStockEntry>
+					<damageEntry>0.00</damageEntry>
+					<consumption>-255.25</consumption>
+					<stockAdjustment>0.00</stockAdjustment>
+					<unit>pcs</unit>
+				</detail>
+				<detail>
+					<date>Wed, 01-Jun-2022</date>
+					<stockEntry>0.00</stockEntry>
+					<extraStockEntry>0.00</extraStockEntry>
+					<damageEntry>0.00</damageEntry>
+					<consumption>-291.75</consumption>
+					<stockAdjustment>0.00</stockAdjustment>
+					<unit>pcs</unit>
+				</detail>
+			</details>
+			<totalConsumption>-1012.00</totalConsumption>
+			<totalEntry>0.00</totalEntry>
+			<stock>-1012.00</stock>
+		</item>
+		<item>
+			<itemId>IC--000120</itemId>
+			<itemName>Fish Sauce</itemName>
+			<details>
+				<detail>
+					<date>Sun, 05-Jun-2022</date>
+					<stockEntry>0.00</stockEntry>
+					<extraStockEntry>0.00</extraStockEntry>
+					<damageEntry>0.00</damageEntry>
+					<consumption>-240.00</consumption>
+					<stockAdjustment>0.00</stockAdjustment>
+					<unit>gm</unit>
+				</detail>
+				<detail>
+					<date>Sat, 04-Jun-2022</date>
+					<stockEntry>0.00</stockEntry>
+					<extraStockEntry>0.00</extraStockEntry>
+					<damageEntry>0.00</damageEntry>
+					<consumption>-318.00</consumption>
+					<stockAdjustment>0.00</stockAdjustment>
+					<unit>gm</unit>
+				</detail>
+				<detail>
+					<date>Thu, 02-Jun-2022</date>
+					<stockEntry>0.00</stockEntry>
+					<extraStockEntry>0.00</extraStockEntry>
+					<damageEntry>0.00</damageEntry>
+					<consumption>-503.00</consumption>
+					<stockAdjustment>0.00</stockAdjustment>
+					<unit>gm</unit>
+				</detail>
+				<detail>
+					<date>Wed, 01-Jun-2022</date>
+					<stockEntry>0.00</stockEntry>
+					<extraStockEntry>0.00</extraStockEntry>
+					<damageEntry>0.00</damageEntry>
+					<consumption>-238.00</consumption>
+					<stockAdjustment>0.00</stockAdjustment>
+					<unit>gm</unit>
+				</detail>
+			</details>
+			<totalConsumption>-1299.00</totalConsumption>
+			<totalEntry>0.00</totalEntry>
+			<stock>-1299.00</stock>
+		</item>
+		<item>
+			<itemId>IC--000004</itemId>
+			<details>
+				<detail>
+					<date>Sun, 05-Jun-2022</date>
+					<stockEntry>0.00</stockEntry>
+					<extraStockEntry>0.00</extraStockEntry>
+					<damageEntry>0.00</damageEntry>
+					<consumption>-60.00</consumption>
+					<stockAdjustment>0.00</stockAdjustment>
+					<unit>gm</unit>
+				</detail>
+				<detail>
+					<date>Thu, 02-Jun-2022</date>
+					<stockEntry>0.00</stockEntry>
+					<extraStockEntry>0.00</extraStockEntry>
+					<damageEntry>0.00</damageEntry>
+					<consumption>-30.00</consumption>
+					<stockAdjustment>0.00</stockAdjustment>
+					<unit>gm</unit>
+				</detail>
+				<detail>
+					<date>Wed, 01-Jun-2022</date>
+					<stockEntry>0.00</stockEntry>
+					<extraStockEntry>0.00</extraStockEntry>
+					<damageEntry>0.00</damageEntry>
+					<consumption>-10.00</consumption>
+					<stockAdjustment>0.00</stockAdjustment>
+					<unit>gm</unit>
+				</detail>
+			</details>
+			<totalConsumption>-100.00</totalConsumption>
+			<totalEntry>0.00</totalEntry>
+			<stock>-100.00</stock>
+		</item>
+		<item>
+			<itemId>IC--000125</itemId>
+			<itemName>Dabli</itemName>
+			<details>
+				<detail>
+					<date>Sun, 05-Jun-2022</date>
+					<stockEntry>0.00</stockEntry>
+					<extraStockEntry>0.00</extraStockEntry>
+					<damageEntry>0.00</damageEntry>
+					<consumption>-2000.00</consumption>
+					<stockAdjustment>0.00</stockAdjustment>
+					<unit>gm</unit>
+				</detail>
+				<detail>
+					<date>Sat, 04-Jun-2022</date>
+					<stockEntry>0.00</stockEntry>
+					<extraStockEntry>0.00</extraStockEntry>
+					<damageEntry>0.00</damageEntry>
+					<consumption>-2400.00</consumption>
+					<stockAdjustment>0.00</stockAdjustment>
+					<unit>gm</unit>
+				</detail>
+				<detail>
+					<date>Thu, 02-Jun-2022</date>
+					<stockEntry>0.00</stockEntry>
+					<extraStockEntry>0.00</extraStockEntry>
+					<damageEntry>0.00</damageEntry>
+					<consumption>-4200.00</consumption>
+					<stockAdjustment>0.00</stockAdjustment>
+					<unit>gm</unit>
+				</detail>
+				<detail>
+					<date>Wed, 01-Jun-2022</date>
+					<stockEntry>0.00</stockEntry>
+					<extraStockEntry>0.00</extraStockEntry>
+					<damageEntry>0.00</damageEntry>
+					<consumption>-3200.00</consumption>
+					<stockAdjustment>0.00</stockAdjustment>
+					<unit>gm</unit>
+				</detail>
+			</details>
+			<totalConsumption>-11800.00</totalConsumption>
+			<totalEntry>0.00</totalEntry>
+			<stock>-11800.00</stock>
+		</item>
+		<item>
+			<itemId>IC--000003</itemId>
+			<details>
+				<detail>
+					<date>Sun, 05-Jun-2022</date>
+					<stockEntry>0.00</stockEntry>
+					<extraStockEntry>0.00</extraStockEntry>
+					<damageEntry>0.00</damageEntry>
+					<consumption>-25.00</consumption>
+					<stockAdjustment>0.00</stockAdjustment>
+					<unit>gm</unit>
+				</detail>
+				<detail>
+					<date>Wed, 01-Jun-2022</date>
+					<stockEntry>0.00</stockEntry>
+					<extraStockEntry>0.00</extraStockEntry>
+					<damageEntry>0.00</damageEntry>
+					<consumption>-1000.00</consumption>
+					<stockAdjustment>0.00</stockAdjustment>
+					<unit>gm</unit>
+				</detail>
+			</details>
+			<totalConsumption>-1025.00</totalConsumption>
+			<totalEntry>0.00</totalEntry>
+			<stock>-1025.00</stock>
+		</item>
+		<item>
+			<itemId>IC--000124</itemId>
+			<itemName>French Fries</itemName>
+			<details>
+				<detail>
+					<date>Wed, 01-Jun-2022</date>
+					<stockEntry>50000.00</stockEntry>
+					<extraStockEntry>0.00</extraStockEntry>
+					<damageEntry>0.00</damageEntry>
+					<consumption>0.00</consumption>
+					<stockAdjustment>0.00</stockAdjustment>
+					<unit>gm</unit>
+				</detail>
+			</details>
+			<totalConsumption>0.00</totalConsumption>
+			<totalEntry>50000.00</totalEntry>
+			<stock>50000.00</stock>
+		</item>
+		<item>
+			<itemId>IC--000002</itemId>
+			<itemName>Crab (Kakra)</itemName>
+			<details>
+				<detail>
+					<date>Sun, 05-Jun-2022</date>
+					<stockEntry>0.00</stockEntry>
+					<extraStockEntry>0.00</extraStockEntry>
+					<damageEntry>0.00</damageEntry>
+					<consumption>-20.00</consumption>
+					<stockAdjustment>0.00</stockAdjustment>
+					<unit>gm</unit>
+				</detail>
+				<detail>
+					<date>Sun, 05-Jun-2022</date>
+					<stockEntry>10000.00</stockEntry>
+					<extraStockEntry>0.00</extraStockEntry>
+					<damageEntry>0.00</damageEntry>
+					<consumption>0.00</consumption>
+					<stockAdjustment>0.00</stockAdjustment>
+					<unit>gm</unit>
+				</detail>
+				<detail>
+					<date>Sat, 04-Jun-2022</date>
+					<stockEntry>0.00</stockEntry>
+					<extraStockEntry>0.00</extraStockEntry>
+					<damageEntry>0.00</damageEntry>
+					<consumption>-1000.00</consumption>
+					<stockAdjustment>0.00</stockAdjustment>
+					<unit>gm</unit>
+				</detail>
+				<detail>
+					<date>Thu, 02-Jun-2022</date>
+					<stockEntry>0.00</stockEntry>
+					<extraStockEntry>0.00</extraStockEntry>
+					<damageEntry>0.00</damageEntry>
+					<consumption>-1040.00</consumption>
+					<stockAdjustment>0.00</stockAdjustment>
+					<unit>gm</unit>
+				</detail>
+				<detail>
+					<date>Wed, 01-Jun-2022</date>
+					<stockEntry>0.00</stockEntry>
+					<extraStockEntry>0.00</extraStockEntry>
+					<damageEntry>0.00</damageEntry>
+					<consumption>-60.00</consumption>
+					<stockAdjustment>0.00</stockAdjustment>
+					<unit>gm</unit>
+				</detail>
+			</details>
+			<totalConsumption>-2120.00</totalConsumption>
+			<totalEntry>10000.00</totalEntry>
+			<stock>7880.00</stock>
+		</item>
+		<item>
+			<itemId>IC--000123</itemId>
+			<itemName>Spring roll</itemName>
+			<details>
+				<detail>
+					<date>Sat, 04-Jun-2022</date>
+					<stockEntry>0.00</stockEntry>
+					<extraStockEntry>0.00</extraStockEntry>
+					<damageEntry>0.00</damageEntry>
+					<consumption>-5.00</consumption>
+					<stockAdjustment>0.00</stockAdjustment>
+					<unit>pcs</unit>
+				</detail>
+				<detail>
+					<date>Wed, 01-Jun-2022</date>
+					<stockEntry>0.00</stockEntry>
+					<extraStockEntry>0.00</extraStockEntry>
+					<damageEntry>0.00</damageEntry>
+					<consumption>-5.00</consumption>
+					<stockAdjustment>0.00</stockAdjustment>
+					<unit>pcs</unit>
+				</detail>
+			</details>
+			<totalConsumption>-10.00</totalConsumption>
+			<totalEntry>0.00</totalEntry>
+			<stock>-10.00</stock>
+		</item>
+		<item>
+			<itemId>IC--000080</itemId>
+			<details>
+				<detail>
+					<date>Sun, 05-Jun-2022</date>
+					<stockEntry>0.00</stockEntry>
+					<extraStockEntry>0.00</extraStockEntry>
+					<damageEntry>0.00</damageEntry>
+					<consumption>-30.00</consumption>
+					<stockAdjustment>0.00</stockAdjustment>
+					<unit>gm</unit>
+				</detail>
+				<detail>
+					<date>Thu, 02-Jun-2022</date>
+					<stockEntry>0.00</stockEntry>
+					<extraStockEntry>0.00</extraStockEntry>
+					<damageEntry>0.00</damageEntry>
+					<consumption>-15.00</consumption>
+					<stockAdjustment>0.00</stockAdjustment>
+					<unit>gm</unit>
+				</detail>
+				<detail>
+					<date>Wed, 01-Jun-2022</date>
+					<stockEntry>0.00</stockEntry>
+					<extraStockEntry>0.00</extraStockEntry>
+					<damageEntry>0.00</damageEntry>
+					<consumption>-5.00</consumption>
+					<stockAdjustment>0.00</stockAdjustment>
+					<unit>gm</unit>
+				</detail>
+			</details>
+			<totalConsumption>-50.00</totalConsumption>
+			<totalEntry>0.00</totalEntry>
+			<stock>-50.00</stock>
+		</item>
+		<item>
+			<itemId>IC--000085</itemId>
+			<itemName>Long Beans (Borboti)</itemName>
+			<details>
+				<detail>
+					<date>Sun, 05-Jun-2022</date>
+					<stockEntry>0.00</stockEntry>
+					<extraStockEntry>0.00</extraStockEntry>
+					<damageEntry>0.00</damageEntry>
+					<consumption>-45.00</consumption>
+					<stockAdjustment>0.00</stockAdjustment>
+					<unit>gm</unit>
+				</detail>
+				<detail>
+					<date>Sun, 05-Jun-2022</date>
+					<stockEntry>250.00</stockEntry>
+					<extraStockEntry>0.00</extraStockEntry>
+					<damageEntry>0.00</damageEntry>
+					<consumption>0.00</consumption>
+					<stockAdjustment>0.00</stockAdjustment>
+					<unit>gm</unit>
+				</detail>
+				<detail>
+					<date>Sat, 04-Jun-2022</date>
+					<stockEntry>0.00</stockEntry>
+					<extraStockEntry>0.00</extraStockEntry>
+					<damageEntry>0.00</damageEntry>
+					<consumption>-75.00</consumption>
+					<stockAdjustment>0.00</stockAdjustment>
+					<unit>gm</unit>
+				</detail>
+				<detail>
+					<date>Sat, 04-Jun-2022</date>
+					<stockEntry>250.00</stockEntry>
+					<extraStockEntry>0.00</extraStockEntry>
+					<damageEntry>0.00</damageEntry>
+					<consumption>0.00</consumption>
+					<stockAdjustment>0.00</stockAdjustment>
+					<unit>gm</unit>
+				</detail>
+				<detail>
+					<date>Thu, 02-Jun-2022</date>
+					<stockEntry>0.00</stockEntry>
+					<extraStockEntry>0.00</extraStockEntry>
+					<damageEntry>0.00</damageEntry>
+					<consumption>-150.00</consumption>
+					<stockAdjustment>0.00</stockAdjustment>
+					<unit>gm</unit>
+				</detail>
+				<detail>
+					<date>Thu, 02-Jun-2022</date>
+					<stockEntry>250.00</stockEntry>
+					<extraStockEntry>0.00</extraStockEntry>
+					<damageEntry>0.00</damageEntry>
+					<consumption>0.00</consumption>
+					<stockAdjustment>0.00</stockAdjustment>
+					<unit>gm</unit>
+				</detail>
+				<detail>
+					<date>Wed, 01-Jun-2022</date>
+					<stockEntry>0.00</stockEntry>
+					<extraStockEntry>0.00</extraStockEntry>
+					<damageEntry>0.00</damageEntry>
+					<consumption>-250.00</consumption>
+					<stockAdjustment>0.00</stockAdjustment>
+					<unit>gm</unit>
+				</detail>
+			</details>
+			<totalConsumption>-520.00</totalConsumption>
+			<totalEntry>750.00</totalEntry>
+			<stock>230.00</stock>
+		</item>
+		<item>
+			<itemId>IC--000084</itemId>
+			<itemName>Lemon Grass</itemName>
+			<details>
+				<detail>
+					<date>Sun, 05-Jun-2022</date>
+					<stockEntry>0.00</stockEntry>
+					<extraStockEntry>0.00</extraStockEntry>
+					<damageEntry>0.00</damageEntry>
+					<consumption>-12.00</consumption>
+					<stockAdjustment>0.00</stockAdjustment>
+					<unit>pcs</unit>
+				</detail>
+				<detail>
+					<date>Sat, 04-Jun-2022</date>
+					<stockEntry>0.00</stockEntry>
+					<extraStockEntry>0.00</extraStockEntry>
+					<damageEntry>0.00</damageEntry>
+					<consumption>-18.00</consumption>
+					<stockAdjustment>0.00</stockAdjustment>
+					<unit>pcs</unit>
+				</detail>
+				<detail>
+					<date>Thu, 02-Jun-2022</date>
+					<stockEntry>0.00</stockEntry>
+					<extraStockEntry>0.00</extraStockEntry>
+					<damageEntry>0.00</damageEntry>
+					<consumption>-25.00</consumption>
+					<stockAdjustment>0.00</stockAdjustment>
+					<unit>pcs</unit>
+				</detail>
+				<detail>
+					<date>Wed, 01-Jun-2022</date>
+					<stockEntry>0.00</stockEntry>
+					<extraStockEntry>0.00</extraStockEntry>
+					<damageEntry>0.00</damageEntry>
+					<consumption>-10.00</consumption>
+					<stockAdjustment>0.00</stockAdjustment>
+					<unit>pcs</unit>
+				</detail>
+			</details>
+			<totalConsumption>-65.00</totalConsumption>
+			<totalEntry>0.00</totalEntry>
+			<stock>-65.00</stock>
+		</item>
+		<item>
+			<itemId>IC--000083</itemId>
+			<itemName>Green Chilly (Kacha Morich)</itemName>
+			<details>
+				<detail>
+					<date>Sun, 05-Jun-2022</date>
+					<stockEntry>0.00</stockEntry>
+					<extraStockEntry>0.00</extraStockEntry>
+					<damageEntry>0.00</damageEntry>
+					<consumption>-553.00</consumption>
+					<stockAdjustment>0.00</stockAdjustment>
+					<unit>gm</unit>
+				</detail>
+				<detail>
+					<date>Sun, 05-Jun-2022</date>
+					<stockEntry>1000.00</stockEntry>
+					<extraStockEntry>0.00</extraStockEntry>
+					<damageEntry>0.00</damageEntry>
+					<consumption>0.00</consumption>
+					<stockAdjustment>0.00</stockAdjustment>
+					<unit>gm</unit>
+				</detail>
+				<detail>
+					<date>Sat, 04-Jun-2022</date>
+					<stockEntry>0.00</stockEntry>
+					<extraStockEntry>0.00</extraStockEntry>
+					<damageEntry>0.00</damageEntry>
+					<consumption>-691.00</consumption>
+					<stockAdjustment>0.00</stockAdjustment>
+					<unit>gm</unit>
+				</detail>
+				<detail>
+					<date>Sat, 04-Jun-2022</date>
+					<stockEntry>1000.00</stockEntry>
+					<extraStockEntry>0.00</extraStockEntry>
+					<damageEntry>0.00</damageEntry>
+					<consumption>0.00</consumption>
+					<stockAdjustment>0.00</stockAdjustment>
+					<unit>gm</unit>
+				</detail>
+				<detail>
+					<date>Thu, 02-Jun-2022</date>
+					<stockEntry>0.00</stockEntry>
+					<extraStockEntry>0.00</extraStockEntry>
+					<damageEntry>0.00</damageEntry>
+					<consumption>-1210.00</consumption>
+					<stockAdjustment>0.00</stockAdjustment>
+					<unit>gm</unit>
+				</detail>
+				<detail>
+					<date>Thu, 02-Jun-2022</date>
+					<stockEntry>500.00</stockEntry>
+					<extraStockEntry>0.00</extraStockEntry>
+					<damageEntry>0.00</damageEntry>
+					<consumption>0.00</consumption>
+					<stockAdjustment>0.00</stockAdjustment>
+					<unit>gm</unit>
+				</detail>
+				<detail>
+					<date>Wed, 01-Jun-2022</date>
+					<stockEntry>0.00</stockEntry>
+					<extraStockEntry>0.00</extraStockEntry>
+					<damageEntry>0.00</damageEntry>
+					<consumption>-575.00</consumption>
+					<stockAdjustment>0.00</stockAdjustment>
+					<unit>gm</unit>
+				</detail>
+				<detail>
+					<date>Wed, 01-Jun-2022</date>
+					<stockEntry>1000.00</stockEntry>
+					<extraStockEntry>0.00</extraStockEntry>
+					<damageEntry>0.00</damageEntry>
+					<consumption>0.00</consumption>
+					<stockAdjustment>0.00</stockAdjustment>
+					<unit>gm</unit>
+				</detail>
+			</details>
+			<totalConsumption>-3029.00</totalConsumption>
+			<totalEntry>3500.00</totalEntry>
+			<stock>471.00</stock>
+		</item>
+		<item>
+			<itemId>IC--000008</itemId>
+			<itemName>Prawn (Large)</itemName>
+			<details>
+				<detail>
+					<date>Sun, 05-Jun-2022</date>
+					<stockEntry>0.00</stockEntry>
+					<extraStockEntry>0.00</extraStockEntry>
+					<damageEntry>0.00</damageEntry>
+					<consumption>-50.00</consumption>
+					<stockAdjustment>0.00</stockAdjustment>
+					<unit>gm</unit>
+				</detail>
+				<detail>
+					<date>Sun, 05-Jun-2022</date>
+					<stockEntry>0.00</stockEntry>
+					<extraStockEntry>0.00</extraStockEntry>
+					<damageEntry>0.00</damageEntry>
+					<consumption>-8.00</consumption>
+					<stockAdjustment>0.00</stockAdjustment>
+					<unit>pcs</unit>
+				</detail>
+				<detail>
+					<date>Sun, 05-Jun-2022</date>
+					<stockEntry>2500.00</stockEntry>
+					<extraStockEntry>0.00</extraStockEntry>
+					<damageEntry>0.00</damageEntry>
+					<consumption>0.00</consumption>
+					<stockAdjustment>0.00</stockAdjustment>
+					<unit>gm</unit>
+				</detail>
+				<detail>
+					<date>Sat, 04-Jun-2022</date>
+					<stockEntry>0.00</stockEntry>
+					<extraStockEntry>0.00</extraStockEntry>
+					<damageEntry>0.00</damageEntry>
+					<consumption>-135.00</consumption>
+					<stockAdjustment>0.00</stockAdjustment>
+					<unit>gm</unit>
+				</detail>
+				<detail>
+					<date>Sat, 04-Jun-2022</date>
+					<stockEntry>0.00</stockEntry>
+					<extraStockEntry>0.00</extraStockEntry>
+					<damageEntry>0.00</damageEntry>
+					<consumption>-8.00</consumption>
+					<stockAdjustment>0.00</stockAdjustment>
+					<unit>pcs</unit>
+				</detail>
+				<detail>
+					<date>Thu, 02-Jun-2022</date>
+					<stockEntry>0.00</stockEntry>
+					<extraStockEntry>0.00</extraStockEntry>
+					<damageEntry>0.00</damageEntry>
+					<consumption>-625.00</consumption>
+					<stockAdjustment>0.00</stockAdjustment>
+					<unit>gm</unit>
+				</detail>
+				<detail>
+					<date>Wed, 01-Jun-2022</date>
+					<stockEntry>0.00</stockEntry>
+					<extraStockEntry>0.00</extraStockEntry>
+					<damageEntry>0.00</damageEntry>
+					<consumption>-110.00</consumption>
+					<stockAdjustment>0.00</stockAdjustment>
+					<unit>gm</unit>
+				</detail>
+			</details>
+			<totalConsumption>-936.00</totalConsumption>
+			<totalEntry>2500.00</totalEntry>
+			<stock>1564.00</stock>
+		</item>
+		<item>
+			<itemId>IC--000129</itemId>
+			<itemName>wonthon pati</itemName>
+			<details>
+				<detail>
+					<date>Thu, 02-Jun-2022</date>
+					<stockEntry>0.00</stockEntry>
+					<extraStockEntry>0.00</extraStockEntry>
+					<damageEntry>0.00</damageEntry>
+					<consumption>-10.00</consumption>
+					<stockAdjustment>0.00</stockAdjustment>
+					<unit>pcs</unit>
+				</detail>
+				<detail>
+					<date>Thu, 02-Jun-2022</date>
+					<stockEntry>50.00</stockEntry>
+					<extraStockEntry>0.00</extraStockEntry>
+					<damageEntry>0.00</damageEntry>
+					<consumption>0.00</consumption>
+					<stockAdjustment>0.00</stockAdjustment>
+					<unit>pcs</unit>
+				</detail>
+				<detail>
+					<date>Wed, 01-Jun-2022</date>
+					<stockEntry>0.00</stockEntry>
+					<extraStockEntry>0.00</extraStockEntry>
+					<damageEntry>0.00</damageEntry>
+					<consumption>-20.00</consumption>
+					<stockAdjustment>0.00</stockAdjustment>
+					<unit>pcs</unit>
+				</detail>
+			</details>
+			<totalConsumption>-30.00</totalConsumption>
+			<totalEntry>50.00</totalEntry>
+			<stock>20.00</stock>
+		</item>
+		<item>
+			<itemId>IC--000006</itemId>
+			<itemName>Red Snapper Fish</itemName>
+			<details>
+				<detail>
+					<date>Sun, 05-Jun-2022</date>
+					<stockEntry>0.00</stockEntry>
+					<extraStockEntry>0.00</extraStockEntry>
+					<damageEntry>0.00</damageEntry>
+					<consumption>-2.00</consumption>
+					<stockAdjustment>0.00</stockAdjustment>
+					<unit>pcs</unit>
+				</detail>
+				<detail>
+					<date>Sat, 04-Jun-2022</date>
+					<stockEntry>0.00</stockEntry>
+					<extraStockEntry>0.00</extraStockEntry>
+					<damageEntry>0.00</damageEntry>
+					<consumption>-2.00</consumption>
+					<stockAdjustment>0.00</stockAdjustment>
+					<unit>pcs</unit>
+				</detail>
+				<detail>
+					<date>Thu, 02-Jun-2022</date>
+					<stockEntry>0.00</stockEntry>
+					<extraStockEntry>0.00</extraStockEntry>
+					<damageEntry>0.00</damageEntry>
+					<consumption>-2.00</consumption>
+					<stockAdjustment>0.00</stockAdjustment>
+					<unit>pcs</unit>
+				</detail>
+				<detail>
+					<date>Thu, 02-Jun-2022</date>
+					<stockEntry>5.00</stockEntry>
+					<extraStockEntry>0.00</extraStockEntry>
+					<damageEntry>0.00</damageEntry>
+					<consumption>0.00</consumption>
+					<stockAdjustment>0.00</stockAdjustment>
+					<unit>pcs</unit>
+				</detail>
+			</details>
+			<totalConsumption>-6.00</totalConsumption>
+			<totalEntry>5.00</totalEntry>
+			<stock>-1.00</stock>
+		</item>
+		<item>
+			<itemId>IC--000127</itemId>
+			<details>
+				<detail>
+					<date>Sun, 05-Jun-2022</date>
+					<stockEntry>0.00</stockEntry>
+					<extraStockEntry>0.00</extraStockEntry>
+					<damageEntry>0.00</damageEntry>
+					<consumption>-10.00</consumption>
+					<stockAdjustment>0.00</stockAdjustment>
+					<unit>gm</unit>
+				</detail>
+				<detail>
+					<date>Wed, 01-Jun-2022</date>
+					<stockEntry>0.00</stockEntry>
+					<extraStockEntry>0.00</extraStockEntry>
+					<damageEntry>0.00</damageEntry>
+					<consumption>-10.00</consumption>
+					<stockAdjustment>0.00</stockAdjustment>
+					<unit>gm</unit>
+				</detail>
+			</details>
+			<totalConsumption>-20.00</totalConsumption>
+			<totalEntry>0.00</totalEntry>
+			<stock>-20.00</stock>
+		</item>
+		<item>
+			<itemId>IC--000012</itemId>
+			<itemName>Mutton Meat</itemName>
+			<details>
+				<detail>
+					<date>Sun, 05-Jun-2022</date>
+					<stockEntry>0.00</stockEntry>
+					<extraStockEntry>0.00</extraStockEntry>
+					<damageEntry>0.00</damageEntry>
+					<consumption>-500.00</consumption>
+					<stockAdjustment>0.00</stockAdjustment>
+					<unit>gm</unit>
+				</detail>
+				<detail>
+					<date>Thu, 02-Jun-2022</date>
+					<stockEntry>0.00</stockEntry>
+					<extraStockEntry>0.00</extraStockEntry>
+					<damageEntry>0.00</damageEntry>
+					<consumption>-500.00</consumption>
+					<stockAdjustment>0.00</stockAdjustment>
+					<unit>gm</unit>
+				</detail>
+				<detail>
+					<date>Wed, 01-Jun-2022</date>
+					<stockEntry>0.00</stockEntry>
+					<extraStockEntry>0.00</extraStockEntry>
+					<damageEntry>0.00</damageEntry>
+					<consumption>-500.00</consumption>
+					<stockAdjustment>0.00</stockAdjustment>
+					<unit>gm</unit>
+				</detail>
+			</details>
+			<totalConsumption>-1500.00</totalConsumption>
+			<totalEntry>0.00</totalEntry>
+			<stock>-1500.00</stock>
+		</item>
+		<item>
+			<itemId>IC--000132</itemId>
+			<itemName>Thai labu Pata</itemName>
+			<details>
+				<detail>
+					<date>Sun, 05-Jun-2022</date>
+					<stockEntry>0.00</stockEntry>
+					<extraStockEntry>0.00</extraStockEntry>
+					<damageEntry>0.00</damageEntry>
+					<consumption>-12.00</consumption>
+					<stockAdjustment>0.00</stockAdjustment>
+					<unit>gm</unit>
+				</detail>
+				<detail>
+					<date>Sat, 04-Jun-2022</date>
+					<stockEntry>0.00</stockEntry>
+					<extraStockEntry>0.00</extraStockEntry>
+					<damageEntry>0.00</damageEntry>
+					<consumption>-30.00</consumption>
+					<stockAdjustment>0.00</stockAdjustment>
+					<unit>gm</unit>
+				</detail>
+				<detail>
+					<date>Thu, 02-Jun-2022</date>
+					<stockEntry>0.00</stockEntry>
+					<extraStockEntry>0.00</extraStockEntry>
+					<damageEntry>0.00</damageEntry>
+					<consumption>-27.00</consumption>
+					<stockAdjustment>0.00</stockAdjustment>
+					<unit>gm</unit>
+				</detail>
+				<detail>
+					<date>Wed, 01-Jun-2022</date>
+					<stockEntry>0.00</stockEntry>
+					<extraStockEntry>0.00</extraStockEntry>
+					<damageEntry>0.00</damageEntry>
+					<consumption>-24.00</consumption>
+					<stockAdjustment>0.00</stockAdjustment>
+					<unit>gm</unit>
+				</detail>
+			</details>
+			<totalConsumption>-93.00</totalConsumption>
+			<totalEntry>0.00</totalEntry>
+			<stock>-93.00</stock>
+		</item>
+		<item>
+			<itemId>IC--000010</itemId>
+			<itemName>Chicken (Local)</itemName>
+			<details>
+				<detail>
+					<date>Sat, 04-Jun-2022</date>
+					<stockEntry>2500.00</stockEntry>
+					<extraStockEntry>0.00</extraStockEntry>
+					<damageEntry>0.00</damageEntry>
+					<consumption>0.00</consumption>
+					<stockAdjustment>0.00</stockAdjustment>
+					<unit>gm</unit>
+				</detail>
+				<detail>
+					<date>Thu, 02-Jun-2022</date>
+					<stockEntry>1800.00</stockEntry>
+					<extraStockEntry>0.00</extraStockEntry>
+					<damageEntry>0.00</damageEntry>
+					<consumption>0.00</consumption>
+					<stockAdjustment>0.00</stockAdjustment>
+					<unit>gm</unit>
+				</detail>
+				<detail>
+					<date>Wed, 01-Jun-2022</date>
+					<stockEntry>4000.00</stockEntry>
+					<extraStockEntry>0.00</extraStockEntry>
+					<damageEntry>0.00</damageEntry>
+					<consumption>0.00</consumption>
+					<stockAdjustment>0.00</stockAdjustment>
+					<unit>gm</unit>
+				</detail>
+			</details>
+			<totalConsumption>0.00</totalConsumption>
+			<totalEntry>8300.00</totalEntry>
+			<stock>8300.00</stock>
+		</item>
+		<item>
+			<itemId>IC--000097</itemId>
+			<itemName>Papaya</itemName>
+			<details>
+				<detail>
+					<date>Sun, 05-Jun-2022</date>
+					<stockEntry>0.00</stockEntry>
+					<extraStockEntry>0.00</extraStockEntry>
+					<damageEntry>0.00</damageEntry>
+					<consumption>-1340.00</consumption>
+					<stockAdjustment>0.00</stockAdjustment>
+					<unit>gm</unit>
+				</detail>
+				<detail>
+					<date>Sat, 04-Jun-2022</date>
+					<stockEntry>0.00</stockEntry>
+					<extraStockEntry>0.00</extraStockEntry>
+					<damageEntry>0.00</damageEntry>
+					<consumption>-1100.00</consumption>
+					<stockAdjustment>0.00</stockAdjustment>
+					<unit>gm</unit>
+				</detail>
+				<detail>
+					<date>Sat, 04-Jun-2022</date>
+					<stockEntry>5000.00</stockEntry>
+					<extraStockEntry>0.00</extraStockEntry>
+					<damageEntry>0.00</damageEntry>
+					<consumption>0.00</consumption>
+					<stockAdjustment>0.00</stockAdjustment>
+					<unit>gm</unit>
+				</detail>
+				<detail>
+					<date>Thu, 02-Jun-2022</date>
+					<stockEntry>0.00</stockEntry>
+					<extraStockEntry>0.00</extraStockEntry>
+					<damageEntry>0.00</damageEntry>
+					<consumption>-1510.00</consumption>
+					<stockAdjustment>0.00</stockAdjustment>
+					<unit>gm</unit>
+				</detail>
+				<detail>
+					<date>Thu, 02-Jun-2022</date>
+					<stockEntry>3000.00</stockEntry>
+					<extraStockEntry>0.00</extraStockEntry>
+					<damageEntry>0.00</damageEntry>
+					<consumption>0.00</consumption>
+					<stockAdjustment>0.00</stockAdjustment>
+					<unit>gm</unit>
+				</detail>
+				<detail>
+					<date>Wed, 01-Jun-2022</date>
+					<stockEntry>0.00</stockEntry>
+					<extraStockEntry>0.00</extraStockEntry>
+					<damageEntry>0.00</damageEntry>
+					<consumption>-710.00</consumption>
+					<stockAdjustment>0.00</stockAdjustment>
+					<unit>gm</unit>
+				</detail>
+				<detail>
+					<date>Wed, 01-Jun-2022</date>
+					<stockEntry>2000.00</stockEntry>
+					<extraStockEntry>0.00</extraStockEntry>
+					<damageEntry>0.00</damageEntry>
+					<consumption>0.00</consumption>
+					<stockAdjustment>0.00</stockAdjustment>
+					<unit>gm</unit>
+				</detail>
+			</details>
+			<totalConsumption>-4660.00</totalConsumption>
+			<totalEntry>10000.00</totalEntry>
+			<stock>5340.00</stock>
+		</item>
+		<item>
+			<itemId>IC--000016</itemId>
+			<itemName>Apple</itemName>
+			<details>
+				<detail>
+					<date>Sun, 05-Jun-2022</date>
+					<stockEntry>0.00</stockEntry>
+					<extraStockEntry>0.00</extraStockEntry>
+					<damageEntry>0.00</damageEntry>
+					<consumption>-7.00</consumption>
+					<stockAdjustment>0.00</stockAdjustment>
+					<unit>pcs</unit>
+				</detail>
+				<detail>
+					<date>Sat, 04-Jun-2022</date>
+					<stockEntry>0.00</stockEntry>
+					<extraStockEntry>0.00</extraStockEntry>
+					<damageEntry>0.00</damageEntry>
+					<consumption>-5.00</consumption>
+					<stockAdjustment>0.00</stockAdjustment>
+					<unit>pcs</unit>
+				</detail>
+				<detail>
+					<date>Sat, 04-Jun-2022</date>
+					<stockEntry>18.00</stockEntry>
+					<extraStockEntry>0.00</extraStockEntry>
+					<damageEntry>0.00</damageEntry>
+					<consumption>0.00</consumption>
+					<stockAdjustment>0.00</stockAdjustment>
+					<unit>pcs</unit>
+				</detail>
+				<detail>
+					<date>Thu, 02-Jun-2022</date>
+					<stockEntry>0.00</stockEntry>
+					<extraStockEntry>0.00</extraStockEntry>
+					<damageEntry>0.00</damageEntry>
+					<consumption>-9.00</consumption>
+					<stockAdjustment>0.00</stockAdjustment>
+					<unit>pcs</unit>
+				</detail>
+				<detail>
+					<date>Wed, 01-Jun-2022</date>
+					<stockEntry>0.00</stockEntry>
+					<extraStockEntry>0.00</extraStockEntry>
+					<damageEntry>0.00</damageEntry>
+					<consumption>-4.00</consumption>
+					<stockAdjustment>0.00</stockAdjustment>
+					<unit>pcs</unit>
+				</detail>
+			</details>
+			<totalConsumption>-25.00</totalConsumption>
+			<totalEntry>18.00</totalEntry>
+			<stock>-7.00</stock>
+		</item>
+		<item>
+			<itemId>IC--000137</itemId>
+			<itemName>Mineral Water (Large)</itemName>
+			<details>
+				<detail>
+					<date>Sun, 05-Jun-2022</date>
+					<stockEntry>0.00</stockEntry>
+					<extraStockEntry>0.00</extraStockEntry>
+					<damageEntry>0.00</damageEntry>
+					<consumption>-28.00</consumption>
+					<stockAdjustment>0.00</stockAdjustment>
+					<unit>pcs</unit>
+				</detail>
+				<detail>
+					<date>Sat, 04-Jun-2022</date>
+					<stockEntry>0.00</stockEntry>
+					<extraStockEntry>0.00</extraStockEntry>
+					<damageEntry>0.00</damageEntry>
+					<consumption>-30.00</consumption>
+					<stockAdjustment>0.00</stockAdjustment>
+					<unit>pcs</unit>
+				</detail>
+				<detail>
+					<date>Sat, 04-Jun-2022</date>
+					<stockEntry>240.00</stockEntry>
+					<extraStockEntry>0.00</extraStockEntry>
+					<damageEntry>0.00</damageEntry>
+					<consumption>0.00</consumption>
+					<stockAdjustment>0.00</stockAdjustment>
+					<unit>pcs</unit>
+				</detail>
+				<detail>
+					<date>Thu, 02-Jun-2022</date>
+					<stockEntry>0.00</stockEntry>
+					<extraStockEntry>0.00</extraStockEntry>
+					<damageEntry>0.00</damageEntry>
+					<consumption>-55.00</consumption>
+					<stockAdjustment>0.00</stockAdjustment>
+					<unit>pcs</unit>
+				</detail>
+				<detail>
+					<date>Wed, 01-Jun-2022</date>
+					<stockEntry>0.00</stockEntry>
+					<extraStockEntry>0.00</extraStockEntry>
+					<damageEntry>0.00</damageEntry>
+					<consumption>-20.00</consumption>
+					<stockAdjustment>0.00</stockAdjustment>
+					<unit>pcs</unit>
+				</detail>
+			</details>
+			<totalConsumption>-133.00</totalConsumption>
+			<totalEntry>240.00</totalEntry>
+			<stock>107.00</stock>
+		</item>
+		<item>
+			<itemId>IC--000015</itemId>
+			<itemName>Boneless/Tandoori Chicken</itemName>
+			<details>
+				<detail>
+					<date>Sun, 05-Jun-2022</date>
+					<stockEntry>0.00</stockEntry>
+					<extraStockEntry>0.00</extraStockEntry>
+					<damageEntry>0.00</damageEntry>
+					<consumption>-250.00</consumption>
+					<stockAdjustment>0.00</stockAdjustment>
+					<unit>gm</unit>
+				</detail>
+				<detail>
+					<date>Sat, 04-Jun-2022</date>
+					<stockEntry>0.00</stockEntry>
+					<extraStockEntry>0.00</extraStockEntry>
+					<damageEntry>0.00</damageEntry>
+					<consumption>-125.00</consumption>
+					<stockAdjustment>0.00</stockAdjustment>
+					<unit>gm</unit>
+				</detail>
+				<detail>
+					<date>Wed, 01-Jun-2022</date>
+					<stockEntry>0.00</stockEntry>
+					<extraStockEntry>0.00</extraStockEntry>
+					<damageEntry>0.00</damageEntry>
+					<consumption>-250.00</consumption>
+					<stockAdjustment>0.00</stockAdjustment>
+					<unit>gm</unit>
+				</detail>
+				<detail>
+					<date>Wed, 01-Jun-2022</date>
+					<stockEntry>3900.00</stockEntry>
+					<extraStockEntry>0.00</extraStockEntry>
+					<damageEntry>0.00</damageEntry>
+					<consumption>0.00</consumption>
+					<stockAdjustment>0.00</stockAdjustment>
+					<unit>gm</unit>
+				</detail>
+			</details>
+			<totalConsumption>-625.00</totalConsumption>
+			<totalEntry>3900.00</totalEntry>
+			<stock>3275.00</stock>
+		</item>
+		<item>
+			<itemId>IC--000136</itemId>
+			<itemName>Mineral Water (Small)</itemName>
+			<details>
+				<detail>
+					<date>Sun, 05-Jun-2022</date>
+					<stockEntry>0.00</stockEntry>
+					<extraStockEntry>0.00</extraStockEntry>
+					<damageEntry>0.00</damageEntry>
+					<consumption>-25.00</consumption>
+					<stockAdjustment>0.00</stockAdjustment>
+					<unit>pcs</unit>
+				</detail>
+				<detail>
+					<date>Sat, 04-Jun-2022</date>
+					<stockEntry>0.00</stockEntry>
+					<extraStockEntry>0.00</extraStockEntry>
+					<damageEntry>0.00</damageEntry>
+					<consumption>-23.00</consumption>
+					<stockAdjustment>0.00</stockAdjustment>
+					<unit>pcs</unit>
+				</detail>
+				<detail>
+					<date>Thu, 02-Jun-2022</date>
+					<stockEntry>0.00</stockEntry>
+					<extraStockEntry>0.00</extraStockEntry>
+					<damageEntry>0.00</damageEntry>
+					<consumption>-43.00</consumption>
+					<stockAdjustment>0.00</stockAdjustment>
+					<unit>pcs</unit>
+				</detail>
+				<detail>
+					<date>Wed, 01-Jun-2022</date>
+					<stockEntry>0.00</stockEntry>
+					<extraStockEntry>0.00</extraStockEntry>
+					<damageEntry>0.00</damageEntry>
+					<consumption>-17.00</consumption>
+					<stockAdjustment>0.00</stockAdjustment>
+					<unit>pcs</unit>
+				</detail>
+				<detail>
+					<date>Wed, 01-Jun-2022</date>
+					<stockEntry>168.00</stockEntry>
+					<extraStockEntry>0.00</extraStockEntry>
+					<damageEntry>0.00</damageEntry>
+					<consumption>0.00</consumption>
+					<stockAdjustment>0.00</stockAdjustment>
+					<unit>pcs</unit>
+				</detail>
+			</details>
+			<totalConsumption>-108.00</totalConsumption>
+			<totalEntry>168.00</totalEntry>
+			<stock>60.00</stock>
+		</item>
+		<item>
+			<itemId>IC--000014</itemId>
+			<itemName>Under Cut</itemName>
+			<details>
+				<detail>
+					<date>Sun, 05-Jun-2022</date>
+					<stockEntry>0.00</stockEntry>
+					<extraStockEntry>0.00</extraStockEntry>
+					<damageEntry>0.00</damageEntry>
+					<consumption>-250.00</consumption>
+					<stockAdjustment>0.00</stockAdjustment>
+					<unit>gm</unit>
+				</detail>
+				<detail>
+					<date>Sat, 04-Jun-2022</date>
+					<stockEntry>0.00</stockEntry>
+					<extraStockEntry>0.00</extraStockEntry>
+					<damageEntry>0.00</damageEntry>
+					<consumption>-800.00</consumption>
+					<stockAdjustment>0.00</stockAdjustment>
+					<unit>gm</unit>
+				</detail>
+				<detail>
+					<date>Thu, 02-Jun-2022</date>
+					<stockEntry>0.00</stockEntry>
+					<extraStockEntry>0.00</extraStockEntry>
+					<damageEntry>0.00</damageEntry>
+					<consumption>-600.00</consumption>
+					<stockAdjustment>0.00</stockAdjustment>
+					<unit>gm</unit>
+				</detail>
+				<detail>
+					<date>Thu, 02-Jun-2022</date>
+					<stockEntry>1800.00</stockEntry>
+					<extraStockEntry>0.00</extraStockEntry>
+					<damageEntry>0.00</damageEntry>
+					<consumption>0.00</consumption>
+					<stockAdjustment>0.00</stockAdjustment>
+					<unit>gm</unit>
+				</detail>
+				<detail>
+					<date>Wed, 01-Jun-2022</date>
+					<stockEntry>0.00</stockEntry>
+					<extraStockEntry>0.00</extraStockEntry>
+					<damageEntry>0.00</damageEntry>
+					<consumption>-1150.00</consumption>
+					<stockAdjustment>0.00</stockAdjustment>
+					<unit>gm</unit>
+				</detail>
+			</details>
+			<totalConsumption>-2800.00</totalConsumption>
+			<totalEntry>1800.00</totalEntry>
+			<stock>-1000.00</stock>
+		</item>
+		<item>
+			<itemId>IC--000135</itemId>
+			<itemName>Club Soda (Btl)</itemName>
+			<details>
+				<detail>
+					<date>Sun, 05-Jun-2022</date>
+					<stockEntry>0.00</stockEntry>
+					<extraStockEntry>0.00</extraStockEntry>
+					<damageEntry>0.00</damageEntry>
+					<consumption>-7.00</consumption>
+					<stockAdjustment>0.00</stockAdjustment>
+					<unit>pcs</unit>
+				</detail>
+				<detail>
+					<date>Sat, 04-Jun-2022</date>
+					<stockEntry>0.00</stockEntry>
+					<extraStockEntry>0.00</extraStockEntry>
+					<damageEntry>0.00</damageEntry>
+					<consumption>-6.00</consumption>
+					<stockAdjustment>0.00</stockAdjustment>
+					<unit>pcs</unit>
+				</detail>
+				<detail>
+					<date>Thu, 02-Jun-2022</date>
+					<stockEntry>0.00</stockEntry>
+					<extraStockEntry>0.00</extraStockEntry>
+					<damageEntry>0.00</damageEntry>
+					<consumption>-16.00</consumption>
+					<stockAdjustment>0.00</stockAdjustment>
+					<unit>pcs</unit>
+				</detail>
+				<detail>
+					<date>Wed, 01-Jun-2022</date>
+					<stockEntry>0.00</stockEntry>
+					<extraStockEntry>0.00</extraStockEntry>
+					<damageEntry>0.00</damageEntry>
+					<consumption>-14.00</consumption>
+					<stockAdjustment>0.00</stockAdjustment>
+					<unit>pcs</unit>
+				</detail>
+				<detail>
+					<date>Wed, 01-Jun-2022</date>
+					<stockEntry>120.00</stockEntry>
+					<extraStockEntry>0.00</extraStockEntry>
+					<damageEntry>0.00</damageEntry>
+					<consumption>0.00</consumption>
+					<stockAdjustment>0.00</stockAdjustment>
+					<unit>pcs</unit>
+				</detail>
+			</details>
+			<totalConsumption>-43.00</totalConsumption>
+			<totalEntry>120.00</totalEntry>
+			<stock>77.00</stock>
+		</item>
+		<item>
+			<itemId>IC--000013</itemId>
+			<itemName>Chicken (Broiler)</itemName>
+			<details>
+				<detail>
+					<date>Sun, 05-Jun-2022</date>
+					<stockEntry>0.00</stockEntry>
+					<extraStockEntry>0.00</extraStockEntry>
+					<damageEntry>0.00</damageEntry>
+					<consumption>-11455.00</consumption>
+					<stockAdjustment>0.00</stockAdjustment>
+					<unit>gm</unit>
+				</detail>
+				<detail>
+					<date>Sun, 05-Jun-2022</date>
+					<stockEntry>24800.00</stockEntry>
+					<extraStockEntry>0.00</extraStockEntry>
+					<damageEntry>0.00</damageEntry>
+					<consumption>0.00</consumption>
+					<stockAdjustment>0.00</stockAdjustment>
+					<unit>gm</unit>
+				</detail>
+				<detail>
+					<date>Sat, 04-Jun-2022</date>
+					<stockEntry>0.00</stockEntry>
+					<extraStockEntry>0.00</extraStockEntry>
+					<damageEntry>0.00</damageEntry>
+					<consumption>-25700.00</consumption>
+					<stockAdjustment>0.00</stockAdjustment>
+					<unit>gm</unit>
+				</detail>
+				<detail>
+					<date>Sat, 04-Jun-2022</date>
+					<stockEntry>36200.00</stockEntry>
+					<extraStockEntry>0.00</extraStockEntry>
+					<damageEntry>0.00</damageEntry>
+					<consumption>0.00</consumption>
+					<stockAdjustment>0.00</stockAdjustment>
+					<unit>gm</unit>
+				</detail>
+				<detail>
+					<date>Thu, 02-Jun-2022</date>
+					<stockEntry>0.00</stockEntry>
+					<extraStockEntry>0.00</extraStockEntry>
+					<damageEntry>0.00</damageEntry>
+					<consumption>-41365.00</consumption>
+					<stockAdjustment>0.00</stockAdjustment>
+					<unit>gm</unit>
+				</detail>
+				<detail>
+					<date>Thu, 02-Jun-2022</date>
+					<stockEntry>24800.00</stockEntry>
+					<extraStockEntry>0.00</extraStockEntry>
+					<damageEntry>0.00</damageEntry>
+					<consumption>0.00</consumption>
+					<stockAdjustment>0.00</stockAdjustment>
+					<unit>gm</unit>
+				</detail>
+				<detail>
+					<date>Wed, 01-Jun-2022</date>
+					<stockEntry>0.00</stockEntry>
+					<extraStockEntry>0.00</extraStockEntry>
+					<damageEntry>0.00</damageEntry>
+					<consumption>-15185.00</consumption>
+					<stockAdjustment>0.00</stockAdjustment>
+					<unit>gm</unit>
+				</detail>
+				<detail>
+					<date>Wed, 01-Jun-2022</date>
+					<stockEntry>35000.00</stockEntry>
+					<extraStockEntry>0.00</extraStockEntry>
+					<damageEntry>0.00</damageEntry>
+					<consumption>0.00</consumption>
+					<stockAdjustment>0.00</stockAdjustment>
+					<unit>gm</unit>
+				</detail>
+			</details>
+			<totalConsumption>-93705.00</totalConsumption>
+			<totalEntry>120800.00</totalEntry>
+			<stock>27095.00</stock>
+		</item>
+		<item>
+			<itemId>IC--000134</itemId>
+			<itemName>Red Bull</itemName>
+			<details>
+				<detail>
+					<date>Sun, 05-Jun-2022</date>
+					<stockEntry>0.00</stockEntry>
+					<extraStockEntry>0.00</extraStockEntry>
+					<damageEntry>0.00</damageEntry>
+					<consumption>-3.00</consumption>
+					<stockAdjustment>0.00</stockAdjustment>
+					<unit>pcs</unit>
+				</detail>
+				<detail>
+					<date>Sat, 04-Jun-2022</date>
+					<stockEntry>0.00</stockEntry>
+					<extraStockEntry>0.00</extraStockEntry>
+					<damageEntry>0.00</damageEntry>
+					<consumption>-1.00</consumption>
+					<stockAdjustment>0.00</stockAdjustment>
+					<unit>pcs</unit>
+				</detail>
+				<detail>
+					<date>Thu, 02-Jun-2022</date>
+					<stockEntry>0.00</stockEntry>
+					<extraStockEntry>0.00</extraStockEntry>
+					<damageEntry>0.00</damageEntry>
+					<consumption>-3.00</consumption>
+					<stockAdjustment>0.00</stockAdjustment>
+					<unit>pcs</unit>
+				</detail>
+				<detail>
+					<date>Wed, 01-Jun-2022</date>
+					<stockEntry>0.00</stockEntry>
+					<extraStockEntry>0.00</extraStockEntry>
+					<damageEntry>0.00</damageEntry>
+					<consumption>-7.00</consumption>
+					<stockAdjustment>0.00</stockAdjustment>
+					<unit>pcs</unit>
+				</detail>
+			</details>
+			<totalConsumption>-14.00</totalConsumption>
+			<totalEntry>0.00</totalEntry>
+			<stock>-14.00</stock>
+		</item>
+		<item>
+			<itemId>IC--000092</itemId>
+			<itemName>Brocoli </itemName>
+			<details>
+				<detail>
+					<date>Sun, 05-Jun-2022</date>
+					<stockEntry>0.00</stockEntry>
+					<extraStockEntry>0.00</extraStockEntry>
+					<damageEntry>0.00</damageEntry>
+					<consumption>-23.00</consumption>
+					<stockAdjustment>0.00</stockAdjustment>
+					<unit>pcs</unit>
+				</detail>
+				<detail>
+					<date>Sat, 04-Jun-2022</date>
+					<stockEntry>0.00</stockEntry>
+					<extraStockEntry>0.00</extraStockEntry>
+					<damageEntry>0.00</damageEntry>
+					<consumption>-13.00</consumption>
+					<stockAdjustment>0.00</stockAdjustment>
+					<unit>pcs</unit>
+				</detail>
+				<detail>
+					<date>Thu, 02-Jun-2022</date>
+					<stockEntry>0.00</stockEntry>
+					<extraStockEntry>0.00</extraStockEntry>
+					<damageEntry>0.00</damageEntry>
+					<consumption>-46.00</consumption>
+					<stockAdjustment>0.00</stockAdjustment>
+					<unit>pcs</unit>
+				</detail>
+				<detail>
+					<date>Wed, 01-Jun-2022</date>
+					<stockEntry>0.00</stockEntry>
+					<extraStockEntry>0.00</extraStockEntry>
+					<damageEntry>0.00</damageEntry>
+					<consumption>-70.00</consumption>
+					<stockAdjustment>0.00</stockAdjustment>
+					<unit>pcs</unit>
+				</detail>
+			</details>
+			<totalConsumption>-152.00</totalConsumption>
+			<totalEntry>0.00</totalEntry>
+			<stock>-152.00</stock>
+		</item>
+		<item>
+			<itemId>IC--000091</itemId>
+			<details>
+				<detail>
+					<date>Sun, 05-Jun-2022</date>
+					<stockEntry>0.00</stockEntry>
+					<extraStockEntry>0.00</extraStockEntry>
+					<damageEntry>0.00</damageEntry>
+					<consumption>-30.00</consumption>
+					<stockAdjustment>0.00</stockAdjustment>
+					<unit>gm</unit>
+				</detail>
+				<detail>
+					<date>Sat, 04-Jun-2022</date>
+					<stockEntry>0.00</stockEntry>
+					<extraStockEntry>0.00</extraStockEntry>
+					<damageEntry>0.00</damageEntry>
+					<consumption>-170.00</consumption>
+					<stockAdjustment>0.00</stockAdjustment>
+					<unit>gm</unit>
+				</detail>
+				<detail>
+					<date>Wed, 01-Jun-2022</date>
+					<stockEntry>0.00</stockEntry>
+					<extraStockEntry>0.00</extraStockEntry>
+					<damageEntry>0.00</damageEntry>
+					<consumption>-120.00</consumption>
+					<stockAdjustment>0.00</stockAdjustment>
+					<unit>gm</unit>
+				</detail>
+			</details>
+			<totalConsumption>-320.00</totalConsumption>
+			<totalEntry>0.00</totalEntry>
+			<stock>-320.00</stock>
+		</item>
+		<item>
+			<itemId>IC--000090</itemId>
+			<itemName>Cabbage New (Pata Copy)</itemName>
+			<details>
+				<detail>
+					<date>Sun, 05-Jun-2022</date>
+					<stockEntry>0.00</stockEntry>
+					<extraStockEntry>0.00</extraStockEntry>
+					<damageEntry>0.00</damageEntry>
+					<consumption>-208.00</consumption>
+					<stockAdjustment>0.00</stockAdjustment>
+					<unit>gm</unit>
+				</detail>
+				<detail>
+					<date>Sun, 05-Jun-2022</date>
+					<stockEntry>1.00</stockEntry>
+					<extraStockEntry>0.00</extraStockEntry>
+					<damageEntry>0.00</damageEntry>
+					<consumption>0.00</consumption>
+					<stockAdjustment>0.00</stockAdjustment>
+					<unit>pcs</unit>
+				</detail>
+				<detail>
+					<date>Sat, 04-Jun-2022</date>
+					<stockEntry>0.00</stockEntry>
+					<extraStockEntry>0.00</extraStockEntry>
+					<damageEntry>0.00</damageEntry>
+					<consumption>-313.00</consumption>
+					<stockAdjustment>0.00</stockAdjustment>
+					<unit>gm</unit>
+				</detail>
+				<detail>
+					<date>Thu, 02-Jun-2022</date>
+					<stockEntry>0.00</stockEntry>
+					<extraStockEntry>0.00</extraStockEntry>
+					<damageEntry>0.00</damageEntry>
+					<consumption>-141.00</consumption>
+					<stockAdjustment>0.00</stockAdjustment>
+					<unit>gm</unit>
+				</detail>
+				<detail>
+					<date>Thu, 02-Jun-2022</date>
+					<stockEntry>2.00</stockEntry>
+					<extraStockEntry>0.00</extraStockEntry>
+					<damageEntry>0.00</damageEntry>
+					<consumption>0.00</consumption>
+					<stockAdjustment>0.00</stockAdjustment>
+					<unit>pcs</unit>
+				</detail>
+				<detail>
+					<date>Wed, 01-Jun-2022</date>
+					<stockEntry>0.00</stockEntry>
+					<extraStockEntry>0.00</extraStockEntry>
+					<damageEntry>0.00</damageEntry>
+					<consumption>-325.00</consumption>
+					<stockAdjustment>0.00</stockAdjustment>
+					<unit>gm</unit>
+				</detail>
+				<detail>
+					<date>Wed, 01-Jun-2022</date>
+					<stockEntry>2000.00</stockEntry>
+					<extraStockEntry>0.00</extraStockEntry>
+					<damageEntry>0.00</damageEntry>
+					<consumption>0.00</consumption>
+					<stockAdjustment>0.00</stockAdjustment>
+					<unit>pcs</unit>
+				</detail>
+			</details>
+			<totalConsumption>-987.00</totalConsumption>
+			<totalEntry>2003.00</totalEntry>
+			<stock>1016.00</stock>
+		</item>
+		<item>
+			<itemId>IC--000096</itemId>
+			<itemName>Green Peach</itemName>
+			<details>
+				<detail>
+					<date>Sun, 05-Jun-2022</date>
+					<stockEntry>0.00</stockEntry>
+					<extraStockEntry>0.00</extraStockEntry>
+					<damageEntry>0.00</damageEntry>
+					<consumption>-9.00</consumption>
+					<stockAdjustment>0.00</stockAdjustment>
+					<unit>pcs</unit>
+				</detail>
+				<detail>
+					<date>Sat, 04-Jun-2022</date>
+					<stockEntry>0.00</stockEntry>
+					<extraStockEntry>0.00</extraStockEntry>
+					<damageEntry>0.00</damageEntry>
+					<consumption>-7.00</consumption>
+					<stockAdjustment>0.00</stockAdjustment>
+					<unit>pcs</unit>
+				</detail>
+				<detail>
+					<date>Thu, 02-Jun-2022</date>
+					<stockEntry>0.00</stockEntry>
+					<extraStockEntry>0.00</extraStockEntry>
+					<damageEntry>0.00</damageEntry>
+					<consumption>-21.00</consumption>
+					<stockAdjustment>0.00</stockAdjustment>
+					<unit>Can</unit>
+				</detail>
+				<detail>
+					<date>Thu, 02-Jun-2022</date>
+					<stockEntry>48.00</stockEntry>
+					<extraStockEntry>0.00</extraStockEntry>
+					<damageEntry>0.00</damageEntry>
+					<consumption>0.00</consumption>
+					<stockAdjustment>0.00</stockAdjustment>
+					<unit>Can</unit>
+				</detail>
+				<detail>
+					<date>Wed, 01-Jun-2022</date>
+					<stockEntry>0.00</stockEntry>
+					<extraStockEntry>0.00</extraStockEntry>
+					<damageEntry>0.00</damageEntry>
+					<consumption>-6.00</consumption>
+					<stockAdjustment>0.00</stockAdjustment>
+					<unit>pcs</unit>
+				</detail>
+			</details>
+			<totalConsumption>-43.00</totalConsumption>
+			<totalEntry>48.00</totalEntry>
+			<stock>5.00</stock>
+		</item>
+		<item>
+			<itemId>IC--000095</itemId>
+			<itemName>Vinager</itemName>
+			<details>
+				<detail>
+					<date>Sun, 05-Jun-2022</date>
+					<stockEntry>0.00</stockEntry>
+					<extraStockEntry>0.00</extraStockEntry>
+					<damageEntry>0.00</damageEntry>
+					<consumption>-280.00</consumption>
+					<stockAdjustment>0.00</stockAdjustment>
+					<unit>gm</unit>
+				</detail>
+				<detail>
+					<date>Sat, 04-Jun-2022</date>
+					<stockEntry>0.00</stockEntry>
+					<extraStockEntry>0.00</extraStockEntry>
+					<damageEntry>0.00</damageEntry>
+					<consumption>-560.00</consumption>
+					<stockAdjustment>0.00</stockAdjustment>
+					<unit>gm</unit>
+				</detail>
+				<detail>
+					<date>Thu, 02-Jun-2022</date>
+					<stockEntry>0.00</stockEntry>
+					<extraStockEntry>0.00</extraStockEntry>
+					<damageEntry>0.00</damageEntry>
+					<consumption>-780.00</consumption>
+					<stockAdjustment>0.00</stockAdjustment>
+					<unit>gm</unit>
+				</detail>
+				<detail>
+					<date>Wed, 01-Jun-2022</date>
+					<stockEntry>0.00</stockEntry>
+					<extraStockEntry>0.00</extraStockEntry>
+					<damageEntry>0.00</damageEntry>
+					<consumption>-800.00</consumption>
+					<stockAdjustment>0.00</stockAdjustment>
+					<unit>gm</unit>
+				</detail>
+			</details>
+			<totalConsumption>-2420.00</totalConsumption>
+			<totalEntry>0.00</totalEntry>
+			<stock>-2420.00</stock>
+		</item>
+		<item>
+			<itemId>IC--000094</itemId>
+			<itemName>Baby Corn</itemName>
+			<details>
+				<detail>
+					<date>Sun, 05-Jun-2022</date>
+					<stockEntry>0.00</stockEntry>
+					<extraStockEntry>0.00</extraStockEntry>
+					<damageEntry>0.00</damageEntry>
+					<consumption>-65.00</consumption>
+					<stockAdjustment>0.00</stockAdjustment>
+					<unit>gm</unit>
+				</detail>
+				<detail>
+					<date>Sat, 04-Jun-2022</date>
+					<stockEntry>0.00</stockEntry>
+					<extraStockEntry>0.00</extraStockEntry>
+					<damageEntry>0.00</damageEntry>
+					<consumption>-40.00</consumption>
+					<stockAdjustment>0.00</stockAdjustment>
+					<unit>gm</unit>
+				</detail>
+				<detail>
+					<date>Sat, 04-Jun-2022</date>
+					<stockEntry>1500.00</stockEntry>
+					<extraStockEntry>0.00</extraStockEntry>
+					<damageEntry>0.00</damageEntry>
+					<consumption>0.00</consumption>
+					<stockAdjustment>0.00</stockAdjustment>
+					<unit>gm</unit>
+				</detail>
+				<detail>
+					<date>Thu, 02-Jun-2022</date>
+					<stockEntry>0.00</stockEntry>
+					<extraStockEntry>0.00</extraStockEntry>
+					<damageEntry>0.00</damageEntry>
+					<consumption>-60.00</consumption>
+					<stockAdjustment>0.00</stockAdjustment>
+					<unit>gm</unit>
+				</detail>
+				<detail>
+					<date>Wed, 01-Jun-2022</date>
+					<stockEntry>0.00</stockEntry>
+					<extraStockEntry>0.00</extraStockEntry>
+					<damageEntry>0.00</damageEntry>
+					<consumption>-105.00</consumption>
+					<stockAdjustment>0.00</stockAdjustment>
+					<unit>gm</unit>
+				</detail>
+			</details>
+			<totalConsumption>-270.00</totalConsumption>
+			<totalEntry>1500.00</totalEntry>
+			<stock>1230.00</stock>
+		</item>
+		<item>
+			<itemId>IC--000093</itemId>
+			<itemName>Mashroom</itemName>
+			<details>
+				<detail>
+					<date>Sun, 05-Jun-2022</date>
+					<stockEntry>0.00</stockEntry>
+					<extraStockEntry>0.00</extraStockEntry>
+					<damageEntry>0.00</damageEntry>
+					<consumption>-50.00</consumption>
+					<stockAdjustment>0.00</stockAdjustment>
+					<unit>gm</unit>
+				</detail>
+				<detail>
+					<date>Sun, 05-Jun-2022</date>
+					<stockEntry>0.00</stockEntry>
+					<extraStockEntry>0.00</extraStockEntry>
+					<damageEntry>0.00</damageEntry>
+					<consumption>-2.00</consumption>
+					<stockAdjustment>0.00</stockAdjustment>
+					<unit>pcs</unit>
+				</detail>
+				<detail>
+					<date>Sun, 05-Jun-2022</date>
+					<stockEntry>6000.00</stockEntry>
+					<extraStockEntry>0.00</extraStockEntry>
+					<damageEntry>0.00</damageEntry>
+					<consumption>0.00</consumption>
+					<stockAdjustment>0.00</stockAdjustment>
+					<unit>gm</unit>
+				</detail>
+				<detail>
+					<date>Sat, 04-Jun-2022</date>
+					<stockEntry>0.00</stockEntry>
+					<extraStockEntry>0.00</extraStockEntry>
+					<damageEntry>0.00</damageEntry>
+					<consumption>-110.00</consumption>
+					<stockAdjustment>0.00</stockAdjustment>
+					<unit>gm</unit>
+				</detail>
+				<detail>
+					<date>Thu, 02-Jun-2022</date>
+					<stockEntry>0.00</stockEntry>
+					<extraStockEntry>0.00</extraStockEntry>
+					<damageEntry>0.00</damageEntry>
+					<consumption>-150.00</consumption>
+					<stockAdjustment>0.00</stockAdjustment>
+					<unit>gm</unit>
+				</detail>
+				<detail>
+					<date>Thu, 02-Jun-2022</date>
+					<stockEntry>0.00</stockEntry>
+					<extraStockEntry>0.00</extraStockEntry>
+					<damageEntry>0.00</damageEntry>
+					<consumption>-5.00</consumption>
+					<stockAdjustment>0.00</stockAdjustment>
+					<unit>pcs</unit>
+				</detail>
+				<detail>
+					<date>Wed, 01-Jun-2022</date>
+					<stockEntry>0.00</stockEntry>
+					<extraStockEntry>0.00</extraStockEntry>
+					<damageEntry>0.00</damageEntry>
+					<consumption>-120.00</consumption>
+					<stockAdjustment>0.00</stockAdjustment>
+					<unit>gm</unit>
+				</detail>
+				<detail>
+					<date>Wed, 01-Jun-2022</date>
+					<stockEntry>0.00</stockEntry>
+					<extraStockEntry>0.00</extraStockEntry>
+					<damageEntry>0.00</damageEntry>
+					<consumption>-4.00</consumption>
+					<stockAdjustment>0.00</stockAdjustment>
+					<unit>pcs</unit>
+				</detail>
+			</details>
+			<totalConsumption>-441.00</totalConsumption>
+			<totalEntry>6000.00</totalEntry>
+			<stock>5559.00</stock>
+		</item>
+		<item>
+			<itemId>IC--000139</itemId>
+			<itemName>Tonic water (Can/Btl)</itemName>
+			<details>
+				<detail>
+					<date>Sat, 04-Jun-2022</date>
+					<stockEntry>0.00</stockEntry>
+					<extraStockEntry>0.00</extraStockEntry>
+					<damageEntry>0.00</damageEntry>
+					<consumption>-1.00</consumption>
+					<stockAdjustment>0.00</stockAdjustment>
+					<unit>pcs</unit>
+				</detail>
+				<detail>
+					<date>Thu, 02-Jun-2022</date>
+					<stockEntry>0.00</stockEntry>
+					<extraStockEntry>0.00</extraStockEntry>
+					<damageEntry>0.00</damageEntry>
+					<consumption>-1.00</consumption>
+					<stockAdjustment>0.00</stockAdjustment>
+					<unit>pcs</unit>
+				</detail>
+				<detail>
+					<date>Wed, 01-Jun-2022</date>
+					<stockEntry>0.00</stockEntry>
+					<extraStockEntry>0.00</extraStockEntry>
+					<damageEntry>0.00</damageEntry>
+					<consumption>-1.00</consumption>
+					<stockAdjustment>0.00</stockAdjustment>
+					<unit>pcs</unit>
+				</detail>
+			</details>
+			<totalConsumption>-3.00</totalConsumption>
+			<totalEntry>0.00</totalEntry>
+			<stock>-3.00</stock>
+		</item>
+		<item>
+			<itemId>IC--000017</itemId>
+			<itemName>Malta</itemName>
+			<details>
+				<detail>
+					<date>Sun, 05-Jun-2022</date>
+					<stockEntry>20.00</stockEntry>
+					<extraStockEntry>0.00</extraStockEntry>
+					<damageEntry>0.00</damageEntry>
+					<consumption>0.00</consumption>
+					<stockAdjustment>0.00</stockAdjustment>
+					<unit>pcs</unit>
+				</detail>
+				<detail>
+					<date>Sat, 04-Jun-2022</date>
+					<stockEntry>0.00</stockEntry>
+					<extraStockEntry>0.00</extraStockEntry>
+					<damageEntry>0.00</damageEntry>
+					<consumption>-1.00</consumption>
+					<stockAdjustment>0.00</stockAdjustment>
+					<unit>pcs</unit>
+				</detail>
+				<detail>
+					<date>Thu, 02-Jun-2022</date>
+					<stockEntry>20.00</stockEntry>
+					<extraStockEntry>0.00</extraStockEntry>
+					<damageEntry>0.00</damageEntry>
+					<consumption>0.00</consumption>
+					<stockAdjustment>0.00</stockAdjustment>
+					<unit>pcs</unit>
+				</detail>
+				<detail>
+					<date>Wed, 01-Jun-2022</date>
+					<stockEntry>0.00</stockEntry>
+					<extraStockEntry>0.00</extraStockEntry>
+					<damageEntry>0.00</damageEntry>
+					<consumption>-1.00</consumption>
+					<stockAdjustment>0.00</stockAdjustment>
+					<unit>pcs</unit>
+				</detail>
+			</details>
+			<totalConsumption>-2.00</totalConsumption>
+			<totalEntry>40.00</totalEntry>
+			<stock>38.00</stock>
+		</item>
+		<item>
+			<itemId>IC--000138</itemId>
+			<itemName>Soft Drink'S (Coke &amp; 7up)</itemName>
+			<details>
+				<detail>
+					<date>Sun, 05-Jun-2022</date>
+					<stockEntry>0.00</stockEntry>
+					<extraStockEntry>0.00</extraStockEntry>
+					<damageEntry>0.00</damageEntry>
+					<consumption>-46.00</consumption>
+					<stockAdjustment>0.00</stockAdjustment>
+					<unit>pcs</unit>
+				</detail>
+				<detail>
+					<date>Sat, 04-Jun-2022</date>
+					<stockEntry>0.00</stockEntry>
+					<extraStockEntry>0.00</extraStockEntry>
+					<damageEntry>0.00</damageEntry>
+					<consumption>-54.00</consumption>
+					<stockAdjustment>0.00</stockAdjustment>
+					<unit>pcs</unit>
+				</detail>
+				<detail>
+					<date>Sat, 04-Jun-2022</date>
+					<stockEntry>240.00</stockEntry>
+					<extraStockEntry>0.00</extraStockEntry>
+					<damageEntry>0.00</damageEntry>
+					<consumption>0.00</consumption>
+					<stockAdjustment>0.00</stockAdjustment>
+					<unit>pcs</unit>
+				</detail>
+				<detail>
+					<date>Thu, 02-Jun-2022</date>
+					<stockEntry>0.00</stockEntry>
+					<extraStockEntry>0.00</extraStockEntry>
+					<damageEntry>0.00</damageEntry>
+					<consumption>-90.00</consumption>
+					<stockAdjustment>0.00</stockAdjustment>
+					<unit>pcs</unit>
+				</detail>
+				<detail>
+					<date>Wed, 01-Jun-2022</date>
+					<stockEntry>0.00</stockEntry>
+					<extraStockEntry>0.00</extraStockEntry>
+					<damageEntry>0.00</damageEntry>
+					<consumption>-47.00</consumption>
+					<stockAdjustment>0.00</stockAdjustment>
+					<unit>pcs</unit>
+				</detail>
+				<detail>
+					<date>Wed, 01-Jun-2022</date>
+					<stockEntry>288.00</stockEntry>
+					<extraStockEntry>0.00</extraStockEntry>
+					<damageEntry>0.00</damageEntry>
+					<consumption>0.00</consumption>
+					<stockAdjustment>0.00</stockAdjustment>
+					<unit>pcs</unit>
+				</detail>
+			</details>
+			<totalConsumption>-237.00</totalConsumption>
+			<totalEntry>528.00</totalEntry>
+			<stock>291.00</stock>
+		</item>
+		<item>
+			<itemId>IC--000142</itemId>
+			<itemName>Fruite Juice (Small)</itemName>
+			<details>
+				<detail>
+					<date>Sat, 04-Jun-2022</date>
+					<stockEntry>0.00</stockEntry>
+					<extraStockEntry>0.00</extraStockEntry>
+					<damageEntry>0.00</damageEntry>
+					<consumption>-4.00</consumption>
+					<stockAdjustment>0.00</stockAdjustment>
+					<unit>pcs</unit>
+				</detail>
+				<detail>
+					<date>Thu, 02-Jun-2022</date>
+					<stockEntry>0.00</stockEntry>
+					<extraStockEntry>0.00</extraStockEntry>
+					<damageEntry>0.00</damageEntry>
+					<consumption>-4.00</consumption>
+					<stockAdjustment>0.00</stockAdjustment>
+					<unit>pcs</unit>
+				</detail>
+				<detail>
+					<date>Wed, 01-Jun-2022</date>
+					<stockEntry>0.00</stockEntry>
+					<extraStockEntry>0.00</extraStockEntry>
+					<damageEntry>0.00</damageEntry>
+					<consumption>-4.00</consumption>
+					<stockAdjustment>0.00</stockAdjustment>
+					<unit>pcs</unit>
+				</detail>
+			</details>
+			<totalConsumption>-12.00</totalConsumption>
+			<totalEntry>0.00</totalEntry>
+			<stock>-12.00</stock>
+		</item>
+		<item>
+			<itemId>IC--000020</itemId>
+			<itemName>Polao Rice</itemName>
+			<details>
+				<detail>
+					<date>Sun, 05-Jun-2022</date>
+					<stockEntry>0.00</stockEntry>
+					<extraStockEntry>0.00</extraStockEntry>
+					<damageEntry>0.00</damageEntry>
+					<consumption>-1400.00</consumption>
+					<stockAdjustment>0.00</stockAdjustment>
+					<unit>gm</unit>
+				</detail>
+				<detail>
+					<date>Sun, 05-Jun-2022</date>
+					<stockEntry>5000.00</stockEntry>
+					<extraStockEntry>0.00</extraStockEntry>
+					<damageEntry>0.00</damageEntry>
+					<consumption>0.00</consumption>
+					<stockAdjustment>0.00</stockAdjustment>
+					<unit>gm</unit>
+				</detail>
+				<detail>
+					<date>Sat, 04-Jun-2022</date>
+					<stockEntry>0.00</stockEntry>
+					<extraStockEntry>0.00</extraStockEntry>
+					<damageEntry>0.00</damageEntry>
+					<consumption>-1000.00</consumption>
+					<stockAdjustment>0.00</stockAdjustment>
+					<unit>gm</unit>
+				</detail>
+				<detail>
+					<date>Thu, 02-Jun-2022</date>
+					<stockEntry>0.00</stockEntry>
+					<extraStockEntry>0.00</extraStockEntry>
+					<damageEntry>0.00</damageEntry>
+					<consumption>-2200.00</consumption>
+					<stockAdjustment>0.00</stockAdjustment>
+					<unit>gm</unit>
+				</detail>
+				<detail>
+					<date>Wed, 01-Jun-2022</date>
+					<stockEntry>0.00</stockEntry>
+					<extraStockEntry>0.00</extraStockEntry>
+					<damageEntry>0.00</damageEntry>
+					<consumption>-3650.00</consumption>
+					<stockAdjustment>0.00</stockAdjustment>
+					<unit>gm</unit>
+				</detail>
+			</details>
+			<totalConsumption>-8250.00</totalConsumption>
+			<totalEntry>5000.00</totalEntry>
+			<stock>-3250.00</stock>
+		</item>
+		<item>
+			<itemId>IC--000147</itemId>
+			<itemName>Beer (16%)</itemName>
+			<details>
+				<detail>
+					<date>Sun, 05-Jun-2022</date>
+					<stockEntry>0.00</stockEntry>
+					<extraStockEntry>0.00</extraStockEntry>
+					<damageEntry>0.00</damageEntry>
+					<consumption>-70.00</consumption>
+					<stockAdjustment>0.00</stockAdjustment>
+					<unit>pcs</unit>
+				</detail>
+				<detail>
+					<date>Sun, 05-Jun-2022</date>
+					<stockEntry>480.00</stockEntry>
+					<extraStockEntry>0.00</extraStockEntry>
+					<damageEntry>0.00</damageEntry>
+					<consumption>0.00</consumption>
+					<stockAdjustment>0.00</stockAdjustment>
+					<unit>pcs</unit>
+				</detail>
+				<detail>
+					<date>Sat, 04-Jun-2022</date>
+					<stockEntry>0.00</stockEntry>
+					<extraStockEntry>0.00</extraStockEntry>
+					<damageEntry>0.00</damageEntry>
+					<consumption>-236.00</consumption>
+					<stockAdjustment>0.00</stockAdjustment>
+					<unit>pcs</unit>
+				</detail>
+				<detail>
+					<date>Thu, 02-Jun-2022</date>
+					<stockEntry>0.00</stockEntry>
+					<extraStockEntry>0.00</extraStockEntry>
+					<damageEntry>0.00</damageEntry>
+					<consumption>-129.00</consumption>
+					<stockAdjustment>0.00</stockAdjustment>
+					<unit>pcs</unit>
+				</detail>
+				<detail>
+					<date>Wed, 01-Jun-2022</date>
+					<stockEntry>0.00</stockEntry>
+					<extraStockEntry>0.00</extraStockEntry>
+					<damageEntry>0.00</damageEntry>
+					<consumption>-69.00</consumption>
+					<stockAdjustment>0.00</stockAdjustment>
+					<unit>pcs</unit>
+				</detail>
+			</details>
+			<totalConsumption>-504.00</totalConsumption>
+			<totalEntry>480.00</totalEntry>
+			<stock>-24.00</stock>
+		</item>
+		<item>
+			<itemId>IC--000025</itemId>
+			<itemName>Soyabin Oil</itemName>
+			<details>
+				<detail>
+					<date>Sun, 05-Jun-2022</date>
+					<stockEntry>0.00</stockEntry>
+					<extraStockEntry>0.00</extraStockEntry>
+					<damageEntry>0.00</damageEntry>
+					<consumption>-6075.00</consumption>
+					<stockAdjustment>0.00</stockAdjustment>
+					<unit>gm</unit>
+				</detail>
+				<detail>
+					<date>Sun, 05-Jun-2022</date>
+					<stockEntry>5000.00</stockEntry>
+					<extraStockEntry>0.00</extraStockEntry>
+					<damageEntry>0.00</damageEntry>
+					<consumption>0.00</consumption>
+					<stockAdjustment>0.00</stockAdjustment>
+					<unit>gm</unit>
+				</detail>
+				<detail>
+					<date>Sat, 04-Jun-2022</date>
+					<stockEntry>0.00</stockEntry>
+					<extraStockEntry>0.00</extraStockEntry>
+					<damageEntry>0.00</damageEntry>
+					<consumption>-8285.00</consumption>
+					<stockAdjustment>0.00</stockAdjustment>
+					<unit>gm</unit>
+				</detail>
+				<detail>
+					<date>Sat, 04-Jun-2022</date>
+					<stockEntry>5000.00</stockEntry>
+					<extraStockEntry>0.00</extraStockEntry>
+					<damageEntry>0.00</damageEntry>
+					<consumption>0.00</consumption>
+					<stockAdjustment>0.00</stockAdjustment>
+					<unit>gm</unit>
+				</detail>
+				<detail>
+					<date>Thu, 02-Jun-2022</date>
+					<stockEntry>0.00</stockEntry>
+					<extraStockEntry>0.00</extraStockEntry>
+					<damageEntry>0.00</damageEntry>
+					<consumption>-15605.00</consumption>
+					<stockAdjustment>0.00</stockAdjustment>
+					<unit>gm</unit>
+				</detail>
+				<detail>
+					<date>Thu, 02-Jun-2022</date>
+					<stockEntry>10000.00</stockEntry>
+					<extraStockEntry>0.00</extraStockEntry>
+					<damageEntry>0.00</damageEntry>
+					<consumption>0.00</consumption>
+					<stockAdjustment>0.00</stockAdjustment>
+					<unit>gm</unit>
+				</detail>
+				<detail>
+					<date>Wed, 01-Jun-2022</date>
+					<stockEntry>0.00</stockEntry>
+					<extraStockEntry>0.00</extraStockEntry>
+					<damageEntry>0.00</damageEntry>
+					<consumption>-7545.00</consumption>
+					<stockAdjustment>0.00</stockAdjustment>
+					<unit>gm</unit>
+				</detail>
+				<detail>
+					<date>Wed, 01-Jun-2022</date>
+					<stockEntry>10000.00</stockEntry>
+					<extraStockEntry>0.00</extraStockEntry>
+					<damageEntry>0.00</damageEntry>
+					<consumption>0.00</consumption>
+					<stockAdjustment>0.00</stockAdjustment>
+					<unit>gm</unit>
+				</detail>
+			</details>
+			<totalConsumption>-37510.00</totalConsumption>
+			<totalEntry>30000.00</totalEntry>
+			<stock>-7510.00</stock>
+		</item>
+		<item>
+			<itemId>IC--000146</itemId>
+			<itemName>Beer (12%)</itemName>
+			<details>
+				<detail>
+					<date>Sun, 05-Jun-2022</date>
+					<stockEntry>0.00</stockEntry>
+					<extraStockEntry>0.00</extraStockEntry>
+					<damageEntry>0.00</damageEntry>
+					<consumption>-30.00</consumption>
+					<stockAdjustment>0.00</stockAdjustment>
+					<unit>pcs</unit>
+				</detail>
+				<detail>
+					<date>Sun, 05-Jun-2022</date>
+					<stockEntry>240.00</stockEntry>
+					<extraStockEntry>0.00</extraStockEntry>
+					<damageEntry>0.00</damageEntry>
+					<consumption>0.00</consumption>
+					<stockAdjustment>0.00</stockAdjustment>
+					<unit>pcs</unit>
+				</detail>
+				<detail>
+					<date>Sat, 04-Jun-2022</date>
+					<stockEntry>0.00</stockEntry>
+					<extraStockEntry>0.00</extraStockEntry>
+					<damageEntry>0.00</damageEntry>
+					<consumption>-50.00</consumption>
+					<stockAdjustment>0.00</stockAdjustment>
+					<unit>pcs</unit>
+				</detail>
+				<detail>
+					<date>Thu, 02-Jun-2022</date>
+					<stockEntry>0.00</stockEntry>
+					<extraStockEntry>0.00</extraStockEntry>
+					<damageEntry>0.00</damageEntry>
+					<consumption>-62.00</consumption>
+					<stockAdjustment>0.00</stockAdjustment>
+					<unit>pcs</unit>
+				</detail>
+				<detail>
+					<date>Wed, 01-Jun-2022</date>
+					<stockEntry>0.00</stockEntry>
+					<extraStockEntry>0.00</extraStockEntry>
+					<damageEntry>0.00</damageEntry>
+					<consumption>-21.00</consumption>
+					<stockAdjustment>0.00</stockAdjustment>
+					<unit>pcs</unit>
+				</detail>
+			</details>
+			<totalConsumption>-163.00</totalConsumption>
+			<totalEntry>240.00</totalEntry>
+			<stock>77.00</stock>
+		</item>
+		<item>
+			<itemId>IC--000029</itemId>
+			<itemName>Moyda</itemName>
+			<details>
+				<detail>
+					<date>Sun, 05-Jun-2022</date>
+					<stockEntry>0.00</stockEntry>
+					<extraStockEntry>0.00</extraStockEntry>
+					<damageEntry>0.00</damageEntry>
+					<consumption>-4050.00</consumption>
+					<stockAdjustment>0.00</stockAdjustment>
+					<unit>gm</unit>
+				</detail>
+				<detail>
+					<date>Sat, 04-Jun-2022</date>
+					<stockEntry>0.00</stockEntry>
+					<extraStockEntry>0.00</extraStockEntry>
+					<damageEntry>0.00</damageEntry>
+					<consumption>-4187.00</consumption>
+					<stockAdjustment>0.00</stockAdjustment>
+					<unit>gm</unit>
+				</detail>
+				<detail>
+					<date>Thu, 02-Jun-2022</date>
+					<stockEntry>0.00</stockEntry>
+					<extraStockEntry>0.00</extraStockEntry>
+					<damageEntry>0.00</damageEntry>
+					<consumption>-5099.00</consumption>
+					<stockAdjustment>0.00</stockAdjustment>
+					<unit>gm</unit>
+				</detail>
+				<detail>
+					<date>Wed, 01-Jun-2022</date>
+					<stockEntry>0.00</stockEntry>
+					<extraStockEntry>0.00</extraStockEntry>
+					<damageEntry>0.00</damageEntry>
+					<consumption>-2666.00</consumption>
+					<stockAdjustment>0.00</stockAdjustment>
+					<unit>gm</unit>
+				</detail>
+				<detail>
+					<date>Wed, 01-Jun-2022</date>
+					<stockEntry>24000.00</stockEntry>
+					<extraStockEntry>0.00</extraStockEntry>
+					<damageEntry>0.00</damageEntry>
+					<consumption>0.00</consumption>
+					<stockAdjustment>0.00</stockAdjustment>
+					<unit>gm</unit>
+				</detail>
+			</details>
+			<totalConsumption>-16002.00</totalConsumption>
+			<totalEntry>24000.00</totalEntry>
+			<stock>7998.00</stock>
+		</item>
+		<item>
+			<itemId>IC--000033</itemId>
+			<itemName>Breadcrumbs</itemName>
+			<details>
+				<detail>
+					<date>Sun, 05-Jun-2022</date>
+					<stockEntry>0.00</stockEntry>
+					<extraStockEntry>0.00</extraStockEntry>
+					<damageEntry>0.00</damageEntry>
+					<consumption>-200.00</consumption>
+					<stockAdjustment>0.00</stockAdjustment>
+					<unit>gm</unit>
+				</detail>
+				<detail>
+					<date>Sat, 04-Jun-2022</date>
+					<stockEntry>0.00</stockEntry>
+					<extraStockEntry>0.00</extraStockEntry>
+					<damageEntry>0.00</damageEntry>
+					<consumption>-200.00</consumption>
+					<stockAdjustment>0.00</stockAdjustment>
+					<unit>gm</unit>
+				</detail>
+				<detail>
+					<date>Thu, 02-Jun-2022</date>
+					<stockEntry>0.00</stockEntry>
+					<extraStockEntry>0.00</extraStockEntry>
+					<damageEntry>0.00</damageEntry>
+					<consumption>-100.00</consumption>
+					<stockAdjustment>0.00</stockAdjustment>
+					<unit>gm</unit>
+				</detail>
+				<detail>
+					<date>Wed, 01-Jun-2022</date>
+					<stockEntry>0.00</stockEntry>
+					<extraStockEntry>0.00</extraStockEntry>
+					<damageEntry>0.00</damageEntry>
+					<consumption>-200.00</consumption>
+					<stockAdjustment>0.00</stockAdjustment>
+					<unit>gm</unit>
+				</detail>
+			</details>
+			<totalConsumption>-700.00</totalConsumption>
+			<totalEntry>0.00</totalEntry>
+			<stock>-700.00</stock>
+		</item>
+		<item>
+			<itemId>IC--000154</itemId>
+			<itemName>Tequila</itemName>
+			<details>
+				<detail>
+					<date>Sun, 05-Jun-2022</date>
+					<stockEntry>0.00</stockEntry>
+					<extraStockEntry>0.00</extraStockEntry>
+					<damageEntry>0.00</damageEntry>
+					<consumption>-25.00</consumption>
+					<stockAdjustment>0.00</stockAdjustment>
+					<unit>Peg</unit>
+				</detail>
+				<detail>
+					<date>Sat, 04-Jun-2022</date>
+					<stockEntry>0.00</stockEntry>
+					<extraStockEntry>0.00</extraStockEntry>
+					<damageEntry>0.00</damageEntry>
+					<consumption>-12.00</consumption>
+					<stockAdjustment>0.00</stockAdjustment>
+					<unit>Peg</unit>
+				</detail>
+				<detail>
+					<date>Thu, 02-Jun-2022</date>
+					<stockEntry>0.00</stockEntry>
+					<extraStockEntry>0.00</extraStockEntry>
+					<damageEntry>0.00</damageEntry>
+					<consumption>-51.00</consumption>
+					<stockAdjustment>0.00</stockAdjustment>
+					<unit>Peg</unit>
+				</detail>
+				<detail>
+					<date>Thu, 02-Jun-2022</date>
+					<stockEntry>300.00</stockEntry>
+					<extraStockEntry>0.00</extraStockEntry>
+					<damageEntry>0.00</damageEntry>
+					<consumption>0.00</consumption>
+					<stockAdjustment>0.00</stockAdjustment>
+					<unit>Peg</unit>
+				</detail>
+			</details>
+			<totalConsumption>-88.00</totalConsumption>
+			<totalEntry>300.00</totalEntry>
+			<stock>212.00</stock>
+		</item>
+		<item>
+			<itemId>IC--000032</itemId>
+			<itemName>Suger (Chini)</itemName>
+			<details>
+				<detail>
+					<date>Sun, 05-Jun-2022</date>
+					<stockEntry>0.00</stockEntry>
+					<extraStockEntry>0.00</extraStockEntry>
+					<damageEntry>0.00</damageEntry>
+					<consumption>-307.00</consumption>
+					<stockAdjustment>0.00</stockAdjustment>
+					<unit>gm</unit>
+				</detail>
+				<detail>
+					<date>Sun, 05-Jun-2022</date>
+					<stockEntry>5000.00</stockEntry>
+					<extraStockEntry>0.00</extraStockEntry>
+					<damageEntry>0.00</damageEntry>
+					<consumption>0.00</consumption>
+					<stockAdjustment>0.00</stockAdjustment>
+					<unit>gm</unit>
+				</detail>
+				<detail>
+					<date>Sat, 04-Jun-2022</date>
+					<stockEntry>0.00</stockEntry>
+					<extraStockEntry>0.00</extraStockEntry>
+					<damageEntry>0.00</damageEntry>
+					<consumption>-372.00</consumption>
+					<stockAdjustment>0.00</stockAdjustment>
+					<unit>gm</unit>
+				</detail>
+				<detail>
+					<date>Thu, 02-Jun-2022</date>
+					<stockEntry>0.00</stockEntry>
+					<extraStockEntry>0.00</extraStockEntry>
+					<damageEntry>0.00</damageEntry>
+					<consumption>-456.00</consumption>
+					<stockAdjustment>0.00</stockAdjustment>
+					<unit>gm</unit>
+				</detail>
+				<detail>
+					<date>Thu, 02-Jun-2022</date>
+					<stockEntry>5000.00</stockEntry>
+					<extraStockEntry>0.00</extraStockEntry>
+					<damageEntry>0.00</damageEntry>
+					<consumption>0.00</consumption>
+					<stockAdjustment>0.00</stockAdjustment>
+					<unit>gm</unit>
+				</detail>
+				<detail>
+					<date>Wed, 01-Jun-2022</date>
+					<stockEntry>0.00</stockEntry>
+					<extraStockEntry>0.00</extraStockEntry>
+					<damageEntry>0.00</damageEntry>
+					<consumption>-301.00</consumption>
+					<stockAdjustment>0.00</stockAdjustment>
+					<unit>gm</unit>
+				</detail>
+			</details>
+			<totalConsumption>-1436.00</totalConsumption>
+			<totalEntry>10000.00</totalEntry>
+			<stock>8564.00</stock>
+		</item>
+		<item>
+			<itemId>IC--000153</itemId>
+			<itemName>Normal Gin</itemName>
+			<details>
+				<detail>
+					<date>Sun, 05-Jun-2022</date>
+					<stockEntry>0.00</stockEntry>
+					<extraStockEntry>0.00</extraStockEntry>
+					<damageEntry>0.00</damageEntry>
+					<consumption>-7.00</consumption>
+					<stockAdjustment>0.00</stockAdjustment>
+					<unit>Peg</unit>
+				</detail>
+				<detail>
+					<date>Thu, 02-Jun-2022</date>
+					<stockEntry>0.00</stockEntry>
+					<extraStockEntry>0.00</extraStockEntry>
+					<damageEntry>0.00</damageEntry>
+					<consumption>-19.00</consumption>
+					<stockAdjustment>0.00</stockAdjustment>
+					<unit>Peg</unit>
+				</detail>
+			</details>
+			<totalConsumption>-26.00</totalConsumption>
+			<totalEntry>0.00</totalEntry>
+			<stock>-26.00</stock>
+		</item>
+		<item>
+			<itemId>IC--000038</itemId>
+			<itemName>Dhonia</itemName>
+			<details>
+				<detail>
+					<date>Sun, 05-Jun-2022</date>
+					<stockEntry>0.00</stockEntry>
+					<extraStockEntry>0.00</extraStockEntry>
+					<damageEntry>0.00</damageEntry>
+					<consumption>-29.00</consumption>
+					<stockAdjustment>0.00</stockAdjustment>
+					<unit>gm</unit>
+				</detail>
+				<detail>
+					<date>Sat, 04-Jun-2022</date>
+					<stockEntry>0.00</stockEntry>
+					<extraStockEntry>0.00</extraStockEntry>
+					<damageEntry>0.00</damageEntry>
+					<consumption>-62.00</consumption>
+					<stockAdjustment>0.00</stockAdjustment>
+					<unit>gm</unit>
+				</detail>
+				<detail>
+					<date>Thu, 02-Jun-2022</date>
+					<stockEntry>0.00</stockEntry>
+					<extraStockEntry>0.00</extraStockEntry>
+					<damageEntry>0.00</damageEntry>
+					<consumption>-96.00</consumption>
+					<stockAdjustment>0.00</stockAdjustment>
+					<unit>gm</unit>
+				</detail>
+				<detail>
+					<date>Wed, 01-Jun-2022</date>
+					<stockEntry>0.00</stockEntry>
+					<extraStockEntry>0.00</extraStockEntry>
+					<damageEntry>0.00</damageEntry>
+					<consumption>-52.00</consumption>
+					<stockAdjustment>0.00</stockAdjustment>
+					<unit>gm</unit>
+				</detail>
+			</details>
+			<totalConsumption>-239.00</totalConsumption>
+			<totalEntry>0.00</totalEntry>
+			<stock>-239.00</stock>
+		</item>
+		<item>
+			<itemId>IC--000037</itemId>
+			<itemName>Zira</itemName>
+			<details>
+				<detail>
+					<date>Sun, 05-Jun-2022</date>
+					<stockEntry>0.00</stockEntry>
+					<extraStockEntry>0.00</extraStockEntry>
+					<damageEntry>0.00</damageEntry>
+					<consumption>-35.00</consumption>
+					<stockAdjustment>0.00</stockAdjustment>
+					<unit>gm</unit>
+				</detail>
+				<detail>
+					<date>Sat, 04-Jun-2022</date>
+					<stockEntry>0.00</stockEntry>
+					<extraStockEntry>0.00</extraStockEntry>
+					<damageEntry>0.00</damageEntry>
+					<consumption>-72.00</consumption>
+					<stockAdjustment>0.00</stockAdjustment>
+					<unit>gm</unit>
+				</detail>
+				<detail>
+					<date>Sat, 04-Jun-2022</date>
+					<stockEntry>500.00</stockEntry>
+					<extraStockEntry>0.00</extraStockEntry>
+					<damageEntry>0.00</damageEntry>
+					<consumption>0.00</consumption>
+					<stockAdjustment>0.00</stockAdjustment>
+					<unit>gm</unit>
+				</detail>
+				<detail>
+					<date>Thu, 02-Jun-2022</date>
+					<stockEntry>0.00</stockEntry>
+					<extraStockEntry>0.00</extraStockEntry>
+					<damageEntry>0.00</damageEntry>
+					<consumption>-109.00</consumption>
+					<stockAdjustment>0.00</stockAdjustment>
+					<unit>gm</unit>
+				</detail>
+				<detail>
+					<date>Wed, 01-Jun-2022</date>
+					<stockEntry>0.00</stockEntry>
+					<extraStockEntry>0.00</extraStockEntry>
+					<damageEntry>0.00</damageEntry>
+					<consumption>-58.00</consumption>
+					<stockAdjustment>0.00</stockAdjustment>
+					<unit>gm</unit>
+				</detail>
+			</details>
+			<totalConsumption>-274.00</totalConsumption>
+			<totalEntry>500.00</totalEntry>
+			<stock>226.00</stock>
+		</item>
+		<item>
+			<itemId>IC--000036</itemId>
+			<itemName>Testing Salt</itemName>
+			<details>
+				<detail>
+					<date>Sun, 05-Jun-2022</date>
+					<stockEntry>0.00</stockEntry>
+					<extraStockEntry>0.00</extraStockEntry>
+					<damageEntry>0.00</damageEntry>
+					<consumption>-250.00</consumption>
+					<stockAdjustment>0.00</stockAdjustment>
+					<unit>gm</unit>
+				</detail>
+				<detail>
+					<date>Sat, 04-Jun-2022</date>
+					<stockEntry>0.00</stockEntry>
+					<extraStockEntry>0.00</extraStockEntry>
+					<damageEntry>0.00</damageEntry>
+					<consumption>-238.00</consumption>
+					<stockAdjustment>0.00</stockAdjustment>
+					<unit>gm</unit>
+				</detail>
+				<detail>
+					<date>Sat, 04-Jun-2022</date>
+					<stockEntry>1250.00</stockEntry>
+					<extraStockEntry>0.00</extraStockEntry>
+					<damageEntry>0.00</damageEntry>
+					<consumption>0.00</consumption>
+					<stockAdjustment>0.00</stockAdjustment>
+					<unit>gm</unit>
+				</detail>
+				<detail>
+					<date>Thu, 02-Jun-2022</date>
+					<stockEntry>0.00</stockEntry>
+					<extraStockEntry>0.00</extraStockEntry>
+					<damageEntry>0.00</damageEntry>
+					<consumption>-370.00</consumption>
+					<stockAdjustment>0.00</stockAdjustment>
+					<unit>gm</unit>
+				</detail>
+				<detail>
+					<date>Wed, 01-Jun-2022</date>
+					<stockEntry>0.00</stockEntry>
+					<extraStockEntry>0.00</extraStockEntry>
+					<damageEntry>0.00</damageEntry>
+					<consumption>-282.00</consumption>
+					<stockAdjustment>0.00</stockAdjustment>
+					<unit>gm</unit>
+				</detail>
+			</details>
+			<totalConsumption>-1140.00</totalConsumption>
+			<totalEntry>1250.00</totalEntry>
+			<stock>110.00</stock>
+		</item>
+		<item>
+			<itemId>IC--000157</itemId>
+			<itemName>Wine (White &amp; Red)</itemName>
+			<details>
+				<detail>
+					<date>Sun, 05-Jun-2022</date>
+					<stockEntry>0.00</stockEntry>
+					<extraStockEntry>0.00</extraStockEntry>
+					<damageEntry>0.00</damageEntry>
+					<consumption>-2.00</consumption>
+					<stockAdjustment>0.00</stockAdjustment>
+					<unit>pcs</unit>
+				</detail>
+				<detail>
+					<date>Sat, 04-Jun-2022</date>
+					<stockEntry>0.00</stockEntry>
+					<extraStockEntry>0.00</extraStockEntry>
+					<damageEntry>0.00</damageEntry>
+					<consumption>-3.00</consumption>
+					<stockAdjustment>0.00</stockAdjustment>
+					<unit>pcs</unit>
+				</detail>
+				<detail>
+					<date>Thu, 02-Jun-2022</date>
+					<stockEntry>0.00</stockEntry>
+					<extraStockEntry>0.00</extraStockEntry>
+					<damageEntry>0.00</damageEntry>
+					<consumption>-3.00</consumption>
+					<stockAdjustment>0.00</stockAdjustment>
+					<unit>pcs</unit>
+				</detail>
+				<detail>
+					<date>Wed, 01-Jun-2022</date>
+					<stockEntry>0.00</stockEntry>
+					<extraStockEntry>0.00</extraStockEntry>
+					<damageEntry>0.00</damageEntry>
+					<consumption>-1.00</consumption>
+					<stockAdjustment>0.00</stockAdjustment>
+					<unit>pcs</unit>
+				</detail>
+				<detail>
+					<date>Wed, 01-Jun-2022</date>
+					<stockEntry>2.00</stockEntry>
+					<extraStockEntry>0.00</extraStockEntry>
+					<damageEntry>0.00</damageEntry>
+					<consumption>0.00</consumption>
+					<stockAdjustment>0.00</stockAdjustment>
+					<unit>pcs</unit>
+				</detail>
+			</details>
+			<totalConsumption>-9.00</totalConsumption>
+			<totalEntry>2.00</totalEntry>
+			<stock>-7.00</stock>
+		</item>
+		<item>
+			<itemId>IC--000035</itemId>
+			<itemName>Salt (Lobon)</itemName>
+			<details>
+				<detail>
+					<date>Sun, 05-Jun-2022</date>
+					<stockEntry>0.00</stockEntry>
+					<extraStockEntry>0.00</extraStockEntry>
+					<damageEntry>0.00</damageEntry>
+					<consumption>-379.00</consumption>
+					<stockAdjustment>0.00</stockAdjustment>
+					<unit>gm</unit>
+				</detail>
+				<detail>
+					<date>Sat, 04-Jun-2022</date>
+					<stockEntry>0.00</stockEntry>
+					<extraStockEntry>0.00</extraStockEntry>
+					<damageEntry>0.00</damageEntry>
+					<consumption>-467.00</consumption>
+					<stockAdjustment>0.00</stockAdjustment>
+					<unit>gm</unit>
+				</detail>
+				<detail>
+					<date>Thu, 02-Jun-2022</date>
+					<stockEntry>0.00</stockEntry>
+					<extraStockEntry>0.00</extraStockEntry>
+					<damageEntry>0.00</damageEntry>
+					<consumption>-643.00</consumption>
+					<stockAdjustment>0.00</stockAdjustment>
+					<unit>gm</unit>
+				</detail>
+				<detail>
+					<date>Wed, 01-Jun-2022</date>
+					<stockEntry>0.00</stockEntry>
+					<extraStockEntry>0.00</extraStockEntry>
+					<damageEntry>0.00</damageEntry>
+					<consumption>-351.00</consumption>
+					<stockAdjustment>0.00</stockAdjustment>
+					<unit>gm</unit>
+				</detail>
+			</details>
+			<totalConsumption>-1840.00</totalConsumption>
+			<totalEntry>0.00</totalEntry>
+			<stock>-1840.00</stock>
+		</item>
+		<item>
+			<itemId>IC--000156</itemId>
+			<itemName>Black Level</itemName>
+			<details>
+				<detail>
+					<date>Sun, 05-Jun-2022</date>
+					<stockEntry>0.00</stockEntry>
+					<extraStockEntry>0.00</extraStockEntry>
+					<damageEntry>0.00</damageEntry>
+					<consumption>-25.00</consumption>
+					<stockAdjustment>0.00</stockAdjustment>
+					<unit>Peg</unit>
+				</detail>
+				<detail>
+					<date>Sat, 04-Jun-2022</date>
+					<stockEntry>0.00</stockEntry>
+					<extraStockEntry>0.00</extraStockEntry>
+					<damageEntry>0.00</damageEntry>
+					<consumption>-8.00</consumption>
+					<stockAdjustment>0.00</stockAdjustment>
+					<unit>Peg</unit>
+				</detail>
+				<detail>
+					<date>Thu, 02-Jun-2022</date>
+					<stockEntry>0.00</stockEntry>
+					<extraStockEntry>0.00</extraStockEntry>
+					<damageEntry>0.00</damageEntry>
+					<consumption>-23.00</consumption>
+					<stockAdjustment>0.00</stockAdjustment>
+					<unit>Peg</unit>
+				</detail>
+				<detail>
+					<date>Wed, 01-Jun-2022</date>
+					<stockEntry>0.00</stockEntry>
+					<extraStockEntry>0.00</extraStockEntry>
+					<damageEntry>0.00</damageEntry>
+					<consumption>-16.00</consumption>
+					<stockAdjustment>0.00</stockAdjustment>
+					<unit>Peg</unit>
+				</detail>
+				<detail>
+					<date>Wed, 01-Jun-2022</date>
+					<stockEntry>225.00</stockEntry>
+					<extraStockEntry>0.00</extraStockEntry>
+					<damageEntry>0.00</damageEntry>
+					<consumption>0.00</consumption>
+					<stockAdjustment>0.00</stockAdjustment>
+					<unit>Peg</unit>
+				</detail>
+			</details>
+			<totalConsumption>-72.00</totalConsumption>
+			<totalEntry>225.00</totalEntry>
+			<stock>153.00</stock>
+		</item>
+		<item>
+			<itemId>IC--000030</itemId>
+			<itemName>Brown Egg</itemName>
+			<details>
+				<detail>
+					<date>Sun, 05-Jun-2022</date>
+					<stockEntry>0.00</stockEntry>
+					<extraStockEntry>0.00</extraStockEntry>
+					<damageEntry>0.00</damageEntry>
+					<consumption>-95.00</consumption>
+					<stockAdjustment>0.00</stockAdjustment>
+					<unit>pcs</unit>
+				</detail>
+				<detail>
+					<date>Sun, 05-Jun-2022</date>
+					<stockEntry>30.00</stockEntry>
+					<extraStockEntry>0.00</extraStockEntry>
+					<damageEntry>0.00</damageEntry>
+					<consumption>0.00</consumption>
+					<stockAdjustment>0.00</stockAdjustment>
+					<unit>pcs</unit>
+				</detail>
+				<detail>
+					<date>Sat, 04-Jun-2022</date>
+					<stockEntry>0.00</stockEntry>
+					<extraStockEntry>0.00</extraStockEntry>
+					<damageEntry>0.00</damageEntry>
+					<consumption>-88.00</consumption>
+					<stockAdjustment>0.00</stockAdjustment>
+					<unit>pcs</unit>
+				</detail>
+				<detail>
+					<date>Sat, 04-Jun-2022</date>
+					<stockEntry>60.00</stockEntry>
+					<extraStockEntry>0.00</extraStockEntry>
+					<damageEntry>0.00</damageEntry>
+					<consumption>0.00</consumption>
+					<stockAdjustment>0.00</stockAdjustment>
+					<unit>pcs</unit>
+				</detail>
+				<detail>
+					<date>Thu, 02-Jun-2022</date>
+					<stockEntry>0.00</stockEntry>
+					<extraStockEntry>0.00</extraStockEntry>
+					<damageEntry>0.00</damageEntry>
+					<consumption>-146.00</consumption>
+					<stockAdjustment>0.00</stockAdjustment>
+					<unit>pcs</unit>
+				</detail>
+				<detail>
+					<date>Thu, 02-Jun-2022</date>
+					<stockEntry>60.00</stockEntry>
+					<extraStockEntry>0.00</extraStockEntry>
+					<damageEntry>0.00</damageEntry>
+					<consumption>0.00</consumption>
+					<stockAdjustment>0.00</stockAdjustment>
+					<unit>pcs</unit>
+				</detail>
+				<detail>
+					<date>Wed, 01-Jun-2022</date>
+					<stockEntry>0.00</stockEntry>
+					<extraStockEntry>0.00</extraStockEntry>
+					<damageEntry>0.00</damageEntry>
+					<consumption>-81.00</consumption>
+					<stockAdjustment>0.00</stockAdjustment>
+					<unit>pcs</unit>
+				</detail>
+				<detail>
+					<date>Wed, 01-Jun-2022</date>
+					<stockEntry>30.00</stockEntry>
+					<extraStockEntry>0.00</extraStockEntry>
+					<damageEntry>0.00</damageEntry>
+					<consumption>0.00</consumption>
+					<stockAdjustment>0.00</stockAdjustment>
+					<unit>pcs</unit>
+				</detail>
+			</details>
+			<totalConsumption>-410.00</totalConsumption>
+			<totalEntry>180.00</totalEntry>
+			<stock>-230.00</stock>
+		</item>
+		<item>
+			<itemId>IC--000151</itemId>
+			<itemName>Normal Vodka</itemName>
+			<details>
+				<detail>
+					<date>Sun, 05-Jun-2022</date>
+					<stockEntry>0.00</stockEntry>
+					<extraStockEntry>0.00</extraStockEntry>
+					<damageEntry>0.00</damageEntry>
+					<consumption>-1.00</consumption>
+					<stockAdjustment>0.00</stockAdjustment>
+					<unit>Peg</unit>
+				</detail>
+				<detail>
+					<date>Sat, 04-Jun-2022</date>
+					<stockEntry>0.00</stockEntry>
+					<extraStockEntry>0.00</extraStockEntry>
+					<damageEntry>0.00</damageEntry>
+					<consumption>-70.00</consumption>
+					<stockAdjustment>0.00</stockAdjustment>
+					<unit>Peg</unit>
+				</detail>
+				<detail>
+					<date>Thu, 02-Jun-2022</date>
+					<stockEntry>0.00</stockEntry>
+					<extraStockEntry>0.00</extraStockEntry>
+					<damageEntry>0.00</damageEntry>
+					<consumption>-21.00</consumption>
+					<stockAdjustment>0.00</stockAdjustment>
+					<unit>Peg</unit>
+				</detail>
+				<detail>
+					<date>Wed, 01-Jun-2022</date>
+					<stockEntry>0.00</stockEntry>
+					<extraStockEntry>0.00</extraStockEntry>
+					<damageEntry>0.00</damageEntry>
+					<consumption>-9.00</consumption>
+					<stockAdjustment>0.00</stockAdjustment>
+					<unit>Peg</unit>
+				</detail>
+			</details>
+			<totalConsumption>-101.00</totalConsumption>
+			<totalEntry>0.00</totalEntry>
+			<stock>-101.00</stock>
+		</item>
+		<item>
+			<itemId>IC--000150</itemId>
+			<itemName>Normal Whisky</itemName>
+			<details>
+				<detail>
+					<date>Sun, 05-Jun-2022</date>
+					<stockEntry>0.00</stockEntry>
+					<extraStockEntry>0.00</extraStockEntry>
+					<damageEntry>0.00</damageEntry>
+					<consumption>-212.00</consumption>
+					<stockAdjustment>0.00</stockAdjustment>
+					<unit>Peg</unit>
+				</detail>
+				<detail>
+					<date>Sat, 04-Jun-2022</date>
+					<stockEntry>0.00</stockEntry>
+					<extraStockEntry>0.00</extraStockEntry>
+					<damageEntry>0.00</damageEntry>
+					<consumption>-275.00</consumption>
+					<stockAdjustment>0.00</stockAdjustment>
+					<unit>Peg</unit>
+				</detail>
+				<detail>
+					<date>Thu, 02-Jun-2022</date>
+					<stockEntry>0.00</stockEntry>
+					<extraStockEntry>0.00</extraStockEntry>
+					<damageEntry>0.00</damageEntry>
+					<consumption>-423.00</consumption>
+					<stockAdjustment>0.00</stockAdjustment>
+					<unit>Peg</unit>
+				</detail>
+				<detail>
+					<date>Wed, 01-Jun-2022</date>
+					<stockEntry>0.00</stockEntry>
+					<extraStockEntry>0.00</extraStockEntry>
+					<damageEntry>0.00</damageEntry>
+					<consumption>-227.00</consumption>
+					<stockAdjustment>0.00</stockAdjustment>
+					<unit>Peg</unit>
+				</detail>
+				<detail>
+					<date>Wed, 01-Jun-2022</date>
+					<stockEntry>1750.00</stockEntry>
+					<extraStockEntry>0.00</extraStockEntry>
+					<damageEntry>0.00</damageEntry>
+					<consumption>0.00</consumption>
+					<stockAdjustment>0.00</stockAdjustment>
+					<unit>Peg</unit>
+				</detail>
+			</details>
+			<totalConsumption>-1137.00</totalConsumption>
+			<totalEntry>1750.00</totalEntry>
+			<stock>613.00</stock>
+		</item>
+		<item>
+			<itemId>IC--000039</itemId>
+			<itemName>Turmeric (Halud)</itemName>
+			<details>
+				<detail>
+					<date>Sun, 05-Jun-2022</date>
+					<stockEntry>0.00</stockEntry>
+					<extraStockEntry>0.00</extraStockEntry>
+					<damageEntry>0.00</damageEntry>
+					<consumption>-30.00</consumption>
+					<stockAdjustment>0.00</stockAdjustment>
+					<unit>gm</unit>
+				</detail>
+				<detail>
+					<date>Sat, 04-Jun-2022</date>
+					<stockEntry>0.00</stockEntry>
+					<extraStockEntry>0.00</extraStockEntry>
+					<damageEntry>0.00</damageEntry>
+					<consumption>-29.00</consumption>
+					<stockAdjustment>0.00</stockAdjustment>
+					<unit>gm</unit>
+				</detail>
+				<detail>
+					<date>Thu, 02-Jun-2022</date>
+					<stockEntry>0.00</stockEntry>
+					<extraStockEntry>0.00</extraStockEntry>
+					<damageEntry>0.00</damageEntry>
+					<consumption>-53.00</consumption>
+					<stockAdjustment>0.00</stockAdjustment>
+					<unit>gm</unit>
+				</detail>
+				<detail>
+					<date>Wed, 01-Jun-2022</date>
+					<stockEntry>0.00</stockEntry>
+					<extraStockEntry>0.00</extraStockEntry>
+					<damageEntry>0.00</damageEntry>
+					<consumption>-26.00</consumption>
+					<stockAdjustment>0.00</stockAdjustment>
+					<unit>gm</unit>
+				</detail>
+			</details>
+			<totalConsumption>-138.00</totalConsumption>
+			<totalEntry>0.00</totalEntry>
+			<stock>-138.00</stock>
+		</item>
+		<item>
+			<itemId>IC--000045</itemId>
+			<itemName>Corn Flour</itemName>
+			<details>
+				<detail>
+					<date>Thu, 02-Jun-2022</date>
+					<stockEntry>0.00</stockEntry>
+					<extraStockEntry>0.00</extraStockEntry>
+					<damageEntry>0.00</damageEntry>
+					<consumption>-380.00</consumption>
+					<stockAdjustment>0.00</stockAdjustment>
+					<unit>gm</unit>
+				</detail>
+			</details>
+			<totalConsumption>-380.00</totalConsumption>
+			<totalEntry>0.00</totalEntry>
+			<stock>-380.00</stock>
+		</item>
+		<item>
+			<itemId>IC--000165</itemId>
+			<itemName>Hunter Beer (can)</itemName>
+			<details>
+				<detail>
+					<date>Sun, 05-Jun-2022</date>
+					<stockEntry>0.00</stockEntry>
+					<extraStockEntry>0.00</extraStockEntry>
+					<damageEntry>0.00</damageEntry>
+					<consumption>-141.00</consumption>
+					<stockAdjustment>0.00</stockAdjustment>
+					<unit>pcs</unit>
+				</detail>
+				<detail>
+					<date>Sat, 04-Jun-2022</date>
+					<stockEntry>0.00</stockEntry>
+					<extraStockEntry>0.00</extraStockEntry>
+					<damageEntry>0.00</damageEntry>
+					<consumption>-226.00</consumption>
+					<stockAdjustment>0.00</stockAdjustment>
+					<unit>pcs</unit>
+				</detail>
+				<detail>
+					<date>Thu, 02-Jun-2022</date>
+					<stockEntry>0.00</stockEntry>
+					<extraStockEntry>0.00</extraStockEntry>
+					<damageEntry>0.00</damageEntry>
+					<consumption>-296.00</consumption>
+					<stockAdjustment>0.00</stockAdjustment>
+					<unit>pcs</unit>
+				</detail>
+				<detail>
+					<date>Wed, 01-Jun-2022</date>
+					<stockEntry>0.00</stockEntry>
+					<extraStockEntry>0.00</extraStockEntry>
+					<damageEntry>0.00</damageEntry>
+					<consumption>-167.00</consumption>
+					<stockAdjustment>0.00</stockAdjustment>
+					<unit>pcs</unit>
+				</detail>
+			</details>
+			<totalConsumption>-830.00</totalConsumption>
+			<totalEntry>0.00</totalEntry>
+			<stock>-830.00</stock>
+		</item>
+		<item>
+			<itemId>IC--000043</itemId>
+			<itemName>Thai Ginger (Thai Ada)</itemName>
+			<details>
+				<detail>
+					<date>Sun, 05-Jun-2022</date>
+					<stockEntry>0.00</stockEntry>
+					<extraStockEntry>0.00</extraStockEntry>
+					<damageEntry>0.00</damageEntry>
+					<consumption>-25.00</consumption>
+					<stockAdjustment>0.00</stockAdjustment>
+					<unit>gm</unit>
+				</detail>
+				<detail>
+					<date>Sat, 04-Jun-2022</date>
+					<stockEntry>0.00</stockEntry>
+					<extraStockEntry>0.00</extraStockEntry>
+					<damageEntry>0.00</damageEntry>
+					<consumption>-50.00</consumption>
+					<stockAdjustment>0.00</stockAdjustment>
+					<unit>gm</unit>
+				</detail>
+				<detail>
+					<date>Thu, 02-Jun-2022</date>
+					<stockEntry>0.00</stockEntry>
+					<extraStockEntry>0.00</extraStockEntry>
+					<damageEntry>0.00</damageEntry>
+					<consumption>-55.00</consumption>
+					<stockAdjustment>0.00</stockAdjustment>
+					<unit>gm</unit>
+				</detail>
+				<detail>
+					<date>Wed, 01-Jun-2022</date>
+					<stockEntry>0.00</stockEntry>
+					<extraStockEntry>0.00</extraStockEntry>
+					<damageEntry>0.00</damageEntry>
+					<consumption>-55.00</consumption>
+					<stockAdjustment>0.00</stockAdjustment>
+					<unit>gm</unit>
+				</detail>
+			</details>
+			<totalConsumption>-185.00</totalConsumption>
+			<totalEntry>0.00</totalEntry>
+			<stock>-185.00</stock>
+		</item>
+		<item>
+			<itemId>IC--000164</itemId>
+			<itemName>Brandy</itemName>
+			<details>
+				<detail>
+					<date>Sat, 04-Jun-2022</date>
+					<stockEntry>0.00</stockEntry>
+					<extraStockEntry>0.00</extraStockEntry>
+					<damageEntry>0.00</damageEntry>
+					<consumption>-4.00</consumption>
+					<stockAdjustment>0.00</stockAdjustment>
+					<unit>Peg</unit>
+				</detail>
+				<detail>
+					<date>Thu, 02-Jun-2022</date>
+					<stockEntry>0.00</stockEntry>
+					<extraStockEntry>0.00</extraStockEntry>
+					<damageEntry>0.00</damageEntry>
+					<consumption>-1.00</consumption>
+					<stockAdjustment>0.00</stockAdjustment>
+					<unit>Peg</unit>
+				</detail>
+			</details>
+			<totalConsumption>-5.00</totalConsumption>
+			<totalEntry>0.00</totalEntry>
+			<stock>-5.00</stock>
+		</item>
+		<item>
+			<itemId>IC--000042</itemId>
+			<itemName>Ginger (Ada)</itemName>
+			<details>
+				<detail>
+					<date>Sun, 05-Jun-2022</date>
+					<stockEntry>0.00</stockEntry>
+					<extraStockEntry>0.00</extraStockEntry>
+					<damageEntry>0.00</damageEntry>
+					<consumption>-225.00</consumption>
+					<stockAdjustment>0.00</stockAdjustment>
+					<unit>gm</unit>
+				</detail>
+				<detail>
+					<date>Sat, 04-Jun-2022</date>
+					<stockEntry>0.00</stockEntry>
+					<extraStockEntry>0.00</extraStockEntry>
+					<damageEntry>0.00</damageEntry>
+					<consumption>-375.00</consumption>
+					<stockAdjustment>0.00</stockAdjustment>
+					<unit>gm</unit>
+				</detail>
+				<detail>
+					<date>Sat, 04-Jun-2022</date>
+					<stockEntry>3000.00</stockEntry>
+					<extraStockEntry>0.00</extraStockEntry>
+					<damageEntry>0.00</damageEntry>
+					<consumption>0.00</consumption>
+					<stockAdjustment>0.00</stockAdjustment>
+					<unit>gm</unit>
+				</detail>
+				<detail>
+					<date>Thu, 02-Jun-2022</date>
+					<stockEntry>0.00</stockEntry>
+					<extraStockEntry>0.00</extraStockEntry>
+					<damageEntry>0.00</damageEntry>
+					<consumption>-545.00</consumption>
+					<stockAdjustment>0.00</stockAdjustment>
+					<unit>gm</unit>
+				</detail>
+				<detail>
+					<date>Thu, 02-Jun-2022</date>
+					<stockEntry>1000.00</stockEntry>
+					<extraStockEntry>0.00</extraStockEntry>
+					<damageEntry>0.00</damageEntry>
+					<consumption>0.00</consumption>
+					<stockAdjustment>0.00</stockAdjustment>
+					<unit>gm</unit>
+				</detail>
+				<detail>
+					<date>Wed, 01-Jun-2022</date>
+					<stockEntry>0.00</stockEntry>
+					<extraStockEntry>0.00</extraStockEntry>
+					<damageEntry>0.00</damageEntry>
+					<consumption>-285.00</consumption>
+					<stockAdjustment>0.00</stockAdjustment>
+					<unit>gm</unit>
+				</detail>
+			</details>
+			<totalConsumption>-1430.00</totalConsumption>
+			<totalEntry>4000.00</totalEntry>
+			<stock>2570.00</stock>
+		</item>
+		<item>
+			<itemId>IC--000163</itemId>
+			<itemName>Absolute Vodka</itemName>
+			<details>
+				<detail>
+					<date>Sun, 05-Jun-2022</date>
+					<stockEntry>0.00</stockEntry>
+					<extraStockEntry>0.00</extraStockEntry>
+					<damageEntry>0.00</damageEntry>
+					<consumption>-1.00</consumption>
+					<stockAdjustment>0.00</stockAdjustment>
+					<unit>Peg</unit>
+				</detail>
+				<detail>
+					<date>Thu, 02-Jun-2022</date>
+					<stockEntry>0.00</stockEntry>
+					<extraStockEntry>0.00</extraStockEntry>
+					<damageEntry>0.00</damageEntry>
+					<consumption>-45.00</consumption>
+					<stockAdjustment>0.00</stockAdjustment>
+					<unit>Peg</unit>
+				</detail>
+			</details>
+			<totalConsumption>-46.00</totalConsumption>
+			<totalEntry>0.00</totalEntry>
+			<stock>-46.00</stock>
+		</item>
+		<item>
+			<itemId>IC--000048</itemId>
+			<itemName>Daruchini</itemName>
+			<details>
+				<detail>
+					<date>Sun, 05-Jun-2022</date>
+					<stockEntry>0.00</stockEntry>
+					<extraStockEntry>0.00</extraStockEntry>
+					<damageEntry>0.00</damageEntry>
+					<consumption>-8.00</consumption>
+					<stockAdjustment>0.00</stockAdjustment>
+					<unit>gm</unit>
+				</detail>
+				<detail>
+					<date>Sat, 04-Jun-2022</date>
+					<stockEntry>0.00</stockEntry>
+					<extraStockEntry>0.00</extraStockEntry>
+					<damageEntry>0.00</damageEntry>
+					<consumption>-5.00</consumption>
+					<stockAdjustment>0.00</stockAdjustment>
+					<unit>gm</unit>
+				</detail>
+				<detail>
+					<date>Thu, 02-Jun-2022</date>
+					<stockEntry>0.00</stockEntry>
+					<extraStockEntry>0.00</extraStockEntry>
+					<damageEntry>0.00</damageEntry>
+					<consumption>-8.00</consumption>
+					<stockAdjustment>0.00</stockAdjustment>
+					<unit>gm</unit>
+				</detail>
+				<detail>
+					<date>Wed, 01-Jun-2022</date>
+					<stockEntry>0.00</stockEntry>
+					<extraStockEntry>0.00</extraStockEntry>
+					<damageEntry>0.00</damageEntry>
+					<consumption>-9.00</consumption>
+					<stockAdjustment>0.00</stockAdjustment>
+					<unit>gm</unit>
+				</detail>
+			</details>
+			<totalConsumption>-30.00</totalConsumption>
+			<totalEntry>0.00</totalEntry>
+			<stock>-30.00</stock>
+		</item>
+		<item>
+			<itemId>IC--000169</itemId>
+			<itemName>Dhonia Pata</itemName>
+			<details>
+				<detail>
+					<date>Sun, 05-Jun-2022</date>
+					<stockEntry>0.00</stockEntry>
+					<extraStockEntry>0.00</extraStockEntry>
+					<damageEntry>0.00</damageEntry>
+					<consumption>-494.00</consumption>
+					<stockAdjustment>0.00</stockAdjustment>
+					<unit>gm</unit>
+				</detail>
+				<detail>
+					<date>Sun, 05-Jun-2022</date>
+					<stockEntry>1000.00</stockEntry>
+					<extraStockEntry>0.00</extraStockEntry>
+					<damageEntry>0.00</damageEntry>
+					<consumption>0.00</consumption>
+					<stockAdjustment>0.00</stockAdjustment>
+					<unit>gm</unit>
+				</detail>
+				<detail>
+					<date>Sat, 04-Jun-2022</date>
+					<stockEntry>0.00</stockEntry>
+					<extraStockEntry>0.00</extraStockEntry>
+					<damageEntry>0.00</damageEntry>
+					<consumption>-558.00</consumption>
+					<stockAdjustment>0.00</stockAdjustment>
+					<unit>gm</unit>
+				</detail>
+				<detail>
+					<date>Sat, 04-Jun-2022</date>
+					<stockEntry>1500.00</stockEntry>
+					<extraStockEntry>0.00</extraStockEntry>
+					<damageEntry>0.00</damageEntry>
+					<consumption>0.00</consumption>
+					<stockAdjustment>0.00</stockAdjustment>
+					<unit>gm</unit>
+				</detail>
+				<detail>
+					<date>Thu, 02-Jun-2022</date>
+					<stockEntry>0.00</stockEntry>
+					<extraStockEntry>0.00</extraStockEntry>
+					<damageEntry>0.00</damageEntry>
+					<consumption>-1037.00</consumption>
+					<stockAdjustment>0.00</stockAdjustment>
+					<unit>gm</unit>
+				</detail>
+				<detail>
+					<date>Thu, 02-Jun-2022</date>
+					<stockEntry>1000.00</stockEntry>
+					<extraStockEntry>0.00</extraStockEntry>
+					<damageEntry>0.00</damageEntry>
+					<consumption>0.00</consumption>
+					<stockAdjustment>0.00</stockAdjustment>
+					<unit>gm</unit>
+				</detail>
+				<detail>
+					<date>Wed, 01-Jun-2022</date>
+					<stockEntry>0.00</stockEntry>
+					<extraStockEntry>0.00</extraStockEntry>
+					<damageEntry>0.00</damageEntry>
+					<consumption>-662.00</consumption>
+					<stockAdjustment>0.00</stockAdjustment>
+					<unit>gm</unit>
+				</detail>
+				<detail>
+					<date>Wed, 01-Jun-2022</date>
+					<stockEntry>1000.00</stockEntry>
+					<extraStockEntry>0.00</extraStockEntry>
+					<damageEntry>0.00</damageEntry>
+					<consumption>0.00</consumption>
+					<stockAdjustment>0.00</stockAdjustment>
+					<unit>gm</unit>
+				</detail>
+			</details>
+			<totalConsumption>-2751.00</totalConsumption>
+			<totalEntry>4500.00</totalEntry>
+			<stock>1749.00</stock>
+		</item>
+		<item>
+			<itemId>IC--000047</itemId>
+			<itemName>Elach</itemName>
+			<details>
+				<detail>
+					<date>Sun, 05-Jun-2022</date>
+					<stockEntry>0.00</stockEntry>
+					<extraStockEntry>0.00</extraStockEntry>
+					<damageEntry>0.00</damageEntry>
+					<consumption>-8.00</consumption>
+					<stockAdjustment>0.00</stockAdjustment>
+					<unit>gm</unit>
+				</detail>
+				<detail>
+					<date>Sat, 04-Jun-2022</date>
+					<stockEntry>0.00</stockEntry>
+					<extraStockEntry>0.00</extraStockEntry>
+					<damageEntry>0.00</damageEntry>
+					<consumption>-5.00</consumption>
+					<stockAdjustment>0.00</stockAdjustment>
+					<unit>gm</unit>
+				</detail>
+				<detail>
+					<date>Thu, 02-Jun-2022</date>
+					<stockEntry>0.00</stockEntry>
+					<extraStockEntry>0.00</extraStockEntry>
+					<damageEntry>0.00</damageEntry>
+					<consumption>-8.00</consumption>
+					<stockAdjustment>0.00</stockAdjustment>
+					<unit>gm</unit>
+				</detail>
+				<detail>
+					<date>Wed, 01-Jun-2022</date>
+					<stockEntry>0.00</stockEntry>
+					<extraStockEntry>0.00</extraStockEntry>
+					<damageEntry>0.00</damageEntry>
+					<consumption>-9.00</consumption>
+					<stockAdjustment>0.00</stockAdjustment>
+					<unit>gm</unit>
+				</detail>
+			</details>
+			<totalConsumption>-30.00</totalConsumption>
+			<totalEntry>0.00</totalEntry>
+			<stock>-30.00</stock>
+		</item>
+		<item>
+			<itemId>IC--000046</itemId>
+			<itemName>Mustered Oil</itemName>
+			<details>
+				<detail>
+					<date>Sun, 05-Jun-2022</date>
+					<stockEntry>0.00</stockEntry>
+					<extraStockEntry>0.00</extraStockEntry>
+					<damageEntry>0.00</damageEntry>
+					<consumption>-200.00</consumption>
+					<stockAdjustment>0.00</stockAdjustment>
+					<unit>gm</unit>
+				</detail>
+				<detail>
+					<date>Sat, 04-Jun-2022</date>
+					<stockEntry>0.00</stockEntry>
+					<extraStockEntry>0.00</extraStockEntry>
+					<damageEntry>0.00</damageEntry>
+					<consumption>-390.00</consumption>
+					<stockAdjustment>0.00</stockAdjustment>
+					<unit>gm</unit>
+				</detail>
+				<detail>
+					<date>Thu, 02-Jun-2022</date>
+					<stockEntry>0.00</stockEntry>
+					<extraStockEntry>0.00</extraStockEntry>
+					<damageEntry>0.00</damageEntry>
+					<consumption>-710.00</consumption>
+					<stockAdjustment>0.00</stockAdjustment>
+					<unit>gm</unit>
+				</detail>
+				<detail>
+					<date>Wed, 01-Jun-2022</date>
+					<stockEntry>0.00</stockEntry>
+					<extraStockEntry>0.00</extraStockEntry>
+					<damageEntry>0.00</damageEntry>
+					<consumption>-280.00</consumption>
+					<stockAdjustment>0.00</stockAdjustment>
+					<unit>gm</unit>
+				</detail>
+			</details>
+			<totalConsumption>-1580.00</totalConsumption>
+			<totalEntry>0.00</totalEntry>
+			<stock>-1580.00</stock>
+		</item>
+		<item>
+			<itemId>IC--000167</itemId>
+			<itemName>Carew (Whisky/Vodka/Brandy/Orange) Small</itemName>
+			<details>
+				<detail>
+					<date>Sun, 05-Jun-2022</date>
+					<stockEntry>0.00</stockEntry>
+					<extraStockEntry>0.00</extraStockEntry>
+					<damageEntry>0.00</damageEntry>
+					<consumption>-3.00</consumption>
+					<stockAdjustment>0.00</stockAdjustment>
+					<unit>pcs</unit>
+				</detail>
+				<detail>
+					<date>Sat, 04-Jun-2022</date>
+					<stockEntry>0.00</stockEntry>
+					<extraStockEntry>0.00</extraStockEntry>
+					<damageEntry>0.00</damageEntry>
+					<consumption>-2.00</consumption>
+					<stockAdjustment>0.00</stockAdjustment>
+					<unit>pcs</unit>
+				</detail>
+				<detail>
+					<date>Thu, 02-Jun-2022</date>
+					<stockEntry>0.00</stockEntry>
+					<extraStockEntry>0.00</extraStockEntry>
+					<damageEntry>0.00</damageEntry>
+					<consumption>-2.00</consumption>
+					<stockAdjustment>0.00</stockAdjustment>
+					<unit>pcs</unit>
+				</detail>
+				<detail>
+					<date>Thu, 02-Jun-2022</date>
+					<stockEntry>96.00</stockEntry>
+					<extraStockEntry>0.00</extraStockEntry>
+					<damageEntry>0.00</damageEntry>
+					<consumption>0.00</consumption>
+					<stockAdjustment>0.00</stockAdjustment>
+					<unit>pcs</unit>
+				</detail>
+				<detail>
+					<date>Wed, 01-Jun-2022</date>
+					<stockEntry>0.00</stockEntry>
+					<extraStockEntry>0.00</extraStockEntry>
+					<damageEntry>0.00</damageEntry>
+					<consumption>0.00</consumption>
+					<stockAdjustment>0.00</stockAdjustment>
+					<unit>pcs</unit>
+				</detail>
+			</details>
+			<totalConsumption>-7.00</totalConsumption>
+			<totalEntry>96.00</totalEntry>
+			<stock>89.00</stock>
+		</item>
+		<item>
+			<itemId>IC--000041</itemId>
+			<itemName>Garlic (Rasun)</itemName>
+			<details>
+				<detail>
+					<date>Sun, 05-Jun-2022</date>
+					<stockEntry>0.00</stockEntry>
+					<extraStockEntry>0.00</extraStockEntry>
+					<damageEntry>0.00</damageEntry>
+					<consumption>-305.00</consumption>
+					<stockAdjustment>0.00</stockAdjustment>
+					<unit>gm</unit>
+				</detail>
+				<detail>
+					<date>Sat, 04-Jun-2022</date>
+					<stockEntry>0.00</stockEntry>
+					<extraStockEntry>0.00</extraStockEntry>
+					<damageEntry>0.00</damageEntry>
+					<consumption>-420.00</consumption>
+					<stockAdjustment>0.00</stockAdjustment>
+					<unit>gm</unit>
+				</detail>
+				<detail>
+					<date>Sat, 04-Jun-2022</date>
+					<stockEntry>2000.00</stockEntry>
+					<extraStockEntry>0.00</extraStockEntry>
+					<damageEntry>0.00</damageEntry>
+					<consumption>0.00</consumption>
+					<stockAdjustment>0.00</stockAdjustment>
+					<unit>gm</unit>
+				</detail>
+				<detail>
+					<date>Thu, 02-Jun-2022</date>
+					<stockEntry>0.00</stockEntry>
+					<extraStockEntry>0.00</extraStockEntry>
+					<damageEntry>0.00</damageEntry>
+					<consumption>-710.00</consumption>
+					<stockAdjustment>0.00</stockAdjustment>
+					<unit>gm</unit>
+				</detail>
+				<detail>
+					<date>Wed, 01-Jun-2022</date>
+					<stockEntry>0.00</stockEntry>
+					<extraStockEntry>0.00</extraStockEntry>
+					<damageEntry>0.00</damageEntry>
+					<consumption>-410.00</consumption>
+					<stockAdjustment>0.00</stockAdjustment>
+					<unit>gm</unit>
+				</detail>
+				<detail>
+					<date>Wed, 01-Jun-2022</date>
+					<stockEntry>2000.00</stockEntry>
+					<extraStockEntry>0.00</extraStockEntry>
+					<damageEntry>0.00</damageEntry>
+					<consumption>0.00</consumption>
+					<stockAdjustment>0.00</stockAdjustment>
+					<unit>gm</unit>
+				</detail>
+			</details>
+			<totalConsumption>-1845.00</totalConsumption>
+			<totalEntry>4000.00</totalEntry>
+			<stock>2155.00</stock>
+		</item>
+		<item>
+			<itemId>IC--000162</itemId>
+			<itemName>Rum</itemName>
+			<details>
+				<detail>
+					<date>Thu, 02-Jun-2022</date>
+					<stockEntry>0.00</stockEntry>
+					<extraStockEntry>0.00</extraStockEntry>
+					<damageEntry>0.00</damageEntry>
+					<consumption>-1.00</consumption>
+					<stockAdjustment>0.00</stockAdjustment>
+					<unit>Peg</unit>
+				</detail>
+			</details>
+			<totalConsumption>-1.00</totalConsumption>
+			<totalEntry>0.00</totalEntry>
+			<stock>-1.00</stock>
+		</item>
+		<item>
+			<itemId>IC--000040</itemId>
+			<itemName>Onion (Peyaj)</itemName>
+			<details>
+				<detail>
+					<date>Sun, 05-Jun-2022</date>
+					<stockEntry>0.00</stockEntry>
+					<extraStockEntry>0.00</extraStockEntry>
+					<damageEntry>0.00</damageEntry>
+					<consumption>-3898.00</consumption>
+					<stockAdjustment>0.00</stockAdjustment>
+					<unit>gm</unit>
+				</detail>
+				<detail>
+					<date>Sun, 05-Jun-2022</date>
+					<stockEntry>13000.00</stockEntry>
+					<extraStockEntry>0.00</extraStockEntry>
+					<damageEntry>0.00</damageEntry>
+					<consumption>0.00</consumption>
+					<stockAdjustment>0.00</stockAdjustment>
+					<unit>gm</unit>
+				</detail>
+				<detail>
+					<date>Sat, 04-Jun-2022</date>
+					<stockEntry>0.00</stockEntry>
+					<extraStockEntry>0.00</extraStockEntry>
+					<damageEntry>0.00</damageEntry>
+					<consumption>-4337.00</consumption>
+					<stockAdjustment>0.00</stockAdjustment>
+					<unit>gm</unit>
+				</detail>
+				<detail>
+					<date>Sat, 04-Jun-2022</date>
+					<stockEntry>15000.00</stockEntry>
+					<extraStockEntry>0.00</extraStockEntry>
+					<damageEntry>0.00</damageEntry>
+					<consumption>0.00</consumption>
+					<stockAdjustment>0.00</stockAdjustment>
+					<unit>gm</unit>
+				</detail>
+				<detail>
+					<date>Thu, 02-Jun-2022</date>
+					<stockEntry>0.00</stockEntry>
+					<extraStockEntry>0.00</extraStockEntry>
+					<damageEntry>0.00</damageEntry>
+					<consumption>-7464.00</consumption>
+					<stockAdjustment>0.00</stockAdjustment>
+					<unit>gm</unit>
+				</detail>
+				<detail>
+					<date>Thu, 02-Jun-2022</date>
+					<stockEntry>13000.00</stockEntry>
+					<extraStockEntry>0.00</extraStockEntry>
+					<damageEntry>0.00</damageEntry>
+					<consumption>0.00</consumption>
+					<stockAdjustment>0.00</stockAdjustment>
+					<unit>gm</unit>
+				</detail>
+				<detail>
+					<date>Wed, 01-Jun-2022</date>
+					<stockEntry>0.00</stockEntry>
+					<extraStockEntry>0.00</extraStockEntry>
+					<damageEntry>0.00</damageEntry>
+					<consumption>-5093.00</consumption>
+					<stockAdjustment>0.00</stockAdjustment>
+					<unit>gm</unit>
+				</detail>
+				<detail>
+					<date>Wed, 01-Jun-2022</date>
+					<stockEntry>12000.00</stockEntry>
+					<extraStockEntry>0.00</extraStockEntry>
+					<damageEntry>0.00</damageEntry>
+					<consumption>0.00</consumption>
+					<stockAdjustment>0.00</stockAdjustment>
+					<unit>gm</unit>
+				</detail>
+			</details>
+			<totalConsumption>-20792.00</totalConsumption>
+			<totalEntry>53000.00</totalEntry>
+			<stock>32208.00</stock>
+		</item>
+		<item>
+			<itemId>IC--000204</itemId>
+			<itemName>Juice Packet</itemName>
+			<details>
+				<detail>
+					<date>Wed, 01-Jun-2022</date>
+					<stockEntry>0.00</stockEntry>
+					<extraStockEntry>0.00</extraStockEntry>
+					<damageEntry>0.00</damageEntry>
+					<consumption>-2.00</consumption>
+					<stockAdjustment>0.00</stockAdjustment>
+					<unit>pcs</unit>
+				</detail>
+			</details>
+			<totalConsumption>-2.00</totalConsumption>
+			<totalEntry>0.00</totalEntry>
+			<stock>-2.00</stock>
+		</item>
+		<item>
+			<itemId>IC--000056</itemId>
+			<itemName>Kabab Mashla</itemName>
+			<details>
+				<detail>
+					<date>Sun, 05-Jun-2022</date>
+					<stockEntry>0.00</stockEntry>
+					<extraStockEntry>0.00</extraStockEntry>
+					<damageEntry>0.00</damageEntry>
+					<consumption>-10.00</consumption>
+					<stockAdjustment>0.00</stockAdjustment>
+					<unit>gm</unit>
+				</detail>
+				<detail>
+					<date>Sat, 04-Jun-2022</date>
+					<stockEntry>0.00</stockEntry>
+					<extraStockEntry>0.00</extraStockEntry>
+					<damageEntry>0.00</damageEntry>
+					<consumption>-45.00</consumption>
+					<stockAdjustment>0.00</stockAdjustment>
+					<unit>gm</unit>
+				</detail>
+				<detail>
+					<date>Thu, 02-Jun-2022</date>
+					<stockEntry>0.00</stockEntry>
+					<extraStockEntry>0.00</extraStockEntry>
+					<damageEntry>0.00</damageEntry>
+					<consumption>-65.00</consumption>
+					<stockAdjustment>0.00</stockAdjustment>
+					<unit>gm</unit>
+				</detail>
+				<detail>
+					<date>Wed, 01-Jun-2022</date>
+					<stockEntry>0.00</stockEntry>
+					<extraStockEntry>0.00</extraStockEntry>
+					<damageEntry>0.00</damageEntry>
+					<consumption>-35.00</consumption>
+					<stockAdjustment>0.00</stockAdjustment>
+					<unit>gm</unit>
+				</detail>
+			</details>
+			<totalConsumption>-155.00</totalConsumption>
+			<totalEntry>0.00</totalEntry>
+			<stock>-155.00</stock>
+		</item>
+		<item>
+			<itemId>IC--000177</itemId>
+			<itemName>Ararot</itemName>
+			<details>
+				<detail>
+					<date>Sun, 05-Jun-2022</date>
+					<stockEntry>0.00</stockEntry>
+					<extraStockEntry>0.00</extraStockEntry>
+					<damageEntry>0.00</damageEntry>
+					<consumption>-648.00</consumption>
+					<stockAdjustment>0.00</stockAdjustment>
+					<unit>gm</unit>
+				</detail>
+				<detail>
+					<date>Sat, 04-Jun-2022</date>
+					<stockEntry>0.00</stockEntry>
+					<extraStockEntry>0.00</extraStockEntry>
+					<damageEntry>0.00</damageEntry>
+					<consumption>-510.00</consumption>
+					<stockAdjustment>0.00</stockAdjustment>
+					<unit>gm</unit>
+				</detail>
+				<detail>
+					<date>Thu, 02-Jun-2022</date>
+					<stockEntry>0.00</stockEntry>
+					<extraStockEntry>0.00</extraStockEntry>
+					<damageEntry>0.00</damageEntry>
+					<consumption>-393.00</consumption>
+					<stockAdjustment>0.00</stockAdjustment>
+					<unit>gm</unit>
+				</detail>
+				<detail>
+					<date>Wed, 01-Jun-2022</date>
+					<stockEntry>0.00</stockEntry>
+					<extraStockEntry>0.00</extraStockEntry>
+					<damageEntry>0.00</damageEntry>
+					<consumption>-467.00</consumption>
+					<stockAdjustment>0.00</stockAdjustment>
+					<unit>gm</unit>
+				</detail>
+			</details>
+			<totalConsumption>-2018.00</totalConsumption>
+			<totalEntry>0.00</totalEntry>
+			<stock>-2018.00</stock>
+		</item>
+		<item>
+			<itemId>IC--000176</itemId>
+			<itemName>Tez Pata</itemName>
+			<details>
+				<detail>
+					<date>Sun, 05-Jun-2022</date>
+					<stockEntry>0.00</stockEntry>
+					<extraStockEntry>0.00</extraStockEntry>
+					<damageEntry>0.00</damageEntry>
+					<consumption>-8.00</consumption>
+					<stockAdjustment>0.00</stockAdjustment>
+					<unit>gm</unit>
+				</detail>
+				<detail>
+					<date>Sat, 04-Jun-2022</date>
+					<stockEntry>0.00</stockEntry>
+					<extraStockEntry>0.00</extraStockEntry>
+					<damageEntry>0.00</damageEntry>
+					<consumption>-5.00</consumption>
+					<stockAdjustment>0.00</stockAdjustment>
+					<unit>gm</unit>
+				</detail>
+				<detail>
+					<date>Thu, 02-Jun-2022</date>
+					<stockEntry>0.00</stockEntry>
+					<extraStockEntry>0.00</extraStockEntry>
+					<damageEntry>0.00</damageEntry>
+					<consumption>-8.00</consumption>
+					<stockAdjustment>0.00</stockAdjustment>
+					<unit>gm</unit>
+				</detail>
+				<detail>
+					<date>Wed, 01-Jun-2022</date>
+					<stockEntry>0.00</stockEntry>
+					<extraStockEntry>0.00</extraStockEntry>
+					<damageEntry>0.00</damageEntry>
+					<consumption>-9.00</consumption>
+					<stockAdjustment>0.00</stockAdjustment>
+					<unit>gm</unit>
+				</detail>
+			</details>
+			<totalConsumption>-30.00</totalConsumption>
+			<totalEntry>0.00</totalEntry>
+			<stock>-30.00</stock>
+		</item>
+		<item>
+			<itemId>IC--000054</itemId>
+			<itemName>Yeast</itemName>
+			<details>
+				<detail>
+					<date>Sun, 05-Jun-2022</date>
+					<stockEntry>0.00</stockEntry>
+					<extraStockEntry>0.00</extraStockEntry>
+					<damageEntry>0.00</damageEntry>
+					<consumption>-33.00</consumption>
+					<stockAdjustment>0.00</stockAdjustment>
+					<unit>gm</unit>
+				</detail>
+				<detail>
+					<date>Sat, 04-Jun-2022</date>
+					<stockEntry>0.00</stockEntry>
+					<extraStockEntry>0.00</extraStockEntry>
+					<damageEntry>0.00</damageEntry>
+					<consumption>-13.00</consumption>
+					<stockAdjustment>0.00</stockAdjustment>
+					<unit>gm</unit>
+				</detail>
+				<detail>
+					<date>Thu, 02-Jun-2022</date>
+					<stockEntry>0.00</stockEntry>
+					<extraStockEntry>0.00</extraStockEntry>
+					<damageEntry>0.00</damageEntry>
+					<consumption>-2.00</consumption>
+					<stockAdjustment>0.00</stockAdjustment>
+					<unit>gm</unit>
+				</detail>
+			</details>
+			<totalConsumption>-48.00</totalConsumption>
+			<totalEntry>0.00</totalEntry>
+			<stock>-48.00</stock>
+		</item>
+		<item>
+			<itemId>IC--000175</itemId>
+			<itemName>Beef (Boneless)</itemName>
+			<details>
+				<detail>
+					<date>Sun, 05-Jun-2022</date>
+					<stockEntry>0.00</stockEntry>
+					<extraStockEntry>0.00</extraStockEntry>
+					<damageEntry>0.00</damageEntry>
+					<consumption>-2000.00</consumption>
+					<stockAdjustment>0.00</stockAdjustment>
+					<unit>gm</unit>
+				</detail>
+				<detail>
+					<date>Sun, 05-Jun-2022</date>
+					<stockEntry>1700.00</stockEntry>
+					<extraStockEntry>0.00</extraStockEntry>
+					<damageEntry>0.00</damageEntry>
+					<consumption>0.00</consumption>
+					<stockAdjustment>0.00</stockAdjustment>
+					<unit>gm</unit>
+				</detail>
+				<detail>
+					<date>Sat, 04-Jun-2022</date>
+					<stockEntry>0.00</stockEntry>
+					<extraStockEntry>0.00</extraStockEntry>
+					<damageEntry>0.00</damageEntry>
+					<consumption>-2250.00</consumption>
+					<stockAdjustment>0.00</stockAdjustment>
+					<unit>gm</unit>
+				</detail>
+				<detail>
+					<date>Sat, 04-Jun-2022</date>
+					<stockEntry>6000.00</stockEntry>
+					<extraStockEntry>0.00</extraStockEntry>
+					<damageEntry>0.00</damageEntry>
+					<consumption>0.00</consumption>
+					<stockAdjustment>0.00</stockAdjustment>
+					<unit>gm</unit>
+				</detail>
+				<detail>
+					<date>Thu, 02-Jun-2022</date>
+					<stockEntry>0.00</stockEntry>
+					<extraStockEntry>0.00</extraStockEntry>
+					<damageEntry>0.00</damageEntry>
+					<consumption>-2250.00</consumption>
+					<stockAdjustment>0.00</stockAdjustment>
+					<unit>gm</unit>
+				</detail>
+				<detail>
+					<date>Thu, 02-Jun-2022</date>
+					<stockEntry>3000.00</stockEntry>
+					<extraStockEntry>0.00</extraStockEntry>
+					<damageEntry>0.00</damageEntry>
+					<consumption>0.00</consumption>
+					<stockAdjustment>0.00</stockAdjustment>
+					<unit>gm</unit>
+				</detail>
+				<detail>
+					<date>Wed, 01-Jun-2022</date>
+					<stockEntry>0.00</stockEntry>
+					<extraStockEntry>0.00</extraStockEntry>
+					<damageEntry>0.00</damageEntry>
+					<consumption>-3000.00</consumption>
+					<stockAdjustment>0.00</stockAdjustment>
+					<unit>gm</unit>
+				</detail>
+				<detail>
+					<date>Wed, 01-Jun-2022</date>
+					<stockEntry>6500.00</stockEntry>
+					<extraStockEntry>0.00</extraStockEntry>
+					<damageEntry>0.00</damageEntry>
+					<consumption>0.00</consumption>
+					<stockAdjustment>0.00</stockAdjustment>
+					<unit>gm</unit>
+				</detail>
+			</details>
+			<totalConsumption>-9500.00</totalConsumption>
+			<totalEntry>17200.00</totalEntry>
+			<stock>7700.00</stock>
+		</item>
+		<item>
+			<itemId>IC--000059</itemId>
+			<itemName>Chat Mashla</itemName>
+			<details>
+				<detail>
+					<date>Sun, 05-Jun-2022</date>
+					<stockEntry>0.00</stockEntry>
+					<extraStockEntry>0.00</extraStockEntry>
+					<damageEntry>0.00</damageEntry>
+					<consumption>-366.00</consumption>
+					<stockAdjustment>0.00</stockAdjustment>
+					<unit>gm</unit>
+				</detail>
+				<detail>
+					<date>Sat, 04-Jun-2022</date>
+					<stockEntry>0.00</stockEntry>
+					<extraStockEntry>0.00</extraStockEntry>
+					<damageEntry>0.00</damageEntry>
+					<consumption>-492.00</consumption>
+					<stockAdjustment>0.00</stockAdjustment>
+					<unit>gm</unit>
+				</detail>
+				<detail>
+					<date>Thu, 02-Jun-2022</date>
+					<stockEntry>0.00</stockEntry>
+					<extraStockEntry>0.00</extraStockEntry>
+					<damageEntry>0.00</damageEntry>
+					<consumption>-943.00</consumption>
+					<stockAdjustment>0.00</stockAdjustment>
+					<unit>gm</unit>
+				</detail>
+				<detail>
+					<date>Thu, 02-Jun-2022</date>
+					<stockEntry>1000.00</stockEntry>
+					<extraStockEntry>0.00</extraStockEntry>
+					<damageEntry>0.00</damageEntry>
+					<consumption>0.00</consumption>
+					<stockAdjustment>0.00</stockAdjustment>
+					<unit>gm</unit>
+				</detail>
+				<detail>
+					<date>Wed, 01-Jun-2022</date>
+					<stockEntry>0.00</stockEntry>
+					<extraStockEntry>0.00</extraStockEntry>
+					<damageEntry>0.00</damageEntry>
+					<consumption>-492.00</consumption>
+					<stockAdjustment>0.00</stockAdjustment>
+					<unit>gm</unit>
+				</detail>
+			</details>
+			<totalConsumption>-2293.00</totalConsumption>
+			<totalEntry>1000.00</totalEntry>
+			<stock>-1293.00</stock>
+		</item>
+		<item>
+			<itemId>IC--000058</itemId>
+			<itemName>Red chilli (Grind)</itemName>
+			<details>
+				<detail>
+					<date>Sun, 05-Jun-2022</date>
+					<stockEntry>0.00</stockEntry>
+					<extraStockEntry>0.00</extraStockEntry>
+					<damageEntry>0.00</damageEntry>
+					<consumption>-130.00</consumption>
+					<stockAdjustment>0.00</stockAdjustment>
+					<unit>gm</unit>
+				</detail>
+				<detail>
+					<date>Sat, 04-Jun-2022</date>
+					<stockEntry>0.00</stockEntry>
+					<extraStockEntry>0.00</extraStockEntry>
+					<damageEntry>0.00</damageEntry>
+					<consumption>-270.00</consumption>
+					<stockAdjustment>0.00</stockAdjustment>
+					<unit>gm</unit>
+				</detail>
+				<detail>
+					<date>Thu, 02-Jun-2022</date>
+					<stockEntry>0.00</stockEntry>
+					<extraStockEntry>0.00</extraStockEntry>
+					<damageEntry>0.00</damageEntry>
+					<consumption>-680.00</consumption>
+					<stockAdjustment>0.00</stockAdjustment>
+					<unit>gm</unit>
+				</detail>
+				<detail>
+					<date>Wed, 01-Jun-2022</date>
+					<stockEntry>0.00</stockEntry>
+					<extraStockEntry>0.00</extraStockEntry>
+					<damageEntry>0.00</damageEntry>
+					<consumption>-110.00</consumption>
+					<stockAdjustment>0.00</stockAdjustment>
+					<unit>gm</unit>
+				</detail>
+			</details>
+			<totalConsumption>-1190.00</totalConsumption>
+			<totalEntry>0.00</totalEntry>
+			<stock>-1190.00</stock>
+		</item>
+		<item>
+			<itemId>IC--000179</itemId>
+			<itemName>chicken Powder</itemName>
+			<details>
+				<detail>
+					<date>Sun, 05-Jun-2022</date>
+					<stockEntry>0.00</stockEntry>
+					<extraStockEntry>0.00</extraStockEntry>
+					<damageEntry>0.00</damageEntry>
+					<consumption>-11.00</consumption>
+					<stockAdjustment>0.00</stockAdjustment>
+					<unit>gm</unit>
+				</detail>
+				<detail>
+					<date>Sat, 04-Jun-2022</date>
+					<stockEntry>0.00</stockEntry>
+					<extraStockEntry>0.00</extraStockEntry>
+					<damageEntry>0.00</damageEntry>
+					<consumption>-30.00</consumption>
+					<stockAdjustment>0.00</stockAdjustment>
+					<unit>gm</unit>
+				</detail>
+				<detail>
+					<date>Thu, 02-Jun-2022</date>
+					<stockEntry>0.00</stockEntry>
+					<extraStockEntry>0.00</extraStockEntry>
+					<damageEntry>0.00</damageEntry>
+					<consumption>-60.00</consumption>
+					<stockAdjustment>0.00</stockAdjustment>
+					<unit>gm</unit>
+				</detail>
+				<detail>
+					<date>Wed, 01-Jun-2022</date>
+					<stockEntry>0.00</stockEntry>
+					<extraStockEntry>0.00</extraStockEntry>
+					<damageEntry>0.00</damageEntry>
+					<consumption>-42.00</consumption>
+					<stockAdjustment>0.00</stockAdjustment>
+					<unit>gm</unit>
+				</detail>
+			</details>
+			<totalConsumption>-143.00</totalConsumption>
+			<totalEntry>0.00</totalEntry>
+			<stock>-143.00</stock>
+		</item>
+		<item>
+			<itemId>IC--000212</itemId>
+			<itemName>Sugar Syrup</itemName>
+			<details>
+				<detail>
+					<date>Thu, 02-Jun-2022</date>
+					<stockEntry>0.00</stockEntry>
+					<extraStockEntry>0.00</extraStockEntry>
+					<damageEntry>0.00</damageEntry>
+					<consumption>-500.00</consumption>
+					<stockAdjustment>0.00</stockAdjustment>
+					<unit>gm</unit>
+				</detail>
+			</details>
+			<totalConsumption>-500.00</totalConsumption>
+			<totalEntry>0.00</totalEntry>
+			<stock>-500.00</stock>
+		</item>
+		<item>
+			<itemId>IC--000178</itemId>
+			<itemName>Tok Doi (curd)</itemName>
+			<details>
+				<detail>
+					<date>Sun, 05-Jun-2022</date>
+					<stockEntry>0.00</stockEntry>
+					<extraStockEntry>0.00</extraStockEntry>
+					<damageEntry>0.00</damageEntry>
+					<consumption>-20.00</consumption>
+					<stockAdjustment>0.00</stockAdjustment>
+					<unit>gm</unit>
+				</detail>
+				<detail>
+					<date>Sat, 04-Jun-2022</date>
+					<stockEntry>0.00</stockEntry>
+					<extraStockEntry>0.00</extraStockEntry>
+					<damageEntry>0.00</damageEntry>
+					<consumption>-90.00</consumption>
+					<stockAdjustment>0.00</stockAdjustment>
+					<unit>gm</unit>
+				</detail>
+				<detail>
+					<date>Thu, 02-Jun-2022</date>
+					<stockEntry>0.00</stockEntry>
+					<extraStockEntry>0.00</extraStockEntry>
+					<damageEntry>0.00</damageEntry>
+					<consumption>-130.00</consumption>
+					<stockAdjustment>0.00</stockAdjustment>
+					<unit>gm</unit>
+				</detail>
+				<detail>
+					<date>Thu, 02-Jun-2022</date>
+					<stockEntry>500.00</stockEntry>
+					<extraStockEntry>0.00</extraStockEntry>
+					<damageEntry>0.00</damageEntry>
+					<consumption>0.00</consumption>
+					<stockAdjustment>0.00</stockAdjustment>
+					<unit>gm</unit>
+				</detail>
+				<detail>
+					<date>Wed, 01-Jun-2022</date>
+					<stockEntry>0.00</stockEntry>
+					<extraStockEntry>0.00</extraStockEntry>
+					<damageEntry>0.00</damageEntry>
+					<consumption>-70.00</consumption>
+					<stockAdjustment>0.00</stockAdjustment>
+					<unit>gm</unit>
+				</detail>
+				<detail>
+					<date>Wed, 01-Jun-2022</date>
+					<stockEntry>500.00</stockEntry>
+					<extraStockEntry>0.00</extraStockEntry>
+					<damageEntry>0.00</damageEntry>
+					<consumption>0.00</consumption>
+					<stockAdjustment>0.00</stockAdjustment>
+					<unit>gm</unit>
+				</detail>
+			</details>
+			<totalConsumption>-310.00</totalConsumption>
+			<totalEntry>1000.00</totalEntry>
+			<stock>690.00</stock>
+		</item>
+		<item>
+			<itemId>IC--000172</itemId>
+			<itemName>Capsicum</itemName>
+			<details>
+				<detail>
+					<date>Sun, 05-Jun-2022</date>
+					<stockEntry>0.00</stockEntry>
+					<extraStockEntry>0.00</extraStockEntry>
+					<damageEntry>0.00</damageEntry>
+					<consumption>-1158.00</consumption>
+					<stockAdjustment>0.00</stockAdjustment>
+					<unit>gm</unit>
+				</detail>
+				<detail>
+					<date>Sun, 05-Jun-2022</date>
+					<stockEntry>2000.00</stockEntry>
+					<extraStockEntry>0.00</extraStockEntry>
+					<damageEntry>0.00</damageEntry>
+					<consumption>0.00</consumption>
+					<stockAdjustment>0.00</stockAdjustment>
+					<unit>gm</unit>
+				</detail>
+				<detail>
+					<date>Sat, 04-Jun-2022</date>
+					<stockEntry>0.00</stockEntry>
+					<extraStockEntry>0.00</extraStockEntry>
+					<damageEntry>0.00</damageEntry>
+					<consumption>-1328.00</consumption>
+					<stockAdjustment>0.00</stockAdjustment>
+					<unit>gm</unit>
+				</detail>
+				<detail>
+					<date>Sat, 04-Jun-2022</date>
+					<stockEntry>2000.00</stockEntry>
+					<extraStockEntry>0.00</extraStockEntry>
+					<damageEntry>0.00</damageEntry>
+					<consumption>0.00</consumption>
+					<stockAdjustment>0.00</stockAdjustment>
+					<unit>gm</unit>
+				</detail>
+				<detail>
+					<date>Thu, 02-Jun-2022</date>
+					<stockEntry>0.00</stockEntry>
+					<extraStockEntry>0.00</extraStockEntry>
+					<damageEntry>0.00</damageEntry>
+					<consumption>-2296.00</consumption>
+					<stockAdjustment>0.00</stockAdjustment>
+					<unit>gm</unit>
+				</detail>
+				<detail>
+					<date>Thu, 02-Jun-2022</date>
+					<stockEntry>2000.00</stockEntry>
+					<extraStockEntry>0.00</extraStockEntry>
+					<damageEntry>0.00</damageEntry>
+					<consumption>0.00</consumption>
+					<stockAdjustment>0.00</stockAdjustment>
+					<unit>gm</unit>
+				</detail>
+				<detail>
+					<date>Wed, 01-Jun-2022</date>
+					<stockEntry>0.00</stockEntry>
+					<extraStockEntry>0.00</extraStockEntry>
+					<damageEntry>0.00</damageEntry>
+					<consumption>-1665.00</consumption>
+					<stockAdjustment>0.00</stockAdjustment>
+					<unit>gm</unit>
+				</detail>
+				<detail>
+					<date>Wed, 01-Jun-2022</date>
+					<stockEntry>2000.00</stockEntry>
+					<extraStockEntry>0.00</extraStockEntry>
+					<damageEntry>0.00</damageEntry>
+					<consumption>0.00</consumption>
+					<stockAdjustment>0.00</stockAdjustment>
+					<unit>gm</unit>
+				</detail>
+			</details>
+			<totalConsumption>-6447.00</totalConsumption>
+			<totalEntry>8000.00</totalEntry>
+			<stock>1553.00</stock>
+		</item>
+		<item>
+			<itemId>IC--000171</itemId>
+			<itemName>Bit salt</itemName>
+			<details>
+				<detail>
+					<date>Sun, 05-Jun-2022</date>
+					<stockEntry>0.00</stockEntry>
+					<extraStockEntry>0.00</extraStockEntry>
+					<damageEntry>0.00</damageEntry>
+					<consumption>-43.00</consumption>
+					<stockAdjustment>0.00</stockAdjustment>
+					<unit>gm</unit>
+				</detail>
+				<detail>
+					<date>Sat, 04-Jun-2022</date>
+					<stockEntry>0.00</stockEntry>
+					<extraStockEntry>0.00</extraStockEntry>
+					<damageEntry>0.00</damageEntry>
+					<consumption>-37.00</consumption>
+					<stockAdjustment>0.00</stockAdjustment>
+					<unit>gm</unit>
+				</detail>
+				<detail>
+					<date>Thu, 02-Jun-2022</date>
+					<stockEntry>0.00</stockEntry>
+					<extraStockEntry>0.00</extraStockEntry>
+					<damageEntry>0.00</damageEntry>
+					<consumption>-70.00</consumption>
+					<stockAdjustment>0.00</stockAdjustment>
+					<unit>gm</unit>
+				</detail>
+				<detail>
+					<date>Wed, 01-Jun-2022</date>
+					<stockEntry>0.00</stockEntry>
+					<extraStockEntry>0.00</extraStockEntry>
+					<damageEntry>0.00</damageEntry>
+					<consumption>-28.00</consumption>
+					<stockAdjustment>0.00</stockAdjustment>
+					<unit>gm</unit>
+				</detail>
+			</details>
+			<totalConsumption>-178.00</totalConsumption>
+			<totalEntry>0.00</totalEntry>
+			<stock>-178.00</stock>
+		</item>
+		<item>
+			<itemId>IC--000170</itemId>
+			<itemName>Jely Noodles</itemName>
+			<details>
+				<detail>
+					<date>Sat, 04-Jun-2022</date>
+					<stockEntry>0.00</stockEntry>
+					<extraStockEntry>0.00</extraStockEntry>
+					<damageEntry>0.00</damageEntry>
+					<consumption>-10.00</consumption>
+					<stockAdjustment>0.00</stockAdjustment>
+					<unit>gm</unit>
+				</detail>
+				<detail>
+					<date>Wed, 01-Jun-2022</date>
+					<stockEntry>0.00</stockEntry>
+					<extraStockEntry>0.00</extraStockEntry>
+					<damageEntry>0.00</damageEntry>
+					<consumption>-10.00</consumption>
+					<stockAdjustment>0.00</stockAdjustment>
+					<unit>gm</unit>
+				</detail>
+			</details>
+			<totalConsumption>-20.00</totalConsumption>
+			<totalEntry>0.00</totalEntry>
+			<stock>-20.00</stock>
+		</item>
+		<item>
+			<itemId>IC--000067</itemId>
+			<itemName>Carrot</itemName>
+			<details>
+				<detail>
+					<date>Sun, 05-Jun-2022</date>
+					<stockEntry>0.00</stockEntry>
+					<extraStockEntry>0.00</extraStockEntry>
+					<damageEntry>0.00</damageEntry>
+					<consumption>-655.00</consumption>
+					<stockAdjustment>0.00</stockAdjustment>
+					<unit>gm</unit>
+				</detail>
+				<detail>
+					<date>Sun, 05-Jun-2022</date>
+					<stockEntry>2000.00</stockEntry>
+					<extraStockEntry>0.00</extraStockEntry>
+					<damageEntry>0.00</damageEntry>
+					<consumption>0.00</consumption>
+					<stockAdjustment>0.00</stockAdjustment>
+					<unit>gm</unit>
+				</detail>
+				<detail>
+					<date>Sat, 04-Jun-2022</date>
+					<stockEntry>0.00</stockEntry>
+					<extraStockEntry>0.00</extraStockEntry>
+					<damageEntry>0.00</damageEntry>
+					<consumption>-775.00</consumption>
+					<stockAdjustment>0.00</stockAdjustment>
+					<unit>gm</unit>
+				</detail>
+				<detail>
+					<date>Sat, 04-Jun-2022</date>
+					<stockEntry>2000.00</stockEntry>
+					<extraStockEntry>0.00</extraStockEntry>
+					<damageEntry>0.00</damageEntry>
+					<consumption>0.00</consumption>
+					<stockAdjustment>0.00</stockAdjustment>
+					<unit>gm</unit>
+				</detail>
+				<detail>
+					<date>Thu, 02-Jun-2022</date>
+					<stockEntry>0.00</stockEntry>
+					<extraStockEntry>0.00</extraStockEntry>
+					<damageEntry>0.00</damageEntry>
+					<consumption>-1000.00</consumption>
+					<stockAdjustment>0.00</stockAdjustment>
+					<unit>gm</unit>
+				</detail>
+				<detail>
+					<date>Thu, 02-Jun-2022</date>
+					<stockEntry>3000.00</stockEntry>
+					<extraStockEntry>0.00</extraStockEntry>
+					<damageEntry>0.00</damageEntry>
+					<consumption>0.00</consumption>
+					<stockAdjustment>0.00</stockAdjustment>
+					<unit>gm</unit>
+				</detail>
+				<detail>
+					<date>Wed, 01-Jun-2022</date>
+					<stockEntry>0.00</stockEntry>
+					<extraStockEntry>0.00</extraStockEntry>
+					<damageEntry>0.00</damageEntry>
+					<consumption>-775.00</consumption>
+					<stockAdjustment>0.00</stockAdjustment>
+					<unit>gm</unit>
+				</detail>
+				<detail>
+					<date>Wed, 01-Jun-2022</date>
+					<stockEntry>2000.00</stockEntry>
+					<extraStockEntry>0.00</extraStockEntry>
+					<damageEntry>0.00</damageEntry>
+					<consumption>0.00</consumption>
+					<stockAdjustment>0.00</stockAdjustment>
+					<unit>gm</unit>
+				</detail>
+			</details>
+			<totalConsumption>-3205.00</totalConsumption>
+			<totalEntry>9000.00</totalEntry>
+			<stock>5795.00</stock>
+		</item>
+		<item>
+			<itemId>IC--000188</itemId>
+			<itemName>Cigeratte</itemName>
+			<details>
+				<detail>
+					<date>Sun, 05-Jun-2022</date>
+					<stockEntry>0.00</stockEntry>
+					<extraStockEntry>0.00</extraStockEntry>
+					<damageEntry>0.00</damageEntry>
+					<consumption>0.00</consumption>
+					<stockAdjustment>0.00</stockAdjustment>
+					<unit>gm</unit>
+				</detail>
+				<detail>
+					<date>Sun, 05-Jun-2022</date>
+					<stockEntry>40.00</stockEntry>
+					<extraStockEntry>0.00</extraStockEntry>
+					<damageEntry>0.00</damageEntry>
+					<consumption>0.00</consumption>
+					<stockAdjustment>0.00</stockAdjustment>
+					<unit>pcs</unit>
+				</detail>
+				<detail>
+					<date>Sat, 04-Jun-2022</date>
+					<stockEntry>0.00</stockEntry>
+					<extraStockEntry>0.00</extraStockEntry>
+					<damageEntry>0.00</damageEntry>
+					<consumption>0.00</consumption>
+					<stockAdjustment>0.00</stockAdjustment>
+					<unit>gm</unit>
+				</detail>
+				<detail>
+					<date>Sat, 04-Jun-2022</date>
+					<stockEntry>30.00</stockEntry>
+					<extraStockEntry>0.00</extraStockEntry>
+					<damageEntry>0.00</damageEntry>
+					<consumption>0.00</consumption>
+					<stockAdjustment>0.00</stockAdjustment>
+					<unit>pcs</unit>
+				</detail>
+				<detail>
+					<date>Thu, 02-Jun-2022</date>
+					<stockEntry>0.00</stockEntry>
+					<extraStockEntry>0.00</extraStockEntry>
+					<damageEntry>0.00</damageEntry>
+					<consumption>0.00</consumption>
+					<stockAdjustment>0.00</stockAdjustment>
+					<unit>gm</unit>
+				</detail>
+				<detail>
+					<date>Wed, 01-Jun-2022</date>
+					<stockEntry>0.00</stockEntry>
+					<extraStockEntry>0.00</extraStockEntry>
+					<damageEntry>0.00</damageEntry>
+					<consumption>0.00</consumption>
+					<stockAdjustment>0.00</stockAdjustment>
+					<unit>gm</unit>
+				</detail>
+				<detail>
+					<date>Wed, 01-Jun-2022</date>
+					<stockEntry>20.00</stockEntry>
+					<extraStockEntry>0.00</extraStockEntry>
+					<damageEntry>0.00</damageEntry>
+					<consumption>0.00</consumption>
+					<stockAdjustment>0.00</stockAdjustment>
+					<unit>pcs</unit>
+				</detail>
+			</details>
+			<totalConsumption>0.00</totalConsumption>
+			<totalEntry>90.00</totalEntry>
+			<stock>90.00</stock>
+		</item>
+		<item>
+			<itemId>IC--000066</itemId>
+			<itemName>Butter Oil</itemName>
+			<details>
+				<detail>
+					<date>Sun, 05-Jun-2022</date>
+					<stockEntry>0.00</stockEntry>
+					<extraStockEntry>0.00</extraStockEntry>
+					<damageEntry>0.00</damageEntry>
+					<consumption>-745.00</consumption>
+					<stockAdjustment>0.00</stockAdjustment>
+					<unit>gm</unit>
+				</detail>
+				<detail>
+					<date>Sat, 04-Jun-2022</date>
+					<stockEntry>0.00</stockEntry>
+					<extraStockEntry>0.00</extraStockEntry>
+					<damageEntry>0.00</damageEntry>
+					<consumption>-525.00</consumption>
+					<stockAdjustment>0.00</stockAdjustment>
+					<unit>gm</unit>
+				</detail>
+				<detail>
+					<date>Thu, 02-Jun-2022</date>
+					<stockEntry>0.00</stockEntry>
+					<extraStockEntry>0.00</extraStockEntry>
+					<damageEntry>0.00</damageEntry>
+					<consumption>-918.00</consumption>
+					<stockAdjustment>0.00</stockAdjustment>
+					<unit>gm</unit>
+				</detail>
+				<detail>
+					<date>Wed, 01-Jun-2022</date>
+					<stockEntry>0.00</stockEntry>
+					<extraStockEntry>0.00</extraStockEntry>
+					<damageEntry>0.00</damageEntry>
+					<consumption>-695.00</consumption>
+					<stockAdjustment>0.00</stockAdjustment>
+					<unit>gm</unit>
+				</detail>
+			</details>
+			<totalConsumption>-2883.00</totalConsumption>
+			<totalEntry>0.00</totalEntry>
+			<stock>-2883.00</stock>
+		</item>
+		<item>
+			<itemId>IC--000187</itemId>
+			<itemName>Carew (Whisky/Vodka/Brandy/Orange) Large</itemName>
+			<details>
+				<detail>
+					<date>Sun, 05-Jun-2022</date>
+					<stockEntry>0.00</stockEntry>
+					<extraStockEntry>0.00</extraStockEntry>
+					<damageEntry>0.00</damageEntry>
+					<consumption>-18.00</consumption>
+					<stockAdjustment>0.00</stockAdjustment>
+					<unit>pcs</unit>
+				</detail>
+				<detail>
+					<date>Sat, 04-Jun-2022</date>
+					<stockEntry>0.00</stockEntry>
+					<extraStockEntry>0.00</extraStockEntry>
+					<damageEntry>0.00</damageEntry>
+					<consumption>-25.00</consumption>
+					<stockAdjustment>0.00</stockAdjustment>
+					<unit>pcs</unit>
+				</detail>
+				<detail>
+					<date>Thu, 02-Jun-2022</date>
+					<stockEntry>0.00</stockEntry>
+					<extraStockEntry>0.00</extraStockEntry>
+					<damageEntry>0.00</damageEntry>
+					<consumption>-18.00</consumption>
+					<stockAdjustment>0.00</stockAdjustment>
+					<unit>pcs</unit>
+				</detail>
+				<detail>
+					<date>Thu, 02-Jun-2022</date>
+					<stockEntry>60.00</stockEntry>
+					<extraStockEntry>0.00</extraStockEntry>
+					<damageEntry>0.00</damageEntry>
+					<consumption>0.00</consumption>
+					<stockAdjustment>0.00</stockAdjustment>
+					<unit>pcs</unit>
+				</detail>
+				<detail>
+					<date>Wed, 01-Jun-2022</date>
+					<stockEntry>0.00</stockEntry>
+					<extraStockEntry>0.00</extraStockEntry>
+					<damageEntry>0.00</damageEntry>
+					<consumption>-12.00</consumption>
+					<stockAdjustment>0.00</stockAdjustment>
+					<unit>pcs</unit>
+				</detail>
+			</details>
+			<totalConsumption>-73.00</totalConsumption>
+			<totalEntry>60.00</totalEntry>
+			<stock>-13.00</stock>
+		</item>
+		<item>
+			<itemId>IC--000186</itemId>
+			<itemName>Butter</itemName>
+			<details>
+				<detail>
+					<date>Sun, 05-Jun-2022</date>
+					<stockEntry>0.00</stockEntry>
+					<extraStockEntry>0.00</extraStockEntry>
+					<damageEntry>0.00</damageEntry>
+					<consumption>-123.00</consumption>
+					<stockAdjustment>0.00</stockAdjustment>
+					<unit>gm</unit>
+				</detail>
+				<detail>
+					<date>Sat, 04-Jun-2022</date>
+					<stockEntry>0.00</stockEntry>
+					<extraStockEntry>0.00</extraStockEntry>
+					<damageEntry>0.00</damageEntry>
+					<consumption>-56.00</consumption>
+					<stockAdjustment>0.00</stockAdjustment>
+					<unit>gm</unit>
+				</detail>
+				<detail>
+					<date>Wed, 01-Jun-2022</date>
+					<stockEntry>0.00</stockEntry>
+					<extraStockEntry>0.00</extraStockEntry>
+					<damageEntry>0.00</damageEntry>
+					<consumption>-40.00</consumption>
+					<stockAdjustment>0.00</stockAdjustment>
+					<unit>gm</unit>
+				</detail>
+			</details>
+			<totalConsumption>-219.00</totalConsumption>
+			<totalEntry>0.00</totalEntry>
+			<stock>-219.00</stock>
+		</item>
+		<item>
+			<itemId>IC--000064</itemId>
+			<itemName>Milk (Powder)</itemName>
+			<details>
+				<detail>
+					<date>Sun, 05-Jun-2022</date>
+					<stockEntry>0.00</stockEntry>
+					<extraStockEntry>0.00</extraStockEntry>
+					<damageEntry>0.00</damageEntry>
+					<consumption>-140.00</consumption>
+					<stockAdjustment>0.00</stockAdjustment>
+					<unit>gm</unit>
+				</detail>
+				<detail>
+					<date>Sat, 04-Jun-2022</date>
+					<stockEntry>0.00</stockEntry>
+					<extraStockEntry>0.00</extraStockEntry>
+					<damageEntry>0.00</damageEntry>
+					<consumption>-155.00</consumption>
+					<stockAdjustment>0.00</stockAdjustment>
+					<unit>gm</unit>
+				</detail>
+				<detail>
+					<date>Thu, 02-Jun-2022</date>
+					<stockEntry>0.00</stockEntry>
+					<extraStockEntry>0.00</extraStockEntry>
+					<damageEntry>0.00</damageEntry>
+					<consumption>-175.00</consumption>
+					<stockAdjustment>0.00</stockAdjustment>
+					<unit>gm</unit>
+				</detail>
+				<detail>
+					<date>Wed, 01-Jun-2022</date>
+					<stockEntry>0.00</stockEntry>
+					<extraStockEntry>0.00</extraStockEntry>
+					<damageEntry>0.00</damageEntry>
+					<consumption>-85.00</consumption>
+					<stockAdjustment>0.00</stockAdjustment>
+					<unit>gm</unit>
+				</detail>
+				<detail>
+					<date>Wed, 01-Jun-2022</date>
+					<stockEntry>1000.00</stockEntry>
+					<extraStockEntry>0.00</extraStockEntry>
+					<damageEntry>0.00</damageEntry>
+					<consumption>0.00</consumption>
+					<stockAdjustment>0.00</stockAdjustment>
+					<unit>gm</unit>
+				</detail>
+			</details>
+			<totalConsumption>-555.00</totalConsumption>
+			<totalEntry>1000.00</totalEntry>
+			<stock>445.00</stock>
+		</item>
+		<item>
+			<itemId>IC--000185</itemId>
+			<itemName>Baking Powder</itemName>
+			<details>
+				<detail>
+					<date>Sun, 05-Jun-2022</date>
+					<stockEntry>0.00</stockEntry>
+					<extraStockEntry>0.00</extraStockEntry>
+					<damageEntry>0.00</damageEntry>
+					<consumption>-55.00</consumption>
+					<stockAdjustment>0.00</stockAdjustment>
+					<unit>gm</unit>
+				</detail>
+				<detail>
+					<date>Sat, 04-Jun-2022</date>
+					<stockEntry>0.00</stockEntry>
+					<extraStockEntry>0.00</extraStockEntry>
+					<damageEntry>0.00</damageEntry>
+					<consumption>-100.00</consumption>
+					<stockAdjustment>0.00</stockAdjustment>
+					<unit>gm</unit>
+				</detail>
+				<detail>
+					<date>Thu, 02-Jun-2022</date>
+					<stockEntry>0.00</stockEntry>
+					<extraStockEntry>0.00</extraStockEntry>
+					<damageEntry>0.00</damageEntry>
+					<consumption>-50.00</consumption>
+					<stockAdjustment>0.00</stockAdjustment>
+					<unit>gm</unit>
+				</detail>
+				<detail>
+					<date>Wed, 01-Jun-2022</date>
+					<stockEntry>0.00</stockEntry>
+					<extraStockEntry>0.00</extraStockEntry>
+					<damageEntry>0.00</damageEntry>
+					<consumption>-10.00</consumption>
+					<stockAdjustment>0.00</stockAdjustment>
+					<unit>gm</unit>
+				</detail>
+			</details>
+			<totalConsumption>-215.00</totalConsumption>
+			<totalEntry>0.00</totalEntry>
+			<stock>-215.00</stock>
+		</item>
+		<item>
+			<itemId>IC--000224</itemId>
+			<itemName>Alcoholic chocolate </itemName>
+			<details>
+				<detail>
+					<date>Sat, 04-Jun-2022</date>
+					<stockEntry>0.00</stockEntry>
+					<extraStockEntry>0.00</extraStockEntry>
+					<damageEntry>0.00</damageEntry>
+					<consumption>-2.00</consumption>
+					<stockAdjustment>0.00</stockAdjustment>
+					<unit>pcs</unit>
+				</detail>
+				<detail>
+					<date>Thu, 02-Jun-2022</date>
+					<stockEntry>0.00</stockEntry>
+					<extraStockEntry>0.00</extraStockEntry>
+					<damageEntry>0.00</damageEntry>
+					<consumption>-4.00</consumption>
+					<stockAdjustment>0.00</stockAdjustment>
+					<unit>pcs</unit>
+				</detail>
+			</details>
+			<totalConsumption>-6.00</totalConsumption>
+			<totalEntry>0.00</totalEntry>
+			<stock>-6.00</stock>
+		</item>
+		<item>
+			<itemId>IC--000069</itemId>
+			<itemName>Cucumber</itemName>
+			<details>
+				<detail>
+					<date>Sun, 05-Jun-2022</date>
+					<stockEntry>0.00</stockEntry>
+					<extraStockEntry>0.00</extraStockEntry>
+					<damageEntry>0.00</damageEntry>
+					<consumption>-1700.00</consumption>
+					<stockAdjustment>0.00</stockAdjustment>
+					<unit>gm</unit>
+				</detail>
+				<detail>
+					<date>Sun, 05-Jun-2022</date>
+					<stockEntry>5000.00</stockEntry>
+					<extraStockEntry>0.00</extraStockEntry>
+					<damageEntry>0.00</damageEntry>
+					<consumption>0.00</consumption>
+					<stockAdjustment>0.00</stockAdjustment>
+					<unit>gm</unit>
+				</detail>
+				<detail>
+					<date>Sat, 04-Jun-2022</date>
+					<stockEntry>0.00</stockEntry>
+					<extraStockEntry>0.00</extraStockEntry>
+					<damageEntry>0.00</damageEntry>
+					<consumption>-2200.00</consumption>
+					<stockAdjustment>0.00</stockAdjustment>
+					<unit>gm</unit>
+				</detail>
+				<detail>
+					<date>Sat, 04-Jun-2022</date>
+					<stockEntry>5000.00</stockEntry>
+					<extraStockEntry>0.00</extraStockEntry>
+					<damageEntry>0.00</damageEntry>
+					<consumption>0.00</consumption>
+					<stockAdjustment>0.00</stockAdjustment>
+					<unit>gm</unit>
+				</detail>
+				<detail>
+					<date>Thu, 02-Jun-2022</date>
+					<stockEntry>0.00</stockEntry>
+					<extraStockEntry>0.00</extraStockEntry>
+					<damageEntry>0.00</damageEntry>
+					<consumption>-3600.00</consumption>
+					<stockAdjustment>0.00</stockAdjustment>
+					<unit>gm</unit>
+				</detail>
+				<detail>
+					<date>Thu, 02-Jun-2022</date>
+					<stockEntry>5000.00</stockEntry>
+					<extraStockEntry>0.00</extraStockEntry>
+					<damageEntry>0.00</damageEntry>
+					<consumption>0.00</consumption>
+					<stockAdjustment>0.00</stockAdjustment>
+					<unit>gm</unit>
+				</detail>
+				<detail>
+					<date>Wed, 01-Jun-2022</date>
+					<stockEntry>0.00</stockEntry>
+					<extraStockEntry>0.00</extraStockEntry>
+					<damageEntry>0.00</damageEntry>
+					<consumption>-1750.00</consumption>
+					<stockAdjustment>0.00</stockAdjustment>
+					<unit>gm</unit>
+				</detail>
+				<detail>
+					<date>Wed, 01-Jun-2022</date>
+					<stockEntry>5000.00</stockEntry>
+					<extraStockEntry>0.00</extraStockEntry>
+					<damageEntry>0.00</damageEntry>
+					<consumption>0.00</consumption>
+					<stockAdjustment>0.00</stockAdjustment>
+					<unit>gm</unit>
+				</detail>
+			</details>
+			<totalConsumption>-9250.00</totalConsumption>
+			<totalEntry>20000.00</totalEntry>
+			<stock>10750.00</stock>
+		</item>
+		<item>
+			<itemId>IC--000068</itemId>
+			<itemName>Tomato</itemName>
+			<details>
+				<detail>
+					<date>Sun, 05-Jun-2022</date>
+					<stockEntry>0.00</stockEntry>
+					<extraStockEntry>0.00</extraStockEntry>
+					<damageEntry>0.00</damageEntry>
+					<consumption>-1695.00</consumption>
+					<stockAdjustment>0.00</stockAdjustment>
+					<unit>gm</unit>
+				</detail>
+				<detail>
+					<date>Sun, 05-Jun-2022</date>
+					<stockEntry>3000.00</stockEntry>
+					<extraStockEntry>0.00</extraStockEntry>
+					<damageEntry>0.00</damageEntry>
+					<consumption>0.00</consumption>
+					<stockAdjustment>0.00</stockAdjustment>
+					<unit>gm</unit>
+				</detail>
+				<detail>
+					<date>Sat, 04-Jun-2022</date>
+					<stockEntry>0.00</stockEntry>
+					<extraStockEntry>0.00</extraStockEntry>
+					<damageEntry>0.00</damageEntry>
+					<consumption>-1600.00</consumption>
+					<stockAdjustment>0.00</stockAdjustment>
+					<unit>gm</unit>
+				</detail>
+				<detail>
+					<date>Sat, 04-Jun-2022</date>
+					<stockEntry>4000.00</stockEntry>
+					<extraStockEntry>0.00</extraStockEntry>
+					<damageEntry>0.00</damageEntry>
+					<consumption>0.00</consumption>
+					<stockAdjustment>0.00</stockAdjustment>
+					<unit>gm</unit>
+				</detail>
+				<detail>
+					<date>Thu, 02-Jun-2022</date>
+					<stockEntry>0.00</stockEntry>
+					<extraStockEntry>0.00</extraStockEntry>
+					<damageEntry>0.00</damageEntry>
+					<consumption>-3435.00</consumption>
+					<stockAdjustment>0.00</stockAdjustment>
+					<unit>gm</unit>
+				</detail>
+				<detail>
+					<date>Thu, 02-Jun-2022</date>
+					<stockEntry>2000.00</stockEntry>
+					<extraStockEntry>0.00</extraStockEntry>
+					<damageEntry>0.00</damageEntry>
+					<consumption>0.00</consumption>
+					<stockAdjustment>0.00</stockAdjustment>
+					<unit>gm</unit>
+				</detail>
+				<detail>
+					<date>Wed, 01-Jun-2022</date>
+					<stockEntry>0.00</stockEntry>
+					<extraStockEntry>0.00</extraStockEntry>
+					<damageEntry>0.00</damageEntry>
+					<consumption>-1830.00</consumption>
+					<stockAdjustment>0.00</stockAdjustment>
+					<unit>gm</unit>
+				</detail>
+				<detail>
+					<date>Wed, 01-Jun-2022</date>
+					<stockEntry>3000.00</stockEntry>
+					<extraStockEntry>0.00</extraStockEntry>
+					<damageEntry>0.00</damageEntry>
+					<consumption>0.00</consumption>
+					<stockAdjustment>0.00</stockAdjustment>
+					<unit>gm</unit>
+				</detail>
+			</details>
+			<totalConsumption>-8560.00</totalConsumption>
+			<totalEntry>12000.00</totalEntry>
+			<stock>3440.00</stock>
+		</item>
+		<item>
+			<itemId>IC--000189</itemId>
+			<itemName>Ginger Water</itemName>
+			<details>
+				<detail>
+					<date>Sun, 05-Jun-2022</date>
+					<stockEntry>0.00</stockEntry>
+					<extraStockEntry>0.00</extraStockEntry>
+					<damageEntry>0.00</damageEntry>
+					<consumption>-2.00</consumption>
+					<stockAdjustment>0.00</stockAdjustment>
+					<unit>pcs</unit>
+				</detail>
+				<detail>
+					<date>Thu, 02-Jun-2022</date>
+					<stockEntry>0.00</stockEntry>
+					<extraStockEntry>0.00</extraStockEntry>
+					<damageEntry>0.00</damageEntry>
+					<consumption>-2.00</consumption>
+					<stockAdjustment>0.00</stockAdjustment>
+					<unit>pcs</unit>
+				</detail>
+			</details>
+			<totalConsumption>-4.00</totalConsumption>
+			<totalEntry>0.00</totalEntry>
+			<stock>-4.00</stock>
+		</item>
+		<item>
+			<itemId>IC--000180</itemId>
+			<itemName>Coconut Powder</itemName>
+			<details>
+				<detail>
+					<date>Sun, 05-Jun-2022</date>
+					<stockEntry>0.00</stockEntry>
+					<extraStockEntry>0.00</extraStockEntry>
+					<damageEntry>0.00</damageEntry>
+					<consumption>-1.00</consumption>
+					<stockAdjustment>0.00</stockAdjustment>
+					<unit>gm</unit>
+				</detail>
+				<detail>
+					<date>Sat, 04-Jun-2022</date>
+					<stockEntry>0.00</stockEntry>
+					<extraStockEntry>0.00</extraStockEntry>
+					<damageEntry>0.00</damageEntry>
+					<consumption>-5.00</consumption>
+					<stockAdjustment>0.00</stockAdjustment>
+					<unit>gm</unit>
+				</detail>
+				<detail>
+					<date>Thu, 02-Jun-2022</date>
+					<stockEntry>0.00</stockEntry>
+					<extraStockEntry>0.00</extraStockEntry>
+					<damageEntry>0.00</damageEntry>
+					<consumption>-5.00</consumption>
+					<stockAdjustment>0.00</stockAdjustment>
+					<unit>gm</unit>
+				</detail>
+				<detail>
+					<date>Wed, 01-Jun-2022</date>
+					<stockEntry>0.00</stockEntry>
+					<extraStockEntry>0.00</extraStockEntry>
+					<damageEntry>0.00</damageEntry>
+					<consumption>-2.00</consumption>
+					<stockAdjustment>0.00</stockAdjustment>
+					<unit>gm</unit>
+				</detail>
+			</details>
+			<totalConsumption>-13.00</totalConsumption>
+			<totalEntry>0.00</totalEntry>
+			<stock>-13.00</stock>
+		</item>
+		<item>
+			<itemId>IC--000063</itemId>
+			<details>
+				<detail>
+					<date>Sun, 05-Jun-2022</date>
+					<stockEntry>0.00</stockEntry>
+					<extraStockEntry>0.00</extraStockEntry>
+					<damageEntry>0.00</damageEntry>
+					<consumption>-1500.00</consumption>
+					<stockAdjustment>0.00</stockAdjustment>
+					<unit>gm</unit>
+				</detail>
+				<detail>
+					<date>Sat, 04-Jun-2022</date>
+					<stockEntry>0.00</stockEntry>
+					<extraStockEntry>0.00</extraStockEntry>
+					<damageEntry>0.00</damageEntry>
+					<consumption>-3000.00</consumption>
+					<stockAdjustment>0.00</stockAdjustment>
+					<unit>gm</unit>
+				</detail>
+				<detail>
+					<date>Wed, 01-Jun-2022</date>
+					<stockEntry>0.00</stockEntry>
+					<extraStockEntry>0.00</extraStockEntry>
+					<damageEntry>0.00</damageEntry>
+					<consumption>-3040.00</consumption>
+					<stockAdjustment>0.00</stockAdjustment>
+					<unit>gm</unit>
+				</detail>
+			</details>
+			<totalConsumption>-7540.00</totalConsumption>
+			<totalEntry>0.00</totalEntry>
+			<stock>-7540.00</stock>
+		</item>
+		<item>
+			<itemId>IC--000184</itemId>
+			<itemName>Guava</itemName>
+			<details>
+				<detail>
+					<date>Sat, 04-Jun-2022</date>
+					<stockEntry>0.00</stockEntry>
+					<extraStockEntry>0.00</extraStockEntry>
+					<damageEntry>0.00</damageEntry>
+					<consumption>-500.00</consumption>
+					<stockAdjustment>0.00</stockAdjustment>
+					<unit>gm</unit>
+				</detail>
+				<detail>
+					<date>Wed, 01-Jun-2022</date>
+					<stockEntry>0.00</stockEntry>
+					<extraStockEntry>0.00</extraStockEntry>
+					<damageEntry>0.00</damageEntry>
+					<consumption>-500.00</consumption>
+					<stockAdjustment>0.00</stockAdjustment>
+					<unit>gm</unit>
+				</detail>
+			</details>
+			<totalConsumption>-1000.00</totalConsumption>
+			<totalEntry>0.00</totalEntry>
+			<stock>-1000.00</stock>
+		</item>
+		<item>
+			<itemId>IC--000062</itemId>
+			<itemName>White Pepper</itemName>
+			<details>
+				<detail>
+					<date>Sun, 05-Jun-2022</date>
+					<stockEntry>0.00</stockEntry>
+					<extraStockEntry>0.00</extraStockEntry>
+					<damageEntry>0.00</damageEntry>
+					<consumption>-180.00</consumption>
+					<stockAdjustment>0.00</stockAdjustment>
+					<unit>gm</unit>
+				</detail>
+				<detail>
+					<date>Sat, 04-Jun-2022</date>
+					<stockEntry>0.00</stockEntry>
+					<extraStockEntry>0.00</extraStockEntry>
+					<damageEntry>0.00</damageEntry>
+					<consumption>-111.00</consumption>
+					<stockAdjustment>0.00</stockAdjustment>
+					<unit>gm</unit>
+				</detail>
+				<detail>
+					<date>Thu, 02-Jun-2022</date>
+					<stockEntry>0.00</stockEntry>
+					<extraStockEntry>0.00</extraStockEntry>
+					<damageEntry>0.00</damageEntry>
+					<consumption>-222.00</consumption>
+					<stockAdjustment>0.00</stockAdjustment>
+					<unit>gm</unit>
+				</detail>
+				<detail>
+					<date>Wed, 01-Jun-2022</date>
+					<stockEntry>0.00</stockEntry>
+					<extraStockEntry>0.00</extraStockEntry>
+					<damageEntry>0.00</damageEntry>
+					<consumption>-179.00</consumption>
+					<stockAdjustment>0.00</stockAdjustment>
+					<unit>gm</unit>
+				</detail>
+			</details>
+			<totalConsumption>-692.00</totalConsumption>
+			<totalEntry>0.00</totalEntry>
+			<stock>-692.00</stock>
+		</item>
+		<item>
+			<itemId>IC--000183</itemId>
+			<itemName>Squid</itemName>
+			<details>
+				<detail>
+					<date>Sun, 05-Jun-2022</date>
+					<stockEntry>0.00</stockEntry>
+					<extraStockEntry>0.00</extraStockEntry>
+					<damageEntry>0.00</damageEntry>
+					<consumption>-1505.00</consumption>
+					<stockAdjustment>0.00</stockAdjustment>
+					<unit>gm</unit>
+				</detail>
+				<detail>
+					<date>Sat, 04-Jun-2022</date>
+					<stockEntry>2000.00</stockEntry>
+					<extraStockEntry>0.00</extraStockEntry>
+					<damageEntry>0.00</damageEntry>
+					<consumption>0.00</consumption>
+					<stockAdjustment>0.00</stockAdjustment>
+					<unit>gm</unit>
+				</detail>
+				<detail>
+					<date>Thu, 02-Jun-2022</date>
+					<stockEntry>0.00</stockEntry>
+					<extraStockEntry>0.00</extraStockEntry>
+					<damageEntry>0.00</damageEntry>
+					<consumption>-760.00</consumption>
+					<stockAdjustment>0.00</stockAdjustment>
+					<unit>gm</unit>
+				</detail>
+				<detail>
+					<date>Wed, 01-Jun-2022</date>
+					<stockEntry>0.00</stockEntry>
+					<extraStockEntry>0.00</extraStockEntry>
+					<damageEntry>0.00</damageEntry>
+					<consumption>-15.00</consumption>
+					<stockAdjustment>0.00</stockAdjustment>
+					<unit>gm</unit>
+				</detail>
+			</details>
+			<totalConsumption>-2280.00</totalConsumption>
+			<totalEntry>2000.00</totalEntry>
+			<stock>-280.00</stock>
+		</item>
+		<item>
+			<itemId>IC--000060</itemId>
+			<itemName>Potato (Big)</itemName>
+			<details>
+				<detail>
+					<date>Sun, 05-Jun-2022</date>
+					<stockEntry>5000.00</stockEntry>
+					<extraStockEntry>0.00</extraStockEntry>
+					<damageEntry>0.00</damageEntry>
+					<consumption>0.00</consumption>
+					<stockAdjustment>0.00</stockAdjustment>
+					<unit>gm</unit>
+				</detail>
+				<detail>
+					<date>Sat, 04-Jun-2022</date>
+					<stockEntry>5000.00</stockEntry>
+					<extraStockEntry>0.00</extraStockEntry>
+					<damageEntry>0.00</damageEntry>
+					<consumption>0.00</consumption>
+					<stockAdjustment>0.00</stockAdjustment>
+					<unit>gm</unit>
+				</detail>
+				<detail>
+					<date>Thu, 02-Jun-2022</date>
+					<stockEntry>0.00</stockEntry>
+					<extraStockEntry>0.00</extraStockEntry>
+					<damageEntry>0.00</damageEntry>
+					<consumption>-10500.00</consumption>
+					<stockAdjustment>0.00</stockAdjustment>
+					<unit>gm</unit>
+				</detail>
+				<detail>
+					<date>Thu, 02-Jun-2022</date>
+					<stockEntry>5000.00</stockEntry>
+					<extraStockEntry>0.00</extraStockEntry>
+					<damageEntry>0.00</damageEntry>
+					<consumption>0.00</consumption>
+					<stockAdjustment>0.00</stockAdjustment>
+					<unit>gm</unit>
+				</detail>
+			</details>
+			<totalConsumption>-10500.00</totalConsumption>
+			<totalEntry>15000.00</totalEntry>
+			<stock>4500.00</stock>
+		</item>
+		<item>
+			<itemId>IC--000181</itemId>
+			<itemName>Duck</itemName>
+			<details>
+				<detail>
+					<date>Sun, 05-Jun-2022</date>
+					<stockEntry>0.00</stockEntry>
+					<extraStockEntry>0.00</extraStockEntry>
+					<damageEntry>0.00</damageEntry>
+					<consumption>-1.00</consumption>
+					<stockAdjustment>0.00</stockAdjustment>
+					<unit>pcs</unit>
+				</detail>
+				<detail>
+					<date>Sat, 04-Jun-2022</date>
+					<stockEntry>2.00</stockEntry>
+					<extraStockEntry>0.00</extraStockEntry>
+					<damageEntry>0.00</damageEntry>
+					<consumption>0.00</consumption>
+					<stockAdjustment>0.00</stockAdjustment>
+					<unit>pcs</unit>
+				</detail>
+				<detail>
+					<date>Thu, 02-Jun-2022</date>
+					<stockEntry>0.00</stockEntry>
+					<extraStockEntry>0.00</extraStockEntry>
+					<damageEntry>0.00</damageEntry>
+					<consumption>-1.00</consumption>
+					<stockAdjustment>0.00</stockAdjustment>
+					<unit>pcs</unit>
+				</detail>
+			</details>
+			<totalConsumption>-2.00</totalConsumption>
+			<totalEntry>2.00</totalEntry>
+			<stock>0.00</stock>
+		</item>
+	</items>
+</rm035report>
