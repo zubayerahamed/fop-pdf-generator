@@ -1,0 +1,69 @@
+<rm036report>
+	<copyright>Developed By KIT (karigorit.com) © Copyright 2023
+	</copyright>
+	<fromDate>Wed, 01-Feb-2023</fromDate>
+	<printDate>Sun, 26-Feb-2023</printDate>
+	<reportName>FIFO based consumed item details</reportName>
+	<shopAddress></shopAddress>
+	<shopName>Lake View Recration Club Ltd.</shopName>
+	<toDate>Sun, 26-Feb-2023</toDate>
+	<items>
+		<item>
+			<itemId>IC--000001</itemId>
+			<itemName>Rup Chada Fish</itemName>
+			<details>
+				<detail>
+					<date>Sat, 04-Feb-2023</date>
+					<consumption>1.00</consumption>
+					<lineAmount>236.25</lineAmount>
+					<rate>236.25</rate>
+					<unit>pcs</unit>
+				</detail>
+				<detail>
+					<date>Thu, 09-Feb-2023</date>
+					<consumption>2.00</consumption>
+					<lineAmount>487.50</lineAmount>
+					<rate>243.75</rate>
+					<unit>pcs</unit>
+				</detail>
+				<detail>
+					<date>Mon, 13-Feb-2023</date>
+					<consumption>2.00</consumption>
+					<lineAmount>515.00</lineAmount>
+					<rate>257.50</rate>
+					<unit>pcs</unit>
+				</detail>
+				<detail>
+					<date>Wed, 15-Feb-2023</date>
+					<consumption>2.00</consumption>
+					<lineAmount>515.00</lineAmount>
+					<rate>257.50</rate>
+					<unit>pcs</unit>
+				</detail>
+				<detail>
+					<date>Mon, 20-Feb-2023</date>
+					<consumption>2.00</consumption>
+					<lineAmount>571.42</lineAmount>
+					<rate>285.71</rate>
+					<unit>pcs</unit>
+				</detail>
+				<detail>
+					<date>Tue, 21-Feb-2023</date>
+					<consumption>2.00</consumption>
+					<lineAmount>571.42</lineAmount>
+					<rate>285.71</rate>
+					<unit>pcs</unit>
+				</detail>
+				<detail>
+					<date>Wed, 22-Feb-2023</date>
+					<consumption>1.00</consumption>
+					<lineAmount>285.71</lineAmount>
+					<rate>285.71</rate>
+					<unit>pcs</unit>
+				</detail>
+			</details>
+			<totalConsumption>12.00</totalConsumption>
+			<totalAmount>3182.30</totalAmount>
+		</item>
+	</items>
+</rm036report>
